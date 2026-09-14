@@ -25,8 +25,12 @@ Caton men of one generation on **Broad Run, Prince William Co.** ("Caton Branch"
 1781), taxed together 1797–99 beside the Whites and Hortons. Moses moved to Fauquier by
 1800, Thomas by 1810; Aaron stayed — married and childless in 1810, propertyless by
 1813, gone by 1820, "dec'd" by 1834. Thomas Sr. heads the only Caton household in
-either county in 1820, with **two boys under ten** (C080) and a wife 26–45 who is
-probably a **second wife** (his 1810 wife was 45+, pending the index transcription).
+either county in 1820, with **two boys under ten** (C080) and a wife 26–45 who is a
+**second wife** (his 1810 wife was 45+, C159). **But Moses's Fairfax household in 1820
+also holds a boy under ten (C165)** — two candidate fathers on the census. In 1830
+neither brother has a boy under 15 at home (C082, C166) and no Caton heads a Prince
+William household (C167): Aaron (10) and Joseph (7) were living under another roof.
+Joseph's Fauquier birth in 1823 and the Cooper Co. cluster still favour Thomas.
 **Our Aaron, b. May 1820, carries the name of Thomas's brother Aaron, lately dead
 without children** — the ordinary Virginia naming pattern (C157). **Moses is probably
 the Moses B. Caton (1767–1839) of Muskingum Co., Ohio, whose sons married Fairfax Co.
@@ -49,8 +53,9 @@ their direct 1840 test: **Aaron was a tally in some master's household in 1840.*
 Alexandria, Washington City 1827–30, Boonville 1832–49, d. 1865; son of an Irish
 Revolutionary soldier who died at 98 (C121). 1840 Boonville: two males 20–30 and two
 15–20 in his house, not Sarah's — Aaron and Joseph fit; no man over 40 (C129, C130).
-1820 D.C.: George headed nothing, so **Aaron is not his son** (C133–C135). The Irish
-grandfather is in no known household; if real, he is not Thomas Sr. of Prince William.
+1820 D.C.: George headed nothing, so **Aaron is not his son** (C133–C135; C135's
+"only 1820 household" claim is superseded by C165). The Irish grandfather is in no
+known household; if real, he is not Thomas Sr. of Prince William.
 
 ## 2. Confirmed direct line
 
@@ -70,7 +75,6 @@ Continuous from 1841 to 1865, then by inference through his son to 1879.
 | 15 Aug 1861 | Enlisted Chillicothe, Livingston Co.; Pvt., Co. E, 2nd Mo. Cav. (Merrill's Horse), Capt. Norville; reenlisted 5 Jan 1864 (C023) | A |
 | 1 Oct 1862 | Son William enlisted at **Sturgeon, Boone Co., Missouri** — same company | A |
 | 19 Sep 1865 | Aaron and William both mustered out, Nashville, Tennessee | A |
-| 12 Oct 1869 | m. **Nancy Johnson**, Cooper Co.; left her 8 Apr 1870; she divorced him 19 Oct 1871 (C151, B) — so Sarah was dead or gone by 1869 | B |
 | 6 Jun 1870 | Boonville, Cooper Co. — Aaron 55, labourer, b. Va, in his married daughter **Julia A. Sawtell**'s household with one son; no wife present | A |
 | 1866–79 | Direct line resident in **Cooper County, Missouri** (William apprenticed at Boonville, married there 1869, left for Kansas Oct 1879) | A/B |
 
@@ -120,7 +124,8 @@ share that root is unknown.
 
 **Cooper County holds Catons of three origins** — Delaware-born John, Kentucky-born
 Thomas, Virginia-born William (C096) — plus George W. of Alexandria. **Two Josephs**
-there: the tailor (b. 1823) and William's son (C149).
+there: the tailor (b. 1823) and William's son (C149). The 1869 Nancy Johnson marriage
+and the 1871 divorce are **Aaron F.'s** (C172), not ours.
 
 ## 7. Evidence standard
 

@@ -1,4 +1,4 @@
-# Claims index — generated 2026-09-14 from `claims.jsonl` (164 claims)
+# Claims index — generated 2026-09-14 from `claims.jsonl` (175 claims)
 
 Regenerate with `python3 tools/make-claims-index.py`. **Do not edit by hand.**
 
@@ -6,9 +6,9 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 
 | status | n | | grade | n |
 |---|---:|---|---|---:|
-| fact | 100 | | A | 101 |
-| hypothesis | 11 | | B | 41 |
-| negative | 23 | | C | 22 |
+| fact | 110 | | A | 106 |
+| hypothesis | 11 | | B | 46 |
+| negative | 24 | | C | 23 |
 | do-not-merge | 3 | |  |  |
 | method | 19 | |  |  |
 | moot | 1 | |  |  |
@@ -86,7 +86,7 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C050 | A | do-not-merge | 8 | Harrison Caton (Bates Co.) | DO NOT MERGE - RULED OUT FOR T06. 1880 census, Walnut Twp., Bates Co., MO, ED 148, dwelling 49/51: Harrison Ca… |
 | C051 | A | negative | 8 | Harrison Caton (Gentry Co.) | NEGATIVE, AND IT DOES NOT REFUTE C048. No Caton household appears in Gentry Co., MO in the 1880 census. This i… |
 | C052 | A | do-not-merge | 8 | Aaron F. Caton | DO NOT MERGE - IDENTIFIED. 1880 census, Otterville, Cooper Co., MO: Aaron Caton, head, AGE 44, b. c.1836 MISSO… |
-| ~~C053~~ | B | VOID/REVERSED | 8 | Aaron Caton / Nancy Johnson marria | REVERSED AGAIN 14 Sep 2026 - SEE C151 (Nancy v. Aaron Caton divorce: married 12 Oct 1869, deserted 8 Apr 1870;… |
+| C053 | B | fact | 8 | Aaron Caton / Nancy Johnson marria | RESTORED 14 Sep 2026 (evening) - SEE C172: probably Aaron F.'s, as first held. The C151 reversal is withdrawn.… |
 | C054 | B | fact | 8 | Aaron Caton | NARROWED BY C108: died Thursday 17 Jan 1878 at his residence on Sixth Street, Boonville (Boonville Weekly Adve… |
 | C055 | A | fact | 9 | William Caton (Bates Co.) | 1860 census, Lebanon Twp., Bates Co., MO, enum. 9 Aug 1860, PO Fair Point, p.60. TWO ADJACENT CATON HOUSEHOLDS… |
 | C056 | C | hypothesis | 9 | Aaron Caton | HYPOTHESIS, C-LEVEL, NOT IN THE WORKING TREE. A Maryland-born Caton kin-group may sit behind Aaron. Birth-stat… |
@@ -184,7 +184,7 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C148 | A | method | 11 | J. J. Caton (b. c.1837); Daniel R. | COLLATERAL. Missouri Adjutant General, Enrolled Missouri Militia enrollment list, Cooper Co., 1862 (DGS 008723… |
 | C149 | A | fact | 11 | William Caton & Ann F. (Lawrey) Ca | THE DOCUMENT THAT NAMES WILLIAM CATON'S CHILDREN - AND IT DOES NOT INCLUDE OUR AARON. Cooper Co., MO, Circuit … |
 | C150 | A | method | 11 | Aaron F. Caton and children Henry, | COLLATERAL - AARON F., NOT OURS. Cooper Co. Circuit Court, February term, 12 Feb 1875, p.444 (DGS 008483715 im… |
-| C151 | B | fact | 11 | Aaron Caton; Nancy (Johnson) Caton | NANCY CATON v. AARON CATON, DIVORCE - AND IT REASSIGNS THE 1869 MARRIAGE TO OUR AARON. Cooper Co. Circuit Cour… |
+| ~~C151~~ | B | VOID/REVERSED | 11 | Aaron Caton; Nancy (Johnson) Caton | REVERSED 14 Sep 2026 (evening) - SEE C172: Nancy Jane (Johnson) Caton's 1936 obituary shows she married Aaron … |
 | C152 | B | fact | 11 | Nancy Caton (prob. Aaron's daughte | MARRIAGE: 'Married in Cooper County, Mo., on the 20th day of August 1869, Mr. TAYLOR O'NEAL and Miss NANCY CAT… |
 | C153 | B | fact | 11 | Aaron Caton (fl. 1795), Prince Wil | AN AARON CATON, ADULT, IN PRINCE WILLIAM CO., VIRGINIA, IN 1795 - A GENERATION BEFORE OURS AND TWENTY MILES FR… |
 | C154 | B | fact | 11 | Aaron Caton and Moses Caton - Prin | [FATHER-AND-SON READING WITHDRAWN 14 Sep 2026 - SEE C157: Aaron was 26-45 in 1810, so of Moses's generation; b… |
@@ -198,6 +198,17 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C162 | B | fact | 11 | Moses B. Caton (1767-1839), Rosevi | [RAISED C->B 14 Sep evening by C164: George Wesley Caton's wife Mildred Buckley was a Fairfax Co. heir and the… |
 | C163 | B | negative | 11 | Thomas Caton Sr. (Fauquier) - grav | NEGATIVE + A SIDE NOTE. Find a Grave search, Thomas Caton d. 1837-1867 (all locations, 14 Sep 2026): NO Thomas… |
 | C164 | B | fact | 11 | George W. Caton & Mildred (Buckley | THE MUSKINGUM CATONS CAME FROM FAIRFAX COUNTY, VIRGINIA - PROVED BY A CHANCERY CAUSE, AND IT PULLS MOSES B. CA… |
+| C165 | A | fact | 11 | Moses Caton household, Fairfax Co. | 1820 CENSUS, FAIRFAX CO., VA, p.507 (district 'No. 11'; NARA M33 reel 137 image 71 on archive.org, bottom page… |
+| C166 | A | fact | 11 | Moses, William G. and John R. Cato | 1830 CENSUS, FAIRFAX CO., VA (NARA M19 reel 201 on archive.org; name-side images 455-549 scanned by name colum… |
+| C167 | A | negative | 11 | Caton households, Prince William C | NEGATIVE, FROM THE IMAGES. 1830 census, Prince William Co., VA (NARA M19 reel 196 on archive.org; the county i… |
+| C168 | A | fact | 11 | William G. Caton - deponent, Fairf | THE FAIRFAX CATONS WERE STILL IN FAIRFAX, AT CENTREVILLE, IN SEPTEMBER 1835 - which dates their move to Ohio t… |
+| C169 | B | fact | 11 | Aaron Caton - HEAD OF HOUSEHOLD in | AN 'AARON CATON' IS A HEAD OF HOUSEHOLD SOMEWHERE IN OHIO IN 1840. Internet Archive full-text search (be-api.u… |
+| C170 | B | fact | 11 | Harriet Caton, dau. of Moses, m. P | INDEPENDENT CONFIRMATION THAT MOSES B. CATON OF MUSKINGUM WAS THE MOSES CATON OF FAIRFAX. Daughters of the Ame… |
+| C171 | C | fact | 11 | Colonial Catons of Northern Virgin | LEADS FOR THE GENERATION ABOVE THE BROAD RUN BROTHERS, FROM ARCHIVE.ORG FULL-TEXT SNIPPETS (the books are lend… |
+| C172 | A | fact | 11 | Nancy Jane (Johnson) Caton Blevins | THE 1869 NANCY JOHNSON MARRIAGE IS AARON F.'S AFTER ALL, AND SHE STAYED HIS WIFE UNTIL HE DIED - SO THE 1871 D… |
+| C173 | B | fact | 11 | Caton marriage bonds, Fauquier Co. | THOMAS SR.'S SECOND MARRIAGE WAS NOT BONDED IN FAUQUIER. John K. Gott, Fauquier County, Virginia Marriage Bond… |
+| C174 | B | fact | 11 | Rosana Caton - Reading Twp, Perry  | [MOSES'S-WIDOW READING WITHDRAWN 14 Sep, same evening: Perry County Chapter OGS, Reading Township Cemeteries v… |
+| C175 | B | fact | 11 | Caton - Northern Virginia will abs | NEGATIVES FROM ARCHIVE.ORG FULL-TEXT SEARCH (14 Sep 2026, lending-restricted books searched by snippet): NO Ca… |
 
 ## Open discrepancies (from C115)
 

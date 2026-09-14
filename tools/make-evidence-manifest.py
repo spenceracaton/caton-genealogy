@@ -7,6 +7,13 @@ ev = root/"evidence"
 rows = [json.loads(l) for l in (root/"claims.jsonl").open() if l.strip()]
 
 NOTES = {
+ "1840_PerryCo_OH_ReadingTwp_RosanaCaton_household.jpg": "1840 Perry Co. OH: Rosana Caton, M 20-30 x2, F 5-10, F 60-70 - Moses's widow? (C174).",
+ "1936_1956_SedaliaDemocrat_NancyJane_Johnson_Caton_Blevins_and_Jennie_Baslee_obits.txt": "Nancy Jane (Johnson) Caton Blevins obit 1936 and Jennie Baslee obits 1956 - the 1869 marriage and 1871 divorce are Aaron F.'s (C172).",
+ "Fairfax_1836-004_LVA_Cornwell_v_Moore_WmGCaton_deposition.zip": "LVA Fairfax chancery 1836-004: William G. Caton deposes at Centreville, 1 Sep 1835 (C168).",
+ "1830_PrinceWilliamCo_VA_census_C-block_noCaton_contact_sheet.png": "1830 Prince William C block (alphabetical) - no Caton (C167).",
+ "1830_FairfaxCo_VA_census_p238_MosesCaton_household.jpg": "1830 Fairfax p.238: Moses Caton M 15-20 1, 20-30 2, 60-70 1; F 15-20 1, 30-40 1 - no boy under 15 (C166).",
+ "1830_FairfaxCo_VA_census_p250_WilliamG_JohnR_Caton.jpg": "1830 Fairfax p.250: William G. and John R. Caton households (C166).",
+ "1820_FairfaxCo_VA_census_p507_MosesCaton_household.jpg": "1820 Fairfax p.507: Moses Caton, M<10 1, 10-16 1, 16-26 2, 45+ 1; F 1/1/1/1 - a second 1820 household with a boy of Aaron's age (C165).",
  "Fairfax_1851-009_LVA_Buckley_v_Buckley_Caton_selected.zip": "LVA Fairfax chancery 1851-009: cover, bill, summons, non-residence return, decree - George W. & Mildred (Buckley) Caton, non-residents 1851 = the Muskingum Catons (C164).",
  "1810_PrinceWilliamCo_VA_census_AaronCaton_household.pdf": "1810 Prince William: Aaron Caton, M 26-45, F 26-45, no children; under John White (C157).",
  "1810_FauquierCo_VA_census_ThomasCaton_household.pdf": "1810 Fauquier: Thomas Caton - M 45+, F 16-26, F 45+ (tallies on the line below the name; C159).",

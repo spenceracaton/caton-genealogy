@@ -1,4 +1,4 @@
-# evidence/ — manifest, generated 2026-09-14 (85 files)
+# evidence/ — manifest, generated 2026-09-14 (92 files)
 
 Regenerate with `python3 tools/make-evidence-manifest.py`. Notes are maintained in that script.
 
@@ -20,11 +20,15 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `1813_PrinceWilliamCo_VA_personal_property_tax_AaronCaton.pdf` | 614 KB | C154 | 1813 list: Aaron Caton, one tithe, no property (C154). |
 | `1820_DC_WashingtonCity_3rdWard_MichaelCaton_household.md` | 2 KB | C133 |  |
 | `1820_DC_WashingtonCity_3rdWard_MichaelCaton_household.pdf` | 987 KB | — |  |
+| `1820_FairfaxCo_VA_census_p507_MosesCaton_household.jpg` | 2 MB | C165 | 1820 Fairfax p.507: Moses Caton, M<10 1, 10-16 1, 16-26 2, 45+ 1; F 1/1/1/1 - a second 1820 household with a boy of Aaron's age (C165). |
 | `1820_PrinceWilliamCo_VA_census_C-block_p1_noCaton.jpg` | 1 MB | C155 | 1820 Prince William C block p.1 - no Caton (C155). |
 | `1820_PrinceWilliamCo_VA_census_C-block_p2_noCaton.jpg` | 2 MB | C155 | 1820 Prince William C block p.2 - no Caton (C155). |
 | `1820_TylerCo_VA_census_p887_title_A-B.jpg` | 928 KB | C140 | 1820 Tyler Co. VA, title page + A-B block (C140). |
 | `1820_TylerCo_VA_census_p888_B-C_surnames_noCaton.jpg` | 942 KB | C140 | 1820 Tyler Co. VA, alphabetical schedule, C block - no Caton (C140). |
 | `1822-1830_WashingtonDC_directories_Caton_Moore.txt` | 2 KB | C134 |  |
+| `1830_FairfaxCo_VA_census_p238_MosesCaton_household.jpg` | 2 MB | C166 | 1830 Fairfax p.238: Moses Caton M 15-20 1, 20-30 2, 60-70 1; F 15-20 1, 30-40 1 - no boy under 15 (C166). |
+| `1830_FairfaxCo_VA_census_p250_WilliamG_JohnR_Caton.jpg` | 2 MB | C166 | 1830 Fairfax p.250: William G. and John R. Caton households (C166). |
+| `1830_PrinceWilliamCo_VA_census_C-block_noCaton_contact_sheet.png` | 1 MB | C167 | 1830 Prince William C block (alphabetical) - no Caton (C167). |
 | `1838_WetzelCo_WV_WilliamsCem_ThomasCaton_1767-1838_gravestone.jpg` | 71 KB | C139 | Find a Grave photo: Thomas Caton, b. Oct 1767, d. 8 Jan 1838, Williams Cemetery, New Martinsville (C139). Story-B candidate. |
 | `1840_CensusOfPensioners_Caton_negative.txt` | 930 B | C125, C130 |  |
 | `1840_CooperCo_MO_p135_GeoWCaton_household.jpg` | 2 MB | C129, C130 | 1840 Cooper Co. MO p.135 image — Geo W Caton, 12 persons, oldest male 30-40 (C129). No male 70+: the Irish-grandfather prediction fails (C130). |
@@ -32,6 +36,7 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `1840_CooperCo_MO_p143_GeorgeWCaton_household.pdf` | 2 MB | — |  |
 | `1840_CooperCo_MO_p145_WmCaton_ThsCaton_NLaurie.jpg` | 2 MB | C128, C130 | 1840 Cooper Co. MO p.145 image — Wm Caton and Ths Caton adjacent, N. Laurie six rows up; brackets in C128. No male 20-30 in either Caton household. |
 | `1840_DelawareCo_OH_JesseCaton_household.jpg` | 836 KB | C131 | 1840 Delaware Co. OH image — Jesse Caton, household of one male 30-40 (C100/C131). |
+| `1840_PerryCo_OH_ReadingTwp_RosanaCaton_household.jpg` | 1 MB | C174 | 1840 Perry Co. OH: Rosana Caton, M 20-30 x2, F 5-10, F 60-70 - Moses's widow? (C174). |
 | `1841_DelawareCo_OH_marriage_return_AaronCaton_SarahGardner_p291.jpg` | 2 MB | C005 |  |
 | `1844_DelawareCo_OH_deed_AaronSarahCaton_to_JonathanGardner_quitclaim.pdf` | 2 MB | C144 | Aaron and Sarah Caton quitclaim to Jonathan Gardner, 25 Jun 1844, Liberty Twp - an heir's release of Gardner land (C144). Aaron back in Ohio by mid-1844. |
 | `1844_StaffordCo_VA_deed_index_C_Caiten-is-Calvert.jpg` | 1 MB | C132 | Stafford Co. deed index, C page. The FS 'Caiten 1844' hit is Calvert (C132). Negative. |
@@ -60,6 +65,7 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `1901_CowleyCo_KS_WBCaton_biography.txt` | 7 KB | C009 | OCR of the 1901 Winfield Courier sketches of W. B. Caton and Mrs. Caton. Does NOT mention Wheeling. |
 | `1904_BigBendCountry_NathanTCaton_biography.txt` | 3 KB | C121 |  |
 | `1916_StLouis_JuliaACaton_Sawtell_deathcert_36313.pdf` | 92 KB | C037, C038, C040, C042 | Julia's death certificate — father Aaron Caton b. Va, mother Sarah Gardner b. Ohio, birthplace 'Mo'. The record that settled Julia's birthplace. |
+| `1936_1956_SedaliaDemocrat_NancyJane_Johnson_Caton_Blevins_and_Jennie_Baslee_obits.txt` | 7 KB | C172 | Nancy Jane (Johnson) Caton Blevins obit 1936 and Jennie Baslee obits 1956 - the 1869 marriage and 1871 divorce are Aaron F.'s (C172). |
 | `1955_GentryCo_CharleyCaton_deathcert_15118.pdf` | 57 KB | C048 | Charley Caton d.1955 — father Harrison Caton, mother Mary E. Carpenter, b. Gentry Co. 1883 (C048). Identity with the Wheeling Harrison unconfirmed. |
 | `Aaron_Caton_1850_Delaware_OH_n172_w1800.jpg` | 823 KB | — | 1850 census page image, Delaware Co. OH p.179a. The blotted Julia birthplace cell. |
 | `Boone_MO_1860_Header_Samples.jpg` | 2 MB | — | 1860 Boone Co. reel navigation aid (parallel pass). |
@@ -71,6 +77,7 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `Cooper_1845-1866_County_Court_Index_A-C.pdf` | 35 MB | — | Missouri State Archives, Cooper Co. Court index (37 MB). No Caton entry — bounded negative (C095). ChatGPT pass. |
 | `Cooper_John_Caton_1840-1860.md` | 4 KB | C095 | ChatGPT analysis: John Caton of Cooper Co. was born in Delaware — not Fauquier (C095). |
 | `Denver1898_p659.jpg` | 924 KB | — | Imported 10 Sep; purpose not recorded in claims. Unread. |
+| `Fairfax_1836-004_LVA_Cornwell_v_Moore_WmGCaton_deposition.zip` | 265 KB | C168 | LVA Fairfax chancery 1836-004: William G. Caton deposes at Centreville, 1 Sep 1835 (C168). |
 | `Fairfax_1851-009_LVA_Buckley_v_Buckley_Caton_selected.zip` | 352 KB | C164 | LVA Fairfax chancery 1851-009: cover, bill, summons, non-residence return, decree - George W. & Mildred (Buckley) Caton, non-residents 1851 = the Muskingum Catons (C164). |
 | `Fauquier_1820-011_LVA_case.md` | 2 KB | C093 | ChatGPT reading of LVA chancery 1820-011: the Caton is MOSES, known locally since c.1805 (C093). |
 | `Fauquier_1820-011_LVA_case.zip` | 16 MB | C093, C137 | 48 scans of the case, from LVA. |

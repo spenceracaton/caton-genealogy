@@ -12,7 +12,10 @@ note: OPENED 14 Sep 2026 from C153-C157. Broad Run, Prince William Co.: Thomas (
 
 ## Targets, in order
 
-1. **Thomas Caton's second marriage, Fauquier, c.1811–15.** His 1810 wife was 45+
+1. **Thomas Caton's second marriage, c.1811–19 — NOT in Fauquier (C173: Gott's bond
+   abstracts have no Thomas Caton bond 1810–20).** Search PRINCE WILLIAM (register
+   1794–1850 survives), FAIRFAX, and LOUDOUN marriage records for a Thomas Caton
+   groom 1810–19, probably to a widow. Original note:** His 1810 wife was 45+
    (pending the index transcription of C156's 1810 page); his 1820 wife was 26–45
    (C080). The bond names her; a consent or surety names her father. Fauquier Marriage
    Register No. 3 (1810–20) index, C page; then the bond. Also Prince William marriage
