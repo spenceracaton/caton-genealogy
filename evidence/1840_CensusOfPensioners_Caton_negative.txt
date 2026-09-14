@@ -1,0 +1,35 @@
+SOURCE: A Census of Pensioners for Revolutionary or Military Services ... under the Act for Taking the Sixth Census (Washington: Blair & Rives, 1841). Full-text search for Caton/Cayton/Caten/Catton, 12 Sep 2026.
+URL: https://archive.org/stream/censusofpensione00unit/censusofpensione00unit_djvu.txt (second copy censusofpensione00usce checked, same result)
+
+RESULT: three hits, all NEW YORK. No Caton pensioner in Missouri, Virginia, Ohio, Maryland or the District of Columbia.
+  Richard Caton, 77, Onondaga Co., NY, in household of Leonard Caton
+  Abram Caton, 87, NY (Columbia/Greene region of the list)
+
+Context lines:
+Ezekiel Jones. 
+ONONDAGA. 
+David Douglass ... 
+82 
+David Douglass. 
+Daniel Peck 
+82 
+Daniel Peck. 
+Solomon Bishop . - - 
+82 
+Calvin Bishop. 
+Richard Caton - . - 
+77 
+Leonard Caton. 
+[...]
+John Kling. 
+R-&gt; 
+Joel Messenger. 
+80 
+John Larkin. 
+67 
+David Burgh. 
+90 
+Ebenezer Williams. 
+8S 
+Abram Caton. 
+87 

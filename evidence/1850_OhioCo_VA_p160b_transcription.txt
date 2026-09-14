@@ -1,0 +1,848 @@
+Ohio, (W)VA 1850 Federal Census
+ftp://ftp.us-census.org/pub/usgenweb/census/wv/ohio/1850/
+(File 19 of 25)
+
+This Census was transcribed by Connie Burkett and proofread by 
+Glenda Thompson for the USGenWeb Census Project, http://www.us-census.org/
+
+Copyright 2003 by Connie Burkett
+<Transcriber@US-Census.org>
+
+==========================================================================
+USGENWEB (US-CENSUS) NOTICE: These electronic pages may NOT be reproduced
+in any format for profit or presentation by any other organization.
+Non-commercial organizations desiring to use this material must obtain
+the consent of the transcriber prior to use.  <Transcriber@US-Census.org>
+Individuals desiring to use this material in their own research may do so.
+==========================================================================
+Thanks to S-K Publications for providing the census page photocopies from
+which this transcription was made.  The complete original, handwritten
+census of this county is available in book form (including a typed index)
+from S-K Publications, PO Box 8173, Wichita KS 67208
+(www.skpub.com/genie/census.html).
+==========================================================================
+All of the above information must remain when copied or downloaded.
+==========================================================================
+
+Census_Year  1850
+Microfilm #  M432-966
+State        (W)VA
+County       Ohio
+
+---------------------Begin Actual Transcription----------------------------------
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 155a
+REFERENCE: Enumerated on 22 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2166 2242 Hughes        A M            50    F    .    .              .         Md                .     .     .    .    Handwritten page #309
+ 2   2166 2242 Hughes        A C            20    F    .    .              .         Md                .     .     .    .    .
+ 3   2166 2242 Stewart       James A        6     M    .    .              .         Va                .     .     .    .    .
+ 4   2167 2243 Adrian        Joanna         38    F    .    .              1,000     England           .     .     .    .    .
+ 5   2167 2243 Adrian        Hannah E       17    F    .    .              .         Ohio              .     .     .    .    .
+ 6   2167 2243 Hughes        Alfred         25    M    .    Lumber Dealer  11,000    Va                .     .     .    .    .
+ 7   2167 2243 Hughes        Mary           20    F    .    .              .         Md                .     .     .    .    .
+ 8   2167 2243 Gilmore       Mary J         12    F    .    .              .         Ohio              .     X     .    .    .
+ 9   2167 2243 St Clair      Ellen          21    F    .    .              .         Ohio              .     .     .    .    .
+ 10  2167 2243 Wilson        Hester         7     F    B    .              .         Pa                .     .     .    .    .
+ 11  2167 2243 Smalley       Mahala         19    F    .    .              .         Pa                .     .     .    .    .
+ 12  2168 2244 Kinney        Andrew         40    M    .    Laborer        .         Ireland           .     .     X    .    .
+ 13  2168 2244 Kinney        Bridget        28    F    .    .              .         Ireland           .     .     X    .    .
+ 14  2168 2244 Kinney        Mary           8     F    .    .              .         Ireland           .     .     .    .    .
+ 15  2168 2244 Kinney        John           6     M    .    .              .         Ireland           .     .     .    .    .
+ 16  2168 2244 Kinney        Catherine      3     F    .    .              .         Tenn              .     .     .    .    .
+ 17  2168 2244 Kinney        Elizabeth      1     F    .    .              .         Va                .     .     .    .    .
+ 18  2169 2245 McDonnah      Michiel        80    M    .    None           .         Ireland           .     .     X    .    .
+ 19  2169 2245 McDonnah      Catherine      70    F    .    .              .         Ireland           .     .     .    .    .
+ 20  2169 2245 Burk          Catherine      50    F    .    .              .         Ireland           .     .     .    .    .
+ 21  2169 2245 Clark         Mary           30    F    .    .              .         Ireland           .     .     .    .    .
+ 22  2170 2246 Barnes        Joseph         40    M    .    Laborer        .         Ireland           .     .     X    .    .
+ 23  2170 2246 Barnes        Margret        22    F    .    .              .         Ireland           .     .     .    .    .
+ 24  2170 2246 Barnes        Bridget        1     F    .    .              .         Va                .     .     .    .    .
+ 25  2170 2246 Ennis         Biddy          65    F    .    .              .         Ireland           .     .     .    .    .
+ 26  2170 2246 Dean          Thomas         6     M    .    .              .         New York          .     .     .    .    .
+ 27  2171 2247 Hillibrand    Adam           37    M    .    Laborer        .         Germany           .     .     .    .    .
+ 28  2171 2247 Hillibrand    Elizabeth      38    F    .    .              .         Germany           .     .     .    .    .
+ 29  2171 2247 Hillibrand    Mary           12    F    .    .              .         Va                .     .     .    .    .
+ 30  2171 2247 Hillibrand    Henry          4     M    .    .              .         Va                .     .     .    .    .
+ 31  2171 2247 Hillibrand    William H      3     M    .    .              .         Va                .     .     .    .    .
+ 32  2171 2247 Hillibrand    Caroline       7/12  F    .    .              .         Va                .     .     .    .    .
+ 33  2172 2248 Rice          Stephen        38    M    .    Merchant       8,000     New York          .     .     .    .    .
+ 34  2172 2248 Rice          Mary           26    F    .    .              .         Md                .     .     .    .    .
+ 35  2172 2248 Rice          Stephen W      9     M    .    .              .         Va                .     X     .    .    .
+ 36  2172 2248 Rice          John L         5     M    .    .              .         Va                .     X     .    .    .
+ 37  2172 2248 Leach         Mary           19    F    .    .              .         Md                .     .     .    .    .
+ 38  2172 2248 Blackston     Levina         29    F    .    .              .         Pa                .     .     .    .    .
+ 39  2172 2248 Wisson        Elizabeth      19    F    .    .              .         Germany           .     .     .    .    .
+ 40  2172 2248 Dilley        Barney         25    M    .    Clerk          .         Md                .     .     .    .    .
+ 41  2172 2248 Beymer        Simon          18    M    .    Clerk          .         Va                .     .     .    .    .
+ 42  2173 2249 McLure        James          62    M    .    Book Store     .         Pa                .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 155b
+REFERENCE: Enumerated on 22 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2173 2249 McLure        Ann            55    F    .    .              .         New Jersey        .     .     .    .    Handwritten page #310
+ 2   2173 2249 McLure        Mary           19    F    .    .              .         New York          .     .     .    .    .
+ 3   2173 2249 McLure        Margret        18    F    .    .              .         Pa                .     .     .    .    .
+ 4   2173 2249 McLure        William J      14    M    .    .              .         Va                .     X     .    .    .
+ 5   2173 2249 Linch         Ellen          18    F    .    .              .         Ireland           .     .     .    .    .
+ 6   2174 2250 Bayed         John E         37    M    .    Merchant       .         District Columbia .     .     .    .    .
+ 7   2174 2250 Bayed         Elizabeth Ann  33    F    .    .              .         Ohio              .     .     .    .    .
+ 8   2174 2250 Bayed         John W         14    M    .    .              .         Ohio              .     X     .    .    .
+ 9   2174 2250 Bayed         Mary Ann       12    F    .    .              .         Ohio              .     X     .    .    .
+ 10  2174 2250 Bayed         George E       10    M    .    .              .         Ohio              .     X     .    .    .
+ 11  2174 2250 Bayed         Oscar          8     M    .    .              .         Ohio              .     X     .    .    .
+ 12  2174 2250 Knowlton      Roxelle        25    M    .    Pedler         .         Va                .     .     .    .    .
+ 13  2175 2251 Sanborn       Martha Ann     28    F    .    .              31,750    Va                .     .     .    .    .
+ 14  2175 2251 Sanborn       Ann M          9     F    .    .              .         Va                .     X     .    .    .
+ 15  2175 2251 Sanborn       Amelia Jane    7     F    .    .              .         Va                .     X     .    .    .
+ 16  2175 2251 Sanborn       Benjamine F    5     M    .    .              .         Va                .     .     .    .    .
+ 17  2175 2251 Seabrigh      Caroline       18    F    .    .              .         Germany           .     .     .    .    .
+ 18  2175 2251 Blanchard     Wm W           64    M    .    None           .         England           .     .     .    .    .
+ 19  2175 2251 Blanchard     Lydia          64    F    .    .              .         Va                .     .     .    .    .
+ 20  2176 2252 Houston       William H      45    M    .    Boat Store     3,000     Md                .     .     .    .    .
+ 21  2176 2252 Houston       Sarah J        29    F    .    .              .         Va                .     .     .    .    .
+ 22  2176 2252 Houston       Sarah P        20    F    .    .              .         Ohio              .     .     .    .    .
+ 23  2176 2252 Houston       William J      18    M    .    Clerk          .         Va                .     .     .    .    .
+ 24  2176 2252 Houston       John M         6     M    .    .              .         Va                .     .     .    .    .
+ 25  2176 2252 Houston       Samuel         3     M    .    .              .         Va                .     .     .    .    .
+ 26  2176 2252 Houston       Frank          1     M    .    .              .         Va                .     .     .    .    .
+ 27  2177 2253 Jamison       Henry M        53    M    .    Commission Merchant 3,000 Md               .     .     .    .    .
+ 28  2177 2253 Jamison       Mary A         35    F    .    .              .         Md                .     .     .    .    .
+ 29  2177 2253 Jamison       Antonia S      10    M    .    .              .         Md                .     X     .    .    .
+ 30  2177 2253 Jamison       Mary R         5     F    .    .              .         Md                .     X     .    .    .
+ 31  2177 2253 Jamison       Irene          2     F    .    .              .         Va                .     .     .    .    .
+ 32  2177 2253 Virgline      Mary J         14    F    .    .              .         La                .     .     .    .    .
+ 33  2177 2253 Bowles        Ellen          17    F    .    .              .         Pa                .     .     .    .    .
+ 34  2177 2253 Quinlan       Mary           19    F    .    .              .         Va                .     .     .    .    .
+ 35  2177 2253 Quinlan       Robert         11    M    .    .              .         Va                .     .     .    .    .
+ 36  2177 2253 Quinlan       Michiel        9     M    .    .              .         Va                .     .     .    .    .
+ 37  2177 2253 Quinlan       Daniel         7     M    .    .              .         Va                .     .     .    .    .
+ 38  2177 2253 Quinlan       Patrick        5     M    .    .              .         Va                .     .     .    .    .
+ 39  2178 2254 Anderson      William        30    M    .    Glass Manufacturer .     Pa                .     .     .    .    .
+ 40  2178 2254 Anderson      Mary Ann       29    F    .    .              .         Pa                .     .     .    .    .
+ 41  2178 2254 Anderson      Elizabeth      6     F    .    .              .         Va                .     .     .    .    .
+ 42  2178 2254 Anderson      Mary F         3     F    .    .              .         Va                .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 156a
+REFERENCE: Enumerated on 22 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2178 2254 Thompson      Susan          13    F    .    .              .         New York          .     .     .    .    Handwritten page #311
+ 2   2178 2254 Anderson      William        8/12  M    .    .              .         Va                .     .     .    .    .
+ 3   2179 2255 Harris        Henry          33    M    .    Blacksmith     .         Va                .     .     .    .    .
+ 4   2179 2255 Harris        Mary Ann       34    F    .    .              .         Va                .     .     .    .    .
+ 5   2179 2255 Harris        Emma           7     F    .    .              .         Va                .     .     .    .    .
+ 6   2179 2255 Harris        Mary           10/12 F    .    .              .         Va                .     .     .    .    .
+ 7   2179 2255 Stinger       Mary J         25    F    .    .              .         Pa                .     .     .    .    .
+ 8   2179 2255 Chess         Charles J      8/12  M    .    .              .         Va                .     .     .    .    .
+ 9   2180 2256 Chesley       Isaac          36    M    .    Drayman        .         New H             .     .     .    .    .
+ 10  2180 2256 Chesley       Margret        24    F    .    .              .         Va                .     .     .    .    .
+ 11  2180 2256 Chesley       Clarra J       4     F    .    .              .         Va                .     .     .    .    .
+ 12  2180 2256 Chesley       Benjamine A    2     M    .    .              .         Va                .     .     .    .    .
+ 13  2180 2256 Chesley       Charles F      6/12  M    .    .              .         Va                .     .     .    .    .
+ 14  2181 2257 Conard        Thomas         80    M    .    Tobacconist    3,000     Pa                .     .     .    .    .
+ 15  2181 2257 Conard        Sarah          72    F    .    .              .         Pa                .     .     .    .    .
+ 16  2181 2257 Conard        Mary           37    F    .    .              .         Pa                .     .     .    .    .
+ 17  2181 2257 Conard        Hannah         35    F    .    .              .         Va                .     .     .    .    .
+ 18  2181 2257 Conard        Emma           28    F    .    .              .         Va                .     .     .    .    .
+ 19  2181 2257 Galliher      Margret        11    F    .    .              .         Ireland           .     .     .    .    .
+ 20  2181 2257 Heneka        Ricky          17    F    .    .              .         Germany           .     .     .    .    .
+ 21  2182 2258 Dorsey        N L            32    M    .    Lottery Vender 8,000     Md                .     .     .    .    .
+ 22  2182 2258 Dorsey        Ann            34    F    .    .              .         Pa                .     .     .    .    .
+ 23  2182 2258 Dorsey        Charles A      4     M    .    .              .         Va                .     .     .    .    .
+ 24  2182 2258 Dorsey        Matilda R      22    F    .    .              .         Md                .     .     .    .    .
+ 25  2182 2258 Dorsey        William H      20    M    .    Clerk          .         Md                .     .     .    .    .
+ 26  2182 2258 Dorsey        James H        15    M    .    None           .         Pa                .     .     .    .    .
+ 27  2182 2258 Dorsey        Caroline A     12    F    .    .              .         Pa                .     .     .    .    .
+ 28  2183 2259 Richardson    Rebecca        40    F    .    .              2,300     Pa                .     .     .    .    .
+ 29  2183 2259 Richardson    Mary           20    F    .    .              .         Pa                .     .     .    .    .
+ 30  2183 2259 Richardson    Rebecca        16    F    .    .              .         Pa                .     .     .    .    .
+ 31  2183 2259 Richardson    John           14    M    .    .              .         Pa                .     X     .    .    .
+ 32  2183 2259 Richardson    Lee            12    M    .    .              .         Va                .     X     .    .    .
+ 33  2183 2259 Richardson    David          10    M    .    .              .         Va                .     X     .    .    .
+ 34  2183 2259 Richardson    Mariah         3     F    .    .              .         Va                .     .     .    .    .
+ 35  2184 2260 Fulton        Jane           75    F    .    .              1,200     Ireland           .     .     .    .    .
+ 36  2184 2260 Fulton        Ann            22    F    .    .              .         Pa                .     .     .    .    .
+ 37  2185 2261 Hall          George W       42    M    .    Carpenter      1,100     Va                .     .     .    .    .
+ 38  2185 2261 Hall          Mary           35    F    .    .              .         Va                .     .     .    .    .
+ 39  2185 2261 Hall          George W       14    M    .    .              .         Va                .     .     .    .    .
+ 40  2185 2261 Hall          William        12    M    .    .              .         Va                .     X     .    .    .
+ 41  2185 2261 Hall          Virginia       10    F    .    .              .         Va                .     X     .    .    .
+ 42  2185 2261 Hall          John H         2     M    .    .              .         Va                .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 156b
+REFERENCE: Enumerated on 22 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2186 2262 Morris        Jacob          23    M    .    Carpenter      .         Va                .     .     .    .    Handwritten page #312
+ 2   2186 2262 Morris        Elizabeth      22    F    .    .              .         Va                .     .     .    .    .
+ 3   2186 2262 Sutton        Frances        53    F    .    .              .         England           .     .     .    .    .
+ 4   2187 2263 Lay           John           38    M    .    Tailor         1,500     Va                .     .     .    .    .
+ 5   2187 2263 Lay           Sarah          40    F    .    .              .         Pa                .     .     .    .    .
+ 6   2187 2263 Lay           Elizabeth      16    F    .    .              .         Va                .     X     .    .    .
+ 7   2187 2263 Lay           Virginia       13    F    .    .              .         Va                .     X     .    .    .
+ 8   2187 2263 Lay           Sarah          11    F    .    .              .         Va                .     X     .    .    .
+ 9   2187 2263 Lay           George         10    M    .    .              .         Va                .     X     .    .    .
+ 10  2187 2263 Lay           Frances        8     F    .    .              .         Va                .     .     .    .    .
+ 11  2187 2263 Lay           Mary L         4     F    .    .              .         Va                .     .     .    .    .
+ 12  2187 2263 Lay           William        9/12  M    .    .              .         Va                .     .     .    .    .
+ 13  2187 2263 Dalaney       James          20    M    .    Tailor         .         Pa                .     .     .    .    .
+ 14  2187 2263 Wyant         Jeremiah       18    M    .    Tailor         .         Md                .     .     .    .    .
+ 15  2188 2264 McCormick     James          30    M    .    Miner          600       Pa                .     .     .    .    .
+ 16  2188 2264 McCormick     Mary Ann       33    F    .    .              .         Va                .     .     .    .    .
+ 17  2188 2264 McCormick     Mary E         2     F    .    .              .         Va                .     .     .    .    .
+ 18  2188 2264 Austin        Elizabeth      12    F    .    .              .         Va                .     .     .    .    .
+ 19  2189 2265 Dillon        William        31    M    .    Steam Boat Captain 1,000 Ohio              .     .     .    .    .
+ 20  2189 2265 Dillon        Elizabeth      30    F    .    .              .         Pa                .     .     .    .    .
+ 21  2189 2265 Dillon        Mary E         2     F    .    .              .         Va                .     .     .    .    .
+ 22  2189 2265 Gilmore       Martha         11    F    .    .              .         Ohio              .     .     .    .    .
+ 23  2190 2266 McCluskey     James          35    M    .    Drayman        700       Ireland           .     .     .    .    .
+ 24  2190 2266 McCluskey     Letitia        30    F    .    .              .         Ireland           .     .     .    .    .
+ 25  2190 2266 McCluskey     Elizabeth J    7     F    .    .              .         Va                .     .     .    .    .
+ 26  2190 2266 McCluskey     James H        5     M    .    .              .         Va                .     .     .    .    .
+ 27  2191 2267 Hull          Lewis          36    M    .    Butcher        .         Pa                .     .     .    .    .
+ 28  2191 2267 Hull          Eliza          28    F    .    .              .         Ohio              .     .     .    .    .
+ 29  2191 2267 Hull          Mary E         8     F    .    .              .         Va                .     .     .    .    .
+ 30  2191 2267 Hull          Zacheriah      6     M    .    .              .         Va                .     .     .    .    .
+ 31  2191 2267 Smalley       Susannah       22    F    .    .              .         Pa                .     .     .    .    .
+ 32  2191 2267 Hull          Mary           11    F    .    .              .         Pa                .     .     .    .    .
+ 33  2192 2268 Hallowell     Allen S        40    M    .    Carpenter      5,400     Pa                .     .     .    .    .
+ 34  2192 2268 Hallowell     Eliza          30    F    .    .              .         Ireland           .     .     .    .    .
+ 35  2192 2268 Hallowell     Albert H       10    M    .    .              .         Pa                .     X     .    .    .
+ 36  2192 2268 Hallowell     Albinos L      8     M    .    .              .         Va                .     X     .    .    .
+ 37  2192 2268 Hallowell     Morrison H     6     M    .    .              .         Va                .     X     .    .    .
+ 38  2192 2268 Hallowell     Ami C          4     F    .    .              .         Va                .     .     .    .    .
+ 39  2192 2268 Hallowell     Mary M         1     F    .    .              .         Va                .     .     .    .    .
+ 40  2192 2268 Booth         Joseph         20    M    .    Carpenter      .         Ohio              .     .     .    .    .
+ 41  2192 2268 Shaw          Joseph         19    M    .    Carpenter      .         Ireland           .     .     .    .    .
+ 42  2192 2268 Anthony       Susannah       22    F    .    .              .         Cannada           .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 157a
+REFERENCE: Enumerated on 22 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2192 2268 Morrison      Samuel         70    M    .    None           .         Ireland           .     .     .    .    Handwritten page #313
+ 2   2193 2269 Downes        John           30    M    .    Plasterer      1,500     District Columbia .     .     .    .    .
+ 3   2193 2269 Downes        Elizabeth      30    F    .    .              .         Md                .     .     .    .    .
+ 4   2193 2269 Downes        Mary E         3     F    .    .              .         Va                .     .     .    .    .
+ 5   2193 2269 Downes        George F       1     M    .    .              .         Va                .     .     .    .    .
+ 6   2193 2269 Patterson     Indiana        12    F    .    .              .         Va                .     .     .    .    .
+ 7   2193 2269 Morris        John           19    M    .    Plasterer      .         Ohio              .     .     .    .    .
+ 8   2194 2270 Ewing         James M        35    M    .    Book Binder    1,000     Va                .     .     .    .    .
+ 9   2194 2270 Ewing         Mary           34    F    .    .              .         Pa                .     .     .    .    .
+ 10  2194 2270 Ewing         John H         7     M    .    .              .         Va                .     X     .    .    .
+ 11  2194 2270 Ewing         Anna           2     F    .    .              .         Va                .     .     .    .    .
+ 12  2194 2270 Ewing         Elizabeth      66    F    .    .              .         Ireland           .     .     .    .    .
+ 13  2195 2271 McGlaughlin   Thomas         42    M    .    Stone Cutter   4,200     Scotland          .     .     .    .    .
+ 14  2195 2271 McGlaughlin   Eliza          35    F    .    .              .         England           .     .     .    .    .
+ 15  2195 2271 McGlaughlin   Ann            16    F    .    .              .         Ohio              .     .     .    .    .
+ 16  2195 2271 McGlaughlin   Victora        14    F    .    .              .         Va                .     X     .    .    .
+ 17  2195 2271 McGlaughlin   Robert         10    M    .    .              .         Va                .     X     .    .    .
+ 18  2195 2271 McGlaughlin   Jennet         7     F    .    .              .         Va                .     .     .    .    .
+ 19  2195 2271 McGlaughlin   Sarah          3     F    .    .              .         Va                .     .     .    .    .
+ 20  2195 2271 McGlaughlin   James          1     M    .    .              .         Va                .     .     .    .    .
+ 21  2195 2271 McGlaughlin   Caroline       18    F    .    .              .         Pa                .     .     .    .    .
+ 22  2196 2272 Burdick       Lydia          49    F    .    .              1,000     Md                .     .     .    .    .
+ 23  2196 2272 Burdick       Laura V        15    F    .    .              .         Va                .     .     .    .    .
+ 24  2196 2272 Burdick       Mariah L       11    F    .    .              .         Md                .     X     .    .    .
+ 25  2196 2272 McCreary      Emma C         7     F    .    .              .         Va                .     .     .    .    .
+ 26  2196 2272 McCreary      John M         4     M    .    .              .         Va                .     .     .    .    .
+ 27  2196 2272 McCreary      Cornelia L     3     F    .    .              .         Ohio              .     .     .    .    .
+ 28  2197 2273 Robinson      Catherine      50    F    .    .              .         Ireland           .     .     .    .    .
+ 29  2197 2273 Robinson      William        20    M    .    Laborer        550       Ireland           .     .     .    .    .
+ 30  2197 2273 Gilkinson     William        31    M    .    Laborer        .         Ireland           .     .     .    .    .
+ 31  2197 2273 Gilkinson     Sarah J        24    F    .    .              .         Ireland           .     .     .    .    .
+ 32  2197 2273 Gilkinson     Loisa M        4     F    .    .              .         Ohio              .     .     .    .    .
+ 33  2197 2273 Gilkinson     Ann J          2     F    .    .              .         La                .     .     .    .    .
+ 34  2198 2274 Ebbert        Peter          50    M    .    Laborer        500       Germany           .     .     .    .    .
+ 35  2198 2274 Ebbert        Catherine      42    F    .    .              .         Germany           .     .     .    .    .
+ 36  2198 2274 Ebbert        Eugena         13    F    .    .              .         Va                .     .     .    .    .
+ 37  2198 2274 Ebbert        Eve            11    F    .    .              .         Va                .     .     .    .    .
+ 38  2198 2274 Ebbert        Mary           8     F    .    .              .         Va                .     .     .    .    .
+ 39  2198 2274 Ebbert        Conrod         5     M    .    .              .         Va                .     .     .    .    .
+ 40  2198 2274 Ebbert        Joseph         3     M    .    .              .         Va                .     .     .    .    .
+ 41  2199 2275 Healt         Casper         22    M    .    Stone Mason    .         Germany           X     .     .    .    .
+ 42  2199 2275 Healt         Mary           21    F    .    .              .         Germany           X     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 157b
+REFERENCE: Enumerated on 22 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2200 2276 Swink         George         28    M    .    Stone Cutter   .         Germany           .     .     .    .    Handwritten page #314
+ 2   2200 2276 Swink         Sophia         27    F    .    .              .         Germany           .     .     .    .    .
+ 3   2200 2276 Swink         Theodore       3     M    .    .              .         Va                .     .     .    .    .
+ 4   2201 2277 Holliday      John           54    M    .    Laborer        .         England           .     .     .    .    .
+ 5   2201 2277 Holliday      Ann            55    F    .    .              .         England           .     .     .    .    .
+ 6   2201 2277 Holliday      Thomas         13    M    .    .              .         New York          .     .     .    .    .
+ 7   2201 2277 Holliday      Sarah          9     F    .    .              .         Ohio              .     X     .    .    .
+ 8   2202 2278 Charnock      John           55    M    .    Laborer        .         England           .     .     .    .    .
+ 9   2202 2278 Charnock      Mahala         45    F    .    .              .         Va                .     .     .    .    .
+ 10  2202 2278 Charnock      John H         22    M    .    Glass Blower   .         Va                .     .     .    .    .
+ 11  2202 2278 Charnock      Mary M         20    F    .    .              .         Va                .     .     .    .    .
+ 12  2203 2279 Acker         Hannah         50    F    .    .              .         Pa                .     .     .    .    .
+ 13  2203 2279 Acker         James          20    M    .    Clerk          .         Va                .     .     .    .    .
+ 14  2204 2280 Riland        Samuel         41    M    .    Cooper         1,500     Md                .     .     .    .    .
+ 15  2204 2280 Riland        Mary Ann       30    F    .    .              .         England           .     .     .    .    .
+ 16  2204 2280 Riland        Mary C         9     F    .    .              .         Md                .     X     .    .    .
+ 17  2204 2280 Riland        Charles H      6     M    .    .              .         Md                .     X     .    .    .
+ 18  2204 2280 Riland        Josephine      3     F    .    .              .         Md                .     .     .    .    .
+ 19  2204 2280 Riland        Samuel         8/12  M    .    .              .         Va                .     .     .    .    .
+ 20  2205 2281 McClure       John           28    M    .    Laborer        .         Va                .     .     .    .    .
+ 21  2205 2281 McClure       Lucinda        25    F    .    .              .         Va                .     .     .    .    .
+ 22  2206 2282 Polk          Isaac          28    M    .    Pattens Maker  .         Pa                .     .     .    .    .
+ 23  2206 2282 Polk          Roberty        25    F    .    .              .         Va                .     .     .    .    .
+ 24  2206 2282 Polk          George         3     M    .    .              .         Va                .     .     .    .    .
+ 25  2207 2283 McLaughlin    Barnard        38    M    .    Carpenter      .         Pa                .     .     .    .    .
+ 26  2207 2283 McLaughlin    Hannah         28    F    .    .              .         Ohio              .     .     .    .    .
+ 27  2207 2283 McLaughlin    John           11    M    .    .              .         Va                .     .     .    .    .
+ 28  2207 2283 McLaughlin    Mary E         8     F    .    .              .         Va                .     .     .    .    .
+ 29  2207 2283 McLaughlin    William        6     M    .    .              .         Va                .     .     .    .    .
+ 30  2207 2283 McLaughlin    Virginia       3     F    .    .              .         Va                .     .     .    .    .
+ 31  2207 2283 McLaughlin    Thomas         1     M    .    .              .         Va                .     .     .    .    .
+ 32  2208 2284 McMahan       Patrick        50    M    .    Laborer        .         Ireland           .     .     .    .    .
+ 33  2208 2284 McMahan       Ellen          40    F    .    .              .         Ireland           .     .     .    .    .
+ 34  2208 2284 McMahan       Mary           12    F    .    .              .         Va                .     .     .    .    .
+ 35  2208 2284 McMahan       Catherine      10    F    .    .              .         Va                .     .     .    .    .
+ 36  2208 2284 McMahan       Elizabeth      8     F    .    .              .         Va                .     .     .    .    .
+ 37  2208 2284 McMahan       Julia E        6     F    .    .              .         Va                .     .     .    .    .
+ 38  2208 2284 McMahan       Patrick        4     M    .    .              .         Va                .     .     .    .    .
+ 39  2208 2284 McMahan       Francis        1     F    .    .              .         Va                .     .     .    .    .
+ 40  2209 2285 Clayton       Edward         24    M    .    Carpenter      .         Va                .     .     .    .    .
+ 41  2209 2285 Clayton       Lydia          23    F    .    .              .         Ohio              .     .     .    .    .
+ 42  2209 2285 Clayton       Mary E         1     F    .    .              .         Va                .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 158a
+REFERENCE: Enumerated on 22 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2209 2285 Hanes         Harriet        18    F    .    .              .         Ohio              .     .     .    .    Handwritten page #315
+ 2   2209 2285 Salsbury      William        23    M    .    Carpenter      .         Va                .     .     .    .    .
+ 3   2209 2285 Loyed         Jasper         25    M    .    Carpenter      .         New Jersey        .     .     .    .    .
+ 4   2209 2285 Hanes         Sarah          13    F    .    .              .         Ohio              .     .     .    .    .
+ 5   2210 2286 Redman        John           60    M    .    Laborer        .         England           .     .     .    .    .
+ 6   2210 2286 Redman        Mary           50    F    .    .              .         England           .     .     .    .    .
+ 7   2210 2286 Redman        Thomas         30    M    .    Laborer        .         England           .     .     .    .    .
+ 8   2210 2286 Redman        Henry          21    M    .    Engineer       .         England           .     .     .    .    .
+ 9   2210 2286 Redman        Eliza          18    F    .    .              .         England           .     .     .    .    .
+ 10  2210 2286 Redman        Sobina         17    F    .    .              .         England           .     .     .    .    .
+ 11  2210 2286 Redman        Bethire        15    F    .    .              .         England           .     .     .    .    .
+ 12  2210 2286 Redman        Albert         10    M    .    .              .         England           .     X     .    .    .
+ 13  2210 2286 Redman        Elizabeth A    8     F    .    .              .         Va                .     X     .    .    .
+ 14  2210 2286 Redman        Mary J         6     F    .    .              .         Va                .     X     .    .    .
+ 15  2211 2287 Wilde         Isaac          60    M    .    Pedler         .         England           .     .     .    .    .
+ 16  2212 2288 Rupp          John           38    M    .    Miner          .         Germany           .     .     .    .    .
+ 17  2212 2288 Rupp          Catherine      33    F    .    .              .         Germany           .     .     .    .    .
+ 18  2212 2288 Rupp          Caroline       11    F    .    .              .         Va                .     .     .    .    .
+ 19  2212 2288 Rupp          Catherine      10    F    .    .              .         Va                .     .     .    .    .
+ 20  2212 2288 Rupp          Mary           8     F    .    .              .         Va                .     .     .    .    .
+ 21  2212 2288 Rupp          Amelia         5     F    .    .              .         Va                .     .     .    .    .
+ 22  2212 2288 Rupp          George F       1     M    .    .              .         Va                .     .     .    .    .
+ 23  2212 2288 Bloominow     John N         29    M    .    Laborer        .         Germany           .     .     .    .    .
+ 24  2213 2289 Pool          Joseph         51    M    .    Moulder        .         Va                .     .     .    .    .
+ 25  2213 2289 Pool          Sarah          43    F    .    .              .         Va                .     .     .    .    .
+ 26  2213 2289 Pool          Mary M         23    F    .    .              .         Va                .     .     .    .    .
+ 27  2213 2289 Pool          Martha Ann     21    F    .    .              .         Va                .     .     .    .    .
+ 28  2213 2289 Pool          Jerome         19    M    .    Moulder        .         Ky                .     .     .    .    .
+ 29  2213 2289 Pool          Elmira         12    F    .    .              .         Va                .     .     .    .    .
+ 30  2213 2289 Pool          Isabel         10    F    .    .              .         Va                .     X     .    .    .
+ 31  2214 2290 Zinn          George E       36    M    .    Machinest      .         Va                .     .     .    .    .
+ 32  2214 2290 Zinn          Lydia          34    F    .    .              .         Pa                .     .     .    .    .
+ 33  2214 2290 Zinn          Daniel         14    M    .    .              .         Va                .     X     .    .    .
+ 34  2214 2290 Zinn          Margretta      10    F    .    .              .         Va                .     X     .    .    .
+ 35  2214 2290 Zinn          Isabella       7     F    .    .              .         Va                .     X     .    .    .
+ 36  2214 2290 Martin        Mary           16    F    .    .              .         Va                .     .     .    .    .
+ 37  2214 2290 Waltz         Alexander      25    M    .    Tobacconist    .         Va                .     .     .    .    .
+ 38  2214 2290 Weir          Calvin         21    M    .    Tobacconist    .         Va                .     .     .    .    .
+ 39  2214 2290 Crosier       James          19    M    .    Machinest      .         Nova Scotia       .     .     .    .    .
+ 40  2215 2291 Howser        William        75    M    .    None           7,500     Md                .     .     .    .    .
+ 41  2215 2291 Howser        Barbery        73    F    .    .              .         Pa                .     .     .    .    .
+ 42  2215 2291 Burk          Sarah          35    F    .    .              .         Va                .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 158b
+REFERENCE: Enumerated on 23 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2216 2292 Neel          Samuel         55    M    .    Hardware Merchant 31,500 Pa                .     .     .    .    Handwritten page #316
+ 2   2216 2292 Neel          Ellen          40    F    .    .              .         District Columbia .     .     .    .    .
+ 3   2216 2292 Neel          Mary E         14    F    .    .              .         Va                .     X     .    .    .
+ 4   2216 2292 Neel          William        13    M    .    .              .         Va                .     X     .    .    .
+ 5   2216 2292 Neel          Samuel         4     M    .    .              .         Va                .     .     .    .    .
+ 6   2216 2292 Neel          Henry          1     M    .    .              .         Va                .     .     .    .    .
+ 7   2216 2292 Aikin         Catherine      19    F    .    .              .         Ireland           .     .     .    .    .
+ 8   2216 2292 Aikin         Margret        21    F    .    .              .         Ireland           .     .     .    .    .
+ 9   2217 2293 Scott         Elizabeth      56    F    .    .              .         Md                .     .     .    .    .
+ 10  2217 2293 Scott         John A         22    M    .    Nailor         .         Va                .     .     .    .    .
+ 11  2217 2293 Scott         Andrew J       20    M    .    Nailor         .         Pa                .     .     .    .    .
+ 12  2217 2293 Scott         Elizabeth M    18    F    .    .              .         Ohio              .     .     .    .    .
+ 13  2217 2293 Scott         **an* V        14    F    .    .              .         Ohio              .     X     .    .    .
+ 14  2218 2294 Melvin        James          60    M    .    Flour Inspector .        Mass              .     .     .    .    .
+ 15  2218 2294 Melvin        Mary           12    F    .    .              .         Va                .     .     .    .    .
+ 16  2218 2294 Melvin        James          7     M    .    .              .         Va                .     .     .    .    .
+ 17  2218 2294 Lane          Henrietta      16    F    .    .              .         Va                .     .     .    .    .
+ 18  2219 2295 Garity        John           29    M    .    Laborer        .         Ireland           X     .     .    .    .
+ 19  2219 2295 Garity        Mary           26    F    .    .              .         Ireland           X     .     .    .    .
+ 20  2220 2296 Stype         Joseph         56    M    .    Laborer        .         Germany           .     .     .    .    .
+ 21  2220 2296 Stype         Martha         36    F    .    .              .         Germany           .     .     .    .    .
+ 22  2220 2296 Stype         Joseph         4     M    .    .              .         Germany           .     .     .    .    .
+ 23  2221 2297 Bostler       George         27    M    .    Stone Cutter   .         Germany           .     .     .    .    .
+ 24  2221 2297 Bostler       Mary           27    F    .    .              .         Germany           .     .     .    .    .
+ 25  2221 2297 Bostler       George         4     M    .    .              .         Germany           .     .     .    .    .
+ 26  2221 2297 Bostler       Mary           2     F    .    .              .         Va                .     .     .    .    .
+ 27  2222 2298 Earman        John           36    M    .    Laborer        .         Germany           .     .     .    .    .
+ 28  2222 2298 Earman        Margret        33    F    .    .              .         Germany           .     .     .    .    .
+ 29  2222 2298 Earman        Noah           6     M    .    .              .         Germany           .     .     .    .    .
+ 30  2222 2298 Earman        Perry          4     M    .    .              .         Germany           .     .     .    .    .
+ 31  2222 2298 Earman        Frances        1     F    .    .              .         Germany           .     .     .    .    .
+ 32  2223 2299 Hill          George         31    M    .    Plasterer      700       England           .     .     .    .    .
+ 33  2223 2299 Hill          Margret        22    F    .    .              .         Md                .     .     .    .    .
+ 34  2223 2299 Hill          William H      5     M    .    .              .         Va                .     .     .    .    .
+ 35  2223 2299 Hill          Elizabeth      3     F    .    .              .         Va                .     .     .    .    .
+ 36  2223 2299 Hill          Sarah O        9/12  F    .    .              .         Va                .     .     .    .    .
+ 37  2224 2300 Launder       James          28    M    .    Cooper         .         Ohio              .     .     .    .    .
+ 38  2224 2300 Launder       Nancy          30    F    .    .              .         Pa                .     .     .    .    .
+ 39  2224 2300 Launder       Clarra R       1     F    .    .              .         Ohio              .     .     .    .    .
+ 40  2225 2301 Wallace       Joseph         27    M    .    Laborer        .         Va                .     .     .    .    .
+ 41  2225 2301 Wallace       Mariah         23    F    .    .              .         England           .     .     .    .    .
+ 42  2225 2301 Wallace       John W         4     M    .    .              .         Va                .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 159a
+REFERENCE: Enumerated on 23 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2225 2301 Wallace       Mary E         2     F    .    .              .         Va                .     .     .    .    Handwritten page #317
+ 2   2225 2301 Stewart       Eliza J        9     F    .    .              .         Va                .     .     .    .    .
+ 3   2226 2302 Richards      Amanda         25    F    .    .              1,000     Va                .     .     .    .    .
+ 4   2226 2302 Richards      Emma           8     F    .    .              .         Va                .     .     .    .    .
+ 5   2226 2302 Richards      Mary E         1     F    .    .              .         Va                .     .     .    .    .
+ 6   2227 2303 Fenton        Mary           50    F    .    .              .         Va                .     .     .    .    .
+ 7   2227 2303 Fenton        Joseph         17    M    .    Laborer        .         Va                .     .     .    .    .
+ 8   2227 2303 Fenton        John           13    M    .    .              .         Va                .     .     .    .    .
+ 9   2228 2304 Klingman      Samuel C       26    M    .    Waggon Maker   .         Pa                .     .     .    .    .
+ 10  2228 2304 Klingman      Terrissa       23    F    .    .              .         Ohio              .     .     .    .    .
+ 11  2228 2304 Klingman      Mary A         1     F    .    .              .         Va                .     .     .    .    .
+ 12  2229 2305 Galliher      James          36    M    .    Laborer        .         Ireland           .     .     .    .    .
+ 13  2229 2305 Galliher      Mary           41    F    .    .              .         Ireland           .     .     .    .    .
+ 14  2229 2305 Galliher      John           13    M    .    .              .         Ireland           .     .     .    .    .
+ 15  2229 2305 Galliher      Catherine      9     F    .    .              .         Ireland           .     .     .    .    .
+ 16  2229 2305 Galespie      John           34    M    .    Drayman        .         Ireland           .     .     .    .    .
+ 17  2229 2305 Galespie      John           6     M    .    .              .         Va                .     .     .    .    .
+ 18  2229 2305 Galespie      Jane           4     F    .    .              .         Va                .     .     .    .    .
+ 19  2229 2305 Galespie      Eliza          36    F    .    .              .         Ireland           .     .     .    .    .
+ 20  2229 2305 Noble         Isabel         38    F    .    .              .         Ireland           .     .     .    .    .
+ 21  2230 2306 Ellingham     Adam           45    M    .    Laborer        .         Ireland           .     .     .    .    .
+ 22  2230 2306 Ellingham     Rebecca        40    F    .    .              .         Ireland           .     .     .    .    .
+ 23  2230 2306 Ellingham     William        14    M    .    .              .         Ireland           .     .     .    .    .
+ 24  2230 2306 Ellingham     Elizabeth      12    F    .    .              .         Ireland           .     .     .    .    .
+ 25  2230 2306 Ellingham     Rebecca        9     F    .    .              .         Ireland           .     .     .    .    .
+ 26  2230 2306 Ellingham     Ellen          6     F    .    .              .         Ireland           .     .     .    .    .
+ 27  2230 2306 Ellingham     Mariah         2     F    .    .              .         Ireland           .     .     .    .    .
+ 28  2230 2306 Williams      James          36    M    .    Drayman        .         Ireland           .     .     .    .    .
+ 29  2230 2306 Williams      Jane           26    F    .    .              .         Ireland           .     .     .    .    .
+ 30  2230 2306 Williams      Robert         3     M    .    .              .         Ireland           .     .     .    .    .
+ 31  2230 2306 Crawford      Ellen          22    F    .    .              .         Ireland           .     .     .    .    .
+ 32  2230 2306 Crawford      John           28    M    .    Laborer        .         Ireland           .     .     .    .    .
+ 33  2231 2307 Barkus        William        28    M    .    Plasterer      .         Ohio              .     .     .    .    .
+ 34  2231 2307 Barkus        Sarah E        28    F    .    .              .         Va                .     .     .    .    .
+ 35  2231 2307 Barkus        Margret J      7     F    .    .              .         Ohio              .     X     .    .    .
+ 36  2231 2307 Barkus        Charlotte      4     F    .    .              .         Ohio              .     .     .    .    .
+ 37  2231 2307 Barkus        Amanda         2     F    .    .              .         Ohio              .     .     .    .    .
+ 38  2232 2308 Isreal        Samuel         63    M    .    Carpenter      .         Md                .     .     .    .    .
+ 39  2232 2308 Isreal        Mary           62    F    .    .              .         Va                .     .     .    .    .
+ 40  2232 2308 Isreal        Mary Ann       26    F    .    .              .         Ohio              .     .     .    .    .
+ 41  2233 2309 Glew          Joseph         29    M    .    Laborer        .         Germany           .     .     .    .    .
+ 42  2233 2309 Glew          Catherine      33    F    .    .              .         Germany           .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 159b
+REFERENCE: Enumerated on 23 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2233 2309 Glew          Peter          4     M    .    .              .         Va                .     .     .    .    Handwritten page #318
+ 2   2234 2310 Shaffer       Henry          44    M    .    Laborer        .         Germany           .     .     .    .    .
+ 3   2234 2310 Shaffer       Mary           30    F    .    .              .         Germany           .     .     .    .    .
+ 4   2234 2310 Shaffer       Isabel         7     F    .    .              .         Germany           .     .     .    .    .
+ 5   2234 2310 Shaffer       Mary           4     F    .    .              .         Va                .     .     .    .    .
+ 6   2235 2311 Morris        Richard        34    M    .    Carter         .         Ohio              .     .     .    .    .
+ 7   2235 2311 Morris        Martha         27    F    .    .              .         England           .     .     .    .    .
+ 8   2235 2311 Morris        Caroline       5     F    .    .              .         Ohio              .     .     .    .    .
+ 9   2236 2312 Jordon        Charles C      32    M    .    Clerk          .         Ireland           .     .     .    .    .
+ 10  2236 2312 Jordon        Rebecca T      29    F    .    .              .         Pa                .     .     .    .    .
+ 11  2236 2312 Jordon        Samuel A       3     M    .    .              .         Va                .     .     .    .    .
+ 12  2236 2312 Jordon        Joseph W       10/12 M    .    .              .         Va                .     .     .    .    .
+ 13  2236 2312 Welch         Elizabeth S    23    F    .    .              .         Pa                .     .     .    .    .
+ 14  2237 2313 Quinn         Mark           31    M    .    Yarn Dresser   .         Ireland           .     .     .    .    .
+ 15  2237 2313 Quinn         Anna           21    F    .    .              .         Scotland          .     .     .    .    .
+ 16  2237 2313 Quinn         John           11/12 M    .    .              .         Va                .     .     .    .    .
+ 17  2238 2314 Myers         Henry          37    M    .    Carpenter      .         Va                .     .     .    .    .
+ 18  2238 2314 Myers         Elizabeth      25    F    .    .              .         Va                .     .     .    .    .
+ 19  2238 2314 Myers         Roberta        6     F    .    .              .         Va                .     .     .    .    .
+ 20  2239 2315 Gray          Horrace        57    M    .    Carpenter      750       Conn              .     .     .    .    Age could be 51
+ 21  2239 2315 Gray          Sarah          54    F    .    .              .         Pa                .     .     .    .    .
+ 22  2239 2315 Gray          James          15    M    .    None           .         Va                .     X     .    .    .
+ 23  2239 2315 Gray          John           13    M    .    .              .         Va                .     X     .    .    .
+ 24  2239 2315 Gray          Lowry          11    M    .    .              .         Va                .     X     .    .    .
+ 25  2240 2316 Sullivan      John           31    M    .    Carpenter      .         Pa                .     .     .    .    .
+ 26  2240 2316 Sullivan      Rachel         29    F    .    .              .         Ohio              .     .     .    .    .
+ 27  2240 2316 Sullivan      Charles E      6     M    .    .              .         Ohio              .     .     .    .    .
+ 28  2240 2316 Sullivan      Joseph B       4     M    .    .              .         Ohio              .     .     .    .    .
+ 29  2240 2316 Sullivan      Rachel V       1     F    .    .              .         Ohio              .     .     .    .    .
+ 30  2241 2317 Allen         Hannah         59    F    .    .              .         Pa                .     .     .    .    .
+ 31  2242 2318 McKnab        William        60    M    .    Laborer        .         Ireland           .     .     .    .    .
+ 32  2242 2318 McKnab        Mary           50    F    .    .              .         Ireland           .     .     .    .    .
+ 33  2242 2318 McKnab        Mathew         25    M    .    Laborer        .         Ireland           .     .     .    .    .
+ 34  2242 2318 McKnab        Mary           22    F    .    .              .         Ireland           .     .     .    .    .
+ 35  2242 2318 McKnab        William        20    M    .    Laborer        .         Ireland           .     .     .    .    .
+ 36  2242 2318 McKnab        Hannah         18    F    .    .              .         Ireland           .     .     .    .    .
+ 37  2242 2318 McKnab        Rachel         16    F    .    .              .         Ireland           .     .     .    .    .
+ 38  2242 2318 McKnab        John           14    M    .    .              .         Ireland           .     .     .    .    .
+ 39  2242 2318 McKnab        Thomas         11    M    .    .              .         Ireland           .     .     .    .    .
+ 40  2243 2319 Sterrett      Boyed          39    M    .    Carter         4,100     Ireland           .     .     .    .    .
+ 41  2243 2319 Sterrett      Hannah         40    F    .    .              .         Ireland           .     .     .    .    .
+ 42  2243 2319 Sterrett      Elizabeth      16    F    .    .              .         Va                .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 160a
+REFERENCE: Enumerated on 23 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2243 2319 Sterrett      John           14    M    .    .              .         Va                .     .     .    .    Handwritten page #319
+ 2   2243 2319 Sterrett      Hannah         9     F    .    .              .         Va                .     .     .    .    .
+ 3   2244 2320 Clark         Josiah         27    M    .    Bar Keeper     .         Pa                .     .     .    .    .
+ 4   2244 2320 Clark         Ann            39    F    .    .              .         Pa                .     .     .    .    .
+ 5   2244 2320 Clark         Mary           27    F    .    .              .         Pa                .     .     .    .    .
+ 6   2244 2320 Clark         Jesse          2     M    .    .              .         Va                .     .     .    .    .
+ 7   2244 2320 Clark         Virginia       7/12  F    .    .              .         Va                .     .     .    .    .
+ 8   2244 2320 Hitchcock     William        23    M    .    Brick layer    .         Pa                .     .     .    .    .
+ 9   2245 2321 Detwiler      David          29    M    .    Carpenter      .         Pa                .     .     .    .    .
+ 10  2245 2321 Detwiler      Mary Ann       27    F    .    .              .         Md                .     .     .    .    .
+ 11  2245 2321 Detwiler      Laura V        10    F    .    .              .         Va                .     X     .    .    .
+ 12  2245 2321 Detwiler      John F         7     M    .    .              .         Va                .     X     .    .    .
+ 13  2245 2321 Detwiler      George E       5     M    .    .              .         Va                .     .     .    .    .
+ 14  2245 2321 Detwiler      Henry L        3     M    .    .              .         Va                .     .     .    .    .
+ 15  2245 2321 Detwiler      William A      1     M    .    .              .         Va                .     .     .    .    .
+ 16  2246 2322 Winder        Ruth           54    F    .    .              500       Pa                .     .     .    .    .
+ 17  2246 2322 Winder        William        19    M    .    Cigar Maker    .         Va                .     .     .    .    .
+ 18  2246 2322 Winder        Lafayett       16    M    .    Cigar Maker    .         Va                .     X     .    .    .
+ 19  2247 2323 Carnhan       James          48    M    .    Carter         .         Pa                .     .     .    .    .
+ 20  2247 2323 Carnhan       Caroline       45    F    .    .              .         Va                .     .     .    .    .
+ 21  2247 2323 Carnhan       Henry          20    M    .    Laborer        .         Va                .     .     .    .    .
+ 22  2247 2323 Carnhan       Ann            19    F    .    .              .         Va                .     .     .    .    .
+ 23  2247 2323 Carnhan       Mary           17    F    .    .              .         Va                .     .     .    .    .
+ 24  2247 2323 Carnhan       Loisa          15    F    .    .              .         Va                .     X     .    .    .
+ 25  2247 2323 Carnhan       Elizabeth      12    F    .    .              .         Va                .     X     .    .    .
+ 26  2247 2323 Carnhan       John R         10    M    .    .              .         Va                .     X     .    .    .
+ 27  2247 2323 Carnhan       Wallace        8     M    .    .              .         Va                .     X     .    .    .
+ 28  2247 2323 Carnhan       Isabella       2     M    .    .              .         Va                .     .     .    .    Sex as recorded by Enumerator
+ 29  2248 2324 Fulton        Henry          49    M    .    Blacksmith     1,200     Pa                .     .     .    .    .
+ 30  2248 2324 Fulton        Delilah E      37    F    .    .              .         Va                .     .     .    .    .
+ 31  2248 2324 Fulton        Jane Ann       11    F    .    .              .         Va                .     X     .    .    .
+ 32  2248 2324 Fulton        Indianna       9     F    .    .              .         Va                .     .     .    .    .
+ 33  2248 2324 Fulton        Josephine      1     F    .    .              .         Va                .     .     .    .    .
+ 34  2248 2324 Campsay       Joseph         18    M    .    Blacksmith     .         Pa                .     .     .    .    .
+ 35  2248 2324 Bernsford     James          77    M    .    None           1,000     England           .     .     .    .    .
+ 36  2249 2325 Grimes        Ignatius       64    M    M    .              .         Va                .     .     .    .    .
+ 37  2249 2325 Grimes        Elizabeth      60    F    M    .              .         Va                .     .     .    .    .
+ 38  2249 2325 Grimes        Sabra          24    F    M    .              .         Va                .     .     .    .    .
+ 39  2249 2325 Grimes        Mary Ann       20    F    M    .              .         Va                .     .     .    .    .
+ 40  2249 2325 Grimes        Elizabeth J    17    F    M    .              .         Va                .     .     .    .    .
+ 41  2249 2325 Grimes        Julia Ann      14    F    M    .              .         Va                .     .     .    .    .
+ 42  2250 2326 Nickerson     Farman         33    M    .    Laborer        .         New Jersey        .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 160b
+REFERENCE: Enumerated on 23 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2250 2326 Nickerson     Sarah          32    F    .    .              .         Pa                .     .     .    .    Handwritten page #320
+ 2   2250 2326 Nickerson     George         7     M    .    .              .         Pa                .     .     .    .    .
+ 3   2250 2326 Nickerson     Francis        5     M    .    .              .         Pa                .     .     .    .    .
+ 4   2250 2326 Nickerson     Furman         3     M    .    .              .         Pa                .     .     .    .    .
+ 5   2250 2326 Nickerson     William H      1     M    .    .              .         Pa                .     .     .    .    .
+ 6   2251 2327 Garrard       William        42    M    .    Wine Worker    300       England           .     .     .    .    .
+ 7   2251 2327 Garrard       Matilda        40    F    .    .              .         Va                .     .     .    .    .
+ 8   2251 2327 Garrard       Catherine      17    F    .    .              .         Va                .     .     .    .    .
+ 9   2251 2327 Garrard       Nancy          16    F    .    .              .         Va                .     X     .    .    .
+ 10  2251 2327 Garrard       William        13    M    .    .              .         Va                .     X     .    .    .
+ 11  2251 2327 Garrard       Matilda        4     F    .    .              .         Va                .     .     .    .    .
+ 12  2252 2328 Jefferson     Thomas         40    M    .    Cigar Maker    .         District Columbia .     .     .    .    .
+ 13  2252 2328 Jefferson     Elizabeth      42    F    .    .              .         Va                .     .     .    .    .
+ 14  2252 2328 Jefferson     Ann E          16    F    .    .              .         Va                .     .     .    .    .
+ 15  2252 2328 Jefferson     Albertta       15    F    .    .              .         Va                .     X     .    .    .
+ 16  2252 2328 Jefferson     Mary           10    F    .    .              .         Va                .     X     .    .    .
+ 17  2252 2328 Jefferson     William        8     M    .    .              .         Va                .     X     .    .    .
+ 18  2252 2328 Jefferson     Thomas         6     M    .    .              .         Va                .     .     .    .    .
+ 19  2252 2328 Jefferson     Levu           4     F    .    .              .         Va                .     .     .    .    .
+ 20  2253 2329 Boring        John           34    M    .    Brick layer    3,000     Pa                .     .     .    .    .
+ 21  2253 2329 Boring        Eliza Ann      31    F    .    .              .         Va                .     .     .    .    .
+ 22  2253 2329 Caton         Harrison       14    M    .    .              .         Va                .     .     .    .    .
+ 23  2253 2329 Kindle        Elisha         22    M    .    Brick layer    .         Ohio              .     .     .    .    .
+ 24  2253 2329 Smith         Archabald      17    M    .    Brick layer    .         Ireland           .     .     .    .    .
+ 25  2254 2330 Shaffer       Henry          25    M    .    Plasterer      .         Germany           .     .     .    .    .
+ 26  2254 2330 Shaffer       Mary           24    F    .    .              .         Germany           .     .     .    .    .
+ 27  2254 2330 Shaffer       Catherine      1     F    .    .              .         Va                .     .     .    .    .
+ 28  2255 2331 Trisler       Casper         26    M    .    Miner          .         Germany           .     .     .    .    .
+ 29  2255 2331 Trisler       Catherine      22    F    .    .              .         Germany           .     .     .    .    .
+ 30  2256 2332 Schupp        Nicholas       30    M    .    Laborer        .         Germany           .     .     .    .    .
+ 31  2256 2332 Schupp        Catherine      31    F    .    .              .         Germany           .     .     .    .    .
+ 32  2256 2332 Schupp        Loisa          7     F    .    .              .         Germany           .     .     .    .    .
+ 33  2256 2332 Schupp        Mary           4     F    .    .              .         Germany           .     .     .    .    .
+ 34  2256 2332 Schupp        Catherine      8/12  F    .    .              .         Va                .     .     .    .    .
+ 35  2257 2333 Barkus        Thomas         45    M    .    Miner          .         Ohio              .     .     .    .    .
+ 36  2257 2333 Barkus        Sarah          40    F    .    .              .         Ohio              .     .     .    .    .
+ 37  2257 2333 Barkus        Sarah          19    F    .    .              .         Ohio              .     .     .    .    .
+ 38  2257 2333 Barkus        Catherine      17    F    .    .              .         Ohio              .     X     .    .    .
+ 39  2257 2333 Barkus        Thomas         14    M    .    .              .         Ohio              .     X     .    .    .
+ 40  2257 2333 Barkus        Belvidere      8     F    .    .              .         Ohio              .     X     .    .    .
+ 41  2258 2334 Moore         Charles        37    M    .    Shoe Maker     .         Ohio              .     .     .    .    .
+ 42  2258 2334 Moore         Eliza Ann      33    F    .    .              .         Pa                .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 161a
+REFERENCE: Enumerated on 23 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2258 2334 Moore         Sarah L        14    F    .    .              .         Va                .     X     .    .    Handwritten page #321
+ 2   2258 2334 Moore         Virginia       11    F    .    .              .         Va                .     X     .    .    .
+ 3   2258 2334 Moore         William        9     M    .    .              .         Va                .     X     .    .    .
+ 4   2258 2334 Moore         John           8     M    .    .              .         Va                .     X     .    .    .
+ 5   2258 2334 Moore         Clementine     1     F    .    .              .         Va                .     .     .    .    .
+ 6   2259 2335 Emmet         Andrew         34    M    .    Laborer        .         Germany           .     .     .    .    .
+ 7   2259 2335 Emmet         Elizabeth      28    F    .    .              .         Germany           .     .     .    .    .
+ 8   2260 2336 Girts         Samuel         48    M    .    Laborer        .         Pa                .     .     .    .    .
+ 9   2260 2336 Girts         Mary           46    F    .    .              .         New York          .     .     .    .    .
+ 10  2260 2336 Girts         Rosannah       17    F    .    .              .         Pa                .     .     .    .    .
+ 11  2260 2336 Girts         Rachel         13    F    .    .              .         Pa                .     .     .    .    .
+ 12  2260 2336 Girts         Nancy M        8     F    .    .              .         Pa                .     .     .    .    .
+ 13  2261 2337 Anderson      John           28    M    .    Glass Manufacturer 2,100 Pa                .     .     .    .    .
+ 14  2261 2337 Anderson      Hannah         63    F    .    .              .         Md                .     .     .    .    .
+ 15  2261 2337 Hannier       James          16    M    .    Glass Blower   .         Md                .     .     .    .    .
+ 16  2261 2337 Evens         Eliza          16    F    .    .              .         New York          .     .     .    .    .
+ 17  2261 2337 Moore         Sarah          50    F    .    .              .         England           .     .     .    .    .
+ 18  2261 2337 Anderson      David          25    M    .    Glass Blower   .         Pa                .     .     .    .    .
+ 19  2261 2337 Anderson      Eliza          25    F    .    .              .         Pa                .     .     .    .    .
+ 20  2262 2338 Evans         Alfred         36    M    .    Glass Manufacturer .     Pa                .     .     .    .    .
+ 21  2262 2338 Evans         Mary           34    F    .    .              .         Pa                .     .     .    .    .
+ 22  2262 2338 Evans         Thomas         17    M    .    None           .         Pa                .     X     .    .    .
+ 23  2262 2338 Evans         Lambert        15    M    .    None           .         Pa                .     .     .    .    .
+ 24  2262 2338 Evans         West Ann       13    F    .    .              .         Pa                .     X     .    .    .
+ 25  2262 2338 Evans         William R      10    M    .    .              .         Pa                .     X     .    .    .
+ 26  2262 2338 Evans         James A        7     M    .    .              .         Pa                .     X     .    .    .
+ 27  2262 2338 Evans         Virginia       5     F    .    .              .         Va                .     .     .    .    .
+ 28  2262 2338 Evans         John A         2     M    .    .              .         Va                .     .     .    .    .
+ 29  2263 2339 Claytor       John           25    M    .    Plasterer      2,500     Pa                .     .     .    .    .
+ 30  2263 2339 Claytor       Mary           24    F    .    .              .         England           .     .     .    .    .
+ 31  2263 2339 Claytor       George         3     M    .    .              .         Va                .     .     .    .    .
+ 32  2263 2339 Claytor       John E         2     M    .    .              .         Va                .     .     .    .    .
+ 33  2263 2339 Bennett       Augustine      15    F    .    .              .         Va                .     .     .    .    .
+ 34  2264 2340 Morris        Lewis          72    M    .    Well Digger    800       New Jersey        .     .     .    .    .
+ 35  2264 2340 Morris        Catherine      55    F    .    .              .         Pa                .     .     .    .    .
+ 36  2265 2341 Mason         Kizziah        37    F    .    .              .         England           .     .     .    .    .
+ 37  2265 2341 Mason         Walter         15    M    .    Laborer        .         England           .     .     .    .    .
+ 38  2265 2341 Mason         Ann            9     F    .    .              .         England           .     .     .    .    .
+ 39  2266 2342 Pumphrey      George W       33    M    .    Butcher        8,400     Ohio              .     .     .    .    .
+ 40  2266 2342 Pumphrey      Mary Ann       27    F    .    .              .         Md                .     .     .    .    .
+ 41  2266 2342 Pumphrey      William M      6     M    .    .              .         Va                .     X     .    .    .
+ 42  2266 2342 Pumphrey      Mary E         5     F    .    .              .         Va                .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 161b
+REFERENCE: Enumerated on 24 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2266 2342 Pumphrey      Caroline       3     F    .    .              .         Va                .     .     .    .    Handwritten page #322
+ 2   2266 2342 Pumphrey      George W       6/12  M    .    .              .         Va                .     .     .    .    .
+ 3   2267 2343 Bell          David          28    M    .    Clerk          .         Va                .     .     .    .    .
+ 4   2267 2343 Bell          Mary           25    F    .    .              .         Pa                .     .     .    .    .
+ 5   2267 2343 Bell          Mary           4     F    .    .              .         Va                .     .     .    .    .
+ 6   2267 2343 Bell          Joseph         2     M    .    .              .         Va                .     .     .    .    .
+ 7   2267 2343 Mosslander    Susan          70    F    .    .              .         Pa                .     .     .    .    .
+ 8   2267 2343 Mosslander    Rebecca        24    F    .    .              .         Pa                .     .     .    .    .
+ 9   2268 2344 Jeffers       Elijah C       39    M    .    Merchant       2,200     District Columbia .     .     .    .    .
+ 10  2268 2344 Jeffers       Charlotte      29    F    .    .              .         Va                .     .     .    .    .
+ 11  2268 2344 Jeffers       Mary E         8     F    .    .              .         Va                .     X     .    .    .
+ 12  2268 2344 Jeffers       Mathias        6     M    .    .              .         Va                .     X     .    .    .
+ 13  2268 2344 Jeffers       Anna M         4     F    .    .              .         Va                .     .     .    .    .
+ 14  2268 2344 Jeffers       Ellenora       10/12 F    .    .              .         Va                .     .     .    .    .
+ 15  2268 2344 Bizer         Joanna         19    F    .    .              .         Germany           .     .     .    .    .
+ 16  2269 2345 Levy          Ann            50    F    .    .              .         Ireland           .     .     .    .    .
+ 17  2270 2346 Bateman       Eliza          40    F    .    .              .         Va                .     .     .    .    .
+ 18  2270 2346 Bateman       James          11    M    .    .              .         Va                .     .     .    .    .
+ 19  2270 2346 Bateman       John           3     M    .    .              .         Va                .     .     .    .    .
+ 20  2271 2347 Exley         Benjamine      42    M    .    Carpenter      8,000     England           .     .     .    .    .
+ 21  2271 2347 Exley         Ellen          44    F    .    .              .         England           .     .     .    .    .
+ 22  2272 2348 Blanchard     Isaac          36    M    .    Merchant       7,000     England           .     .     .    .    .
+ 23  2272 2348 Blanchard     Mary           37    F    .    .              .         Pa                .     .     .    .    .
+ 24  2272 2348 Pugh          Elizabeth      19    F    .    .              .         Va                .     .     .    .    .
+ 25  2273 2349 Whitmarsh     Jane           48    F    .    .              .         Ohio              .     .     .    .    .
+ 26  2273 2349 Whitmarsh     George         21    M    .    Tobacconist    .         Va                .     .     .    .    .
+ 27  2273 2349 Whitmarsh     Anna           18    F    .    .              .         Va                .     .     .    .    .
+ 28  2273 2349 Whitmarsh     Joseph         10    M    .    .              .         Va                .     .     .    .    .
+ 29  2274 2350 Thompson      Adam           42    M    .    Clerk          .         Scotland          .     .     .    .    .
+ 30  2274 2350 Thompson      Catherine      42    F    .    .              .         England           .     .     .    .    .
+ 31  2274 2350 Thompson      Catherine      18    F    .    .              .         Scotland          .     .     .    .    .
+ 32  2274 2350 Thompson      Isabel         16    F    .    .              .         Scotland          .     .     .    .    .
+ 33  2274 2350 Thompson      Jennet         14    F    .    .              .         Scotland          .     X     .    .    .
+ 34  2274 2350 Thompson      Jane           12    F    .    .              .         Scotland          .     X     .    .    .
+ 35  2275 2351 Watson        Christina      60    F    .    .              .         Scotland          .     .     .    .    .
+ 36  2276 2352 Scott         George W       22    M    .    Nailor         .         Va                .     .     .    .    .
+ 37  2276 2352 Scott         Mary           20    F    .    .              .         Pa                .     .     .    .    .
+ 38  2276 2352 Scott         Ella           1     F    .    .              .         Va                .     .     .    .    .
+ 39  2277 2353 Dunham        John           38    M    .    Editor         .         New York          .     .     .    .    .
+ 40  2277 2353 Dunham        Latitia        35    F    .    .              .         Ohio              .     .     .    .    .
+ 41  2277 2353 Dunham        John P         7     M    .    .              .         Ohio              .     X     .    .    .
+ 42  2277 2353 Dunham        William        4     M    .    .              .         Ohio              .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 162a
+REFERENCE: Enumerated on 24 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2277 2353 Dunham        Alexander      6/12  M    .    .              .         Va                .     .     .    .    Handwritten page #323
+ 2   2277 2353 Tusly         Mary M         19    F    .    .              .         Ohio              .     .     .    .    .
+ 3   2278 2354 Baird         William        25    M    .    Painter        .         Va                .     .     .    .    .
+ 4   2278 2354 Baird         Mary J         23    F    .    .              .         Ireland           .     .     .    .    .
+ 5   2278 2354 Baird         Mary           1     F    .    .              .         Va                .     .     .    .    .
+ 6   2278 2354 Ensinger      William        17    M    .    Painter        .         Germany           .     .     .    .    .
+ 7   2278 2354 Vardy         **sher         24    F    .    .              .         Ireland           .     .     .    .    .
+ 8   2279 2355 Blair         Thomas         25    M    .    Merchant       .         Pa                .     .     .    .    .
+ 9   2279 2355 Blair         Barbery        23    F    .    .              .         Ireland           .     .     .    .    .
+ 10  2280 2356 Strain        Mary Ann       53    F    .    .              .         Pa                .     .     .    .    .
+ 11  2280 2356 Strain        David F        24    M    .    Civil Engineer .         Ohio              .     .     .    .    .
+ 12  2280 2356 Strain        Thomas T       27    M    .    Moulder        2,000     Ohio              .     .     .    .    .
+ 13  2280 2356 Strain        Isabel         18    F    .    .              .         Ohio              .     .     .    .    .
+ 14  2280 2356 Strain        Mary           16    F    .    .              .         Va                .     .     .    .    .
+ 15  2280 2356 Strain        Samuel         14    M    .    .              .         Va                .     X     .    .    .
+ 16  2280 2356 Strain        Robert         69    M    .    None           .         Ireland           .     .     .    .    .
+ 17  2281 2357 Salsbury      Elizabeth      75    F    .    .              5,000     New Jersey        .     .     .    .    .
+ 18  2281 2357 Salsbury      Samuel         36    M    .    Foundry business 2,000   Pa                .     .     .    .    .
+ 19  2281 2357 Salsbury      William        23    M    .    Carpenter      .         Pa                .     .     .    .    .
+ 20  2281 2357 Cunningham    George         27    M    .    Grocer         .         Pa                .     .     .    .    .
+ 21  2281 2357 Cunningham    Jane           25    F    .    .              .         Pa                .     .     .    .    .
+ 22  2281 2357 Cunningham    Samuel W       4     M    .    .              .         Va                .     .     .    .    .
+ 23  2282 2358 Beymer        John           50    M    .    Tinner         .         Va                .     .     .    .    .
+ 24  2282 2358 Beymer        Jane           40    F    .    .              .         New York          .     .     .    .    .
+ 25  2282 2358 Beymer        Ann            16    F    .    .              .         Indianna          .     .     .    .    .
+ 26  2282 2358 Beymer        Virginia       8     F    .    .              .         Va                .     X     .    .    .
+ 27  2282 2358 Beymer        Isabel         6     F    .    .              .         Va                .     .     .    .    .
+ 28  2282 2358 Beymer        Emeline        1     F    .    .              .         Va                .     .     .    .    .
+ 29  2283 2359 Harvey        William        42    M    .    Stone Mason    .         Md                .     .     .    .    .
+ 30  2283 2359 Harvey        Sarah          42    F    .    .              .         Md                .     .     .    .    .
+ 31  2283 2359 Harvey        George A       21    M    .    Moulder        .         Ohio              .     .     .    .    .
+ 32  2283 2359 Harvey        Mary E         19    F    .    .              .         Ohio              .     .     .    .    .
+ 33  2283 2359 Harvey        Hester J       17    F    .    .              .         Ohio              .     .     .    .    .
+ 34  2283 2359 Harvey        David C        13    M    .    .              .         Ohio              .     .     .    .    .
+ 35  2283 2359 Harvey        Christina      10    F    .    .              .         Ohio              .     .     .    .    .
+ 36  2283 2359 Harvey        Joseph T       8     M    .    .              .         Ohio              .     .     .    .    .
+ 37  2283 2359 Harvey        Margret M      4     F    .    .              .         Ohio              .     .     .    .    .
+ 38  2283 2359 Harvey        John T         2     M    .    .              .         Va                .     .     .    .    .
+ 39  2284 2360 Trimble       Theodore       33    M    .    Tobacconist    .         Pa                .     .     .    .    .
+ 40  2284 2360 Trimble       Ellenor        28    F    .    .              .         Pa                .     .     .    .    .
+ 41  2284 2360 Trimble       Augusta        8     F    .    .              .         Pa                .     .     .    .    .
+ 42  2284 2360 Trimble       William H      1     M    .    .              .         Va                .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 162b
+REFERENCE: Enumerated on 24 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2284 2360 Moore         Nancy          17    F    .    .              .         Va                .     .     .    .    Handwritten page #324
+ 2   2285 2361 Jeffers       Mathias        48    M    .    Plasterer      2,000     District Columbia .     .     .    .    .
+ 3   2285 2361 Jeffers       Cornelia       12    F    .    .              .         Va                .     X     .    .    .
+ 4   2285 2361 Jeffers       William        9     M    .    .              .         Va                .     X     .    .    .
+ 5   2285 2361 Jeffers       George         14    M    .    .              .         Va                .     X     .    .    .
+ 6   2285 2361 Morrin        Robert         19    M    .    Plasterer      .         Va                .     .     .    .    .
+ 7   2285 2361 Long          Betsey         49    F    .    .              .         Pa                .     .     .    .    .
+ 8   2285 2361 McCaskey      John           40    M    .    Plasterer      .         Va                .     .     .    .    .
+ 9   2285 2361 Paden         Hugh           24    M    .    Plasterer      .         Va                .     .     .    .    .
+ 10  2286 2362 Bier          Phillip        73    M    .    Alderman       1,000     Md                .     .     .    .    .
+ 11  2286 2362 Bier          Patience       69    F    .    .              .         Pa                .     .     .    .    .
+ 12  2286 2362 Bier          Mariah         36    F    .    .              .         Pa                .     .     .    .    .
+ 13  2286 2362 Bier          Patience       29    F    .    .              .         Va                .     .     .    .    .
+ 14  2286 2362 Bier          Alexander      27    M    .    None           .         Va                .     .     .    .    .
+ 15  2286 2362 Bier          Elizabeth      25    F    .    .              .         Ohio              .     .     .    .    .
+ 16  2286 2362 Bier          Mariah         1     F    .    .              .         Va                .     .     .    .    .
+ 17  2286 2362 Bier          Caroline       24    F    .    .              .         Va                .     .     .    .    .
+ 18  2287 2363 Cline         Joseph         76    M    .    None           .         Pa                .     .     .    .    .
+ 19  2287 2363 Cline         Hannah         63    F    .    .              .         Pa                .     .     .    .    .
+ 20  2287 2363 Cline         Josiah         23    M    .    Laborer        .         Va                .     .     .    .    .
+ 21  2287 2363 Cline         Sarah          17    F    .    .              .         Va                .     .     .    .    .
+ 22  2288 2364 Cline         Washington     33    M    .    Blacksmith     .         Pa                .     .     .    .    .
+ 23  2288 2364 Cline         Rebecca        25    F    .    .              .         District Columbia .     .     .    .    .
+ 24  2288 2364 Cline         Joseph W       5     M    .    .              .         Va                .     .     .    .    .
+ 25  2288 2364 Cline         Rebecca        6/12  F    .    .              .         Va                .     .     .    .    .
+ 26  2289 2365 Cade          Daniel         25    M    .    Blacksmith     .         Ohio              .     .     .    .    .
+ 27  2289 2365 Cade          Matilda        29    F    .    .              .         Va                .     .     .    .    .
+ 28  2289 2365 Cade          Lawrence       4     M    .    .              .         Va                .     .     .    .    .
+ 29  2289 2365 Cade          Alonzo         1     M    .    .              .         Va                .     .     .    .    .
+ 30  2289 2365 Millinger     Catherine      11    F    .    .              .         Germany           .     .     .    .    .
+ 31  2289 2365 Smalley       Sarah          19    F    .    .              .         Pa                .     .     .    .    .
+ 32  2290 2366 Clancy        Martin         40    M    .    Laborer        .         Ireland           .     .     X    .    .
+ 33  2290 2366 Clancy        Mary           35    F    .    .              .         Ireland           .     .     X    .    .
+ 34  2290 2366 Clancy        Michiel        18    M    .    Laborer        .         Ireland           .     .     .    .    .
+ 35  2290 2366 Clancy        Martin         14    M    .    .              .         Ireland           .     .     .    .    .
+ 36  2290 2366 Clancy        Mary           12    F    .    .              .         Ireland           .     .     .    .    .
+ 37  2290 2366 Clancy        James          8     M    .    .              .         Ireland           .     .     .    .    .
+ 38  2290 2366 Clancy        Hugh           6     M    .    .              .         Ireland           .     .     .    .    .
+ 39  2291 2367 White         James          35    M    .    Laborer        .         Ireland           .     .     .    .    .
+ 40  2291 2367 White         Margret        21    F    .    .              .         Ireland           .     .     .    .    .
+ 41  2291 2367 White         Frances        2     F    .    .              .         Ohio              .     .     .    .    .
+ 42  2291 2367 White         John           1     M    .    .              .         Ohio              .     .     .    .    .
+
+CENSUS YR: 1850  STATE: (W)VA  COUNTY: Ohio  DIVISION: 44th District  REEL NO: M432-966  PAGE NO: 163a
+REFERENCE: Enumerated on 24 October 1850 by B. F. Killey  (City of Wheeling, 4th Ward)
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   2292 2368 Baldwin       Ann            57    F    .    .              4,000     Pa                .     .     .    .    Handwritten page #325
+ 2   2292 2368 Baldwin       William        28    M    .    Brick layer    .         Pa                .     .     .    .    .
+ 3   2292 2368 Baldwin       George         24    M    .    Laborer        .         Va                .     .     .    .    .
+ 4   2292 2368 Baldwin       Henry          22    M    .    Roller         .         Va                .     .     .    .    .
+ 5   2292 2368 Baldwin       Hester         18    F    .    .              .         Va                .     .     .    .    .
+ 6   2292 2368 Baldwin       Thomas         16    M    .    Roller         .         Va                .     .     .    .    .
+ 7   2292 2368 Baldwin       Caroline V     13    F    .    .              .         Va                .     .     .    .    .
+ 8   2292 2368 Husler        David          28    M    .    Carpenter      .         Delaware          .     .     .    .    .
+ 9   2292 2368 Husler        Ruth           30    F    .    .              .         Pa                .     .     .    .    .
+ 10  2292 2368 Haywood       George         27    M    .    Carpenter      .         Va                .     .     .    .    .
+ 11  2292 2368 Baldwin       Narcissa       19    F    .    .              .         Ohio              .     .     .    .    .
+ 12  2292 2368 Baldwin       Robert         9/12  M    .    .              .         Ohio              .     .     .    .    .
+ 13  2293 2369 Madden        Margret        60    F    .    .              .         Pa                .     .     .    .    .
+ 14  2293 2369 Madden        Anna           15    F    .    .              .         Va                .     .     .    .    .
+ 15  2293 2369 Madden        Joseph         19    M    .    Laborer        .         Va                .     .     .    .    .
+ 16  2293 2369 Madden        Jack           32    M    .    Fisherman      .         Va                .     .     .    .    .
+ 17  2293 2369 Madden        Arminda        17    F    .    .              .         Ohio              .     .     .    .    .
+ 18  2294 2370 Lyons         Francis        55    M    .    Laborer        .         Ireland           .     .     .    .    .
+ 19  2294 2370 Lyons         Isabella       48    F    .    .              .         Ireland           .     .     .    .    .
+ 20  2294 2370 Lyons         Mary           20    F    .    .              .         Ireland           .     .     .    .    .
+ 21  2295 2371 Pool          Benjamine      58    M    .    Laborer        .         Va                .     .     .    .    .
+ 22  2295 2371 Pool          Rachel         54    F    .    .              .         Pa                .     .     .    .    .
+ 23  2295 2371 Pool          Alexander      18    M    .    Laborer        .         Va                .     .     .    .    .
+ 24  2295 2371 Pool          Robert         14    M    .    .              .         Va                .     .     .    .    .
+ 25  2296 2372 Fannegan      Catherine L    34    F    .    .              .         Va                .     .     .    .    .
+ 26  2296 2372 Fannegan      Amanda         15    F    .    .              .         Va                .     .     .    .    .
+ 27  2296 2372 Fannegan      James          3     M    .    .              .         Va                .     .     .    .    .
+ 28  2297 2373 Dawson        George         35    M    .    Laborer        .         Pa                .     .     .    .    .
+ 29  2297 2373 Dawson        Rosannah       30    F    .    .              .         Ohio              .     .     .    .    .
+ 30  2297 2373 Dawson        Ellenor V      11    F    .    .              .         Va                .     .     .    .    .
+ 31  2297 2373 Dawson        William E      3     M    .    .              .         Va                .     .     .    .    .
+ 32  2297 2373 Dawson        Thomas         1     M    .    .              .         Va                .     .     .    .    .
+ 33  2298 2374 Cammeron      Archabald      29    M    .    Black Smith    .         Scotland          .     .     .    .    .
+ 34  2298 2374 Cammeron      Frances Ann    23    F    .    .              .         Va                .     .     .    .    .
+ 35  2298 2374 Cammeron      Mary E         4     F    .    .              .         Va                .     .     .    .    .
+ 36  2298 2374 Cammeron      Susan V        6/12  F    .    .              .         Va                .     .     .    .    .
+ 37  2299 2375 Fox           Jeremiah       25    M    .    Cooper         .         Pa                .     .     .    .    .
+ 38  2299 2375 Fox           Sarah          20    F    .    .              .         Va                .     .     .    .    .
+ 39  2299 2375 Fox           Indianna       2     F    .    .              .         Va                .     .     .    .    .
+ 40  2299 2375 Fox           William        2     M    .    .              .         Va                .     .     .    .    .
+ 41  2299 2375 Fox           Susannah       6/12  F    .    .              .         Va                .     .     .    .    .
+ 42  2299 2375 Galliher      Mary           16    F    .    .              .         New York          .     .     .    .    .

@@ -1,0 +1,855 @@
+DELAWARE, OH 1850 Federal Census
+http://ftp.us-census.org/pub/usgenweb/census/oh/delaware/1850/
+(File 3 of 5 for Delaware Township)
+
+This Census was transcribed by Barb Karr and proofread by Linda Talbott
+for the USGenWeb Census Project®, http://www.us-census.org/
+
+Copyright(c) 2010 by Barb Karr
+<Transcriber@US-Census.org>
+
+==========================================================================
+USGENWEB (US-CENSUS) NOTICE: These electronic pages may NOT be reproduced
+in any format for profit or presentation by any other organization.
+Non-commercial organizations desiring to use this material must obtain
+the consent of the transcriber prior to use.  <Transcriber@US-Census.org>
+Individuals desiring to use this material in their own research may do so.
+==========================================================================
+Formatted by USGenWeb Census Project® File Manager, Linda Talbott
+All of the above information must remain when copied or downloaded.
+==========================================================================
+
+    CENSUS-YEAR 1850                 CENSUS-DAY: June 1, 1850
+    MICROFILM   #M432-675
+    STATE       OHIO
+    COUNTY      DELAWARE
+
+---------------------Begin Actual Transcription---------------------------
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 179a
+REFERENCE: Henry Hodgen; 2 August 1850; Hw Pg. 359
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1153 1156 Wall          Thomas         21    M    .    Shoemaker      .         O                 .     .     .    .    .
+ 2   1153 1156 Bossford      .              25    M    .    Shoemaker      .         O                 .     .     .    .    No first name given
+ 3   1154 1157 Owston        Wm.            46    M    .    Mason          1,500     England           .     .     .    .    .
+ 4   1154 1157 Owston        Jane           48    F    .    .              .         England           .     .     .    .    .
+ 5   1154 1157 Owston        Thomas H.      17    M    .    .              .         O                 .     X     .    .    .
+ 6   1154 1157 Owston        Henry          13    M    .    .              .         O                 .     X     .    .    .
+ 7   1154 1157 Owston        Wm.            11    M    .    .              .         O                 .     X     .    .    .
+ 8   1154 1157 Owston        Charles V.     4     M    .    .              .         O                 .     .     .    .    .
+ 9   1154 1157 Howson        Julia A.       17    F    .    .              .         Germany           .     .     .    .    .
+ 10  1154 1157 Dort          Daniel         22    M    .    Mason          .         Pa                .     .     .    .    .
+ 11  1155 1158 Crook         Jacob          21    M    .    Printer        .         Pa                X     .     .    .    .
+ 12  1155 1158 Crook         Martha J.      19    F    .    .              .         NY                X     X     .    .    .
+ 13  1155 1158 Crook         Mary J.        2/12  F    .    .              .         O                 .     .     .    .    .
+ 14  1156 1159 Neilson       George         25    M    .    Mason          800       O                 .     .     .    .    .
+ 15  1156 1159 Neilson       Sarah          19    F    .    .              .         Pa                .     .     .    .    .
+ 16  1157 1160 Brown         George         41    M    .    Stone Cutter   600       England           .     .     .    .    .
+ 17  1157 1160 Brown         Mary Ann       32    F    .    .              .         NY                .     .     .    .    .
+ 18  1157 1160 Brown         Wm.            16    M    .    .              .         NY                .     X     .    .    .
+ 19  1157 1160 Brown         Agnes          15    M    .    .              .         NY                .     X     .    .    .
+ 20  1157 1160 Brown         George         8     M    .    .              .         O                 .     X     .    .    .
+ 21  1157 1160 Brown         Margarett J.   5     F    .    .              .         O                 .     X     .    .    .
+ 22  1157 1160 Brown         Emelett        2     F    .    .              .         O                 .     .     .    .    .
+ 23  1157 1160 Brown         Infant         2/12  F    .    .              .         O                 .     .     .    .    .
+ 24  1158 1161 Wells         Wm.            47    M    .    Butcher        .         NY                .     .     .    .    .
+ 25  1158 1161 Wells         Margarett M.C. 38    F    .    .              .         Mass              .     .     .    .    .
+ 26  1158 1161 Wells         Wm., Jr.       16    M    .    .              .         O                 .     .     .    .    .
+ 27  1158 1161 Wells         Samuel         11    M    .    .              .         O                 .     X     .    .    .
+ 28  1158 1161 Wells         Mary B.        8     F    .    .              .         O                 .     X     .    .    .
+ 29  1158 1161 Wells         Virginia W.    7     F    .    .              .         O                 .     X     .    .    .
+ 30  1158 1161 Wells         Ann Clay       2     F    .    .              .         O                 .     .     .    .    .
+ 31  1158 1161 Wells         Charles E.     2/12  M    .    .              .         O                 .     .     .    .    .
+ 32  1158 1161 Wells         Margarett      80    F    .    .              .         NJ                .     .     .    .    .
+ 33  1159 1162 Ackerman      Jonathan       38    M    .    Painter        200       NY                .     .     .    .    .
+ 34  1159 1162 Ackerman      Elizabeth      28    F    .    .              .         Mass              .     .     .    .    .
+ 35  1159 1162 Ackerman      Goerge P.      2     M    .    .              .         O                 .     .     .    .    .
+ 36  1159 1162 Ackerman      Wm. W.         1     M    .    .              .         O                 .     .     .    .    .
+ 37  1159 1162 DeVois        Ellen          12    F    .    .              .         O                 .     .     .    .    .
+ 38  1160 1163 Caton         Aaron          30    M    .    Tailor         .         Va                .     .     .    .    .
+ 39  1160 1163 Caton         Sarah          26    F    .    .              .         O                 .     .     .    .    .
+ 40  1160 1163 Caton         Julia          7     F    .    .              .         Mass              .     X     .    .    .
+ 41  1160 1163 Caton         Mary E.        5     F    .    .              .         O                 .     X     .    .    .
+ 42  1160 1163 Caton         Wm. B.         2     M    .    .              .         O                 .     .     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 179b
+REFERENCE: Henry Hodgen; 2 August 1850; Hw Pg. 360
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1160 1163 Caton         Nancy          9/12  F    .    .              .         O                 .     .     .    .    .
+ 2   1161 1164 McCoy         James          35    M    .    School Teacher 800       Pa                .     .     .    .    .
+ 3   1161 1164 McCoy         Elizabeth      62    F    .    .              .         Pa                .     .     .    .    .
+ 4   1161 1164 McCoy         Elizabeth, Jr. 23    F    .    .              .         O                 .     .     .    .    .
+ 5   1162 1165 Hellen        Charles        37    M    .    Farmer         500       Pa                .     .     .    .    .
+ 6   1162 1165 Hellen        Nancy          27    F    .    .              .         O                 .     .     .    .    .
+ 7   1162 1165 Trout         Andrew         6     M    .    .              .         O                 .     .     .    .    .
+ 8   1163 1166 Hiller        Owen           29    M    .    Farmer         .         Pa                .     .     .    .    .
+ 9   1163 1166 Hiller        Lovina         30    F    .    .              .         Pa                .     .     .    .    .
+ 10  1163 1166 Hiller        Edwin          5     M    .    .              .         O                 .     .     .    .    .
+ 11  1163 1166 Hiller        Elias          2     M    .    .              .         O                 .     .     .    .    .
+ 12  1164 1167 Hiller        Elias          65    M    .    Farmer         3,000     Pa                .     .     .    .    .
+ 13  1164 1167 Hiller        Hannah         66    F    .    .              .         Pa                .     .     .    .    .
+ 14  1164 1167 Welter        Joseph         30    M    .    Laborer        .         Pa                .     .     .    .    .
+ 15  1165 1168 Heller        Jacob          26    M    .    Tailor         500       Pa                .     .     .    .    .
+ 16  1165 1168 Heller        Sarah          21    F    .    .              .         Pa                .     .     .    .    .
+ 17  1165 1168 Heller        Mary J.        9/12  F    .    .              .         O                 .     .     .    .    .
+ 18  1166 1169 Wilch hannah  George         53    M    .    Laborer        .         Pa                .     .     X    .    Surname: Wilch haunch/Wilch hannah
+ 19  1166 1169 Wilch hannah  Emily          30    F    .    .              .         O                 .     .     X    .    .
+ 20  1166 1169 Wilch hannah  George, Jr.    8     M    .    .              .         O                 .     X     .    .    .
+ 21  1166 1169 Wilch hannah  Henry          6     M    .    .              .         O                 .     .     .    .    .
+ 22  1166 1169 Wilch hannah  Harriett C.    5     F    .    .              .         O                 .     .     .    .    .
+ 23  1166 1169 Wilch hannah  Julia A.       3     F    .    .              .         O                 .     .     .    .    .
+ 24  1166 1169 Wilch hannah  Wm. N.         8/12  M    .    .              .         O                 .     .     .    .    .
+ 25  1167 1170 Hillier       Michael        34    M    .    Laborer        .         Pa                .     .     .    .    .
+ 26  1167 1170 Hillier       Christiana     34    F    .    .              .         Germany           .     .     .    .    .
+ 27  1167 1170 Hillier       Hannah         1     F    .    .              .         O                 .     .     .    .    .
+ 28  1168 1171 Bryan         Thomas         38    M    .    Coppersmith    .         England           .     .     .    .    .
+ 29  1168 1171 Bryan         Mary           38    F    .    .              .         England           .     .     .    .    .
+ 30  1168 1171 Bryan         Elizabeth      15    F    .    .              .         O                 .     X     .    .    .
+ 31  1168 1171 Bryan         Anna           8     F    .    .              .         O                 .     .     .    .    .
+ 32  1168 1171 Bryan         Martha J.      8/12  F    .    .              .         O                 .     .     .    .    .
+ 33  1169 1172 Ensign        Wright         29    M    .    Stove Pedler   .         NY                .     .     .    .    .
+ 34  1169 1172 Ensign        Sabra          25    F    .    .              .         NY                .     .     .    .    .
+ 35  1169 1172 Ensign        Ruben          3     M    .    .              .         O                 .     .     .    .    .
+ 36  1169 1172 Ensign        Otis           6     M    .    .              .         O                 .     X     .    .    .
+ 37  1169 1172 Ensign        Martha         1     F    .    .              .         O                 .     .     .    .    .
+ 38  1170 1173 Ensign        Wright         36    M    .    Farmer         800       O                 .     .     .    .    .
+ 39  1170 1173 Ensign        Mary           32    F    .    .              .         O                 .     .     .    .    .
+ 40  1170 1173 Ensign        Samuel         9     M    .    .              .         O                 .     .     .    .    .
+ 41  1171 1174 Peck          Benjamin       42    M    .    Joiner & Carpenter .     Conn              .     .     .    .    .
+ 42  1171 1174 Peck          Mary M.        28    F    .    .              .         Vt                .     .     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 180a
+REFERENCE: Henry Hodgen; 2 August 1850; Hw Pg. 361
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1171 1174 Peck          Mary Ann       14    F    .    .              .         O                 .     X     .    .    First Name: Mary Ann/May Ann
+ 2   1171 1174 Peck          Sarah          12    F    .    .              .         O                 .     X     .    .    .
+ 3   1171 1174 Peck          Eliza J.       10    F    .    .              .         O                 .     X     .    .    .
+ 4   1171 1174 Peck          Irvin B.       7     M    .    .              .         O                 .     X     .    .    .
+ 5   1171 1174 Peck          Harriett D.    4     F    .    .              .         O                 .     X     .    .    .
+ 6   1171 1174 Peck          David W.       1     M    .    .              .         O                 .     .     .    .    .
+ 7   1172 1175 Ensign        Otis           31    M    .    Stone Pedler   .         NY                .     .     .    .    .
+ 8   1172 1175 Ensign        Hannah         21    F    .    .              .         NY                .     .     .    .    .
+ 9   1172 1175 Ensign        Dwight         2     M    .    .              .         NY                .     .     .    .    .
+ 10  1172 1175 Ensign        Susan          4/12  F    .    .              .         O                 .     .     .    .    .
+ 11  1173 1176 Howel         David          45    M    .    Physician      .         Del               .     .     .    .    .
+ 12  1173 1176 Howel         Margarett      28    F    .    .              .         Pa                .     .     .    .    .
+ 13  1173 1176 Warren        Ezra           11    M    .    .              .         O                 .     .     .    .    .
+ 14  1173 1176 Warren        Mary           22    F    .    .              .         O                 .     .     .    .    .
+ 15  1174 1177 Allen         Horace         45    M    .    Trader         1,500     Vt                .     .     .    .    .
+ 16  1174 1177 Allen         Jane           33    F    .    .              .         Pa                .     .     .    .    .
+ 17  1174 1177 Allen         Heber          5     M    .    .              .         O                 .     .     .    .    .
+ 18  1174 1177 Allen         Mary J.        3     F    .    .              .         O                 .     .     .    .    .
+ 19  1174 1177 Allen         George         10/12 M    .    .              .         O                 .     .     .    .    .
+ 20  1174 1177 Wallace       Ann            16    F    .    .              .         O                 .     .     .    .    .
+ 21  1174 1177 Allen         Nancy          71    F    .    .              .         Conn              .     .     .    .    .
+ 22  1174 1177 Springer      Lucy           31    F    .    .              .         O                 .     .     .    .    .
+ 23  1174 1177 Springer      Warren A.      5     M    .    .              .         O                 .     .     .    .    .
+ 24  1174 1177 Springer      Flora          2     F    .    .              .         O                 .     .     .    .    .
+ 25  1175 1178 Torrey        Wm. T.         64    M    .    N.S.P. Clergyman .       Mass              .     .     .    .    .
+ 26  1175 1178 Torrey        Betsey         65    F    .    .              .         Mass              .     .     .    .    .
+ 27  1175 1178 Torrey        Charles W.     34    M    .    .              .         NY                .     .     .    .    .
+ 28  1175 1178 Torrey        Moriah E.      24    F    .    .              .         NY                .     .     .    .    .
+ 29  1175 1178 Torrey        Jane           2     F    .    .              .         O                 .     .     .    .    .
+ 30  1175 1178 Torrey        Infant         2/12  M    .    .              .         O                 .     .     .    .    .
+ 31  1176 1179 Barchard      Thomas         42    M    .    Shoemaker      .         England           .     .     .    .    .
+ 32  1176 1179 Barchard      Sarah          40    F    .    .              .         England           .     .     .    .    .
+ 33  1176 1179 Barchard      Jane           11    F    .    .              .         England           .     X     .    .    .
+ 34  1176 1179 Barchard      Ann            9     F    .    .              .         England           .     X     .    .    .
+ 35  1176 1179 Barchard      Wm.            7     M    .    .              .         England           .     X     .    .    .
+ 36  1176 1179 Barchard      Thomas         3     M    .    .              .         England           .     .     .    .    .
+ 37  1177 1180 Lindsey       Samuel         54    M    .    Farmer         1,800     Pa                .     .     .    .    .
+ 38  1177 1180 Lindsey       Elizabeth      55    F    .    .              .         Pa                .     .     .    .    .
+ 39  1177 1180 Lindsey       Samuel N.      16    M    .    Farmer         .         O                 .     X     .    .    .
+ 40  1177 1180 Lindsey       Martha E.      14    F    .    .              .         O                 .     .     .    .    .
+ 41  1178 1181 Day           John           21    M    .    Shoemaker      .         England           .     .     .    .    .
+ 42  1178 1181 Day           Isaac          27    M    .    Shoemaker      .         England           .     .     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 180b
+REFERENCE: Henry Hodgen; 3 August 1850; Hw Pg. 362
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1178 1181 Day           Miram          57    M    .    .              .         England           .     .     .    .    .
+ 2   1178 1181 Fierce        Catharine      16    F    .    .              .         Germany           .     .     .    .    .
+ 3   1178 1181 Obel          Caroline       31    F    .    .              .         Germany           .     .     .    .    .
+ 4   1178 1181 Obel          John           32    M    .    Brewer         .         Germany           .     .     .    .    * placed in front of name by enumerator.  Name should likely have been
+ 5   1179 1182 Johnson       Zachariah      58    M    .    Ashery         .         NJ                .     .     X    .    .
+ 6   1179 1182 Johnson       Menerva        49    F    .    .              .         Vt                .     .     X    .    .
+ 7   1179 1182 Johnson       Elizabeth      20    F    .    .              .         O                 .     .     .    .    .
+ 8   1179 1182 Johnson       Abagail        18    F    .    .              .         O                 .     .     .    .    .
+ 9   1179 1182 Johnson       Daniel         17    M    .    .              .         O                 .     X     .    .    .
+ 10  1179 1182 Johnson       Minerva        14    F    .    .              .         O                 .     X     .    .    .
+ 11  1179 1182 Johnson       Lavancha       10    F    .    .              .         O                 .     X     .    .    .
+ 12  1180 1183 Fleishman     C.F.           44    M    .    Cooper         800       Saxony            .     .     .    .    .
+ 13  1180 1183 Fleishman     Charlath       33    F    .    .              .         France            .     .     .    .    .
+ 14  1180 1183 Fleishman     Adeline        12    F    .    .              .         O                 .     X     .    .    .
+ 15  1180 1183 Fleishman     Frederick W.   10    M    .    .              .         O                 .     X     .    .    .
+ 16  1180 1183 Fleishman     George A.      8     M    .    .              .         O                 .     X     .    .    .
+ 17  1180 1183 Fleishman     Maxmillon      5     M    .    .              .         O                 .     X     .    .    .
+ 18  1180 1183 Fleishman     Martin L.      3     M    .    .              .         O                 .     X     .    .    .
+ 19  1181 1184 Sherman       John           66    M    .    Laborer        .         Atlantic O        .     .     X    .    .
+ 20  1181 1184 Sherman       Mary           46    F    .    .              .         Pa                .     .     X    .    .
+ 21  1181 1184 Sherman       James          15    M    .    .              .         O                 .     X     .    .    .
+ 22  1182 1185 Shaw          Wm.            46    M    .    Laborer        .         Pa                .     .     .    .    .
+ 23  1182 1185 Shaw          Mary           33    F    .    .              .         O                 .     .     .    .    .
+ 24  1182 1185 Roberson      Elizabeth      15    F    .    .              .         O                 .     .     .    .    .
+ 25  1182 1185 Roberson      Charles        7     M    .    .              .         O                 .     X     .    .    .
+ 26  1182 1185 Shaw          David          5     M    .    .              .         O                 .     X     .    .    .
+ 27  1182 1185 Shaw          Mary           3     F    .    .              .         O                 .     .     .    .    .
+ 28  1183 1186 Willey        Benj.          50    M    .    Clothier       .         Conn              .     .     .    .    .
+ 29  1183 1186 Willey        Moriah         49    F    .    .              .         Vt                .     .     .    .    .
+ 30  1183 1186 Willey        Hiram V.       21    M    .    Machinist      .         O                 .     .     .    .    .
+ 31  1183 1186 Willey        Benj. F.       14    M    .    .              .         O                 .     X     .    .    .
+ 32  1183 1186 Husted        Elmand         17    M    .    Machinist      .         O                 .     .     .    .    .
+ 33  1183 1186 Simpson       George         22    M    .    Foundry        .         O                 .     .     .    .    .
+ 34  1183 1186 McDonald      Wm.            20    M    .    Foundry        .         O                 .     .     .    .    .
+ 35  1183 1186 Rogers        Alexander      17    M    .    Blacksmith     .         O                 .     .     .    .    .
+ 36  1183 1186 Null          Jacob          23    M    .    Plow Maker     .         O                 .     .     .    .    .
+ 37  1183 1186 Baker         Mary R.        24    F    .    .              .         O                 .     .     .    .    .
+ 38  1183 1186 Evans         Melissa        32    F    .    .              .         NY                .     .     .    .    .
+ 39  1183 1186 Evans         Alonzo         6     M    .    .              .         O                 .     .     .    .    .
+ 40  1183 1186 Evans         John           3     M    .    .              .         O                 .     .     .    .    .
+ 41  1184 1187 Collins       *ebry          29    M    .    Blacksmith     .         NY                .     .     .    .    .
+ 42  1184 1187 Lewis         John           40    M    B    Mason          .         Conn              .     .     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 181a
+REFERENCE: Henry Hodgen; 3 August 1850; Hw Pg. 363
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1184 1187 Lewis         Nancy          40    F    B    .              .         O                 .     .     .    .    .
+ 2   1184 1187 Lewis         George         16    M    B    .              .         O                 .     .     .    .    .
+ 3   1184 1187 Lewis         Mary           14    F    B    .              .         O                 .     .     .    .    .
+ 4   1184 1187 Lewis         Austin         12    M    B    .              .         O                 .     .     .    .    .
+ 5   1184 1187 Lewis         Ann E.         10    F    B    .              .         O                 .     .     .    .    .
+ 6   1184 1187 Lewis         John W.        8     M    B    .              .         O                 .     .     .    .    .
+ 7   1184 1187 Lewis         Abednege       6     M    B    .              .         O                 .     .     .    .    .
+ 8   1184 1187 Lewis         Margaretta     2     F    M    .              .         O                 .     .     .    .    .
+ 9   1185 1188 Warden        High           60    M    B    Laborer        .         Va                .     .     .    .    .
+ 10  1185 1188 Warden        Mary           35    F    .    .              .         Va                .     .     .    .    .
+ 11  1186 1189 Haven         John C.        48    M    .    M.E. Clergyman 400       NJ                .     .     .    .    .
+ 12  1186 1189 Haven         Nancy          41    F    .    .              .         O                 .     .     .    .    .
+ 13  1186 1189 Haven         A.B.           19    M    .    Student at Medicine .    O                 .     .     .    .    .
+ 14  1186 1189 Haven         Lucus A.       14    M    .    .              .         O                 .     X     .    .    .
+ 15  1186 1189 Cuningham     Rhoda J.       14    F    .    .              .         O                 .     .     .    .    .
+ 16  1187 1190 Kelly         James          55    M    .    Teamster       400       Va                .     .     X    .    .
+ 17  1187 1190 Kelly         Sarepta        50    F    .    .              .         Va                .     .     X    .    .
+ 18  1187 1190 Kelly         John A.        14    M    .    .              .         O                 .     X     .    .    .
+ 19  1187 1190 Kelly         Wm. C.         12    M    .    .              .         O                 .     X     .    .    .
+ 20  1187 1190 Kelly         Henry C.       10    M    .    .              .         O                 .     X     .    .    .
+ 21  1187 1190 Kelly         Samuel L.      8     M    .    .              .         O                 .     X     .    .    .
+ 22  1187 1190 Kelly         Antona M.      6     F    .    .              .         O                 .     X     .    .    .
+ 23  1187 1190 Chapman       Erastus        42    M    .    Mason          .         Conn              .     .     .    .    .
+ 24  1188 1191 Hombeck       Martha         33    F    .    .              .         Md                .     .     .    .    .
+ 25  1188 1191 Hombeck       Lydia S.       17    F    .    .              .         O                 .     .     .    .    .
+ 26  1188 1191 Hombeck       Wm. C.         14    M    .    .              .         O                 .     X     .    .    .
+ 27  1188 1191 Hombeck       Benj. M.       13    M    .    .              .         O                 .     X     .    .    .
+ 28  1189 1192 Brown         Martin         31    M    .    Laborer        .         Va                .     .     X    .    .
+ 29  1189 1192 Brown         Sarah D.       27    F    .    .              .         O                 .     .     X    .    .
+ 30  1189 1192 Brown         Samuel         9     M    .    .              .         O                 .     X     .    .    .
+ 31  1189 1192 Brown         Mary N.        7     F    .    .              .         O                 .     X     .    .    .
+ 32  1189 1192 Brown         Daniel E.      3     M    .    .              .         O                 .     .     .    .    .
+ 33  1190 1193 Front         Hiram          26    M    .    Laborer        .         Pa                .     .     .    .    .
+ 34  1190 1193 Front         Amos           28    M    .    Laborer        .         Pa                .     .     .    .    .
+ 35  1190 1193 Front         Elizabeth      25    F    .    .              .         Pa                .     .     .    .    .
+ 36  1190 1193 Front         Mary T.        6     F    .    .              .         O                 .     .     .    .    .
+ 37  1190 1193 Front         Sarah          4     F    .    .              .         O                 .     .     .    .    .
+ 38  1190 1193 Front         Incia          2     F    .    .              .         O                 .     .     .    .    .
+ 39  1191 1194 Davis         John J.        30    M    .    Blacksmith     .         Wales             .     .     .    .    .
+ 40  1191 1194 Davis         Catharine      30    F    .    .              .         Wales             .     .     .    .    .
+ 41  1191 1194 Davis         Bazzel         5     M    .    .              .         O                 .     .     .    .    .
+ 42  1191 1194 Hombeck       Eliza R.       10    F    .    .              .         O                 .     .     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 181b
+REFERENCE: Henry Hodgen; 3 August 1850; Hw Pg. 364
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1191 1194 Davis         William        2     M    .    .              .         Va                .     .     .    .    .
+ 2   1191 1194 Davis         Mary           8/12  F    .    .              .         O                 .     .     .    .    .
+ 3   1191 1195 Owens         Jane           66    F    .    .              400       Wales             .     .     .    .    .
+ 4   1191 1195 Young         Francis        17    M    .    Blacksmith     .         Pa                .     .     .    .    .
+ 5   1191 1195 Bennett       Lydia          22    F    .    .              .         NY                .     .     .    .    Surname: middle letters not clear to read
+ 6   1192 1196 Reynolds      Richard        55    M    .    Weaver         400       Wales             .     .     .    .    .
+ 7   1192 1196 Reynolds      Jane           25    F    .    .              .         Wales             .     .     .    .    .
+ 8   1193 1197 Worline       Adam           55    M    .    Shoemaker      .         Pa                .     .     .    .    .
+ 9   1193 1197 Worline       Mila           44    M    .    .              .         Ct                .     .     .    .    First Name: Mila/Milo
+ 10  1193 1197 Worline       Henry          27    M    .    .              .         O                 .     .     .    .    .
+ 11  1193 1197 Worline       Susan          25    F    .    .              .         O                 .     .     .    .    .
+ 12  1193 1197 Worline       James          16    M    .    .              .         O                 .     X     .    .    .
+ 13  1193 1197 Worline       Jacob          14    M    .    .              .         O                 .     X     .    .    .
+ 14  1193 1197 Worline       Edward         10    M    .    .              .         O                 .     X     .    .    .
+ 15  1193 1197 Worline       Elnora         3     F    .    .              .         O                 .     .     .    .    .
+ 16  1193 1197 Worline       Infant         2/12  F    .    .              .         O                 .     .     .    .    .
+ 17  1194 1198 Crook         Matthias       50    M    .    Foundary       .         Pa                .     .     .    .    .
+ 18  1194 1198 Crook         Mary           43    F    .    .              .         Pa                .     .     .    .    .
+ 19  1194 1198 Crook         Elisha         12    M    .    .              .         O                 .     X     .    .    .
+ 20  1194 1198 Crook         Harriett       10    F    .    .              .         O                 .     X     .    .    .
+ 21  1194 1198 Crook         Moriah         8     F    .    .              .         O                 .     X     .    .    .
+ 22  1194 1198 Stimmel       Isaac          3     M    .    .              .         O                 .     .     .    .    .
+ 23  1195 1199 Breyfogh      Joshua D.      42    M    .    Tailor         .         Pa                .     .     .    .    .
+ 24  1195 1199 Breyfogh      Mary           34    F    .    .              .         Wales             .     .     .    .    .
+ 25  1195 1199 Breyfogh      Rosilla M.     11    F    .    .              .         O                 .     X     .    .    .
+ 26  1195 1199 Breyfogh      Charles R.     8     M    .    .              .         O                 .     X     .    .    .
+ 27  1195 1199 Breyfogh      Wm. D.         5     M    .    .              .         O                 .     X     .    .    .
+ 28  1195 1199 Breyfogh      Jushua D.      3     M    .    .              .         O                 .     .     .    .    .
+ 29  1195 1199 Breyfogh      Arthur R.      1     M    .    .              .         O                 .     .     .    .    .
+ 30  1196 1200 Jones         E.C.           24    M    .    Moulder        .         O                 .     .     .    .    .
+ 31  1196 1200 Jones         Armilla J.     24    F    .    .              .         NY                .     .     .    .    .
+ 32  1196 1200 Jones         Elizabeth A.   2     F    .    .              .         O                 .     .     .    .    .
+ 33  1196 1200 Jones         Fanny E.       2/12  F    .    .              .         O                 .     .     .    .    .
+ 34  1197 1201 Little        Enos W.        40    M    .    Hatter         500       NJ                .     .     .    .    .
+ 35  1197 1201 Little        Sarah A.       34    F    .    .              .         Conn              .     .     .    .    .
+ 36  1197 1201 Little        John F.        9     M    .    .              .         O                 .     X     .    .    .
+ 37  1198 1202 Bretton       James          24    M    .    Blacksmith     1,000     Pa                .     .     .    .    Surname: Britton/Bretton
+ 38  1198 1202 Bretton       Caroline       19    F    .    .              .         Pa                .     .     .    .    .
+ 39  1199 1203 Ruch          Margarett      33    F    .    .              .         Pa                .     .     .    .    .
+ 40  1199 1203 Ruch          Sabrina        7     F    .    .              .         Pa                .     X     .    .    .
+ 41  1199 1203 Ruch          Caroline       5     F    .    .              .         Pa                .     X     .    .    .
+ 42  1199 1203 McCracken     Elizabeth      60    F    .    .              .         Pa                .     .     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 182a
+REFERENCE: Henry Hodgen; 3 August 1850; Hw Pg. 365
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1200 1204 Merrich       Frederick      40    M    .    Prof. in College .       Mass              .     .     .    .    .
+ 2   1200 1204 Merrich       Fidelia S.     35    F    .    .              .         Conn              .     .     .    .    .
+ 3   1200 1204 Merrich       Hellen M.      26    F    .    .              .         Mass              .     .     .    .    .
+ 4   1200 1204 Perkins       Fidelia        11    F    .    .              .         Illinois          .     .     .    .    .
+ 5   1200 1204 Blendon       Harriett       16    F    .    .              .         O                 .     .     .    .    .
+ 6   1200 1204 Godmen        Wm. D.         20    M    .    Proffesor in College .   O                 .     .     .    .    .
+ 7   1200 1204 Harris        Geo W.         25    M    .    Student        .         Va                .     .     .    .    .
+ 8   1200 1204 Green         Henry F.       22    M    .    Student        .         O                 .     .     .    .    .
+ 9   1201 1205 Crook         Jacob          22    M    .    Printer        .         Pa                .     .     .    .    .
+ 10  1201 1205 Crook         Martha         21    F    .    .              .         Pa                .     .     .    .    .
+ 11  1201 1205 Crook         Mary J.        2/12  F    .    .              .         O                 .     .     .    .    .
+ 12  1202 1206 Martus        Newson         25    M    B    Plasterer      .         O                 .     .     .    .    Surname: Martus/Martuz
+ 13  1202 1206 Martus        Sarah Ann      27    F    M    .              .         O                 .     .     .    .    .
+ 14  1202 1206 Martus        Telepha J.     6/12  F    B    .              .         O                 .     .     .    .    .
+ 15  1203 1207 Walling       James          38    M    .    Mason          500       O                 .     .     .    .    .
+ 16  1203 1207 Walling       Mary           37    F    .    .              .         O                 .     .     .    .    .
+ 17  1203 1207 Walling       Martha         13    F    .    .              .         O                 .     X     .    .    .
+ 18  1203 1207 Walling       Henry          10    M    .    .              .         O                 .     X     .    .    .
+ 19  1203 1207 Walling       James          5     M    .    .              .         O                 .     X     .    .    .
+ 20  1203 1207 Walling       Mary           2     F    .    .              .         O                 .     .     .    .    .
+ 21  1204 1208 Achum         Peter          45    M    .    .              .         Germany           .     .     .    .    .
+ 22  1204 1208 Achum         Catharine      39    F    .    .              .         Germany           .     .     .    .    .
+ 23  1204 1208 Achum         Belenda        16    F    .    .              .         O                 .     .     .    .    .
+ 24  1204 1208 Achum         Susan          14    F    .    .              .         O                 .     .     .    .    .
+ 25  1204 1208 Achum         William        12    M    .    .              .         O                 .     .     .    .    .
+ 26  1204 1208 Achum         Peter          9     M    .    .              .         O                 .     .     .    .    .
+ 27  1204 1208 Achum         Samuel         6     M    .    .              .         O                 .     .     .    .    .
+ 28  1205 1209 Haines        John           37    M    .    Agences of Mercantile Bus 500 Vt           .     .     .    .    .
+ 29  1205 1209 Haines        Mary           39    F    .    .              .         Vt                .     .     .    .    .
+ 30  1205 1209 Haines        Delas          12    M    .    .              .         O                 .     X     .    .    .
+ 31  1205 1209 Haines        Allice         7     F    .    .              .         O                 .     X     .    .    .
+ 32  1205 1209 Haines        Homer          5     M    .    .              .         O                 .     X     .    .    .
+ 33  1205 1209 Haines        Mary           3     F    .    .              .         O                 .     .     .    .    .
+ 34  1206 1210 Brown         Allen          50    M    B    Laborer        400       Va                .     .     .    .    .
+ 35  1206 1210 Brown         Lovinia        50    F    B    .              .         Va                .     .     .    .    .
+ 36  1206 1210 Brown         Milla          26    F    B    .              .         Va                .     .     .    .    .
+ 37  1206 1210 Brown         Mary A.        24    F    B    .              .         Va                .     .     .    .    .
+ 38  1206 1210 Brown         Martha         23    F    B    .              .         O                 .     .     .    .    .
+ 39  1206 1210 Brown         Ezekiel        22    M    B    .              .         O                 .     .     .    .    .
+ 40  1206 1210 Brown         Catharine      20    F    B    .              .         O                 .     .     .    .    .
+ 41  1206 1210 Brown         Sarah          12    F    B    .              .         O                 .     .     .    .    .
+ 42  1206 1210 Sterling      Lyne           10    M    B    .              .         O                 .     .     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 182b
+REFERENCE: Henry Hodgen; 3 August 1850; Hw Pg. 366
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1206 1210 Brown         Rachel         6     F    B    .              .         O                 .     .     .    .    .
+ 2   1207 1211 Madison       James          35    M    M    Laborer        .         Va                .     .     .    .    .
+ 3   1207 1211 Madison       Loeza          32    F    M    .              .         Ky                .     .     .    .    .
+ 4   1207 1211 Madison       Elizabeth      12    F    M    .              .         O                 .     .     .    .    .
+ 5   1207 1211 Madison       Wm.            14    M    M    .              .         O                 .     .     .    .    .
+ 6   1207 1211 Madison       Ann M.         5     F    M    .              .         O                 .     .     .    .    .
+ 7   1207 1211 Madison       Josephine      3     F    M    .              .         O                 .     .     .    .    .
+ 8   1208 1212 Balinger      Jacob          39    M    .    Rope Maker     500       Germany           .     .     .    .    .
+ 9   1208 1212 Balinger      Catharine      32    F    .    .              .         Germany           .     .     .    .    .
+ 10  1208 1212 Balinger      John           15    M    .    .              .         O                 .     X     .    .    .
+ 11  1208 1212 Balinger      Catharine      13    F    .    .              .         O                 .     X     .    .    .
+ 12  1208 1212 Balinger      Mary           10    F    .    .              .         O                 .     X     .    .    .
+ 13  1208 1212 Balinger      Jacob          8     M    .    .              .         O                 .     X     .    .    .
+ 14  1208 1212 Balinger      Sibble         1     M    .    .              .         O                 .     .     .    .    Listed as "M" by enumerator
+ 15  1209 1213 Smith         Lewis          27    M    .    Blacksmith     .         Germany           .     .     .    .    .
+ 16  1209 1213 Smith         Sebalah        27    F    .    .              .         Germany           .     .     .    .    .
+ 17  1209 1213 Yager         Eve            58    F    .    .              500       Germany           .     .     .    .    .
+ 18  1210 1214 Woodley       Aaron          28    M    .    Laborer        .         Va                .     .     .    .    .
+ 19  1210 1214 Woodley       Lavina         29    F    .    .              .         O                 .     .     .    .    .
+ 20  1210 1214 Woodley       John H.        5/12  M    .    .              .         O                 .     .     .    .    .
+ 21  1210 1214 Johnson       Lucretia       22    F    .    .              .         Va                .     .     .    .    .
+ 22  1210 1214 Johnson       Wm.            5/12  M    .    .              .         O                 .     .     .    .    .
+ 23  1211 1215 Goodman       Israel         25    M    .    Mason          .         Pa                .     .     .    .    .
+ 24  1211 1215 Goodman       Elizabeth      21    F    .    .              .         O                 .     .     .    .    .
+ 25  1211 1215 Goodman       Samuel O.      3     M    .    .              .         O                 .     .     .    .    .
+ 26  1211 1215 Goodman       Charles F.     8/12  M    .    .              .         O                 .     .     .    .    .
+ 27  1211 1215 Moyer         George         20    M    .    Mason          .         Pa                .     .     .    .    .
+ 28  1212 1216 Goodman       Franklin       24    M    .    Mason          .         Pa                .     .     .    .    .
+ 29  1212 1216 Goodman       Mary C.        22    F    .    .              .         O                 .     .     .    .    .
+ 30  1212 1216 Helt          Wm.            21    M    .    .              .         Unknown           .     .     .    .    .
+ 31  1212 1216 Markle        Jeremiah       24    M    .    .              .         Pa                .     .     .    .    .
+ 32  1212 1216 Goodman       Rosanna        64    F    .    .              .         Pa                .     .     .    .    .
+ 33  1213 1217 Alford        Ann            60    F    .    .              .         Pa                .     .     .    .    .
+ 34  1213 1217 Alford        Catharine      33    F    .    .              .         Pa                .     .     .    .    .
+ 35  1213 1217 Alford        Solomon        24    M    .    .              .         Pa                .     .     .    .    .
+ 36  1213 1217 Alford        Wm.            22    M    .    .              .         Pa                .     .     .    .    .
+ 37  1214 1218 Lunchford     James *.       30    M    .    .              .         O                 .     .     .    .    .
+ 38  1214 1218 Lunchford     Sopha E.       23    F    .    Cabinet Maker  .         NY                .     .     .    .    .
+ 39  1214 1218 Lunchford     Mary E.        3     F    .    .              .         O                 .     .     .    .    .
+ 40  1214 1218 Moyer         Lucy J.        8     F    .    .              .         O                 .     .     .    .    .
+ 41  1214 1218 Tuget         Martha         20    M    .    .              .         Va                .     .     .    .    .
+ 42  1214 1218 Furguson      Wm.            18    M    .    .              .         Pa                .     .     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 183a
+REFERENCE: Henry Hodgen; 3 August 1850; Hw Pg. 367
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1215 1219 Agleman       Christiana     42    M    .    .              .         Germany           .     .     .    .    .
+ 2   1215 1219 Agleman       Margarett      19    F    .    .              .         Germany           .     .     .    .    .
+ 3   1215 1219 Agleman       Michael        17    M    .    .              .         Germany           .     .     .    .    .
+ 4   1215 1219 Agleman       John           13    M    .    .              .         Germany           .     .     .    .    .
+ 5   1215 1219 Agleman       Anthony        8     M    .    .              .         O                 .     .     .    .    .
+ 6   1216 1220 Springer      Mrs.           35    F    .    .              .         O                 .     .     .    .    .
+ 7   1216 1220 Springer      Elizabeth      17    F    .    .              .         O                 .     .     .    .    .
+ 8   1216 1220 Springer      Mary           16    F    .    .              .         O                 .     .     .    .    .
+ 9   1217 1221 Baker         Daniel         25    M    .    .              .         O                 .     .     .    .    .
+ 10  1217 1221 Baker         Mrs.           35    F    .    .              .         O                 .     .     .    .    .
+ 11  1217 1221 Baker         Mary           2     F    .    .              .         O                 .     .     .    .    .
+ 12  1217 1221 Miller        Mary J.        22    F    .    .              .         O                 .     .     .    .    .
+ 13  1217 1221 Miller        Julia          18    F    .    .              .         O                 .     .     .    .    .
+ 14  1217 1221 Rogers        Sarah          18    F    .    .              .         O                 .     .     .    .    .
+ 15  1217 1221 Wardley       Peter          25    M    B    .              .         O                 .     .     .    .    Surname: Wardley/Woodley
+ 16  1217 1221 Wardley       Mariah         25    F    B    .              .         O                 .     .     .    .    Surname: Wardley/Woodley
+ 17  1217 1221 Williams      James          20    M    B    .              .         O                 .     .     .    .    .
+ 18  1217 1221 Lewis         George         18    M    B    .              .         O                 .     .     .    .    .
+ 19  1217 1221 Winfield      Richard        30    M    B    .              .         O                 .     .     .    .    .
+ 20  1217 1221 Gates         Israel         19    M    .    Clerk          .         O                 .     .     .    .    .
+ 21  1217 1221 Burwell       John           16    M    .    Clerk          .         O                 .     .     .    .    .
+ 22  1217 1221 Dusenbary     Franklin       18    M    .    .              .         Germany           .     .     .    .    .
+ 23  1217 1221 Spurflom      James          16    M    .    .              .         O                 .     .     .    .    .
+ 24  1217 1221 Conner        Michael        18    M    .    .              .         NY                .     .     .    .    .
+ 25  1217 1221 Price         Mary           16    F    .    .              .         O                 .     .     .    .    .
+ 26  1217 1221 Dildine       Sarah          19    F    .    .              .         O                 .     .     .    .    .
+ 27  1217 1221 Dildine       Mary           16    F    .    .              .         O                 .     .     .    .    .
+ 28  1217 1222 Davidson      Minor          31    M    .    Machinist      .         NY                .     .     .    .    .
+ 29  1217 1222 Davidson      Almira         31    F    .    .              .         Pa                .     .     .    .    .
+ 30  1217 1222 Davidson      Nathaniel      6     M    .    .              .         O                 .     .     .    .    .
+ 31  1217 1222 Davidson      Wilson A.      4     M    .    .              .         O                 .     .     .    .    .
+ 32  1217 1222 Davidson      Amanda L.      7/12  F    .    .              .         O                 .     .     .    .    .
+ 33  1218 1223 Boombaugh     Joseph         47    M    .    Moulder        .         Pa                .     .     .    .    .
+ 34  1218 1223 Boombaugh     Ann E.         37    F    .    .              .         Pa                .     .     .    .    .
+ 35  1218 1223 Boombaugh     Martha A.      17    F    .    .              .         O                 .     .     .    .    .
+ 36  1218 1223 Boombaugh     Lewis H.       14    M    .    .              .         O                 .     .     .    .    .
+ 37  1219 1224 Cox           Joseph         26    M    .    None           .         O                 .     .     .    .    .
+ 38  1219 1224 Cox           Catharine      21    F    .    .              .         England           .     .     .    .    .
+ 39  1219 1224 Cox           Jennie         3/12  F    .    .              .         O                 .     .     .    .    .
+ 40  1220 1225 Platt         Cyrus          30    M    .    Ashery         1,600     O                 .     .     .    .    .
+ 41  1220 1225 Platt         Genett         30    F    .    .              .         NY                .     .     .    .    .
+ 42  1220 1225 Platt         Ellen          2     F    .    .              .         O                 .     .     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 183b
+REFERENCE: Henry Hodgen; 3 August 1850; Hw Pg. 368
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1220 1225 Platt         Infant         2/12  M    .    .              .         O                 .     .     .    .    .
+ 2   1221 1226 Quigley       John           40    M    .    M.E. Clergyman 1,000     O                 .     .     .    .    .
+ 3   1221 1226 Quigley       Irene A.       39    F    .    .              .         NY                .     .     .    .    .
+ 4   1221 1226 Quigley       John P.        15    M    .    .              .         O                 .     .     .    .    .
+ 5   1221 1226 Quigley       Irene A.       13    F    .    .              .         O                 .     .     .    .    .
+ 6   1221 1226 Quigley       Wm. M.         9     M    .    .              .         O                 .     .     .    .    .
+ 7   1221 1226 Patterson     Sarah          26    F    B    .              .         Va                .     .     .    .    .
+ 8   1222 1227 Dangler       Frederick      32    M    .    Carpenter      .         O                 .     .     .    .    .
+ 9   1222 1227 Dangler       Rebecca        22    F    .    .              .         O                 .     .     .    .    .
+ 10  1222 1227 Dangler       Mary E.        1     F    .    .              .         O                 .     .     .    .    .
+ 11  1223 1228 Williams      James H.       24    M    B    Porter         .         O                 .     .     .    .    .
+ 12  1223 1228 Williams      Elizabeth      22    F    M    .              .         Pa                .     .     .    .    .
+ 13  1223 1228 Williams      Simon P.       5     M    B    .              .         O                 .     .     .    .    .
+ 14  1223 1228 Williams      James E.       1     M    B    .              .         O                 .     .     .    .    .
+ 15  1224 1229 Ross          John           59    M    .    Mason          2,500     Vt                .     .     .    .    .
+ 16  1224 1229 Ross          Loretta        49    F    .    .              .         NY                .     .     .    X    Blind
+ 17  1224 1229 Ross          Philena        21    F    .    .              .         O                 .     .     .    .    .
+ 18  1224 1229 Ross          Wm.            16    M    .    Mason          .         O                 .     X     .    .    .
+ 19  1224 1229 Ross          Hester M.      14    F    .    .              .         O                 .     X     .    .    .
+ 20  1224 1229 Ross          Julia Ann      12    F    .    .              .         O                 .     X     .    .    .
+ 21  1224 1229 Ross          Sceley C.      10    M    .    .              .         O                 .     X     .    .    .
+ 22  1224 1229 Ross          Ralph H.       7     M    .    .              .         O                 .     X     .    .    .
+ 23  1224 1229 Ross          John M.        4     M    .    .              .         O                 .     X     .    .    .
+ 24  1225 1230 Ross          Edwin R.       32    M    .    Brickmaker     .         O                 .     .     .    .    .
+ 25  1225 1230 Ross          Mary           25    F    .    .              .         Va                .     .     .    .    .
+ 26  1225 1230 Ross          Edwin          3     M    .    .              .         O                 .     .     .    .    .
+ 27  1225 1230 Ross          Infant         3/12  M    .    .              .         O                 .     .     .    .    .
+ 28  1226 1231 White         Francis        26    M    .    Laborer        400       Germany           .     .     .    .    .
+ 29  1226 1231 White         Elizabeth      29    F    .    .              .         Germany           .     .     .    .    .
+ 30  1226 1231 White         John           2     M    .    .              .         Germany           .     .     .    .    .
+ 31  1226 1231 White         Margarett      4     F    .    .              .         Germany           .     .     .    .    .
+ 32  1226 1231 White         George         60    M    .    .              .         Germany           .     .     .    .    .
+ 33  1227 1232 Little        Mary           40    F    .    .              .         Germany           .     .     .    .    .
+ 34  1227 1232 Little        Christian      5     F    .    .              .         Germany           .     .     .    .    Listed as "F" by enumerator
+ 35  1227 1232 Gregg         John           26    M    .    .              .         Germany           .     .     .    .    .
+ 36  1227 1232 Gregg         Helena         35    F    .    .              .         Germany           .     .     .    .    .
+ 37  1227 1232 Gregg         Mary           5     F    .    .              .         Germany           .     .     .    .    .
+ 38  1227 1232 Gregg         Francis        3     M    .    .              .         Germany           .     .     .    .    .
+ 39  1228 1233 Crouse        Mary           23    F    .    .              .         Germany           .     .     .    .    Surname: Crouse/Cronse
+ 40  1228 1233 Crouse        George         25    M    .    .              .         Germany           .     .     .    .    Surname: Crouse/Cronse
+ 41  1228 1233 Crouse        George, Jr.    3     M    .    .              .         Germany           .     .     .    .    Surname: Crouse/Cronse
+ 42  1229 1234 Gatry         Etanassus      34    M    .    Shoemaker      500       Germany           .     .     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 184a
+REFERENCE: Henry Hodgen; 3 August 1850; Hw Pg. 369
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1229 1234 Gatry         Ann            23    F    .    .              .         Germany           .     .     .    .    .
+ 2   1229 1234 Gatry         Catharine      5     F    .    .              .         Germany           .     .     .    .    .
+ 3   1229 1234 Gatry         John           2     M    .    .              .         Germany           .     .     .    .    .
+ 4   1229 1235 Gatry         Catharine      66    F    .    .              .         Germany           .     .     .    .    .
+ 5   1230 1236 Kirchner      Christopher    40    M    .    Laborer        500       Germany           .     .     .    .    .
+ 6   1230 1236 Kirchner      Mary           38    F    .    .              .         Germany           .     .     .    .    .
+ 7   1230 1236 Kirchner      Moriah         5     F    .    .              .         O                 .     .     .    .    .
+ 8   1230 1236 Kirchner      Helene         3     F    .    .              .         O                 .     .     .    .    .
+ 9   1230 1236 Kirchner      John           7     M    .    .              .         O                 .     .     .    .    .
+ 10  1230 1236 Kirchner      Milan          1     M    .    .              .         O                 .     .     .    .    .
+ 11  1231 1237 Shoffer       Alexander      24    M    .    Saddler        .         O                 .     .     .    .    Surname: Shoffer/Shaffer
+ 12  1231 1237 Shoffer       Eleanor        28    F    .    .              .         O                 .     .     .    .    Surname: Shoffer/Shaffer
+ 13  1231 1237 Shoffer       Thomas         3     M    .    .              .         O                 .     .     .    .    Surname: Shoffer/Shaffer
+ 14  1232 1238 News          Ahert          46    M    .    Carpenter      700       Germany           .     .     .    .    .
+ 15  1232 1238 News          .              46    F    .    .              .         Germany           .     .     .    .    No first name given
+ 16  1232 1238 Hart          John           35    M    .    .              800       Germany           .     .     .    .    .
+ 17  1232 1238 Hart          Hannah         30    F    .    .              .         Germany           .     .     .    .    .
+ 18  1232 1238 Hart          Hannah         8     F    .    .              .         Germany           .     .     .    .    .
+ 19  1232 1238 .             Matilda        10    F    .    .              .         Germany           .     .     .    .    No last name given
+ 20  1232 1238 Heller        Hannah B.W.    1     F    .    .              .         O                 .     .     .    .    .
+ 21  1233 1239 Thompson      Edward         39    M    .    President in College .   England           .     .     .    .    .
+ 22  1233 1239 Thompson      Moriah L.      29    F    .    .              .         O                 .     .     .    .    .
+ 23  1233 1239 Thompson      Edward         2     M    .    .              .         O                 .     .     .    .    .
+ 24  1233 1239 Dipt          Sarah          22    F    M    .              .         Va                .     .     .    .    .
+ 25  1233 1239 Thompson      Alfred         22    M    .    .              .         O                 .     .     .    .    .
+ 26  1234 1240 Miller        Adam           66    M    .    .              .         Germany           .     .     .    .    .
+ 27  1234 1240 Miller        Canacada       68    F    .    .              .         Germany           .     .     .    .    .
+ 28  1234 1241 Miller        Morten         23    M    .    .              .         Germany           .     .     .    .    .
+ 29  1234 1241 Miller        Lydia          20    F    .    .              .         Germany           .     .     .    .    .
+ 30  1234 1241 Miller        Mary R.        4/12  F    .    .              .         O                 .     .     .    .    .
+ 31  1235 1242 Breece        W.H.           35    M    .    Tailor         800       NJ                .     .     .    .    .
+ 32  1235 1242 Breece        Zuba           35    F    .    .              .         O                 .     .     .    .    First Name: Zuba/Zaba
+ 33  1235 1242 Breece        Fleisher V.    12    M    .    .              .         O                 .     X     .    .    .
+ 34  1235 1242 Breece        Isabella       10    M    .    .              .         O                 .     X     .    .    .
+ 35  1235 1242 Breece        Adelaide       8     F    .    .              .         O                 .     X     .    .    .
+ 36  1235 1242 Breece        John E.        5     M    .    .              .         O                 .     X     .    .    .
+ 37  1235 1242 Breece        Wm. H.         3     M    .    .              .         O                 .     .     .    .    .
+ 38  1235 1242 Breece        Infant         6/12  M    .    .              .         O                 .     .     .    .    .
+ 39  1236 1243 Burkhard      John A.        51    M    .    Mechanist      2,000     NH                .     .     .    .    .
+ 40  1236 1243 Burkhard      Homel W.       38    F    .    .              .         NH                .     .     .    .    .
+ 41  1237 1244 Burnham       John J.        25    M    .    Mechanist      .         NH                .     .     .    .    .
+ 42  1237 1244 Burnham       Emily B.       23    F    .    .              .         NH                .     .     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 184b
+REFERENCE: Henry Hodgen; 3 August 1850; Hw Pg. 370
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1237 1244 Burnham       James F.       18    M    .    Mechanist      .         NH                .     .     .    .    .
+ 2   1237 1244 Burnham       Infant         2/12  F    .    .              .         O                 .     .     .    .    .
+ 3   1238 1245 Hart          Chrishan       25    M    .    .              .         Germany           .     .     .    .    .
+ 4   1238 1245 Hart          Catharine      22    F    .    .              .         Germany           .     .     .    .    .
+ 5   1238 1245 Hart          Catharine, Jr. 9/12  F    .    .              .         O                 .     .     .    .    .
+ 6   1239 1246 Borrel        John           42    M    .    Joiner         900       Pa                .     .     .    .    .
+ 7   1239 1246 Borrel        Mary C.        26    F    .    .              .         Pa                .     .     .    .    .
+ 8   1239 1246 Borrel        John           13    M    .    .              .         O                 .     X     .    .    .
+ 9   1239 1246 Borrel        Henry          9     F    .    .              .         O                 .     X     .    .    .
+ 10  1239 1246 Borrel        Sarah          8     F    .    .              .         O                 .     X     .    .    .
+ 11  1239 1246 Borrel        Mary           4     F    .    .              .         O                 .     X     .    .    .
+ 12  1239 1246 Weiser        Elmanda P.     8     M    .    .              .         O                 .     X     .    .    Listed as "M" by enumerator
+ 13  1240 1247 Rausher       Gabriel        47    M    .    Weaver         500       Germany           .     .     .    .    .
+ 14  1240 1247 Rausher       Mary           20    F    .    .              .         Pa                .     .     .    .    .
+ 15  1240 1247 Rausher       Gabriel        1     M    .    .              .         O                 .     .     .    .    .
+ 16  1241 1248 Trit          Joshua B.      35    M    .    Joiner         500       Pa                .     .     .    .    .
+ 17  1241 1248 Trit          Rosanna        34    F    .    .              .         O                 .     .     .    .    .
+ 18  1241 1248 Trit          Esther         13    F    .    .              .         O                 .     X     .    .    .
+ 19  1241 1248 Trit          Wm.            11    M    .    .              .         O                 .     X     .    .    .
+ 20  1241 1248 Trit          Mary           8     F    .    .              .         O                 .     X     .    .    .
+ 21  1241 1248 Trit          Daniel         7     M    .    .              .         O                 .     X     .    .    .
+ 22  1241 1248 Trit          Cyntha         2     F    .    .              .         O                 .     .     .    .    .
+ 23  1241 1248 Trit          Infant         2/12  F    .    .              .         O                 .     .     .    .    .
+ 24  1241 1248 Frits         Jonathan       26    M    .    Joiner         .         Pa                .     .     .    .    .
+ 25  1242 1249 Reiner        Christiana F.  25    M    .    Laborer        .         Germany           .     .     .    .    .
+ 26  1242 1249 Reiner        Christian      25    F    .    .              .         Germany           .     .     .    .    .
+ 27  1243 1250 Phifer        Gregory        37    M    .    Laborer        500       Germany           .     .     .    .    .
+ 28  1243 1250 Phifer        Mary           37    F    .    .              .         Germany           .     .     .    .    .
+ 29  1243 1250 Phifer        Andrew         13    M    .    .              .         Germany           .     X     .    .    .
+ 30  1243 1250 Phifer        Elizabeth      11    F    .    .              .         Germany           .     X     .    .    .
+ 31  1243 1250 Phifer        Margarett      8     F    .    .              .         Germany           .     X     .    .    .
+ 32  1243 1250 Phifer        Mary Ann       7     F    .    .              .         Germany           .     X     .    .    .
+ 33  1243 1250 Phifer        Catharine      6     F    .    .              .         Germany           .     X     .    .    .
+ 34  1243 1250 Phifer        Joseph         4     M    .    .              .         O                 .     .     .    .    .
+ 35  1244 1251 Phifer        Christiana     2     M    .    .              .         O                 .     .     .    .    Listed as "M" by enumerator
+ 36  1244 1251 Poland        James          31    M    .    Laborer        400       Pa                .     .     .    .    .
+ 37  1244 1251 Poland        Rosanna        28    F    .    .              .         O                 .     .     .    .    .
+ 38  1244 1251 Stephens      Sarah          11    F    .    .              .         O                 .     .     .    .    .
+ 39  1244 1251 Stephens      James T.       7     M    .    .              .         O                 .     .     .    .    .
+ 40  1244 1251 Stephens      Emily F.       4     F    .    .              .         O                 .     .     .    .    .
+ 41  1244 1251 Stephens      Moriah         2     F    .    .              .         O                 .     .     .    .    .
+ 42  1245 1252 Sleigher      John           28    M    .    Laborer        .         Germany           .     .     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 185a
+REFERENCE: Henry Hodgen; 3 August 1850; Hw Pg. 371
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1245 1252 Sleigher      Caroline       24    F    .    .              .         Germany           .     .     .    .    .
+ 2   1245 1252 Sleigher      John           4     M    .    .              .         Germany           .     .     .    .    .
+ 3   1245 1252 Sleigher      Charles        2     M    .    .              .         O                 .     .     .    .    .
+ 4   1246 1253 Shively       John           25    M    .    Cooper         .         O                 .     .     .    .    .
+ 5   1246 1253 Shively       Eliza          20    F    .    .              .         O                 .     .     .    .    .
+ 6   1246 1253 Shively       Mary C.        6/12  F    .    .              .         O                 .     .     .    .    .
+ 7   1247 1254 Hekendon      Martin         28    M    .    Laborer        .         Germany           .     .     .    .    .
+ 8   1247 1254 Hekendon      Arena          30    F    .    .              .         Germany           .     .     .    .    .
+ 9   1247 1254 Hekendon      Mary           5     F    .    .              .         O                 .     .     .    .    .
+ 10  1247 1254 Hekendon      David          1     M    .    .              .         O                 .     .     .    .    .
+ 11  1248 1255 Highden       Abraham        35    M    M    Laborer        .         O                 .     .     .    .    .
+ 12  1248 1255 Highden       Loisa          30    F    B    .              .         O                 .     .     .    .    .
+ 13  1248 1255 Highden       John W.        5     M    B    .              .         O                 .     .     .    .    Middle Initial: W/U
+ 14  1248 1255 Highden       Frederick      7     M    B    .              .         O                 .     .     .    .    .
+ 15  1248 1255 Highden       Shadrach       3     M    B    .              .         O                 .     .     .    .    .
+ 16  1248 1255 Highden       John           1     M    B    .              .         O                 .     .     .    .    .
+ 17  1249 1256 Rhodes        D.W.           28    M    .    Merchant       .         O                 .     .     .    .    .
+ 18  1249 1256 Rhodes        Marcia M.      22    F    .    .              .         O                 .     .     .    .    .
+ 19  1249 1256 Rhodes        Mary P.        4     F    .    .              .         O                 .     .     .    .    .
+ 20  1249 1256 Parish        Aurelia        62    F    .    .              .         NY                .     .     .    .    .
+ 21  1249 1256 Tonguet       Phebe          10    M    .    .              .         O                 .     .     .    .    .
+ 22  1249 1256 Parish        Anna           17    F    .    .              .         O                 .     .     .    .    .
+ 23  1250 1257 Pettibone     Thomas         40    M    .    Merchant       .         Conn              .     .     .    .    .
+ 24  1250 1257 Pettibone     Sarah          38    F    .    .              .         Conn              .     .     .    .    .
+ 25  1250 1257 Pettibone     Louisa         8     F    .    .              .         O                 .     .     .    .    .
+ 26  1250 1257 Pettibone     Sarah          6     F    .    .              .         O                 .     .     .    .    .
+ 27  1250 1257 Pettibone     F.S.           4     F    .    .              .         O                 .     .     .    .    .
+ 28  1250 1257 Pettibone     Mary           1     F    .    .              .         O                 .     .     .    .    .
+ 29  1250 1258 Evans         Ann            50    F    .    .              .         Wales             .     .     .    .    .
+ 30  1250 1258 Evans         Ellen          24    F    .    .              .         Wales             .     .     .    .    .
+ 31  1250 1258 Briggs        Sarah          25    F    .    .              .         NY                .     .     .    .    .
+ 32  1251 1259 Fay           Wm. W.         26    M    .    Druggist       .         O                 .     .     .    .    Dwelling labeled as "Students Boarding College Rooms, etc."
+ 33  1251 1259 Fay           Katy C.        22    F    .    .              .         England           .     .     .    .    .
+ 34  1251 1259 Fay           Harriett A.    3     F    .    .              .         O                 .     .     .    .    .
+ 35  1251 1259 Fay           Allice R.      1     F    .    .              .         O                 .     .     .    .    .
+ 36  1251 1259 Butcher       Sarah          13    F    .    .              .         O                 .     .     .    .    .
+ 37  1251 1259 Ward          Elizabeth      20    F    .    .              .         England           .     .     .    .    .
+ 38  1251 1259 Ward          Margarett      14    F    .    .              .         Ireland           .     .     .    .    .
+ 39  1252 1260 Tagin         Samuel C.      19    M    .    Student        .         O                 .     X     .    .    .
+ 40  1252 1260 Allen         Henry H.       18    M    .    Student        .         O                 .     X     .    .    .
+ 41  1252 1260 Beedle        John M.        20    M    .    Student        .         O                 .     X     .    .    .
+ 42  1252 1260 Smith         L.H.           17    M    .    Student        .         NY                .     X     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 185b
+REFERENCE: Henry Hodgen; 3 August 1850; Hw Pg. 372
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1252 1260 Groom         John T.        22    M    .    Student        .         O                 .     X     .    .    Dwelling labeled as "Students Boarding College Rooms, etc."
+ 2   1252 1260 Drake         Moses          16    M    .    Student        .         O                 .     X     .    .    .
+ 3   1252 1260 Sim           Wm.            23    M    .    Student        .         Md                .     X     .    .    .
+ 4   1252 1260 Star          Moses L.       21    M    .    Student        .         O                 .     X     .    .    .
+ 5   1252 1260 Reed          Wm. P.         17    M    .    Student        .         O                 .     X     .    .    .
+ 6   1252 1260 Parrot        George         18    M    .    Student        .         O                 .     X     .    .    .
+ 7   1252 1260 Parrot        Charles        16    M    .    Student        .         O                 .     X     .    .    .
+ 8   1252 1260 Myres         George         26    M    .    Student        .         O                 .     X     .    .    .
+ 9   1252 1260 Young         Isaac          27    M    .    Student        .         Pa                .     X     .    .    .
+ 10  1252 1260 Lias          Gershom        21    M    .    Student        .         O                 .     X     .    .    .
+ 11  1252 1260 Clarke        John H.        20    M    .    Student        .         O                 .     X     .    .    .
+ 12  1252 1260 Ingham        O.P.           17    M    .    Student        .         O                 .     X     .    .    .
+ 13  1252 1260 Empron        Daniel R.      15    M    .    Student        .         O                 .     X     .    .    .
+ 14  1252 1260 Evans         J.C.           18    M    .    Student        .         Pa                .     X     .    .    .
+ 15  1252 1260 Kee           Wesley M.      20    M    .    Student        .         O                 .     X     .    .    Surname: Kee/McKee
+ 16  1252 1260 Griffis       J.F.           21    M    .    Student        .         O                 .     X     .    .    .
+ 17  1252 1260 Ranken        Samuel         24    M    .    Student        .         O                 .     X     .    .    .
+ 18  1252 1260 Branner       S.             21    M    .    Student        .         O                 .     X     .    .    .
+ 19  1252 1260 Caples        J.F.           18    M    .    Student        .         O                 .     X     .    .    .
+ 20  1252 1260 Hanawath      Wm. B.         25    M    .    Student        .         Pa                .     X     .    .    .
+ 21  1252 1260 Dunlap        Samuel         25    M    .    Student        .         Pa                .     X     .    .    .
+ 22  1252 1260 Andrews       Thomas         21    M    .    Student        .         O                 .     X     .    .    .
+ 23  1252 1260 Bowman        Julian M.      14    M    .    Student        .         O                 .     X     .    .    .
+ 24  1252 1260 Prechet       P.A.           25    M    .    Student        .         O                 .     X     .    .    .
+ 25  1252 1260 Hallen        John           25    M    .    Student        .         Pa                .     X     .    .    .
+ 26  1252 1260 Kane          F.C.O.         20    M    .    Student        .         Pa                .     X     .    .    .
+ 27  1252 1260 Honce         John S.        18    M    .    Student        .         NY                .     X     .    .    .
+ 28  1252 1260 Fulton        Robert         25    M    .    Student        .         O                 .     X     .    .    .
+ 29  1252 1260 Broomfield    Thomas B.      21    M    .    Student        .         O                 .     X     .    .    .
+ 30  1252 1260 Creighton     John           21    M    .    Student        .         Va                .     X     .    .    .
+ 31  1252 1260 Evans         David F.       24    M    .    Student        .         O                 .     X     .    .    .
+ 32  1252 1260 Ingham        Wm.            18    M    .    Student        .         O                 .     X     .    .    .
+ 33  1252 1260 Talbot        George         20    M    .    Student        .         Va                .     X     .    .    .
+ 34  1252 1260 Hoagland      James          17    M    .    Student        .         O                 .     X     .    .    .
+ 35  1252 1260 Johnson       Thomas B.      19    M    .    Student        .         O                 .     X     .    .    .
+ 36  1252 1260 Showers       H.F.           18    M    .    Student        .         Va                .     X     .    .    .
+ 37  1252 1260 Reale         C.H.           18    M    .    Student        .         Pa                .     X     .    .    .
+ 38  1252 1260 Price         James H.       16    M    .    Student        .         NJ                .     X     .    .    .
+ 39  1252 1260 Fester        Lewis          22    M    .    Student        .         O                 .     X     .    .    .
+ 40  1252 1260 Saber         Hylas          21    M    .    Student        .         O                 .     X     .    .    .
+ 41  1252 1260 Case          Nathan F.      22    M    .    Student        .         O                 .     X     .    .    .
+ 42  1252 1260 Ketchum       Charles W.     20    M    .    Student        .         NJ                .     X     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 186a
+REFERENCE: Henry Hodgen; 3 August 1850; Hw Pg. 373
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1252 1260 Josley        Ira L.         17    M    .    Student        .         O                 .     X     .    .    Dwelling labeled as "Students Boarding College Rooms, etc."; Surname o
+ 2   1252 1260 Wilson        Perceival      19    M    .    Student        .         O                 .     X     .    .    .
+ 3   1252 1260 Green         Meletus        19    M    .    Student        .         O                 .     X     .    .    .
+ 4   1252 1260 McKensie      Daniel M.      22    M    .    Student        .         O                 .     X     .    .    .
+ 5   1252 1260 Leever        C.F.           24    M    .    Student        .         O                 .     X     .    .    .
+ 6   1252 1260 Leever        M.T.           21    M    .    Student        .         O                 .     X     .    .    .
+ 7   1252 1260 King          John W.        20    M    .    Student        .         O                 .     X     .    .    .
+ 8   1252 1260 Ware          Joseph         22    M    .    Student        .         O                 .     X     .    .    .
+ 9   1252 1260 Ware          Jesse          20    M    .    Student        .         O                 .     X     .    .    .
+ 10  1252 1260 Wright        Aaron H.       21    M    .    Student        .         O                 .     X     .    .    .
+ 11  1252 1260 Harris        George W.      25    M    .    Student        .         O                 .     X     .    .    .
+ 12  1252 1260 Statley       Thomas J.      17    M    .    Student        .         O                 .     X     .    .    .
+ 13  1252 1260 Sullivan      C.W.           17    M    .    Student        .         O                 .     X     .    .    .
+ 14  1252 1260 Tetham        G.B.           18    M    .    Student        .         O                 .     X     .    .    .
+ 15  1252 1260 Pinny         A.M.           18    M    .    Student        .         O                 .     X     .    .    .
+ 16  1252 1260 Reeves        Edwin          17    M    .    Student        .         O                 .     X     .    .    .
+ 17  1252 1260 Hillier       Granville      20    M    .    Student        .         O                 .     X     .    .    .
+ 18  1252 1260 Evans         D.T.           20    M    .    Student        .         O                 .     X     .    .    .
+ 19  1252 1260 Emmitt        J.O.           20    M    .    Student        .         O                 .     X     .    .    .
+ 20  1252 1260 Havens        L.O.           14    M    .    Student        .         O                 .     X     .    .    .
+ 21  1252 1260 Broadwell     James S.       17    M    .    Student        .         Ct                .     X     .    .    .
+ 22  1252 1260 Tipton        Nelson         22    M    .    Student        .         O                 .     X     .    .    .
+ 23  1252 1260 Penn          John R.        17    M    .    Student        .         NY                .     X     .    .    .
+ 24  1252 1260 Kerr          A.J.           20    M    .    Student        .         O                 .     X     .    .    .
+ 25  1252 1260 Smith         Russell B.     21    M    .    Student        .         O                 .     X     .    .    .
+ 26  1252 1260 Cuppy         John A.        18    M    .    Student        .         O                 .     X     .    .    .
+ 27  1252 1260 Waggott       John B.        23    M    .    Student        .         O                 .     X     .    .    .
+ 28  1252 1260 Kendall       Wm. E.         26    M    .    Student        .         Va                .     X     .    .    .
+ 29  1252 1260 Davis         W.B.           19    M    .    Student        .         O                 .     X     .    .    .
+ 30  1252 1260 Oliver        John W.        21    M    .    .              .         O                 .     X     .    .    .
+ 31  1253 1261 Thomas        James          36    M    .    Farming        .         O                 .     .     .    .    .
+ 32  1253 1261 Thomas        Polly          44    F    .    .              .         Md                .     .     .    .    .
+ 33  1253 1261 Thomas        Jane           12    F    .    .              .         O                 .     X     .    .    .
+ 34  1253 1261 Thomas        Cyntha         14    F    .    .              .         O                 .     X     .    .    .
+ 35  1253 1261 Thomas        David          10    M    .    .              .         O                 .     X     .    .    .
+ 36  1253 1261 Thomas        Laura          8     F    .    .              .         O                 .     X     .    .    .
+ 37  1253 1261 Thomas        John           6     M    .    .              .         O                 .     X     .    .    .
+ 38  1253 1261 Thomas        Lucy           4     F    .    .              .         O                 .     X     .    .    Age: 4/6
+ 39  1254 1262 Dimins        Solomon        50    M    .    .              .         Md                .     .     .    .    .
+ 40  1254 1262 Dimins        Mary Ann       45    F    .    .              .         Md                .     .     .    .    .
+ 41  1254 1262 Dimins        Solomon        18    M    .    .              .         Pa                .     .     .    .    .
+ 42  1254 1262 Dimins        Samuel         16    M    .    .              .         Pa                .     X     .    .    .
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Town of Delaware  REEL NO: M432-675  PAGE NO: 186b
+REFERENCE: Henry Hodgen; 3 August 1850; Hw Pg. 374
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1254 1262 Green         John T.        22    M    .    Student        .         O                 .     X     .    .    .
+ 2   1254 1262 Drake         Moses          16    M    .    Student        .         O                 .     X     .    .    .
+ 3   1254 1262 Linn          Wm.            23    M    .    Student        .         Md                .     X     .    .    .
+ 4   1254 1262 Demins        Samuel         16    M    .    Student        .         Pa                .     X     .    .    .
+ 5   1254 1262 Demins        Leander        14    M    .    .              .         Pa                .     X     .    .    .
+ 6   1254 1262 Demins        Joseph         11    M    .    .              .         Pa                .     X     .    .    .
+ 7   1254 1262 Demins        Catharine      9     F    .    .              .         O                 .     X     .    .    .
+ 8   1254 1262 Demins        Henry          3     M    .    .              .         O                 .     .     .    .    .
+ 9   1254 1262 Demins        Sarah          9/12  F    .    .              .         O                 .     .     .    .    .
+ 10  1254 1262 Shafer        Catharine      29    F    .    .              .         Md                .     .     .    .    .
+ 11  1254 1262 Cuningham     Joseph         45    M    .    Mechanic       .         Pa                .     .     .    .    .
+ 12  1255 1263 Cuningham     Christiana     45    F    .    .              .         Pa                .     .     .    .    .
+ 13  1255 1263 Cuningham     Jane           16    F    .    .              .         O                 .     X     .    .    .
+ 14  1255 1263 Cuningham     Abner          14    M    .    .              .         O                 .     X     .    .    .
+ 15  1255 1263 Cuningham     Hellen         12    F    .    .              .         O                 .     X     .    .    .
+ 16  1255 1263 Cuningham     Elizabeth      10    F    .    .              .         O                 .     X     .    .    .
+ 17  1255 1263 Cuningham     John           8     M    .    .              .         O                 .     X     .    .    Last entry for the Town of Delaware
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Delaware Township  REEL NO: M432-675  PAGE NO: 187b
+REFERENCE: Henry Hodgen; 3 August 1850; Hw Pg. 376
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1256 1264 Avery         Frederick      53    M    .    Farming        .         Conn              .     .     .    .    Census page 187a / Hw. Pg. 375 not used by enumerator
+ 2   1256 1264 Avery         Matilda        51    F    .    .              .         Mass              .     .     .    .    .
+ 3   1256 1264 Avery         Hannah         19    F    .    .              .         O                 .     .     .    .    .
+ 4   1256 1264 Avery         Edwin G.       11    M    .    .              .         O                 .     .     .    .    .
+ 5   1256 1264 Pettibone     Channcy        6     M    .    .              .         O                 .     .     .    .    .
+ 6   1257 1265 James         Enoch          45    M    .    Farming        .         Wales             .     .     X    .    .
+ 7   1257 1265 James         Elizabeth      33    F    .    .              .         Pa                .     .     X    .    .
+ 8   1257 1265 James         Mary A.        12    F    .    .              .         O                 .     X     .    .    .
+ 9   1257 1265 James         Julia A.       10    F    .    .              .         O                 .     X     .    .    .
+ 10  1257 1265 James         Wm. H.         7     M    .    .              .         O                 .     X     .    .    .
+ 11  1257 1265 James         Elizabeth      7     F    .    .              .         O                 .     X     .    .    .
+ 12  1257 1265 James         Moriah         4     F    .    .              .         O                 .     .     .    .    .
+ 13  1258 1266 Jenney        Austin H.      41    M    .    Farming        3,600     O                 .     .     .    .    .
+ 14  1258 1266 Jenney        John H.        34    M    .    .              .         England           .     .     .    .    .
+ 15  1258 1266 Jenney        Robert P.      10    M    .    .              .         O                 .     X     .    .    .
+ 16  1258 1266 Jenney        Simon H.       8     M    .    .              .         O                 .     X     .    .    .
+ 17  1258 1266 Jenney        Sarah F.       7     F    .    .              .         O                 .     X     .    .    .
+ 18  1258 1266 Jenney        Norman         5     M    .    .              .         O                 .     X     .    .    .
+ 19  1258 1266 Jenney        Mary E.        2     F    .    .              .         O                 .     .     .    .    .
+ 20  1258 1266 Jenney        Austin H.      2/12  M    .    .              .         .                 .     .     .    .    No birthplace listed
+ 21  1258 1266 Jenney        Jane E.        2/12  F    .    .              .         .                 .     .     .    .    No birthplace listed
+ 22  1259 1267 Davis         David          30    M    .    Carpenter      2,000     Wales             .     .     .    .    .
+ 23  1259 1267 Davis         Jediah         27    M    .    Farming        1,200     Wales             .     .     .    .    .
+ 24  1259 1267 Davis         Eliza          20    F    .    .              .         Wales             .     .     .    .    .
+ 25  1260 1268 Thompson      Moses          80    M    .    .              .         Pa                .     .     .    .    .
+ 26  1260 1268 Thompson      Mary A.        70    F    .    .              .         Pa                .     .     .    .    .
+ 27  1260 1268 Thompson      Sarah          40    F    .    .              .         Pa                .     .     .    .    .
+ 28  1260 1268 Moncella      Margarett      37    F    .    .              .         Pa                .     .     .    .    .
+ 29  1260 1268 Moncella      John F.        12    M    .    .              .         O                 .     X     .    .    .
+ 30  1260 1268 Moncella      Ann E.         10    F    .    .              .         O                 .     X     .    .    .
+ 31  1260 1268 Moncella      Adelaid        8     F    .    .              .         O                 .     X     .    .    Last entry for this page
+
+CENSUS YR: 1850  STATE: OH  COUNTY: DELAWARE  DIVISION: Delaware Township  REEL NO: M432-675  PAGE NO: 188a
+REFERENCE: Henry Hodgen; 5 August 1850; Hw Pg. 377
+====================================================================================================================================
+ LN  HN   FN  LAST NAME      FIRST NAME     AGE  SEX  RACE  OCCUP.         VAL.      BIRTHPLACE       MRD.  SCH.  R/W  DDB   REMARKS
+====================================================================================================================================
+ 1   1261 1269 Thompson      John W.        29    M    .    Farmer         3,000     Pa                .     .     .    .    .
+ 2   1261 1269 Thompson      Isabella J.    31    F    .    .              .         O                 .     .     .    .    .
+ 3   1261 1269 Thompson      Mary E.        8     F    .    .              .         O                 .     X     .    .    .
+ 4   1261 1269 Thompson      Sarah A.       6     F    .    .              .         O                 .     X     .    .    .
+ 5   1261 1269 Thompson      Caroline       4     F    .    .              .         O                 .     .     .    .    .
+ 6   1261 1269 McKendre      Homer          2     M    .    .              .         O                 .     .     .    .    .
+ 7   1261 1269 Moore         John           11    M    .    .              .         O                 .     X     .    .    .
+ 8   1262 1270 Turner        Leonard        38    M    .    Farmer         .         NY                .     .     .    .    .
+ 9   1262 1270 Turner        Harriett A.    36    F    .    .              .         NY                .     .     .    .    .
+ 10  1262 1270 Turner        Henry J.       16    M    .    Farmer         .         NY                .     X     .    .    .
+ 11  1262 1270 Turner        Albert         15    M    .    .              .         O                 .     X     .    .    .
+ 12  1262 1270 Turner        Almeda         12    F    .    .              .         O                 .     X     .    .    .
+ 13  1262 1270 Turner        Newman E.      10    M    .    .              .         O                 .     X     .    .    .
+ 14  1262 1270 Turner        Celestia C.    6     F    .    .              .         O                 .     X     .    .    .
+ 15  1262 1270 Turner        Loretta        3     F    .    .              .         O                 .     X     .    .    .
+ 16  1262 1270 Turner        Aurella        10/12 F    .    .              .         O                 .     .     .    .    .
+ 17  1262 1270 Cole          Elizabeth      56    F    .    .              2,500     NH                .     .     .    .    .
+ 18  1262 1270 Cole          Emily          19    F    .    .              .         NH                .     .     .    .    .
+ 19  1262 1270 Cole          Adeline A.     16    F    .    .              .         NH                .     .     .    .    .
+ 20  1263 1271 Jenning       Sylvester      40    M    .    Farmer         .         O                 .     .     .    .    .
+ 21  1263 1271 Jenning       Louisa         9     F    .    .              .         O                 .     X     .    .    .
+ 22  1263 1271 Jenning       Ann Mary       7     F    .    .              .         O                 .     X     .    .    .
+ 23  1263 1271 Jenning       Benjamin       5     M    .    .              .         O                 .     X     .    .    .
+ 24  1263 1271 Jenning       E.             3     F    .    .              .         O                 .     .     .    .    .
+ 25  1263 1271 Jenning       Thomas S.      5/12  M    .    .              .         O                 .     .     .    .    .
+ 26  1264 1272 Scott         Mary           66    F    .    .              .         Pa                .     .     .    .    .
+ 27  1264 1272 Roote         Mary A.        24    F    .    .              .         Pa                .     .     .    .    .
+ 28  1264 1272 Rogers        Alex           41    M    .    Farmer         .         Pa                .     .     .    .    .
+ 29  1264 1272 Rogers        Abagail        41    F    .    .              .         Vt                .     .     .    .    .
+ 30  1264 1272 Rogers        Jane           14    F    .    .              .         O                 .     X     .    .    .
+ 31  1264 1272 Rogers        John W.        12    M    .    .              .         O                 .     X     .    .    .
+ 32  1264 1272 Rogers        Meranda        11    F    .    .              .         O                 .     X     .    .    .
+ 33  1264 1272 Rogers        Emeline        9     F    .    .              .         O                 .     X     .    .    .
+ 34  1264 1272 Rogers        Catharine      7     F    .    .              .         O                 .     X     .    .    .
+ 35  1265 1273 Huntley       Wm.            51    M    .    Farmer         1,000     NH                .     .     .    .    .
+ 36  1265 1273 Huntley       Abagail        53    F    .    .              .         NH                .     .     .    .    .
+ 37  1265 1273 Cowles        Hannah         26    F    .    .              .         L. Canada         .     .     .    .    .
+ 38  1265 1273 Huntley       Mary A.        18    F    .    .              .         L. Canada         .     X     .    .    .
+ 39  1265 1273 Huntley       Albert         11    M    .    .              .         O                 .     X     .    .    .
+ 40  1265 1273 Huntley       Oscar          9     M    .    .              .         O                 .     X     .    .    .
+ 41  1265 1273 Cole          Emelet         2     F    .    .              .         O                 .     .     .    .    .
+ 42  1266 1274 McClure       James          53    M    .    Farmer         .         Pa                .     .     .    .    .

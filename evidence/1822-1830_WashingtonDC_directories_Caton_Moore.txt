@@ -1,0 +1,27 @@
+SOURCE: The Washington Directory, showing the name, occupation, and residence of each head of a family and person in business (Washington: S. A. Elliot), editions of 1822, 1827 and 1830. OCR text from archive.org items mdu-ill-060011 (1822), mdu-ill-060012 (1827), mdu-ill-057217 (1830; the scan also contains a bound-in copy of the 1827 directory after the 1830 text). Searched Caton/Caten/Cayton/Catton/Keaton/Katon 12 Sep 2026; only the lines below hit.
+
+1822 (mdu-ill-060011 line 4248):
+Caton Michael, printer, a aide En btw 6 and 7w ? 
+  -> Caton, Michael, printer, n side E n[orth] btw 6 and 7 w[est]
+1822 Nathan Moore (line 6290):
+Moore Nathan, constable, s side Peon av opposite west- 
+ern market.' 
+
+1827 (mdu-ill-060012 lines 4104-4106):
+Caton, Michael, printer, aside £n btw 6 and 7w 
+Caton. Edward, printer, 3w btw Pen ay and Cn 
+. Caton, Ge^rgt W, tailor, e side 9w btw D and En 
+  -> Caton, Michael, printer, n side E n btw 6 and 7 w
+  -> Caton, Edward, printer, 3 w btw Pen[n] av and C n
+  -> Caton, George W., tailor, e side 9 w btw D and E n
+1827 Nathan Moore (line 6887):
+MOore, Nathan, cOBtUble, a aide Pen tv opp weatern njk’t 
+  -> Moore, Nathan, constable, s side Pen av opp[osite] western m[ar]k[e]t
+
+1830 (mdu-ill-057217 line 3196; 1830 section begins line 2671):
+Caton, George W. tailor, e. side 9 w. btw. 1 and K n. ^ . 
+  -> Caton, George W., tailor, e. side 9 w. btw. I and K n.
+  No Michael or Edward Caton in the 1830 section (lines 5197-5199 are the bound-in 1827 copy).
+1830 Nathan Moore (line 3853):
+Moore, Nathan, constable, nr. the |^ery, h.’ gen. post office. 
+  -> Moore, Nathan, constable, nr. the [Treasu?]ry; h. gen[eral] post office

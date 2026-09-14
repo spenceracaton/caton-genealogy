@@ -1,0 +1,12 @@
+STATUS: not-found
+RECORD: No death date for Sarah Ann (Gardner) Caton was retrieved. Searches covered Cooper County, Missouri cemetery/death compilations and obituary indexes; Boone County, Missouri cemetery/death resources; Livingston County, Missouri cemetery/death resources; the Missouri State Archives death-certificate database; and Delaware County, Ohio Gardner obituary/genealogy indexes. No result was identified as the wife of Aaron Caton, married 8 August 1841 in Delaware County, Ohio.
+URL: https://mogenweb.org/cooper/Cemeteries/VARIOUS%20CEMETERIES.pdf ; https://cooper.mogenweb.org/Newspapers/Obituaries1834-2010/ ; https://www.mogenweb.org/boone/ ; https://www.boone.mogenweb.org/cemeteries_records_vol4.pdf ; https://livingston.mogenweb.org/ ; https://s1.sos.mo.gov/records/archives/archivesdb/deathcertificates/ ; https://digital-collections.columbuslibrary.org/digital/collection/genealogy/id/47944/
+TRANSCRIPTION: "The information on the individuals listed on this page were taken from obituaries given in the Boonville Daily News. Other information is from the Cooper County Records of Deaths for individuals that were not placed in a known cemetery."
+GRADE: B
+NEW FACTS: Sarah Ann Gardner Caton | no identified death record found in the repositories searched | not established | Cooper County, Missouri; Livingston County, Missouri; Boone County, Missouri; Delaware County, Ohio
+CONFLICTS: The brief's unproven repeated claim that Sarah Ann Caton died 11 January 1878 in Boonville/Cooper County remains unsupported; no contradiction to a claim id was established from the supplied texts.
+NEGATIVE RESULTS: Cooper County MOGenWeb cemetery/death compilation and linked Boonville obituary resources checked; no Sarah Ann Gardner Caton entry identified.
+NEGATIVE RESULTS: Boone County MOGenWeb county portal and cemetery-record volumes checked; no identified Sarah Ann Gardner Caton death entry.
+NEGATIVE RESULTS: Livingston County MOGenWeb county portal and its linked cemetery/vital-record resources checked; no identified Sarah Ann Gardner Caton death entry.
+NEGATIVE RESULTS: Missouri State Archives death-certificate database checked; it begins in 1910 and cannot establish a nineteenth-century death date.
+NEGATIVE RESULTS: Columbus Metropolitan Library digital Genealogical Index of Delaware and Union Counties, Ohio, Gardner volume checked; no identified Sarah Ann Gardner Caton death entry.

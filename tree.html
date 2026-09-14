@@ -1,0 +1,709 @@
+<title>The Caton Line</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,300;1,6..72,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+
+<style>
+:root{
+  --paper:#E7E6E0;
+  --paper-2:#DEDDD6;
+  --card:#F3F2EE;
+  --ink:#1A1D1B;
+  --ink-2:#4C514E;
+  --ink-3:#7E837F;
+  --rule:#C7C6BE;
+  --rule-soft:#D6D5CD;
+  --accent:#2C4A63;
+  --accent-2:#3E6A8B;
+  --accent-wash:#D9E0E6;
+  --unproven:#7C6B51;
+  --unproven-wash:#E2DCCF;
+  --void:#CFCEC5;
+  --shadow:0 1px 0 rgba(26,29,27,.06);
+}
+
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#15181A;
+    --paper-2:#1B1F21;
+    --card:#1E2325;
+    --ink:#E9EAE5;
+    --ink-2:#AAB0AC;
+    --ink-3:#787E7B;
+    --rule:#333A38;
+    --rule-soft:#2A302E;
+    --accent:#93B8D4;
+    --accent-2:#7BA3C2;
+    --accent-wash:#1F2E39;
+    --unproven:#B39C7C;
+    --unproven-wash:#2A251C;
+    --void:#2C312F;
+    --shadow:0 1px 0 rgba(0,0,0,.4);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#15181A;
+  --paper-2:#1B1F21;
+  --card:#1E2325;
+  --ink:#E9EAE5;
+  --ink-2:#AAB0AC;
+  --ink-3:#787E7B;
+  --rule:#333A38;
+  --rule-soft:#2A302E;
+  --accent:#93B8D4;
+  --accent-2:#7BA3C2;
+  --accent-wash:#1F2E39;
+  --unproven:#B39C7C;
+  --unproven-wash:#2A251C;
+  --void:#2C312F;
+  --shadow:0 1px 0 rgba(0,0,0,.4);
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"Newsreader",Georgia,"Times New Roman",serif;
+  font-size:16px;
+  line-height:1.5;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:900px;margin:0 auto;padding:56px 28px 96px}
+
+/* ---------- utility type ---------- */
+.mono{font-family:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace}
+.eyebrow{
+  font-family:"IBM Plex Mono",ui-monospace,monospace;
+  font-size:10.5px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--ink-3);
+}
+
+/* ---------- masthead ---------- */
+.mast{border-bottom:2px solid var(--ink);padding-bottom:22px;margin-bottom:10px}
+.mast h1{
+  font-size:clamp(38px,7vw,62px);
+  font-weight:600;line-height:1.02;margin:10px 0 0;
+  letter-spacing:-.02em;text-wrap:balance;
+}
+.mast .sub{
+  margin:14px 0 0;max-width:62ch;color:var(--ink-2);
+  font-size:17px;line-height:1.55;
+}
+.mastmeta{
+  display:flex;flex-wrap:wrap;gap:6px 20px;margin-top:18px;
+  font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--ink-3);
+  letter-spacing:.04em;
+}
+.mastmeta span::before{content:"";display:inline-block;width:4px;height:4px;background:var(--accent);
+  border-radius:50%;margin-right:8px;vertical-align:2px}
+
+/* ---------- legend ---------- */
+.legend{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(178px,1fr));
+  gap:0;border-bottom:1px solid var(--rule);margin:0 0 44px;
+}
+.legend div{padding:14px 16px 14px 0}
+.legend dt{
+  display:flex;align-items:center;gap:9px;
+  font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:600;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--ink);
+}
+.legend dd{margin:5px 0 0;font-size:13.5px;color:var(--ink-2);line-height:1.45}
+.chip{
+  display:inline-flex;align-items:center;justify-content:center;
+  width:19px;height:19px;flex:none;
+  font-family:"IBM Plex Mono",monospace;font-size:10px;font-weight:600;
+  border:1px solid currentColor;
+}
+.chip.a{background:var(--accent);border-color:var(--accent);color:var(--paper)}
+.chip.b{color:var(--accent);background:var(--accent-wash)}
+.chip.c{color:var(--unproven);border-style:dashed}
+.chip.h{color:var(--unproven);border-style:dotted;background:var(--unproven-wash)}
+
+/* ---------- section headers ---------- */
+.sect{margin:0 0 6px;display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+.sect h2{
+  font-size:23px;font-weight:600;margin:0;letter-spacing:-.01em;
+}
+.sect .note{font-size:13.5px;color:var(--ink-3);font-style:italic}
+.sectlede{margin:0 0 26px;max-width:64ch;color:var(--ink-2);font-size:15px}
+
+/* ---------- the spine ---------- */
+.spine{display:grid;grid-template-columns:58px 26px minmax(0,1fr);}
+.gen{display:contents}
+.gen .year{
+  grid-column:1;font-family:"IBM Plex Mono",monospace;font-size:11.5px;
+  color:var(--ink-3);padding-top:3px;text-align:right;padding-right:0;
+  font-variant-numeric:tabular-nums;letter-spacing:-.02em;
+}
+.stem{grid-column:2;position:relative}
+.stem::before{
+  content:"";position:absolute;left:11px;top:0;bottom:-1px;width:0;
+  border-left:1.5px solid var(--accent);
+}
+.gen.dashed .stem::before{border-left-style:dashed;border-left-color:var(--unproven)}
+.gen.dotted .stem::before{border-left-style:dotted;border-left-color:var(--ink-3)}
+.stem::after{
+  content:"";position:absolute;left:6px;top:7px;width:11px;height:11px;
+  background:var(--accent);border:1.5px solid var(--accent);
+  transform:rotate(45deg);
+}
+.gen.hollow .stem::after{background:var(--paper)}
+.gen.dashed .stem::after{background:var(--paper);border-color:var(--unproven);border-style:dotted}
+.gen.dotted .stem::after{background:var(--paper);border-color:var(--ink-3);border-style:dotted}
+.gen.last .stem::before{bottom:auto;height:14px}
+
+.entry{grid-column:3;padding:0 0 30px 16px;min-width:0}
+.entry .name{font-size:19px;font-weight:600;letter-spacing:-.005em;margin:0;line-height:1.25}
+.entry .name em{font-style:italic;font-weight:400;color:var(--ink-2)}
+.entry .spouse{
+  font-size:16px;color:var(--ink-2);margin:2px 0 0;
+}
+.entry .spouse::before{content:"×  ";color:var(--ink-3);font-family:"IBM Plex Mono",monospace;font-size:12px}
+.entry p.det{margin:7px 0 0;font-size:14.5px;color:var(--ink-2);max-width:60ch;line-height:1.5}
+.entry .src{
+  margin:8px 0 0;font-family:"IBM Plex Mono",monospace;font-size:11px;
+  color:var(--ink-3);letter-spacing:.01em;line-height:1.6;
+}
+.entry .src b{font-weight:500;color:var(--ink-2)}
+.grade{
+  float:right;margin:2px 0 0 14px;
+}
+
+/* ---------- join markers ---------- */
+.join{
+  grid-column:1 / -1;display:flex;align-items:center;gap:14px;
+  margin:0 0 26px;padding-top:2px;
+}
+.join .bar{height:1px;flex:1;background:var(--rule)}
+.join .lbl{
+  font-family:"IBM Plex Mono",monospace;font-size:10px;font-weight:600;
+  letter-spacing:.14em;text-transform:uppercase;white-space:nowrap;
+}
+.join.ok .lbl{color:var(--accent)}
+.join.open .lbl{color:var(--unproven)}
+.join.open .bar{background:repeating-linear-gradient(90deg,var(--rule) 0 5px,transparent 5px 10px)}
+
+.ghost{
+  grid-column:3;margin:0 0 26px;padding:11px 16px;
+  border-left:2px dotted var(--rule);
+  font-size:13.5px;font-style:italic;color:var(--ink-3);max-width:58ch;
+}
+
+/* ---------- the break ---------- */
+.break{
+  margin:16px 0 50px;border-top:2px solid var(--ink);border-bottom:2px solid var(--ink);
+  background:
+    repeating-linear-gradient(-45deg,var(--void) 0 1px,transparent 1px 9px);
+  padding:0;
+}
+.break-inner{padding:30px 30px 26px;background:transparent}
+.break h2{
+  font-size:clamp(24px,4.2vw,34px);font-weight:600;margin:8px 0 0;letter-spacing:-.015em;
+  text-wrap:balance;
+}
+.break .yrs{
+  font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:600;
+  letter-spacing:.16em;text-transform:uppercase;color:var(--unproven);
+}
+.break p{margin:12px 0 0;max-width:60ch;font-size:15px;color:var(--ink-2)}
+.break p.hard{color:var(--ink);font-size:15.5px}
+
+table.cands{
+  width:100%;border-collapse:collapse;margin:26px 0 0;
+  font-size:14px;background:var(--card);
+}
+table.cands caption{
+  text-align:left;padding:0 0 10px;font-family:"IBM Plex Mono",monospace;
+  font-size:10.5px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);
+}
+table.cands th,table.cands td{
+  text-align:left;padding:11px 14px;border-bottom:1px solid var(--rule-soft);vertical-align:top;
+}
+table.cands thead th{
+  font-family:"IBM Plex Mono",monospace;font-size:10px;font-weight:600;
+  letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3);
+  border-bottom:1px solid var(--rule);
+}
+table.cands tbody th{font-weight:600;white-space:nowrap;width:1%}
+table.cands td:last-child{color:var(--ink-2)}
+table.cands tr:last-child td,table.cands tr:last-child th{border-bottom:none}
+.tscroll{overflow-x:auto}
+
+/* ---------- children ---------- */
+.kids{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(212px,1fr));
+  gap:1px;background:var(--rule-soft);border:1px solid var(--rule-soft);
+  margin:18px 0 4px;
+}
+.kid{background:var(--card);padding:14px 15px 15px;display:flex;flex-direction:column;gap:5px}
+.kid.line{background:var(--accent-wash)}
+.kid .kn{font-size:15.5px;font-weight:600;line-height:1.2;margin:0}
+.kid .kd{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--ink-3);letter-spacing:.01em;line-height:1.5}
+.kid .kx{font-size:13px;color:var(--ink-2);margin:0;line-height:1.4}
+.kid .tag{
+  margin-top:auto;padding-top:8px;
+  font-family:"IBM Plex Mono",monospace;font-size:9.5px;font-weight:600;
+  letter-spacing:.13em;text-transform:uppercase;color:var(--accent);
+}
+.kid.line .tag{color:var(--accent)}
+.kid .tag.q{color:var(--unproven)}
+
+/* ---------- callout ---------- */
+.callout{
+  border-left:3px solid var(--unproven);background:var(--unproven-wash);
+  padding:16px 20px;margin:2px 0 30px;max-width:64ch;
+}
+.callout h3{
+  margin:0;font-family:"IBM Plex Mono",monospace;font-size:10.5px;font-weight:600;
+  letter-spacing:.13em;text-transform:uppercase;color:var(--unproven);
+}
+.callout p{margin:8px 0 0;font-size:14.5px;color:var(--ink-2);line-height:1.5}
+
+/* ---------- exclusions ---------- */
+.excl{
+  columns:2;column-gap:38px;margin:0;padding:0;list-style:none;
+  border-top:1px solid var(--rule);padding-top:18px;
+}
+.excl li{
+  break-inside:avoid;margin:0 0 13px;font-size:14px;color:var(--ink-2);line-height:1.45;
+  padding-left:15px;position:relative;
+}
+.excl li::before{
+  content:"";position:absolute;left:0;top:8px;width:7px;height:1.5px;background:var(--unproven);
+}
+.excl b{color:var(--ink);font-weight:600}
+
+/* ---------- next ---------- */
+ol.next{margin:0;padding:0;list-style:none;counter-reset:n}
+ol.next li{
+  counter-increment:n;display:grid;grid-template-columns:38px 1fr;gap:16px;
+  padding:16px 0;border-bottom:1px solid var(--rule-soft);align-items:start;
+}
+ol.next li:first-child{border-top:1px solid var(--rule)}
+ol.next li::before{
+  content:counter(n,decimal-leading-zero);
+  font-family:"IBM Plex Mono",monospace;font-size:12px;font-weight:600;color:var(--accent);
+  letter-spacing:.02em;padding-top:3px;
+}
+ol.next h4{margin:0;font-size:16px;font-weight:600;line-height:1.3}
+ol.next p{margin:5px 0 0;font-size:14px;color:var(--ink-2);max-width:62ch;line-height:1.5}
+
+.foot{
+  margin-top:54px;padding-top:20px;border-top:1px solid var(--rule);
+  font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--ink-3);line-height:1.7;
+}
+hr.div{border:none;border-top:1px solid var(--rule);margin:52px 0 30px}
+
+@media (max-width:640px){
+  .wrap{padding:38px 18px 70px}
+  .spine{grid-template-columns:44px 22px minmax(0,1fr)}
+  .entry{padding-left:12px}
+  .excl{columns:1}
+  .grade{float:none;display:inline-flex;margin:0 0 6px}
+  .break-inner{padding:24px 20px}
+}
+@media (prefers-reduced-motion:no-preference){
+  a{transition:color .12s ease}
+}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+</style>
+
+<div class="wrap">
+
+  <header class="mast">
+    <div class="eyebrow">Working draft · 10 September 2026</div>
+    <h1>The Caton Line</h1>
+    <p class="sub">A patrilineal descent from a Fenland orphan to St. Petersburg, Florida — drawn so that the
+      strength of each link is visible. One join does not hold, and everything above it hangs on it.</p>
+    <div class="mastmeta">
+      <span>Six research passes</span>
+      <span>55 recorded claims</span>
+      <span>Aaron's parents unknown</span>
+    </div>
+  </header>
+
+  <dl class="legend">
+    <div>
+      <dt><span class="chip a">A</span> Proven</dt>
+      <dd>Census image, will, deed, patent, service record, death certificate.</dd>
+    </div>
+    <div>
+      <dt><span class="chip b">B</span> Strong</dt>
+      <dd>Sourced county history or biography, tied to an identified subject.</dd>
+    </div>
+    <div>
+      <dt><span class="chip c">C</span> Lead only</dt>
+      <dd>Compiled tree, uncited memorial, family recollection. Never promoted alone.</dd>
+    </div>
+    <div>
+      <dt><span class="chip h">??</span> Hypothesis</dt>
+      <dd>Named as a candidate. Not entered as ancestry.</dd>
+    </div>
+  </dl>
+
+  <!-- ============ UPSTREAM ============ -->
+  <div class="sect">
+    <h2>England to Pennsylvania</h2>
+    <span class="note">the ancestry of a family Aaron has not been shown to belong to</span>
+  </div>
+  <p class="sectlede">In this family <b>Caton is a late Americanisation of Kitton / Kitten</b>, not the reverse.
+    The English target is Kitton — a rare Fenland surname, some 63 bearers in the whole of the 1881 census.
+    "Caton of Lancashire" is an artefact of the modern spelling.</p>
+
+  <div class="spine">
+
+    <div class="gen dashed">
+      <div class="year">1648</div><div class="stem"></div>
+      <div class="entry">
+        <span class="grade chip h">??</span>
+        <p class="name">George Kitton <em>labourer</em></p>
+        <p class="spouse">Susan Spaine — married 11 May 1648</p>
+        <p class="det">Spalding, Lincolnshire. George buried 9 April 1660; Susan buried 1 April 1662,
+          leaving the children orphaned.</p>
+        <p class="src">St Mary &amp; St Nicholas, Spalding — parish register via FreeREG</p>
+      </div>
+    </div>
+
+    <div class="gen dashed">
+      <div class="year">1660</div><div class="stem"></div>
+      <div class="entry">
+        <span class="grade chip h">??</span>
+        <p class="name">Theophilus Kitton</p>
+        <p class="det">Baptised 4 May 1660 — <em>"Theophilus ye sonne of widdow Kitton (Posthumus)"</em>.
+          Born a month after his father's burial. He then stops appearing in England entirely:
+          no burial 1600–1800, no marriage 1600–1750, anywhere indexed.</p>
+        <p class="src"><b>Why it fits:</b> a pauper orphan of a labourer, aged 15 in 1675 — the textbook
+          indentured-servant profile.<br><b>Against:</b> at national level Kitton is a <b>Norfolk</b> name,
+          which weakens the Lincolnshire reading. The only candidate found so far — not "the family came from Spalding".</p>
+      </div>
+    </div>
+
+    <div class="join open"><span class="lbl">Join 1 — hypothesis, unproven</span><span class="bar"></span></div>
+
+    <div class="gen">
+      <div class="year">1675</div><div class="stem"></div>
+      <div class="entry">
+        <span class="grade chip a">A</span>
+        <p class="name">Theophilus Kitton <em>the immigrant</em></p>
+        <p class="spouse">Catherine Acton, named as "Catherine Kitton" in her brother's 1688 will</p>
+        <p class="det">Transported to Maryland in 1675, one of 35 persons claimed by two London merchants.
+          Planter; bought <b>Grays Luck</b>, 361 acres, from John Gray on 16 November 1699.
+          Dead by 1727, styled "late of Baltemore County".</p>
+        <p class="src">MD Patent <b>Liber 18 f.329</b> · MSA SC 4341 · Will of John Acton, Anne Arundel Co., 1688</p>
+      </div>
+    </div>
+
+    <div class="gen hollow">
+      <div class="year">1727</div><div class="stem"></div>
+      <div class="entry">
+        <span class="grade chip a">A</span>
+        <p class="name">Edward Kitton</p>
+        <p class="det">Stated to be Theophilus's son in the Act of Assembly ch. 19 (1727). This father–son
+          link is primary, not compiled.</p>
+        <p class="src">Act of Assembly ch. 19, 1727</p>
+      </div>
+    </div>
+
+    <div class="join ok"><span class="lbl">Join 2 — proven</span><span class="bar"></span></div>
+
+    <div class="ghost">Intervening Maryland generations are not reconstructed. The descent from Edward
+      to the Pennsylvania households is assumed, not traced.</div>
+
+    <div class="gen">
+      <div class="year">1790</div><div class="stem"></div>
+      <div class="entry">
+        <span class="grade chip a">A</span>
+        <p class="name">Thomas Kitten &amp; Theophilus Kitten</p>
+        <p class="det">Adjacent households in Amwell Township, Washington County, Pennsylvania — recorded as
+          <b>Caton</b> within a few years. This is the spelling changeover, on the page.</p>
+        <p class="src">1790 U.S. census, Washington Co., PA, p.192</p>
+      </div>
+    </div>
+
+    <div class="gen hollow last">
+      <div class="year">1795</div><div class="stem"></div>
+      <div class="entry">
+        <span class="grade chip b">B</span>
+        <p class="name">Thomas Caton <em>d. by 1795</em></p>
+        <p class="spouse">Susanna — named as his widow, "late of Amwell Township", April 1795</p>
+        <p class="det">The 1808 estate partition names Susanna and the children, including <b>George Caton</b>,
+          independently present on an Amwell road petition in 1803. George's wife Jemima is real;
+          <em>"Jemima Prall VanKirk"</em> is an invention until a record says otherwise.</p>
+        <p class="src"><b>Open:</b> the will of Sarah Fisher Rowles decides the parentage link.<br>
+          <b>Corroborating:</b> "Dorsey" and "Greenberry" — both Anne Arundel County given names — carried west
+          into these families. Maryland naming fingerprints.</p>
+      </div>
+    </div>
+
+    <div class="join open"><span class="lbl">Join 3 — the name is closed, the parentage is not</span><span class="bar"></span></div>
+  </div>
+
+  <!-- ============ THE BREAK ============ -->
+  <section class="break">
+    <div class="break-inner">
+      <div class="yrs">1790 — 1820 · the gap that matters is 1820–1841</div>
+      <h2>Join 4 does not hold.</h2>
+      <p class="hard">Nothing connects the Washington County Catons to the Wheeling Catons, and nothing connects
+        either to Aaron. Six research passes have not moved it.</p>
+      <p>Aaron was born 16 May 1820, reportedly at Wheeling, Virginia. He next appears at his own marriage in
+        Delaware County, Ohio in August 1841, aged 21. The twenty-one years in between are empty, and his
+        parents are unknown. Everything above this band is a hypothesis about the ancestry of a family
+        he has not been shown to belong to.</p>
+
+      <div class="tscroll">
+      <table class="cands">
+        <caption>In the void — right surname, right county, right generation. None is attached to Aaron.</caption>
+        <thead>
+          <tr><th>Person</th><th>Record</th><th>Bearing</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th>Elizabeth Caton</th>
+            <td>m. Alexander Gosney, Ohio Co., Va., 17 Dec 1818 <span class="mono">(B)</span></td>
+            <td>Proves adult Caton presence at Wheeling eighteen months before Aaron's birth. Gosneys gone by 1850.</td>
+          </tr>
+          <tr>
+            <th>Thomas Caton</th>
+            <td>head of household, 1830 Ohio Co., Va., p.209 <span class="mono">(A)</span></td>
+            <td>One boy aged 5–9 and <b>no boy aged 10–14</b>. Aaron, then ten, does not fit without an unestablished error.</td>
+          </tr>
+          <tr>
+            <th>Harrison Caton, 14</th>
+            <td>1850 Ohio Co., Va., in John Boring's household <span class="mono">(A)</span></td>
+            <td>The only male without a trade in a household of bricklayers. Reads as kin, not apprentice.</td>
+          </tr>
+          <tr>
+            <th>Eliza Ann Boring, 31</th>
+            <td>b. Virginia; John Boring's wife <span class="mono">(??)</span></td>
+            <td>May be a Caton by birth and Harrison's sister or aunt. One record tests it — their marriage.
+              The Ohio Co. index holds no Boring marriage 1834–50. Untested, not disproved.</td>
+          </tr>
+          <tr>
+            <th>David "Caster"</th>
+            <td>1820 Harrison Co., Va., p.88 <span class="mono">(C)</span></td>
+            <td>Probably an indexing of <b>Caton</b>. Two boys under ten; Aaron could be one. No later record connects them.</td>
+          </tr>
+        </tbody>
+      </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ AARON FORWARD ============ -->
+  <div class="sect">
+    <h2>Aaron forward</h2>
+    <span class="note">continuous from 1841</span>
+  </div>
+  <p class="sectlede">A tailor who became a labourer, and who enlisted at forty-one and served four years in the
+    same company as his fifteen-year-old son.</p>
+
+  <div class="spine">
+    <div class="gen">
+      <div class="year">1820</div><div class="stem"></div>
+      <div class="entry">
+        <span class="grade chip a">A</span>
+        <p class="name">Aaron Caton</p>
+        <p class="spouse">Sarah Ann Gardner, b. c.1824 Ohio — married 8 August 1841, Delaware Co., Ohio</p>
+        <p class="det">Born 16 May 1820, reportedly Wheeling, Virginia. Tailor to 1860, labourer by 1870.
+          Private, Co. E, 2nd Missouri Volunteer Cavalry — <b>Merrill's Horse</b> — enlisted at Chillicothe,
+          Missouri on 15 August 1861, reenlisted 5 January 1864, mustered out at Nashville 19 September 1865.
+          Last seen alive 6 June 1870 in Boonville, lodging in his married daughter's household, no wife present.</p>
+        <p class="src"><b>Birthplace Virginia</b> confirmed four times over: 1850, 1860 and 1870 censuses, and by
+          his daughter's 1916 death certificate — the first statement from a family informant rather than an enumerator.<br>
+          <b>Ages drift; keep 1820.</b> The service card's 44 and the 1870 census's 55 are third-party outliers.<br>
+          <b>Death: between June 1870 and June 1880.</b> The widely repeated 11 Jan 1878 Boonville date is
+          consistent with that bracket but still unproven.<br>
+          <b>Sarah Ann</b> died before 1910, or outside Missouri — a full sweep of the 1910–75 Missouri death
+          certificates returns no candidate.</p>
+      </div>
+    </div>
+
+    <div class="gen hollow">
+      <div class="year">1843<br>–1859</div><div class="stem"></div>
+      <div class="entry" style="padding-bottom:34px">
+        <p class="name" style="font-size:16px">Six children, in three grades of certainty</p>
+        <div class="kids">
+          <div class="kid">
+            <p class="kn">Julia A.</p>
+            <p class="kd">b. 15 Dec 1843 · MISSOURI<br>d. 26 Oct 1916 · St. Louis</p>
+            <p class="kx">Married S. G. Sawtell, a painter; took her father in at Boonville. Her death
+              certificate is what fixed the family's Missouri window.</p>
+            <p class="tag">A · certificate</p>
+          </div>
+          <div class="kid">
+            <p class="kn">Mary E.</p>
+            <p class="kd">b. c.1845 · Ohio</p>
+            <p class="kx">At school in 1850, then nothing. Missed by every earlier reading of the census —
+              she was not in the ledger at all.</p>
+            <p class="tag">A · census</p>
+          </div>
+          <div class="kid line">
+            <p class="kn">William Bramwell</p>
+            <p class="kd">b. 24 Oct 1847 · Ohio<br>d. 1941</p>
+            <p class="kx">Enlisted at fifteen, recorded as seventeen, in his father's company. Apprenticed at
+              Boonville 1866; founded Caton Marble Works, Winfield, Kansas.</p>
+            <p class="tag">A · the direct line</p>
+          </div>
+          <div class="kid">
+            <p class="kn">Nancy</p>
+            <p class="kd">b. c.Nov 1849 · Ohio</p>
+            <p class="kx">Nine months old in August 1850, on line 1 of the second page — which is why a
+              single-page read kept losing her.</p>
+            <p class="tag q">A · name &amp; death are C</p>
+          </div>
+          <div class="kid">
+            <p class="kn">A son</p>
+            <p class="kd">b. c.1859 · Missouri</p>
+            <p class="kx">"James" in the 1860 census, "Caton H." in 1870. Same birth year and state, different
+              initial. No third record settles the name.</p>
+            <p class="tag q">B · unresolved</p>
+          </div>
+          <div class="kid">
+            <p class="kn">Levi Andrew &amp; Aaron Nathan</p>
+            <p class="kd">twins · b. 25 Nov 1853 · d. 1854</p>
+            <p class="kx">Compiled only. No record has been retrieved for either.</p>
+            <p class="tag q">C · unverified</p>
+          </div>
+        </div>
+        <p class="src" style="margin-top:14px">1850 U.S. census, Town of Delaware, Delaware Co., Ohio —
+          <b>M432 roll 675, pp.179a/179b, hh 1160/1163</b>, enum. Henry Hodgen, 2 Aug 1850.
+          The household spans the page break.</p>
+      </div>
+    </div>
+
+    <div class="gen">
+      <div class="year">1847</div><div class="stem"></div>
+      <div class="entry">
+        <span class="grade chip a">A</span>
+        <p class="name">William Bramwell Caton</p>
+        <p class="spouse">Julia Blankenmeister of Boonville, native of St. Louis — married 1869</p>
+        <p class="det">Bugler, Co. E, 2nd Missouri Cavalry, mustered out beside his father on the same day at
+          Nashville and reached home "just in time to celebrate his eighteenth birthday". Left for Winfield,
+          Kansas in October 1879. Five children; the eldest, Harry A., b. c.1870, became junior partner in the
+          marble works.</p>
+        <p class="src">Millington &amp; Greer, <em>History of Cowley County, Kansas</em> (1901), pp.118–119 ·
+          MO service card, Co. E, 2nd Mo. Vol. Cav.<br>
+          <b>Do not confuse:</b> Julia B. Caton, Cowley County school superintendent 1889–91, is <b>his wife</b> —
+          not a daughter of Aaron.</p>
+      </div>
+    </div>
+  </div>
+
+  <hr class="div">
+
+  <!-- ============ MODERN ============ -->
+  <div class="sect">
+    <h2>The modern descent</h2>
+    <span class="note">carried as family knowledge, not as evidence</span>
+  </div>
+
+  <div class="callout">
+    <h3>The cheapest unclosed segment in the file</h3>
+    <p>Louis Merrill → Chandler Maynard → Philip Brettun → Spencer is recorded in the brief as the confirmed
+      direct line, but <b>no claim in the file covers any of these links</b>, nor the join from William Bramwell
+      to Louis Merrill. Every research pass has aimed upstream. Four certificates would close all of it —
+      and if any link here is wrong, the Y-DNA test still validates the patriline while the paper trail does not.</p>
+  </div>
+
+  <div class="spine">
+    <div class="gen dotted">
+      <div class="year">1886</div><div class="stem"></div>
+      <div class="entry"><span class="grade chip c">C</span>
+        <p class="name">Louis Merrill Caton</p><p class="det">1886 – 1970.</p></div>
+    </div>
+    <div class="gen dotted">
+      <div class="year">1912</div><div class="stem"></div>
+      <div class="entry"><span class="grade chip c">C</span>
+        <p class="name">Chandler Maynard Caton</p><p class="det">1912 – 2002.</p></div>
+    </div>
+    <div class="gen dotted">
+      <div class="year">1950</div><div class="stem"></div>
+      <div class="entry"><span class="grade chip c">C</span>
+        <p class="name">Philip Brettun Caton</p>
+        <p class="det">Born 1950; died 2022. <em>The death year is inferred from "widowed since 2022",
+          not taken from a record.</em></p></div>
+    </div>
+    <div class="gen dotted last">
+      <div class="year">now</div><div class="stem"></div>
+      <div class="entry">
+        <p class="name">Spencer, Tyler &amp; Bryce</p>
+        <p class="det">Spencer and Jenna, St. Petersburg, Florida — Murphy (2022), Silas (2024), and a third
+          child born February 2026. Tyler and Cheyenne, with a first child born spring 2025.
+          Bryce and Lex, New Hope, Pennsylvania.</p>
+        <p class="src">Spencer is an <b>unbroken patrilineal Caton</b> — which is what makes the Y-DNA test decisive.</p>
+      </div>
+    </div>
+  </div>
+
+  <hr class="div">
+
+  <!-- ============ EXCLUSIONS ============ -->
+  <div class="sect"><h2>Not this family</h2>
+    <span class="note">same surname, separately documented, kept apart on purpose</span></div>
+  <p class="sectlede">Aaron was in Missouri by December 1843 — twenty years before any other Missouri record.
+    The 1859–79 residence is a <b>return</b>, not a first migration, which means every separation below was
+    reasoned against a prior that has since changed. That merges nothing. It means the separations must be
+    re-argued rather than assumed.</p>
+
+  <ul class="excl">
+    <li><b>Aaron F. Caton</b> — b. c.1836 Missouri, Otterville, Cooper Co., wife Nancy, eight children, d. 1886.
+      Sixteen years younger than ours, wrong state. The Aaron Caton × Nancy Johnson marriage of 12 Oct 1869
+      is probably his, not ours.</li>
+    <li><b>Three Missouri men named Harrison Caton</b> — Wheeling b. c.1836 Va; Bates Co. b. c.1825 Ohio (ruled
+      out); Gentry Co., raising a family by 1883. Do not match on forename.</li>
+    <li><b>Andrew Caton / New York line</b> — Emma J. Caton of Delaware Co., Ohio is Andrew's daughter, not Aaron's.</li>
+    <li><b>Thos. H. Caton</b>, b. Kentucky, Roche Twp., Boone Co., MO 1860 — a separate Kentucky–Missouri line
+      in the same county.</li>
+    <li><b>Nimrod Caton</b> × Nancy Starke, and <b>Joseph T. Caton</b> — both Cooper County, both distinct.</li>
+    <li><b>Jesse Caton</b>, Warren–Linn Co., Missouri — older, separate family.</li>
+    <li><b>George Wesley Caton</b> of Muskingum Co. is not <b>George W. Caton</b>, the Missouri tailor.</li>
+    <li><b>William Caton, transported 1674</b> — a different immigrant recorded in the same Liber 18.</li>
+  </ul>
+
+  <hr class="div">
+
+  <!-- ============ NEXT ============ -->
+  <div class="sect"><h2>What would change the shape of this tree</h2>
+    <span class="note">in order of leverage</span></div>
+  <p class="sectlede">The first item is not a research task. It is a purchase.</p>
+
+  <ol class="next">
+    <li>
+      <div><h4>Y-DNA — FTDNA Y-37, joined to the Caton surname project</h4>
+        <p>Tests join 4 directly: whether Aaron's male line belongs to this family at all. A negative deletes
+          the entire England-to-Pennsylvania section from your ancestry in one result, and redirects sections'
+          worth of work. Highest-value action in the file, and still not started.</p></div>
+    </li>
+    <li>
+      <div><h4>Missouri, 1842–1845</h4>
+        <p>Julia was born there in December 1843. Where the family was in those years is the newest open
+          question and the one that reframes everything downstream.</p></div>
+    </li>
+    <li>
+      <div><h4>The John Boring × Eliza Ann marriage record</h4>
+        <p>One document. If her maiden name is Caton, Harrison's parents become findable — in the right
+          surname, county and generation to bear on Aaron.</p></div>
+    </li>
+    <li>
+      <div><h4>Harrison Caton in the 1900 Gentry County census</h4>
+        <p>The 1900 schedule gives birth month and year and <b>both parents' birthplaces</b> for the head.
+          If that Harrison proves to be Aaron's kin, this is the nearest the file has come to the
+          generation above him. Missouri's 1890 census burned; 1880 is the wrong instrument, since the family
+          arrived after it.</p></div>
+    </li>
+    <li>
+      <div><h4>Aaron's full CMSR jacket at NARA, and his pension file</h4>
+        <p>The index card's Remarks field is blank. The consent paper for William's underage enlistment,
+          if it exists, is in the jacket — as is whatever the pension file says about Sarah Ann.</p></div>
+    </li>
+  </ol>
+
+  <p class="foot">
+    Drawn from <b>BRIEF.md</b> and <b>claims.jsonl</b> as of 10 September 2026, after six research passes.<br>
+    This page is a view, not a source. Nothing on it may be cited back into the claims file.<br>
+    Grades follow the project standard: A primary, B strong secondary, C lead only.
+    A C-level relationship is never promoted into the working tree without A/B corroboration.
+  </p>
+
+</div>
