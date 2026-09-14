@@ -1,5 +1,10 @@
 # Spencer's next FamilySearch session — 15 Sep 2026
 
+**First, above everything below: Fauquier personal-property tax 1833–1840, Full-Text `Caton`,
+Fauquier, 1833–1840 — does Thomas Caton carry 2 or 3 tithables in 1836–39 (Aaron 16 in
+1836, Joseph in 1839)? See PARENTAGE-TESTS.md §A1. Then Daniel Laurie's 1840 Cooper
+household (a male 70–80 = Thomas Sr.).**
+
 Ordered by expected value per minute. Each item names what to send. All from T15
 unless marked. Full-Text = Search → Full Text; Records = Search → Records; Catalog =
 Search → Catalog.

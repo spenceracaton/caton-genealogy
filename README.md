@@ -11,6 +11,7 @@ is off the table. **FamilySearch Full-Text Search is the working tool.**
 
 - `BRIEF.md` — corrected working state. Read first.
 - `NEXT-SESSION.md` — Spencer's ordered FamilySearch list for the next sitting.
+- `PARENTAGE-TESTS.md` — every remaining test that could name or exclude Aaron's father, ranked.
 - `claims.jsonl` — established facts, sources, grades, and worthwhile negatives.
 - `tasks/` — one scoped lead per file; see `tasks/README.md` for execution and
   merge rules.

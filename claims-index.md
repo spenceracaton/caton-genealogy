@@ -1,4 +1,4 @@
-# Claims index — generated 2026-09-14 from `claims.jsonl` (175 claims)
+# Claims index — generated 2026-09-14 from `claims.jsonl` (176 claims)
 
 Regenerate with `python3 tools/make-claims-index.py`. **Do not edit by hand.**
 
@@ -6,8 +6,8 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 
 | status | n | | grade | n |
 |---|---:|---|---|---:|
-| fact | 110 | | A | 106 |
-| hypothesis | 11 | | B | 46 |
+| fact | 111 | | A | 106 |
+| hypothesis | 11 | | B | 47 |
 | negative | 24 | | C | 23 |
 | do-not-merge | 3 | |  |  |
 | method | 19 | |  |  |
@@ -209,6 +209,7 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C173 | B | fact | 11 | Caton marriage bonds, Fauquier Co. | THOMAS SR.'S SECOND MARRIAGE WAS NOT BONDED IN FAUQUIER. John K. Gott, Fauquier County, Virginia Marriage Bond… |
 | C174 | B | fact | 11 | Rosana Caton - Reading Twp, Perry  | [MOSES'S-WIDOW READING WITHDRAWN 14 Sep, same evening: Perry County Chapter OGS, Reading Township Cemeteries v… |
 | C175 | B | fact | 11 | Caton - Northern Virginia will abs | NEGATIVES FROM ARCHIVE.ORG FULL-TEXT SEARCH (14 Sep 2026, lending-restricted books searched by snippet): NO Ca… |
+| C176 | B | fact | 11 | Caton Family Cemetery, Somerville, | TWO MORE NEGATIVES, ONE SMALL POSITIVE (archive.org full-text snippets, 14 Sep 2026). (1) Baird, Fauquier Coun… |
 
 ## Open discrepancies (from C115)
 
