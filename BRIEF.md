@@ -1,6 +1,6 @@
 # Caton genealogy — working brief
 
-**State as of:** 14 September 2026, after eleven research passes (157 claims).
+**State as of:** 14 September 2026, after eleven research passes (187 claims).
 **This file is the whole context an agent needs.** Corrections from every pass are
 already applied here. Do not read `archive/` unless you are asked to reconstruct how a
 conclusion was reached.
@@ -26,8 +26,10 @@ Caton men of one generation on **Broad Run, Prince William Co.** ("Caton Branch"
 1800, Thomas by 1810; Aaron stayed — married and childless in 1810, propertyless by
 1813, gone by 1820, "dec'd" by 1834. Thomas Sr. heads the only Caton household in
 either county in 1820, with **two boys under ten** (C080) and a wife 26–45 who is a
-**second wife** (his 1810 wife was 45+, C159). **But Moses's Fairfax household in 1820
-also holds a boy under ten (C165)** — two candidate fathers on the census. In 1830
+**second wife** (his 1810 wife was 45+, C159). Moses's Fairfax household in 1820 also holds a boy under ten (C165) — **but he is
+Moses B. Jr., b. Jan 1811 (C181)**: every male in Moses's house is a known son (John R.,
+William G., George Wesley, Moses Jr. — C187), a settled Centreville Methodist's full
+house; Thomas Sr.'s two boys under ten are the only unexplained ones on either census. In 1830
 neither brother has a boy under 15 at home (C082, C166) and no Caton heads a Prince
 William household (C167): Aaron (10) and Joseph (7) were living under another roof.
 Joseph's Fauquier birth in 1823 and the Cooper Co. cluster still favour Thomas.
@@ -43,19 +45,16 @@ its Joseph is the tailor by his own biography, not William's son of the same nam
 (C149). *Still cannot explain Delaware Co., Ohio.* Grade C for the parentage; the
 family is A/B.
 **(B) Maryland–Pennsylvania / Wheeling.** Thomas Caton in Ohio Co., VA 1830–40 (C073,
-C090); Delaware Co.'s 1840 Catons are Maryland- and Pennsylvania-born (C105, C106). A
-Thomas Caton 1767–1838 buried at New Martinsville, Tyler Co., with a Matthew and a
-Belmont Co. wife (C139) — the first real family in the "Wheeling" country, but with no
-census household in 1820 or 1830 (C140, C143). **No Aaron in any generation of B.**
-*Cannot explain Joseph, or Aaron dying beside the Fauquier cluster.* Both stories failed
-their direct 1840 test: **Aaron was a tally in some master's household in 1840.**
-**Alexandria thread (C120–C136) — an extension of A.** George W. Caton, tailor, b. 1800
-Alexandria, Washington City 1827–30, Boonville 1832–49, d. 1865; son of an Irish
-Revolutionary soldier who died at 98 (C121). 1840 Boonville: two males 20–30 and two
-15–20 in his house, not Sarah's — Aaron and Joseph fit; no man over 40 (C129, C130).
-1820 D.C.: George headed nothing, so **Aaron is not his son** (C133–C135; C135's
-"only 1820 household" claim is superseded by C165). The Irish grandfather is in no
-known household; if real, he is not Thomas Sr. of Prince William.
+C090); Delaware Co.'s 1840 Catons are Maryland- and Pennsylvania-born (C105–C106); a
+Thomas Caton 1767–1838 at New Martinsville, Tyler Co., with no 1820 or 1830 household
+(C139–C143). **No Aaron in any generation of B**; it cannot explain Joseph or Aaron's
+death beside the Fauquier cluster. Neither story passed its 1840 test: **Aaron was a
+tally in some master's household in 1840.**
+**Alexandria thread (C120–C136).** George W. Caton, tailor, b. 1800 Alexandria,
+Boonville 1832–49, d. 1865, son of an Irish Revolutionary soldier (C121). His 1840
+Boonville house held two males 20–30 and two 15–20 — Aaron and Joseph fit as his
+journeymen (C129–C130). He headed no household in 1820, so **he is not Aaron's father**
+(C133–C135).
 
 ## 2. Confirmed direct line
 
@@ -87,9 +86,11 @@ compiled "11 Jan" is wrong. Son **Henry** ("James" 1860, "H." 1870) died there 7
 > third-party outliers (C023, C026).
 
 **The 1850 household:** Aaron 30 tailor b. Va; Sarah 26 b. Ohio; **Julia 7 b. MISSOURI**
-— not Massachusetts; her 1916 death certificate settles it (C037/C038) and voids T01;
-Mary E. 5 b. Ohio; Wm. B. 2; Nancy 9/12 (= Nancy Roseman, b. 10 Nov 1849). A son
-**Phineas** d. Mar 1845 (C103).
+(her 1916 death certificate, C037/C038); Mary E. 5 b. Ohio; Wm. B. 2; Nancy 9/12
+(= Nancy Roseman, b. 10 Nov 1849). A son **Phineas**, b. c.5 Apr 1842, d. 17 Mar 1845,
+buried Powell under a stone naming "Aaron & Sarah Caton" (C185). Sarah Ann was a
+daughter of **Joseph M. Gardner** (1795 N.H. – 1834) and Nancy (Tone) Pond of the
+Powell settlement, Liberty Twp (C186) — Aaron's Ohio anchor.
 **Migration:** m. Ohio Aug 1841 → Julia b. **Missouri** Dec 1843 → back in Delaware
 by **June 1844** (C144) → Ohio 1850 → Missouri by 1859. The 1843 trip was a visit of
 months, not a move — a family reason; the 1859–79 residence is a **return** (C046).
@@ -142,10 +143,11 @@ Separate same-name men by age, spouse, occupation, children, county, and migrati
 Contracts are in `tasks/`, one file per lead. Current order:
 
 **On Aaron — what can still name a parent, in order:**
-1. **Thomas Caton's second marriage, Fauquier c.1811–15** — the bond names our Aaron's
-   probable mother; a consent names her father. Fauquier Marriage Register 3–4.
-2. **The elder Aaron's estate, Prince William 1813–20** — order/will books; heirs or
-   kin named. Full-Text `Caton`, Prince William, 1810–1835, unfiltered.
+1. **Thomas Caton's second marriage, c.1811–19** — the bond names our Aaron's probable
+   mother; a consent names her father. Not Fauquier (C173), not Culpeper to 1815 (C182):
+   Prince William register 1794–1850, then Fairfax, Stafford, Culpeper 1816–19.
+2. **The elder Aaron's estate** — not Prince William (no Caton estate there 1734–1922,
+   C177): Fauquier 1813–32 or Culpeper 1813–34 will/order books; heirs or kin named.
 3. **Sue (Caton) Dumm's 1932 papers**, Boulder (C114) — request out.
 4. **Joseph's 1910 Saline Co. probate** — parked at Spencer's instruction.
 5. **Ohio Co. (W)VA guardianship 1830–40** — the only test left for B.

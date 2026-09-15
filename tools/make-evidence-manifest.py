@@ -7,6 +7,21 @@ ev = root/"evidence"
 rows = [json.loads(l) for l in (root/"claims.jsonl").open() if l.strip()]
 
 NOTES = {
+ "1820_CulpeperCo_VA_census_C-block_pp12-21_noCaton_sheet1.jpg": "1820 Culpeper (alphabetical) C block, pp.12-21 - no Caton (C188).",
+ "1820_CulpeperCo_VA_census_C-block_pp10-23_noCaton_sheet2.jpg": "1820 Culpeper (alphabetical) pp.10-11, 14-15, 18-19, 22-23 - no Caton (C188).",
+ "1820_StaffordCo_VA_census_C-block_noCaton_sheet.jpg": "1820 Stafford (alphabetical) C block, frames 178-180 - no Caton; 'Mildred Catlett' is Catlett (C188).",
+ "1820-07_AlexandriaGazette_Centreville_camp_meeting_MosesCaton_and_1822_JohnRCaton_Grigsby_marriage.txt": "Alexandria Gazette 1820: Moses Caton signs the Centreville camp-meeting pledge with the Buckleys, Grigsbys, Lanes, Larkins; 1822 John R. Caton m. Eliza Grigsby; 1825 William Caton insolvent; 1830 John Caton of Ohio Co. m. Marinda Martin (C187).",
+ "1845_PowellCemetery_DelawareCo_OH_PhineasCaton_stone_sonOfAaronAndSarah.jpg": "Powell Cemetery: 'Phineas son of Aaron & Sarah Caton died March 17, 1845, aged 2 yrs 11 ms & 12 days' - the Find a Grave transcription 'James' is wrong (C185).",
+ "1908_Lytle_DelawareCo_history_Gardner_of_Powell_LibertyTwp.txt": "Lytle 1908 on Joseph M. Gardner of New Hampshire (Middlebury/Powell settlement) and son Jonathan T.; Powell Cemetery Gardner memorials - Sarah Ann's family (C186).",
+ "PW_General_Index_to_Wills_1734-1951_Caton_entries.txt": "Peters, PW General Index to Wills 1734-1951 (snippets): the only Caton entries are 1922-30 - no Caton estate ever administered in Prince William (C177).",
+ "1908_Lytle_DelawareCo_history_TitusCase_ChristianChurch.txt": "Lytle 1908: Rev. Titus Case (1797-1860), Christian Church elder, Orange Twp - the 1841 officiant (C178).",
+ "1959_James_OhioCompany_ThomasCaton_1749-1763_snippets.txt": "James 1959 (snippets): Thomas Caton of Frederick Co. sued by George Mason and the Ohio Company, Fairfax 1752-63 (C179).",
+ "1830-05_PhenixGazette_Alexandria_letters_list_ThomasCaton.txt": "Phenix Gazette 3-5 May 1830: letter at the Alexandria post office for 'Thomas Caton, or Robert Gale' (C180).",
+ "FindAGrave_41210338_MosesBCatonJr_1811-1876_CatonCem_WebsterCoKY_stone.jpg": "Moses B. Caton Jr. (14 Jan 1811-23 Apr 1876), Caton Cemetery, Webster Co. KY - the boy under ten in Moses's 1820 house; stone illegible in the photo (C181).",
+ "1840_MuskingumCo_OH_NewtonTwp_p324_GeorgeWCaton_page.jpg": "1840 Muskingum, Newton Twp, stamped p.324 (reel 418 image 157): George W. Caton household page (C183).",
+ "1840_MuskingumCo_OH_NewtonTwp_p324_GeorgeWCaton_row.jpg": "1840 Muskingum: George W. Caton - M <5 1, 5-10 1, 30-40 1; F <5 2, 20-30 1; no male 20-30 (C183).",
+ "1840_MuskingumCo_OH_SaltCreekTwp_p468_ThosCaton_page.jpg": "1840 Muskingum, Salt Creek Twp, stamped p.468 (reel 418 image 447): 'Thos. Caton' (C or E) page (C183).",
+ "1840_MuskingumCo_OH_SaltCreekTwp_p468_ThosCaton_row.jpg": "1840 Muskingum: Thos. C/Eaton - M 30-40 1; F <5 1, 20-30 1 - not Thomas Sr. (C183).",
  "1840_PerryCo_OH_ReadingTwp_RosanaCaton_household.jpg": "1840 Perry Co. OH: Rosana Caton, M 20-30 x2, F 5-10, F 60-70 - Moses's widow? (C174).",
  "1936_1956_SedaliaDemocrat_NancyJane_Johnson_Caton_Blevins_and_Jennie_Baslee_obits.txt": "Nancy Jane (Johnson) Caton Blevins obit 1936 and Jennie Baslee obits 1956 - the 1869 marriage and 1871 divorce are Aaron F.'s (C172).",
  "Fairfax_1836-004_LVA_Cornwell_v_Moore_WmGCaton_deposition.zip": "LVA Fairfax chancery 1836-004: William G. Caton deposes at Centreville, 1 Sep 1835 (C168).",

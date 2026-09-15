@@ -2,10 +2,10 @@
 id: T04
 priority: 4
 mode: agent
-status: partial
+status: reopened
 repository: NARA RG15 / RG94
 blocked_on: FamilySearch sign-in for the free T288 index search; user-authorized NARA order for the complete files
-note: ACCESS CORRECTED 10 Sep 2026. The General Index is available free in FamilySearch collection 1919699 (NARA T288). SEARCHED 10 Sep: the only Aaron-like result is Aaron Caten, pension 1876, Co. C, 3rd Missouri Cavalry - a different soldier from the direct-line Aaron, Co. E, 2nd Missouri Cavalry. No matching card is identified, but this is not a conclusive no-pension result: an untested spelling or index failure remains possible. Do not order a pension file without a correct application/certificate number. The CMSR jackets remain independently useful; order Aaron's and William's complete CMSRs separately using NATF 86 if authorized.
+note: REOPENED 14 Sep 2026 (C184) - the 'Aaron Caten, 1876, Co. C, 3rd Mo. Cav.' card is probably Aaron's own; the NPS soldiers index has no Caton/Caten in the 3rd Mo. Cav. and only one Aaron Caton in Missouri service. Next: read the T288 card image (unit line, application no., filing date), then order the file. Earlier note follows. ACCESS CORRECTED 10 Sep 2026. The General Index is available free in FamilySearch collection 1919699 (NARA T288). SEARCHED 10 Sep: the only Aaron-like result is Aaron Caten, pension 1876, Co. C, 3rd Missouri Cavalry - a different soldier from the direct-line Aaron, Co. E, 2nd Missouri Cavalry. No matching card is identified, but this is not a conclusive no-pension result: an untested spelling or index failure remains possible. Do not order a pension file without a correct application/certificate number. The CMSR jackets remain independently useful; order Aaron's and William's complete CMSRs separately using NATF 86 if authorized.
 ---
 
 # T04 — Aaron Caton's pension file

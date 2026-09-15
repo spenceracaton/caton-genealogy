@@ -1,0 +1,13 @@
+Peters, Joan W. Prince William County, Virginia, General Index to Wills, 1734-1951 (2001).
+archive.org identifier princewilliamcou0000pete (lending-restricted; read by full-text API snippets, 14 Sep 2026).
+Query: identifier:princewilliamcou0000pete AND Caton -> 1 hit. Variant queries Cayton / Caten / Catton / Kayton / Keaton -> 0 hits.
+
+Snippets returned (OCR, lightly cleaned; the {{{ }}} marks are the API's highlight):
+  "... Account 8/225 {{{Caton}}} 1922 {{{Caton}}} J. W. Heirs Z/358 1924 {{{Caton}}} J. W. Account 1/19 1930 {{{Caton}}} [?]: Will 2/ ..."
+  "... 2/293 1930 {{{Caton}}} [ad]: Heirs 2/294 ... PRINCE WILLIAM COUNTY VIRGINIA GENERAL INDEX TO WILLS Caborn-Campbell ..."
+  "... GIVEN NAME / INSTRUMENT / WILL BOOK/PAGE ... {{{Caton}}} (Cont.) 1930 {{{Caton}}} [?] Inheritance Tax 2/323  Catts 1885 ..."
+
+Reading: every Caton entry in the index falls in 1922-1930 (J. W. Caton heirs/account, Will Book Z and the 1930s numbered books).
+No Caton will, inventory, account, bond, sale or heirs entry before 1922. Other snippets from the same book show the
+surviving will books run continuously through the period that matters: K/439 (1815 Boughannon inventory), N/395 (1831 Drummond sales),
+Q/327-Q/436 (1856-58 Atkinson), R/425-R/697 (1868-69 Lynn, Bell), T/282 (1881 Hixson).

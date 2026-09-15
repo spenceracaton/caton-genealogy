@@ -1,0 +1,16 @@
+Alfred P. James, The Ohio Company: Its Inner History (Pittsburgh, 1959); archive.org identifier ohiocompanyitsin0000jame
+(lending-restricted; full-text API snippets, 14 Sep 2026; queries identifier:ohiocompanyitsin0000jame AND Caton AND <term>).
+
+  "... September 19, a warrant against Thomas Caton, and, October 5, 1752, a suit against Thomas Caton, and a suit against Providence [Mounts] ..."
+  "... and a warrant against John Adam Long; and a declaration and a warrant against Thomas Caton. August ..."
+  "... the old suit against Thomas Caton, often dismissed, came up again. Caton, in the custody of the sheriff, brought suit ..."
+  "... March 3, 1763; the strange suit of Caton against George Mason was dismissed, March 24, 1763, on 'Complainant ..."
+  Document list (Mason papers): "Declaration of G.M. and the O.C. vs. Thomas Caton. Warrant of G[.M.] ... Thomas Caton vs. G.M. and Co.
+   G.M. and Co. vs. Thomas Caton. G.M. and Co. vs. Thomas Caton. G.M. and Co. vs. Thomas Caton."
+  Author's note on a document: "W[m] Richeys' Note L4:00:0  1. Handwriting of Thomas Caton. 2. Bail for Caton in 1752.
+   Probably moved later to the Monongahela Valley. 3. Most ..."
+
+Related snippets from other books (same session):
+  historicalrecord0000harr: "The justices were William Cocks and Thomas Caton of Frederick County." (1740s, Frederick Co., Va.)
+  bwb_W8-BNY-823: "... deceased by 13 April 1749 when Van Swearingen, Thomas Caton and Edward Teague appraised his estate ..."
+   (a Frederick County estate; Swearingen and Teague are Shepherdstown-area names).

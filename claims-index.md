@@ -1,4 +1,4 @@
-# Claims index — generated 2026-09-14 from `claims.jsonl` (176 claims)
+# Claims index — generated 2026-09-14 from `claims.jsonl` (188 claims)
 
 Regenerate with `python3 tools/make-claims-index.py`. **Do not edit by hand.**
 
@@ -6,9 +6,9 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 
 | status | n | | grade | n |
 |---|---:|---|---|---:|
-| fact | 111 | | A | 106 |
-| hypothesis | 11 | | B | 47 |
-| negative | 24 | | C | 23 |
+| fact | 122 | | A | 110 |
+| hypothesis | 11 | | B | 53 |
+| negative | 25 | | C | 25 |
 | do-not-merge | 3 | |  |  |
 | method | 19 | |  |  |
 | moot | 1 | |  |  |
@@ -136,7 +136,7 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C100 | A | fact | 10 | Jesse Caton (Delaware Co., OH) | T11 RESULT - A NEW MAN, NOT THE MISSOURI JESSE. FamilySearch index of the 1840 census, Delaware Co., Ohio, sur… |
 | C101 | A | fact | 10 | James Cayton (Delaware Co., OH) | T11 RESULT, second household. 1840 census, Delaware Co., Ohio: JAMES CAYTON - male 30-40 (b. 1800-10), male un… |
 | C102 | A | fact | 10 | Caton households, Delaware Co., OH | 1850 census, Delaware Co., Ohio, FamilySearch index, surname Caton (export retained as evidence/1850_DelawareC… |
-| C103 | B | fact | 10 | Phineas Caton | AARON'S INFANT SON, CORROBORATING THE GEDCOM. Find a Grave Index: PHINEAS CATON, d. 17 MARCH 1845, buried POWE… |
+| C103 | B | fact | 10 | Phineas Caton | [CONFIRMED BY THE STONE 14 Sep 2026 - C185: the gravestone reads 'son of Aaron & Sarah Caton', died 17 Mar 184… |
 | C104 | A | fact | 10 | James Caton (Delaware Co., OH) | JAMES CATON married TABITHA BOCKOVER, 27 Aug 1846, Delaware Co., Ohio (Ohio County Marriages, ark:/61903/1:1:X… |
 | C105 | C | fact | 10 | Jesse Katon / Caton (Delaware Co.  | IDENTIFICATION WITHDRAWN 12 Sep 2026 - SEE C119. The Fairfield Co. Jesse Katon had a 15-year-old son in 1850, … |
 | C106 | B | fact | 10 | James Cayton (Delaware Co. OH 1840 | THE DELAWARE CO. JAMES IDENTIFIED - PENNSYLVANIA-BORN, NOT FAUQUIER. FamilySearch 1850 census, unrestricted, g… |
@@ -210,6 +210,18 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C174 | B | fact | 11 | Rosana Caton - Reading Twp, Perry  | [MOSES'S-WIDOW READING WITHDRAWN 14 Sep, same evening: Perry County Chapter OGS, Reading Township Cemeteries v… |
 | C175 | B | fact | 11 | Caton - Northern Virginia will abs | NEGATIVES FROM ARCHIVE.ORG FULL-TEXT SEARCH (14 Sep 2026, lending-restricted books searched by snippet): NO Ca… |
 | C176 | B | fact | 11 | Caton Family Cemetery, Somerville, | TWO MORE NEGATIVES, ONE SMALL POSITIVE (archive.org full-text snippets, 14 Sep 2026). (1) Baird, Fauquier Coun… |
+| C177 | B | negative | 11 | Caton - Prince William Co. will bo | NEGATIVE, DECISIVE FOR ONE TEST. Peters, Prince William County, Virginia, General Index to Wills, 1734-1951 (2… |
+| C178 | B | fact | 11 | Rev. Titus Case, M.G. - officiant  | THE 1841 OFFICIANT IDENTIFIED (B12 closed). 'Titus Case, M.G.', who returned Aaron Caton's marriage to Sarah A… |
+| C179 | C | fact | 11 | Thomas Caton of Frederick Co., Va. | ORIGIN HYPOTHESIS, UNTESTED (grade C) - EXTENDS C171 (Capt. Thomas Caton of Opequon Creek, Frederick Co., 1750… |
+| C180 | C | fact | 11 | Thomas Caton - letter at the Alexa | SMALL FINDS, 14 Sep 2026 evening sweep. (1) Phenix Gazette (Alexandria), 3-5 May 1830, list of letters remaini… |
+| C181 | B | fact | 11 | Moses B. Caton Jr. (14 Jan 1811 -  | MOSES'S 1820 HOUSEHOLD IS FULLY ACCOUNTED FOR WITHOUT AARON. Find a Grave 41210338 (Caton Cemetery, Webster Co… |
+| C182 | B | fact | 11 | Caton - Culpeper marriages 1781-18 | THREE MORE BOUNDED NEGATIVES (archive.org full-text API, identifier-scoped, Caton and the variants Cayton/Cate… |
+| C183 | A | fact | 11 | George W. Caton household, Newton  | 1840 CENSUS, MUSKINGUM CO., OHIO, READ FROM THE REEL (NARA M704 roll 418, archive.org populationsc18400418unit… |
+| C184 | B | fact | 11 | Aaron Caton, Pvt., Co. E, 2nd Mo.  | THE 'DIFFERENT SOLDIER' READING OF THE PENSION CARD DOES NOT SURVIVE A UNIT CHECK. T04 (10 Sep) found one Aaro… |
+| C185 | A | fact | 11 | Phineas Caton (c.5 Apr 1842 - 17 M | C103 CONFIRMED AND RAISED TO A: THE STONE NAMES THE PARENTS. Find a Grave 21386384, Powell Cemetery, Powell (L… |
+| C186 | B | fact | 11 | Sarah Ann (Gardner) Caton's family | SARAH ANN'S PARENTS AND SIBLINGS IDENTIFIED (grade B - no document names her father; four independent records … |
+| C187 | A | fact | 11 | Moses Caton at Centreville, July 1 | MOSES PLACED AT CENTREVILLE A MONTH BEFORE THE 1820 CENSUS, AMONG THE FAMILIES HIS CHILDREN MARRIED INTO. Alex… |
+| C188 | A | fact | 11 | Caton - 1820 census of Culpeper an | THE ELDER AARON HEADED NO HOUSEHOLD IN CULPEPER OR STAFFORD IN 1820. Read from the NARA M33 reels on archive.o… |
 
 ## Open discrepancies (from C115)
 

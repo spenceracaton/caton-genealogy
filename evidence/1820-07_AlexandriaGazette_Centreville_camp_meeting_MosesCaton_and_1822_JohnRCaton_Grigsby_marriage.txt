@@ -1,0 +1,21 @@
+Chronicling America full text, read 14 Sep 2026 (OCR, lightly corrected; the "\n" line breaks of the OCR removed).
+
+(1) Alexandria Gazette & Daily Advertiser, 13 July 1820, p.2 (sn83026170/1820-07-13/ed-1/?sp=2); repeated 17, 31 July and 1-17 Aug 1820:
+  "A CAMP MEETING will be held on the land of Geo. W. Lane, adjoining the town of Centreville, in the county of Fairfax, Va., to commence on the 16th of August next.
+   As the primary object of these meetings is sometimes in a degree defeated from the want of proper order, considerable pains have been taken to secure the preservation of good order and management on the present occasion: to this end, the inhabitants of Centreville and its vicinity, particularly the owners of the land adjacent thereto, with the magistrates and other civil officers, [have signed the pledge] which we here insert to discourage hucksters and venders of spirituous liquors ...
+   We, the subscribers, being desirous to obtain a camp meeting in our neighborhood, and feeling disposed to aid in the preservation of order and good management of the same, do hereby cordially and solemnly pledge ourselves to the ministers and managers of the meeting, to discountenance all disorder and improper conduct, and to prevent (as far as we may individually have the power) the sale of spirituous liquors or the settling of hucksters on the lots or land in the neighborhood of the meeting, over which any of us may have control.
+   Alexander Waugh; Geo. N. Buckley; Enoch Grigsby; Jno. Bronaugh; Ths. Swayne; Elisha Janny; B. Harrison; Wm. Lane; Geo. W. Lane; Richard Williams; Amos Hoff; Wormely Carter; Henry Whaley; Fewel A. Perry; John D. Perry; William Carr Lane; John Shud; Henry Hobb; B. M. Lane; MOSES CATON; Jas. H. Hooe; Jno. Brown; Jas. Gaines; James L. Triplett; John Hening; Jas. M. Roberdeau; Jeremiah Hutchinson; Wm. Larkin; Coleman Lewis.
+   N.B. ... CHRISTOPHER FREGE, RICHD. McALLISTER. July 13."
+
+(2) The Alexandria Gazette, 16 April 1822, p.3 (sn86071520/1822-04-16/ed-1/?sp=3):
+  "MARRIED, On Thursday last, Mr. JOHN R. CATON, to Miss ELIZA, daughter of ENOCH GRIGSBY, Esq. all of Centreville, Fairfax county, Virginia."  [Thursday last = 11 April 1822]
+
+(3) Phenix Gazette (Alexandria), 29 Oct 1825, p.3 (sn85025006/1825-10-29/ed-1/?sp=3), District of Columbia, County of Alexandria:
+  "WILLIAM CATON has applied to the hon. William Cranch, Chief Judge of the United States' circuit court of the District of Columbia to be discharged from imprisonment, under the act for the relief of insolvent debtors within the District of Columbia, on the 31st day of October inst. at 9 o'clock, A.M. at the court house in Alexandria, when and where his creditors are required to attend. EDM. I. LEE, C.C. oct 26."
+
+(4) Wheeling Compiler, 10 Nov 1830, p.3 (sn84038587/1830-11-10/ed-1/?sp=3):
+  "MARRIED.-On Tuesday the 2d inst., by the Rev. Joseph Alexander, Mr. JOHN CATON, of Ohio county, to Miss MARINDA MARTIN, daughter of [Presley?] Martin, Esq. of Tyler county."
+
+(5) Phenix Gazette, 3-6 July 1827, list of letters at the Alexandria post office: "James R Caton".
+
+Sweep: every Chronicling America page hit for "caton" in the Virginia and Alexandria papers 1814-1845 (195 pages: Alexandria Gazette in its several titles, Phenix Gazette, Alexandria Herald, Virginia Argus, Richmond Enquirer, Constitutional/Richmond Whig, Staunton Spectator, Virginia Free Press, Wheeling papers) was read by context; all other hits are the Baltimore Carroll-Catons, "Cato", OCR noise, a James Caton non-resident defendant in a Richmond suit (Virginia Argus, Jul-Sep 1816), Theophilus Caton of Marion Co. bankrupt (Staunton Spectator 1843-44), Felix Caton M.D. (1838), and Ann Caton in a Charlestown letter list (1838).

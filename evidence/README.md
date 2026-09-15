@@ -1,4 +1,4 @@
-# evidence/ — manifest, generated 2026-09-14 (92 files)
+# evidence/ — manifest, generated 2026-09-14 (107 files)
 
 Regenerate with `python3 tools/make-evidence-manifest.py`. Notes are maintained in that script.
 
@@ -18,14 +18,19 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `1813-08_PrinceWilliamCo_VA_OrderBook_jury_AaronCaton_p670.pdf` | 2 MB | C153 | Aaron Caton juror, 4 Aug 1813 (C153). |
 | `1813-08_PrinceWilliamCo_VA_OrderBook_jury_AaronCaton_p671.pdf` | 2 MB | C153 | Aaron Caton juror, 4 Aug 1813, continued (C153). |
 | `1813_PrinceWilliamCo_VA_personal_property_tax_AaronCaton.pdf` | 614 KB | C154 | 1813 list: Aaron Caton, one tithe, no property (C154). |
+| `1820-07_AlexandriaGazette_Centreville_camp_meeting_MosesCaton_and_1822_JohnRCaton_Grigsby_marriage.txt` | 4 KB | C187 | Alexandria Gazette 1820: Moses Caton signs the Centreville camp-meeting pledge with the Buckleys, Grigsbys, Lanes, Larkins; 1822 John R. Caton m. Eliza Grigsby; 1825 William Caton insolvent; 1830 John Caton of Ohio Co. m. Marinda Martin (C187). |
+| `1820_CulpeperCo_VA_census_C-block_pp10-23_noCaton_sheet2.jpg` | 935 KB | C188 | 1820 Culpeper (alphabetical) pp.10-11, 14-15, 18-19, 22-23 - no Caton (C188). |
+| `1820_CulpeperCo_VA_census_C-block_pp12-21_noCaton_sheet1.jpg` | 938 KB | C188 | 1820 Culpeper (alphabetical) C block, pp.12-21 - no Caton (C188). |
 | `1820_DC_WashingtonCity_3rdWard_MichaelCaton_household.md` | 2 KB | C133 |  |
 | `1820_DC_WashingtonCity_3rdWard_MichaelCaton_household.pdf` | 987 KB | — |  |
 | `1820_FairfaxCo_VA_census_p507_MosesCaton_household.jpg` | 2 MB | C165 | 1820 Fairfax p.507: Moses Caton, M<10 1, 10-16 1, 16-26 2, 45+ 1; F 1/1/1/1 - a second 1820 household with a boy of Aaron's age (C165). |
 | `1820_PrinceWilliamCo_VA_census_C-block_p1_noCaton.jpg` | 1 MB | C155 | 1820 Prince William C block p.1 - no Caton (C155). |
 | `1820_PrinceWilliamCo_VA_census_C-block_p2_noCaton.jpg` | 2 MB | C155 | 1820 Prince William C block p.2 - no Caton (C155). |
+| `1820_StaffordCo_VA_census_C-block_noCaton_sheet.jpg` | 604 KB | C188 | 1820 Stafford (alphabetical) C block, frames 178-180 - no Caton; 'Mildred Catlett' is Catlett (C188). |
 | `1820_TylerCo_VA_census_p887_title_A-B.jpg` | 928 KB | C140 | 1820 Tyler Co. VA, title page + A-B block (C140). |
 | `1820_TylerCo_VA_census_p888_B-C_surnames_noCaton.jpg` | 942 KB | C140 | 1820 Tyler Co. VA, alphabetical schedule, C block - no Caton (C140). |
 | `1822-1830_WashingtonDC_directories_Caton_Moore.txt` | 2 KB | C134 |  |
+| `1830-05_PhenixGazette_Alexandria_letters_list_ThomasCaton.txt` | 708 B | C180 | Phenix Gazette 3-5 May 1830: letter at the Alexandria post office for 'Thomas Caton, or Robert Gale' (C180). |
 | `1830_FairfaxCo_VA_census_p238_MosesCaton_household.jpg` | 2 MB | C166 | 1830 Fairfax p.238: Moses Caton M 15-20 1, 20-30 2, 60-70 1; F 15-20 1, 30-40 1 - no boy under 15 (C166). |
 | `1830_FairfaxCo_VA_census_p250_WilliamG_JohnR_Caton.jpg` | 2 MB | C166 | 1830 Fairfax p.250: William G. and John R. Caton households (C166). |
 | `1830_PrinceWilliamCo_VA_census_C-block_noCaton_contact_sheet.png` | 1 MB | C167 | 1830 Prince William C block (alphabetical) - no Caton (C167). |
@@ -36,11 +41,16 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `1840_CooperCo_MO_p143_GeorgeWCaton_household.pdf` | 2 MB | — |  |
 | `1840_CooperCo_MO_p145_WmCaton_ThsCaton_NLaurie.jpg` | 2 MB | C128, C130 | 1840 Cooper Co. MO p.145 image — Wm Caton and Ths Caton adjacent, N. Laurie six rows up; brackets in C128. No male 20-30 in either Caton household. |
 | `1840_DelawareCo_OH_JesseCaton_household.jpg` | 836 KB | C131 | 1840 Delaware Co. OH image — Jesse Caton, household of one male 30-40 (C100/C131). |
+| `1840_MuskingumCo_OH_NewtonTwp_p324_GeorgeWCaton_page.jpg` | 575 KB | C183 | 1840 Muskingum, Newton Twp, stamped p.324 (reel 418 image 157): George W. Caton household page (C183). |
+| `1840_MuskingumCo_OH_NewtonTwp_p324_GeorgeWCaton_row.jpg` | 268 KB | C183 | 1840 Muskingum: George W. Caton - M <5 1, 5-10 1, 30-40 1; F <5 2, 20-30 1; no male 20-30 (C183). |
+| `1840_MuskingumCo_OH_SaltCreekTwp_p468_ThosCaton_page.jpg` | 577 KB | C183 | 1840 Muskingum, Salt Creek Twp, stamped p.468 (reel 418 image 447): 'Thos. Caton' (C or E) page (C183). |
+| `1840_MuskingumCo_OH_SaltCreekTwp_p468_ThosCaton_row.jpg` | 214 KB | C183 | 1840 Muskingum: Thos. C/Eaton - M 30-40 1; F <5 1, 20-30 1 - not Thomas Sr. (C183). |
 | `1840_PerryCo_OH_ReadingTwp_RosanaCaton_household.jpg` | 1 MB | C174 | 1840 Perry Co. OH: Rosana Caton, M 20-30 x2, F 5-10, F 60-70 - Moses's widow? (C174). |
 | `1841_DelawareCo_OH_marriage_return_AaronCaton_SarahGardner_p291.jpg` | 2 MB | C005 |  |
 | `1844_DelawareCo_OH_deed_AaronSarahCaton_to_JonathanGardner_quitclaim.pdf` | 2 MB | C144 | Aaron and Sarah Caton quitclaim to Jonathan Gardner, 25 Jun 1844, Liberty Twp - an heir's release of Gardner land (C144). Aaron back in Ohio by mid-1844. |
 | `1844_StaffordCo_VA_deed_index_C_Caiten-is-Calvert.jpg` | 1 MB | C132 | Stafford Co. deed index, C page. The FS 'Caiten 1844' hit is Calvert (C132). Negative. |
 | `1845_DelawareCo_OH_CommonPleas_docket_Graham_v_Caton_replevin.pdf` | 1018 KB | C146 | Graham v. Caton, replevin, April term 1845, struck from docket (C146). |
+| `1845_PowellCemetery_DelawareCo_OH_PhineasCaton_stone_sonOfAaronAndSarah.jpg` | 198 KB | C185, C186 | Powell Cemetery: 'Phineas son of Aaron & Sarah Caton died March 17, 1845, aged 2 yrs 11 ms & 12 days' - the Find a Grave transcription 'James' is wrong (C185). |
 | `1846_DelawareCo_OH_chancery_Hillyer_Admr_v_Breyfogle_Caton_subpoena.pdf` | 1 MB | C146 | Aaron Caton co-defendant in a mortgage foreclosure, subpoena 11 May 1846 (C146). |
 | `1846_DelawareCo_OH_chattel_mortgage_AaronCaton_to_Johnson.pdf` | 1 MB | C145 | Aaron Caton chattel mortgage, 19 May 1846, town of Delaware - house on Pettibone lot; co-signer James A. Asher (C145). |
 | `1848_DelawareCo_OH_chancery_Lavender_v_Johnson_answer_p1_AaronCaton_brick_order.pdf` | 1 MB | C146 | Johnson's answer, p.1: Caton owed $100+ 'which he was unable to pay' (C146). |
@@ -64,9 +74,12 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `1883_HowardCooper_GeorgeWCaton_Boonville_extracts.txt` | 2 KB | C122 |  |
 | `1901_CowleyCo_KS_WBCaton_biography.txt` | 7 KB | C009 | OCR of the 1901 Winfield Courier sketches of W. B. Caton and Mrs. Caton. Does NOT mention Wheeling. |
 | `1904_BigBendCountry_NathanTCaton_biography.txt` | 3 KB | C121 |  |
+| `1908_Lytle_DelawareCo_history_Gardner_of_Powell_LibertyTwp.txt` | 5 KB | C186 | Lytle 1908 on Joseph M. Gardner of New Hampshire (Middlebury/Powell settlement) and son Jonathan T.; Powell Cemetery Gardner memorials - Sarah Ann's family (C186). |
+| `1908_Lytle_DelawareCo_history_TitusCase_ChristianChurch.txt` | 3 KB | C178 | Lytle 1908: Rev. Titus Case (1797-1860), Christian Church elder, Orange Twp - the 1841 officiant (C178). |
 | `1916_StLouis_JuliaACaton_Sawtell_deathcert_36313.pdf` | 92 KB | C037, C038, C040, C042 | Julia's death certificate — father Aaron Caton b. Va, mother Sarah Gardner b. Ohio, birthplace 'Mo'. The record that settled Julia's birthplace. |
 | `1936_1956_SedaliaDemocrat_NancyJane_Johnson_Caton_Blevins_and_Jennie_Baslee_obits.txt` | 7 KB | C172 | Nancy Jane (Johnson) Caton Blevins obit 1936 and Jennie Baslee obits 1956 - the 1869 marriage and 1871 divorce are Aaron F.'s (C172). |
 | `1955_GentryCo_CharleyCaton_deathcert_15118.pdf` | 57 KB | C048 | Charley Caton d.1955 — father Harrison Caton, mother Mary E. Carpenter, b. Gentry Co. 1883 (C048). Identity with the Wheeling Harrison unconfirmed. |
+| `1959_James_OhioCompany_ThomasCaton_1749-1763_snippets.txt` | 2 KB | C179 | James 1959 (snippets): Thomas Caton of Frederick Co. sued by George Mason and the Ohio Company, Fairfax 1752-63 (C179). |
 | `Aaron_Caton_1850_Delaware_OH_n172_w1800.jpg` | 823 KB | — | 1850 census page image, Delaware Co. OH p.179a. The blotted Julia birthplace cell. |
 | `Boone_MO_1860_Header_Samples.jpg` | 2 MB | — | 1860 Boone Co. reel navigation aid (parallel pass). |
 | `Boone_MO_1860_Header_Transition_120_260.jpg` | 2 MB | C022 | 1860 Boone Co. reel navigation aid (parallel pass). |
@@ -83,6 +96,7 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `Fauquier_1820-011_LVA_case.zip` | 16 MB | C093, C137 | 48 scans of the case, from LVA. |
 | `Fauquier_1861-012_LVA_case.md` | 2 KB | C094 | ChatGPT reading of LVA chancery 1861-012: John N. Caton m. Sarah Elizabeth Lawrie (C094). |
 | `Fauquier_1861-012_LVA_case.zip` | 7 MB | C094 | 40 scans of the case, from LVA. |
+| `FindAGrave_41210338_MosesBCatonJr_1811-1876_CatonCem_WebsterCoKY_stone.jpg` | 74 KB | C181 | Moses B. Caton Jr. (14 Jan 1811-23 Apr 1876), Caton Cemetery, Webster Co. KY - the boy under ten in Moses's 1820 house; stone illegible in the photo (C181). |
 | `MDPatents_Liber18_f329_full.jpg` | 854 KB | C001 | Theophilus Kitton's 1675 transportation record (C001). |
 | `MDPatents_Liber18_f329_headright_detail.jpg` | 669 KB | — | Detail of the same. |
 | `MO_ServiceCard_AaronCaton.pdf` | 23 KB | — | NARA index card, same as the jpg. |
@@ -95,6 +109,7 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `PA1790_WashingtonCo_p192_Kitten_counts.jpg` | 205 KB | — | 1790 Washington Co. PA — Kitten households (C004). |
 | `PA1790_WashingtonCo_p192_Kitten_names.jpg` | 284 KB | — | Same. |
 | `PA1790_WashingtonCo_p192_Kitten_page.jpg` | 487 KB | C004 | Same, full page. |
+| `PW_General_Index_to_Wills_1734-1951_Caton_entries.txt` | 1 KB | C177 | Peters, PW General Index to Wills 1734-1951 (snippets): the only Caton entries are 1922-30 - no Caton estate ever administered in Prince William (C177). |
 | `T01_massachusetts-vitals-search.md` | 2 KB | C027, C028, C029 | Return for the VOID task T01. Its negatives are MOOT (C045) — Julia was born in Missouri. Do not act on it. |
 | `T03_sarah-ann-gardner-caton-death.md` | 2 KB | — | Task return, T03. |
 | `T06_boring-ohio-county-marriage-index.md` | 1 KB | C089 | ChatGPT return: no John Boring marriage in the WV index 1834–50 (C089). |
