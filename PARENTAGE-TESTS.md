@@ -68,8 +68,9 @@ Ordered by (chance it exists) × (what it proves) ÷ (effort).
 13. **Aaron's 1850 neighbours** — checked (C-note): tradesmen, none Virginia-born; a
     Jacob Heller, tailor b. Pa., next door. No cluster around him in Ohio.
 14. **The cluster's Ohio stop, 1835–37 — was it Delaware County?** Daniel Laurie's son
-    Joseph was born in Ohio c.1835 and his daughter in Missouri c.1838 (C098, C126); the
-    stop lies between censuses. If it was Delaware County, it explains the one thing
+    Joseph was born in Ohio c.1835 and his daughter in Missouri c.1838 (C098, C126); a
+    published Laurie genealogy confirms the Ohio stop and Fauquier origin (C189) but does
+    not name the county. The stop lies between censuses. If it was Delaware County, it explains the one thing
     story A cannot: Aaron marrying a Delaware County girl in 1841 (he met the Gardners
     of Orange/Liberty Twp as a boy of 15–17 and came back for her), and it makes Thomas
     Sr., Ann and Daniel Laurie Aaron's household in the years he vanishes. *Full-Text

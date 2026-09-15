@@ -1,6 +1,6 @@
 # Caton genealogy — working brief
 
-**State as of:** 14 September 2026, after eleven research passes (187 claims).
+**State as of:** 15 September 2026, after twelve research passes (191 claims).
 **This file is the whole context an agent needs.** Corrections from every pass are
 already applied here. Do not read `archive/` unless you are asked to reconstruct how a
 conclusion was reached.
@@ -22,7 +22,9 @@ Ohio.
 **(A) Fauquier Co., VA — now with a documented origin (14 Sep, C153–C157).** Three
 Caton men of one generation on **Broad Run, Prince William Co.** ("Caton Branch" on the
 1840s land tax): **Thomas** (b. before 1765), **Aaron** (b. 1765–74), **Moses** (b. by
-1781), taxed together 1797–99 beside the Whites and Hortons. Moses moved to Fauquier by
+1781), taxed together 1797–99 beside the Whites and Hortons. Their probable ancestor:
+a colonial Thomas Caton (C190), Northern Neck landholder (826+ acres), gentleman,
+Justice, and Fauquier militia captain, documented 1742–57. Moses moved to Fauquier by
 1800, Thomas by 1810; Aaron stayed — married and childless in 1810, propertyless by
 1813, gone by 1820, "dec'd" by 1834. Thomas Sr. heads the only Caton household in
 either county in 1820, with **two boys under ten** (C080) and a wife 26–45 who is a
@@ -39,7 +41,10 @@ the Moses B. Caton (1767–1839) of Muskingum Co., Ohio, whose sons married Fair
 Buckley sisters and left Virginia in the 1830s (C162, C164)** — an Ohio branch of the
 family, sixty miles from Delaware County, in the decade Aaron got there. Joseph the tailor, b.
 Fauquier 1823 (C076); the William–Ann–Laury cluster moved Fauquier → Ohio c.1835 →
-**Cooper Co., MO** (C098). Every move of Aaron's life tracks that route; the 1898
+**Cooper Co., MO** (C098). A published Laurie genealogy confirms the family's Fauquier
+origin and Ohio stop (C189); the 1883 county history names both George W. and Joseph
+Caton among Cooper County's earliest tailors (C191). Every move of Aaron's life
+tracks that route; the 1898
 "guest of his niece, Mrs. Sawtell" article (C110) makes Joseph Aaron's brother at B —
 its Joseph is the tailor by his own biography, not William's son of the same name
 (C149). *Still cannot explain Delaware Co., Ohio.* Grade C for the parentage; the
