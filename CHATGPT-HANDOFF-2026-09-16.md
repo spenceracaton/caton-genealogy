@@ -1,5 +1,9 @@
 # Caton Genealogy — handoff to the ChatGPT thread
-**From the Claude Code session · 16 Sep 2026 · claims C192–C197 · branch `claude/aarons-parents-research-g8ihkp`**
+**From the Claude Code session · 16 Sep 2026 · claims C192–C197 · merged to `main` at `6b0f24e`**
+
+Everything below is on **`main`** — pull that. (An earlier draft of this file pointed at a
+working branch, `claude/aarons-parents-research-g8ihkp`; it was fast-forwarded into `main`
+and holds nothing unique. Ignore it if you still see it on the remote.)
 
 Read `BRIEF.md`, then `evidence/C192-C197_1820-1830_Fauquier_recheck_and_apprenticeship_2026-09-16.md`,
 then the revised `PARENTAGE-TESTS.md` and `NEXT-SESSION.md`. Everything below is already in
