@@ -1,4 +1,4 @@
-# Claims index — generated 2026-09-16 from `claims.jsonl` (197 claims)
+# Claims index — generated 2026-09-16 from `claims.jsonl` (200 claims)
 
 Regenerate with `python3 tools/make-claims-index.py`. **Do not edit by hand.**
 
@@ -6,7 +6,7 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 
 | status | n | | grade | n |
 |---|---:|---|---|---:|
-| fact | 130 | | A | 111 |
+| fact | 133 | | A | 114 |
 | hypothesis | 12 | | B | 59 |
 | negative | 25 | | C | 27 |
 | do-not-merge | 3 | |  |  |
@@ -231,6 +231,9 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C195 | B | fact | 13 | Aaron and Joseph Caton - Virginia  | THE UNTRIED RECORD CLASS, AND A COUNTY-BY-COUNTY SURVIVAL SURVEY. ARGUMENT: Aaron (10) and Joseph (7) are in N… |
 | C196 | A | fact | 13 | PARENTAGE-TESTS A1 - Fauquier pers | THE CURRENT TOP-RANKED TEST HAS A SELF-DEFEATING WINDOW. A1 and the NEXT-SESSION header rank first the Fauquie… |
 | C197 | C | fact | 13 | Nancy Roseman Caton - the T09 nami | T09 RESTS ON AN UNSOURCED MIDDLE NAME, AND THE SURNAME READING POINTS THE WRONG WAY. C017 corroborates a Nancy… |
+| C198 | A | fact | 13 | TOOLING | AN UNVERIFIED STRING REPLACEMENT IS A SILENT FAILURE, AND A PRINTED 'OK' IS NOT EVIDENCE. CAUSED A FALSE REPOR… |
+| C199 | A | fact | 13 | METHOD - overstatement toward one’ | THIS SESSION OVERSTATED TWICE IN ONE PASS, BOTH TIMES TOWARD ITS OWN CONCLUSION. Recorded as calibration data,… |
+| C200 | A | fact | 13 | TOOLING / ACCESS | THE 16 SEP 2026 CLAUDE SANDBOX COULD REACH NO RECORD HOST; DO NOT RE-DERIVE THIS, BUT DO RE-TEST IT. That sess… |
 
 ## Open discrepancies (from C115)
 

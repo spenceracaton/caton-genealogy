@@ -85,7 +85,7 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `Boone_MO_1860_Header_Transition_120_260.jpg` | 2 MB | C022 | 1860 Boone Co. reel navigation aid (parallel pass). |
 | `Boone_MO_1860_Roche_Twp_Caton_n546_w1800.jpg` | 2 MB | C020 | Thos. H. Caton, b. Kentucky, Roche Twp — do not merge (C020). |
 | `Boone_MO_1860_Roche_Twp_Patton_n539_w1800.jpg` | 2 MB | C021 | Reads Patton, not Caton — resolved negative (C021). |
-| `C192-C197_1820-1830_Fauquier_recheck_and_apprenticeship_2026-09-16.md` | 17 KB | C192, C193, C194, C195, C196, C197 |  |
+| `C192-C197_1820-1830_Fauquier_recheck_and_apprenticeship_2026-09-16.md` | 17 KB | C192, C193, C194, C195, C196, C197, C198, C199, C200 |  |
 | `Chariton1896_p232.jpg` | 723 KB | C065 | Historical, Pictorial and Biographical Record of Chariton Co. (1896) p.232: 'Joseph Caton … the pioneer tailor' of Brunswick (C065). |
 | `Cooper_1819-1845_County_Court_Index_A-F.pdf` | 47 MB | — | Missouri State Archives, Cooper Co. Court index (49 MB). No Caton entry — bounded negative (C095). ChatGPT pass. |
 | `Cooper_1845-1866_County_Court_Index_A-C.pdf` | 35 MB | — | Missouri State Archives, Cooper Co. Court index (37 MB). No Caton entry — bounded negative (C095). ChatGPT pass. |

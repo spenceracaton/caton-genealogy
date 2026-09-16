@@ -203,5 +203,9 @@ Do not recommend it. Join 4 is proven from paper or left unproven.
   `claims.jsonl`, task frontmatter, the archive, or another agent's file.** The main
   session merges.
 - Return the finding, not the search. One line per negative result.
+- **Verify that an edit landed, not that a command ran** (C198, C036) — and probe
+  host reachability before promising retrieval (C200).
+- **Write the narrowest true version, grade reasoning apart from citation, and
+  pre-register what would kill a hypothesis you generated** (C199).
 - Grade every claim A/B/C. An ungraded claim is treated as C.
 - Aaron's parents are unknown. Do not close that gap by inference.
