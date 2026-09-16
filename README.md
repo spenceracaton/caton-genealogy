@@ -10,17 +10,25 @@ is off the table. **FamilySearch Full-Text Search is the working tool.**
 ## Active research set
 
 - `BRIEF.md` — corrected working state. Read first.
+- `METHOD.md` — **how to work here. Read before your first edit.** What to verify,
+  what this project cannot reach, and how it has misled itself before. Operational
+  rules live here, not in `claims.jsonl`.
 - `NEXT-SESSION.md` — Spencer's ordered FamilySearch list for the next sitting.
 - `PARENTAGE-TESTS.md` — every remaining test that could name or exclude Aaron's father, ranked.
 - `claims.jsonl` — established facts, sources, grades, and worthwhile negatives.
+  Every row carries an explicit `kind` (`fact` · `hypothesis` · `negative` ·
+  `do-not-merge` · `method` · `moot` · `void`); `check-claims.py` enforces it.
 - `tasks/` — one scoped lead per file; see `tasks/README.md` for execution and
   merge rules.
 - `evidence/` — record artifacts and task returns; `evidence/README.md` is a
   generated manifest (file → citing claims → note).
 - `claims-index.md` — generated one-line index of every claim with status and grade.
-- `tools/` — `make-claims-index.py`, `make-evidence-manifest.py`; run after any merge.
+- `tools/` — `check-claims.py` (run before every commit; it fails on duplicate ids,
+  a bad grade or `kind`, and missing evidence files), plus `make-claims-index.py` and
+  `make-evidence-manifest.py`; regenerate both after any merge.
 - `TREE.md`, `tree.html` — a 10 Sep draft, now **stale** (see banner); regenerate before use.
-- `FAUQUIER-HANDOFF-2026-09-11.md`, `CATON-VA-CHANCERY-LINKS.md` — dated working documents.
+- `CHATGPT-HANDOFF-2026-09-16.md`, `FAUQUIER-HANDOFF-2026-09-11.md`,
+  `CATON-VA-CHANCERY-LINKS.md` — dated working documents.
 
 ## Archive
 
@@ -31,6 +39,7 @@ records what was reconciled or deduplicated.
 
 ## Start a local pass
 
-Read `BRIEF.md` and `tasks/README.md`, then select work from task frontmatter.
+Read `METHOD.md`, `BRIEF.md` and `tasks/README.md`, then select work from task
+frontmatter.
 Never infer Aaron's parentage from a same-name record. Evidence, claims, and task
 status are merged only after returned records are checked.
