@@ -49,19 +49,15 @@ tracks that route; the 1898
 its Joseph is the tailor by his own biography, not William's son of the same name
 (C149). *Still cannot explain Delaware Co., Ohio.* Grade C for the parentage; the
 family is A/B.
-> **REVISED 16 SEP — THREE candidate fathers, and two unverifiable pages (C192–C194).**
-> Within the Virginia-belt 1820/1830 set, every negative has its image retained (C155,
-> C167, C188), as do both Fairfax positives (C165, C166) — but **C080 (1820 Fauquier) and
-> C082 (1830 Fauquier) do not**, and they are the two the story rests on. C080 reads
-> `16–18 = 1; 16–26 = none`; the 1820 form prescribes 16–18 as a *subset* of 16–26 (cf.
-> C165), though not every enumerator complied — so **anomalous, not impossible**. C092
-> (grade A, primary) makes **Thomas Caton Jr.** William's father while C082 reads both men
-> 20–30 in 1830 — arithmetically impossible, and that identification is load-bearing in
-> C101, C124, C128, C180 and C183. So a **third candidate father** stands unevaluated: **Thomas Jr.**, a widower
-> who remarried Dec 1828 (C173), heading no household we have identified. That model makes
-> Aaron **William's brother**, not his uncle, which fits Aaron's death among William's
-> family (C108, C149) and William naming a son Aaron in 1842. Treat C080/C082 as **B**
-> until their images are in `evidence/`; one re-read of 1830 p.471 decides all three.
+> **REVISED 16 SEP — a structural error in the Fauquier reconstruction (C192, C193).**
+> C092 (grade A, primary) makes **Thomas Caton Jr.** William's father, yet C082 reads both
+> men 20–30 in 1830 — a man 20–30 cannot father a man 20–30. That identification is
+> load-bearing in **C101, C124, C128, C180 and C183**, so this is structural, not one slip.
+> **C080 and C082 are therefore now graded B**: within the Virginia-belt 1820/1830 set they
+> are the only positives with no retained image (every negative and both Fairfax positives
+> have theirs), and neither reading can be re-checked. **Re-read Fauquier 1830 p.471 and the
+> 1820 C page from the reel before building further on either.** A third candidate father
+> follows if the bracket moves, but it is C-level and lives in `PARENTAGE-TESTS.md` §0.
 **(B) Maryland–Pennsylvania / Wheeling.** Thomas Caton in Ohio Co., VA 1830–40 (C073,
 C090); Delaware Co.'s 1840 Catons are Maryland- and Pennsylvania-born (C105–C106); a
 Thomas Caton 1767–1838 at New Martinsville, Tyler Co., with no 1820 or 1830 household
@@ -162,13 +158,14 @@ Contracts are in `tasks/`, one file per lead. Current order:
 
 **On Aaron — what can still name a parent, in order (re-ranked 16 Sep):**
 0. **Re-read Fauquier 1830 p.471 and Fauquier 1820's C page from the reel, images
-   retained** (C192–C194). Cheapest test in the project and it sits under all the others:
-   the adult-male bracket of "Thomas Caton Jun" decides among three candidate fathers.
-1. **Virginia apprenticeship / Overseers of the Poor — the untried class** (C195).
-   Fauquier OP Minutes 1804–1845, **one volume, LVA reel 116**, read 1826–38; then Fauquier
-   Minute and Deed Books 1823–40. Both boys absent from every Caton house in 1830 while
-   their sisters stay home, and both became **tailors** — the signature of a bound
-   apprenticeship, and such an entry names the father. Prince William is dead ground.
+   retained** (C192, C193). Cheapest test in the project and it sits under all the others;
+   both claims are B until it is done.
+1. **Virginia apprenticeship / Overseers of the Poor — the untried class** (C195). Both
+   boys absent from every Caton house in 1830 while their sisters stay home, and both
+   became **tailors** — the signature of a bound apprenticeship, and such an entry names
+   the father. Target: Fauquier OP Minutes 1804–1845, then Fauquier Minute and Deed Books
+   1823–40. **Citation unverified** (reel 116 / barcode 1125621 came from search snippets,
+   not the finding aid) — confirm before ordering film.
 2. **Open the Fauquier tax pages already located and never opened** (C156) — dates "Thomas
    Jr" as a separate tithable, and reads whether Thomas was poor (item 1's premise).
 3. **Thomas's second marriage, c.1811–19** — names Aaron's probable mother. Not Fauquier
@@ -187,8 +184,8 @@ Closed: Fauquier probate for Thomas Sr. (C138); Delaware Co. OH probate and Comm
 Pleas (C141, C142); 1840 Cooper (C129–C130); George W. as father (C135).
 If none speaks, join 4 is **unproven from paper**, and that is an acceptable end.
 T01 void; T11 run; T02 done; T07 closed; T13/T14 folded into the list above.
-T09 re-pointed (C197): verify Nancy's middle name from a primary record first — "Roseman"
-is a German/PA–NC surname absent from the Virginia Piedmont, and may be Rosamond/Rosanna.
+T09 re-pointed (C197): Nancy's middle name is unsourced — the 1850 census gives only
+"Nancy" (C017). Verify it from a primary record before chasing a Roseman family.
 
 **On England:** parked until join 4 is settled (Norfolk baptisms, Rowles will, Kitten
 1734 will) — all paid indexes or records requests.

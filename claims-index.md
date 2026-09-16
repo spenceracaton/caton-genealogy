@@ -6,8 +6,8 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 
 | status | n | | grade | n |
 |---|---:|---|---|---:|
-| fact | 130 | | A | 113 |
-| hypothesis | 12 | | B | 57 |
+| fact | 130 | | A | 111 |
+| hypothesis | 12 | | B | 59 |
 | negative | 25 | | C | 27 |
 | do-not-merge | 3 | |  |  |
 | method | 19 | |  |  |
@@ -113,9 +113,9 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C077 | B | hypothesis | 9 | Joseph Caton; Aaron Caton | CORROBORATED - UPGRADED C TO B. The obituary's 'FORKWARE county, Va.' (C076) is read as FAUQUIER COUNTY, VIRGI… |
 | C078 | A | negative | 9 | Joseph Caton | NEGATIVE. No Missouri death certificate exists for Joseph Caton despite his dying 21 May 1910, after statewide… |
 | C079 | B | negative | 9 | Caton in Fauquier Co., VA | WEAK NEGATIVE, SCOPED. 'Fauquier County, Virginia: Historical Notes' (1914) contains NO occurrence of Caton, C… |
-| C080 | A | fact | 9 | Thomas Caton (1820, county pending | 1820 CENSUS HOUSEHOLD - COUNTY CONFIRMED: FAUQUIER COUNTY, VIRGINIA. Supplied 10 Sep 2026 IN RESPONSE TO THE C… |
+| C080 | B | fact | 9 | Thomas Caton (1820, county pending | [PROVISIONAL 16 Sep 2026 - GRADE LOWERED A->B per C192. No image was retained (this reading was 'supplied'), s… |
 | ~~C081~~ | C | VOID/REVERSED | 9 | Aaron Caton | PREDICTION FAILED - SEE C082/C083. This claim proposed that the 1830 Fauquier census would show Thos. Caton wi… |
-| C082 | A | fact | 9 | Caton households, Fauquier Co., VA | 1830 FAUQUIER CENSUS - COMPLETE COUNTY COVERAGE, AND MY C081 PREDICTION FAILED. A FamilySearch index search (s… |
+| C082 | B | fact | 9 | Caton households, Fauquier Co., VA | [PROVISIONAL 16 Sep 2026 - GRADE LOWERED A->B per C192 and C193. Derived from a FamilySearch index search with… |
 | C083 | B | hypothesis | 9 | Aaron Caton; Joseph Caton | REFRAMED QUESTION, replacing C081's failed prediction. ESTABLISHED: (a) Joseph Caton was born in Fauquier Co. … |
 | C084 | A | method | 9 | Caton surname in Virginia | COMPLETE STATEWIDE MAP - Library of Virginia Chancery Records Index swept for the surname CATON across all 107… |
 | C085 | A | method | 9 | TOOLING / ACCESS | 1840 DELAWARE CO., OHIO (T11) - ALL FREE TEXT ROUTES ARE CLOSED; DO NOT RE-DERIVE THIS. (1) Internet Archive p… |

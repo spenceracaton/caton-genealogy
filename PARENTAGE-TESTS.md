@@ -1,26 +1,33 @@
 # How Aaron's parentage can still be validated — ranked tests (16 Sep 2026)
 
 State: Aaron Caton, b. 16 May 1820 Virginia, is a son of the Broad Run (Prince William
-Co.) Caton family. **Revised 16 Sep: there are now THREE candidate fathers, not two, and
-the two census pages the whole structure rests on cannot be re-checked.** See
+Co.) Caton family. **Revised 16 Sep: the two Fauquier census pages the structure rests on
+are now graded B and cannot be re-checked, and a third candidate father is in play at
+C-level.** See
 `evidence/C192-C197_1820-1830_Fauquier_recheck_and_apprenticeship_2026-09-16.md`.
 
 - **Thomas Sr.** (Fauquier; b. 1760–65; two boys under ten in 1820) — the former leader.
 - **Moses** (Fairfax; b. 1767) — effectively excluded: his 1820 boy under ten is his known
   son Moses B. Jr., b. Jan 1811 (C181), and every male in his house is a known son (C187).
-- **Thomas Jr.**, William's father (C092, grade A) — **new, never evaluated (C194).** A
-  widower who remarried Elizabeth Lawrey Dec 1828 (C173) and who heads no census household
-  this project has correctly identified. Makes Aaron William's *brother*, not his uncle,
-  which fits Aaron dying among William's family on the Laurie lot (C108, C149) and William
-  naming a son Aaron in 1842 (C149) better than the uncle model does.
+- **Thomas Jr.**, William's father (C092, grade A for the man; **C194, grade C for the
+  hypothesis**) — new, never evaluated, and **not promoted**: it lives in this file only.
+  A widower who remarried Elizabeth Lawrey Dec 1828 (C173) and who heads no census
+  household this project has correctly identified. Makes Aaron William's *brother*, not
+  his uncle, which fits Aaron dying among William's family on the Laurie lot (C108, C149)
+  and William naming a son Aaron in 1842 (C149) better than the uncle model does. **It
+  dies if the 1830 bracket reads 20–30.**
 
-**Three grade-A claims cannot all be true (C192, C193).** C080 reads the 1820 household
-`16–18 = 1; 16–26 = none`, which the 1820 schedule forbids — 16–18 is a *subset* of 16–26,
-as the project's own C165 states. C092 makes Thomas Jr. William's father while C082 reads
-both men 20–30 in 1830. C159 makes the 1820 boys 10–16/16–18 stepsons while C082 makes them
-Thomas's own sons. **And C080 and C082 are the only census claims in the chain with an empty
-`evidence` field** — every negative (C155, C167, C188) and every Fairfax positive (C165,
-C166) has its image retained; the two Fauquier pages do not.
+**The Fauquier reconstruction contains a structural error (C192, C193).** C092 (grade A,
+primary) makes Thomas Jr. William's father, while C082 reads both men 20–30 in 1830 — a man
+20–30 cannot father a man 20–30. That identification is **load-bearing in C101, C124, C128,
+C180 and C183**, so this is not a two-claim clash. Separately, C159 makes the 1820 boys
+10–16/16–18 stepsons while C082 makes them Thomas's own sons; both cannot hold. C080 also
+reads `16–18 = 1; 16–26 = none` — the 1820 form prescribes 16–18 as a *subset* of 16–26
+(cf. C165), but compliance was uneven, so that is **anomalous, not impossible**, and proves
+nothing on its own. **Within the Virginia-belt 1820/1830 set, C080 and C082 are the only
+positives with no retained image**: every negative (C155, C167, C188) and both Fairfax
+positives (C165, C166) have theirs. Neither Fauquier reading can be re-checked, and both
+are now graded **B**.
 
 Every test below either names a parent outright or moves the balance between the three.
 Ordered by (chance it exists) × (what it proves) ÷ (effort).
@@ -194,12 +201,23 @@ through an explicit one-line-down argument. Same county, same clerical era.
   Web *search* worked; web *fetch* did not. Check reachability before dispatching an agent
   on a retrieval task.
 
-## Provisional — do not treat as settled (C192)
+## Provisional — DOWNGRADED 16 Sep (C192, C193)
 
-**C080 (1820 Fauquier) and C082 (1830 Fauquier) should be read as B, not A, until their
-images are in `evidence/`.** C080 is internally inconsistent with the 1820 form; C082
-contradicts grade-A C092. Neither can be re-checked. The merge rule in `tasks/README.md`
-already covers this: where a reading is uncertain, *go to the image*.
+**C080 (1820 Fauquier) and C082 (1830 Fauquier) are now graded B in `claims.jsonl`, not
+A.** C082 contradicts grade-A C092 and carries five dependent claims with it (C101, C124,
+C128, C180, C183); C080 is anomalous on the 1820 form; neither has a retained image, so
+neither can be re-checked. Each now carries a `[PROVISIONAL …]` note naming what restores
+it to A: the reel image in `evidence/` with the adult-male columns confirmed. The merge
+rule in `tasks/README.md` already covers this — where a reading is uncertain, *go to the
+image*.
+
+**Not promoted, deliberately.** **C194** (Thomas Jr. as a third candidate father) stays
+**C-level and stays in this file only**, per BRIEF §7 — *never promote a C-level
+relationship into the working tree without A/B corroboration*. **C195's reasoning is
+sound; its bibliographic citation is not verified** — reel 116, barcode 1125621 and the
+1804–1845 span came from search snippets, not the finding aid, so confirm before ordering
+film. **C197 commits only to one thing**: the middle name is unsourced. The surname
+distribution, the 5 Dec 1865 Ohio death and the Rosamond reading all stay C.
 
 ## Closed (do not repeat)
 Culpeper and Stafford 1820 censuses, whole C blocks (C188 — the elder Aaron headed no house
