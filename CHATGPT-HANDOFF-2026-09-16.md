@@ -9,6 +9,17 @@ the repo; this file only says what is yours to pursue and what is not.
 task frontmatter — write findings to a new file under `evidence/` and let the Claude session
 merge. Grade every claim A/B/C; an ungraded claim is treated as C.
 
+**Schema change, 16 Sep 2026 — every claim now needs a `kind`.** One of `fact` ·
+`hypothesis` · `negative` · `do-not-merge` · `method` · `moot` · `void`, alongside `grade`.
+`tools/check-claims.py` fails the commit without it. Include it in the claims you return so
+the merge session does not have to guess. It replaces classification-by-prose, which read
+the first words of a claim's text and silently reclassified on a reword — see `METHOD.md`
+§1. And note **`person` is a subject, not a category**: categories belong in `kind`.
+
+**`METHOD.md` at the repo root is new** and is the canonical home for operational rules —
+what to verify, what this project cannot reach, and how it has misled itself before. Read
+it before your first edit.
+
 ---
 
 ## Why this pass is being handed over

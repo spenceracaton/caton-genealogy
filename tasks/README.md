@@ -50,6 +50,22 @@ copies to C089–C092). Reading the max ID before writing does not prevent this.
 - Before any **in-place rewrite** of `claims.jsonl`, re-read the file first — an append
   by the other writer between your read and your write is silently lost.
 
+## The `kind` field — required on every claim
+
+Added 16 Sep 2026. Every row in `claims.jsonl` carries an explicit
+`kind`: one of `fact` · `hypothesis` · `negative` · `do-not-merge` ·
+`method` · `moot` · `void`. **`tools/check-claims.py` fails the commit if it is
+missing or unrecognised**, so set it when you append.
+
+It replaces classification-by-prose, which read the opening words of the claim text
+and silently reclassified a claim whenever its first sentence was reworded. `METHOD.md`
+§1 records how that bit us. A row written without a `kind` still falls back to the old
+classifier, but it is flagged in the tool's output and listed at the foot of
+`claims-index.md` — treat that list as a to-do.
+
+Related: **`person` is a subject, not a category.** It names who or what the claim is
+about; categories go in `kind`.
+
 ## Merge
 
 Only the coordinator edits `BRIEF.md`, `claims.jsonl`, or task frontmatter.

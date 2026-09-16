@@ -5,7 +5,21 @@ import json, re, pathlib, datetime
 root = pathlib.Path(__file__).resolve().parent.parent
 rows = [json.loads(l) for l in (root/"claims.jsonl").open() if l.strip()]
 
+KINDS = ("fact", "hypothesis", "negative", "do-not-merge", "method", "moot", "void")
+
+def kind_of(r):
+    """Explicit `kind` wins. Fall back to the legacy prose classifier for any row that
+    lacks one - e.g. an append by the other writer - and report those at the end, so a
+    missing field is visible instead of silently guessed. See METHOD.md s.4."""
+    k = r.get("kind")
+    if k in KINDS:
+        return "VOID/REVERSED" if k == "void" else k
+    return status(r["fact"])
+
 def status(f):
+    """LEGACY prose classifier. Matches the OPENING WORDS of the claim text, so rewording
+    a claim's first sentence silently reclassifies it - that is exactly why `kind` exists.
+    Kept only as a fallback for rows written without a `kind`. Do not add cases here."""
     F = re.sub(r"^\[RENUMBERED[^\]]*\]\s*", "", f.upper())
     # superseded claims carry their marker at the START of the text (set by the merge session)
     if re.match(r"(REVERSED|SUPERSEDED|WRONG, SEE|DOWNGRADED|EXCLUSION WITHDRAWN|PREDICTION FAILED|VOID)\b", F):
@@ -29,11 +43,12 @@ def short(f, n=110):
 out = []
 out.append(f"# Claims index — generated {datetime.date.today().isoformat()} from `claims.jsonl` ({len(rows)} claims)\n")
 out.append("Regenerate with `python3 tools/make-claims-index.py`. **Do not edit by hand.**\n")
-out.append("Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · `do-not-merge` · `method` · `moot` · `VOID/REVERSED` (retained as the record of an error — do not cite as fact).\n")
+out.append("Status comes from each claim's explicit `kind` field: `fact` · `hypothesis` · `negative` · `do-not-merge` · `method` · `moot` · `VOID/REVERSED` (retained as the record of an error — do not cite as fact). A row without a `kind` falls back to the legacy prose classifier and is listed at the foot of this file.\n")
 
 # summary counts
 from collections import Counter
-c = Counter(status(r["fact"]) for r in rows)
+c = Counter(kind_of(r) for r in rows)
+missing = [r["id"] for r in rows if r.get("kind") not in KINDS]
 g = Counter(r["grade"] for r in rows)
 out.append("| status | n | | grade | n |\n|---|---:|---|---|---:|")
 sk = ["fact","hypothesis","negative","do-not-merge","method","moot","VOID/REVERSED"]
@@ -55,7 +70,7 @@ out.append("")
 out.append("## All claims\n")
 out.append("| id | grade | status | pass | person | summary |\n|---|---|---|---|---|---|")
 for r in rows:
-    st = status(r["fact"])
+    st = kind_of(r)
     idc = f"~~{r['id']}~~" if st == "VOID/REVERSED" else r["id"]
     out.append(f"| {idc} | {r['grade']} | {st} | {r.get('pass','')} | {r['person'][:34]} | {short(r['fact'])} |")
 
@@ -65,5 +80,12 @@ out.append("- Aaron's age 1870: **55** (page image) vs ~53 (handoff)")
 out.append("- Aaron F. Caton's 1886 death: Otterville burial, b.1842 (C052/C096) vs Pacific MO, ~50, ten children (handoff)")
 out.append("- Julia's mother's birthplace: Ohio (C037 and censuses) vs New Hampshire (1900 census, C111 — treated as the error)")
 out.append("- William Caton's birth state: Virginia (Cooper 1850, C096) vs Maryland (Bates 1860, C055)")
+if missing:
+    out.append("\n## Rows missing an explicit `kind`\n")
+    out.append("Classified by the legacy prose classifier, which reads the claim's opening")
+    out.append("words and silently reclassifies on a reword. Set `kind` on each — see METHOD.md §4.\n")
+    out.append(", ".join(f"`{i}`" for i in missing))
+
 (root/"claims-index.md").write_text("\n".join(out)+"\n")
-print(f"claims-index.md: {len(rows)} claims; statuses {dict(c)}")
+print(f"claims-index.md: {len(rows)} claims; statuses {dict(c)}"
+      + (f"; MISSING kind on {len(missing)}: {', '.join(missing)}" if missing else "; all rows carry an explicit kind"))

@@ -39,11 +39,30 @@ which classifies the USGenWeb transcriptions in `evidence/` as binary: empty out
 **Run `python3 tools/check-claims.py` before every commit.** It catches duplicate ids,
 missing grades, and `evidence:` paths that do not exist.
 
-**Do not prefix a claim's `fact` with `REVERSED`, `SUPERSEDED`, `DOWNGRADED`, `WRONG, SEE`,
-`EXCLUSION WITHDRAWN`, `PREDICTION FAILED` or `VOID` unless you mean it.**
-`tools/make-claims-index.py` matches those words at the start of the text and classifies
-the claim VOID/REVERSED. To mark a claim provisional rather than dead, use
-`[PROVISIONAL …]` — as C080 and C082 now do.
+**Every claim carries an explicit `kind`. Set it; do not let prose decide it.** One of
+`fact` · `hypothesis` · `negative` · `do-not-merge` · `method` · `moot` · `void`.
+`tools/check-claims.py` fails the commit if it is missing or unrecognised.
+
+This field exists because classification used to be inferred from **the opening words of
+the claim text**, against a hardcoded list that included literal openings of individual
+claims (`CLAUDE-IN-CHROME`, `THE CHATGPT HANDOFF`, `GAP CLOSED`). Rewording a claim's first
+sentence silently reclassified it — and on 16 Sep 2026 that is exactly what happened:
+rewriting C036 and C086 as pointers dropped both from `method` to `fact`, the index went
+19 → 17 method, and the session reported the new reading as pre-existing without checking.
+It had verified the absence of the error it expected (a false VOID) rather than the actual
+outcome. The legacy classifier survives in `make-claims-index.py` only as a fallback for
+rows written without a `kind`; those rows are listed at the foot of `claims-index.md` and
+named in the tool's own output. **Do not add cases to it.**
+
+Two consequences worth keeping:
+
+- **`person` is a subject, not a category.** It names who or what the claim is about. Do
+  not put `METHOD` or `TOOLING` there — that is what `kind` is for. Seven claims carried a
+  category in that field until 16 Sep 2026; their original labels are preserved in a
+  `person_label_was` key.
+- **`[PROVISIONAL …]`** is still the right prefix for a claim that is merely uncheckable
+  rather than dead — as C080 and C082 use — but it is now a note to human readers, not a
+  signal to the tooling.
 
 ## 2. Say the narrowest thing that is true
 

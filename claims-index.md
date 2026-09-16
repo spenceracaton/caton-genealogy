@@ -2,15 +2,15 @@
 
 Regenerate with `python3 tools/make-claims-index.py`. **Do not edit by hand.**
 
-Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · `do-not-merge` · `method` · `moot` · `VOID/REVERSED` (retained as the record of an error — do not cite as fact).
+Status comes from each claim's explicit `kind` field: `fact` · `hypothesis` · `negative` · `do-not-merge` · `method` · `moot` · `VOID/REVERSED` (retained as the record of an error — do not cite as fact). A row without a `kind` falls back to the legacy prose classifier and is listed at the foot of this file.
 
 | status | n | | grade | n |
 |---|---:|---|---|---:|
-| fact | 132 | | A | 111 |
+| fact | 130 | | A | 111 |
 | hypothesis | 12 | | B | 59 |
 | negative | 25 | | C | 27 |
 | do-not-merge | 3 | |  |  |
-| method | 17 | |  |  |
+| method | 19 | |  |  |
 | moot | 1 | |  |  |
 | VOID/REVERSED | 7 | |  |  |
 
@@ -69,7 +69,7 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C033 | C | hypothesis | 8 | Eliza Ann Boring | HYPOTHESIS, C-LEVEL, UNTESTED. Eliza Ann Boring (b. c.1819 Virginia) may be a CATON BY BIRTH and Harrison's si… |
 | C034 | A | fact | 8 | Harrison Caton | REVISION TO C011. C011 asserts at grade A that Harrison is 'the ONLY Caton in the whole of Ohio County in 1850… |
 | C035 | B | negative | 8 | Aaron Caton | DEAD END, RECORDED SO IT IS NOT RE-RUN. The two households immediately adjacent to Aaron's in 1850 both contai… |
-| C036 | A | fact | 8 | TOOLING | MOVED TO METHOD.md s.1 ON 16 SEP 2026 - THIS CLAIM IS NOW A POINTER. Headline retained for the index and for t… |
+| C036 | A | method | 8 | grep/ugrep on evidence/ files — po | MOVED TO METHOD.md s.1 ON 16 SEP 2026 - THIS CLAIM IS NOW A POINTER. Headline retained for the index and for t… |
 | C037 | A | fact | 8 | Julia A. (Caton) Sawtell | DEATH CERTIFICATE, Missouri State Board of Health no. 36313, St. Louis City. Widow. DATE OF BIRTH 15 Dec 1843;… |
 | C038 | A | fact | 8 | Julia Caton | REVERSES C016. JULIA WAS BORN IN MISSOURI, NOT MASSACHUSETTS. Three independent sources converge: the 1850 cen… |
 | C039 | A | fact | 8 | Aaron Caton | REVISES C019. MIGRATION TIMELINE CORRECTED: m. Delaware Co. OH 8 Aug 1841; JULIA b. MISSOURI 15 Dec 1843; Mary… |
@@ -91,7 +91,7 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C055 | A | fact | 9 | William Caton (Bates Co.) | 1860 census, Lebanon Twp., Bates Co., MO, enum. 9 Aug 1860, PO Fair Point, p.60. TWO ADJACENT CATON HOUSEHOLDS… |
 | C056 | C | hypothesis | 9 | Aaron Caton | HYPOTHESIS, C-LEVEL, NOT IN THE WORKING TREE. A Maryland-born Caton kin-group may sit behind Aaron. Birth-stat… |
 | C057 | A | fact | 9 | John Caton | 1840 census, COOPER COUNTY, MISSOURI, p.141. Household of JOHN CATON: males - 1 under 5, 1 aged 5-9, 1 AGED 40… |
-| C058 | A | method | 9 | METHOD | GAP CLOSED. Through eight passes this project did ZERO 1840 census work - 9 claims touched 1850, 6 touched 186… |
+| C058 | A | method | 9 | 1840 census — a whole enumeration  | GAP CLOSED. Through eight passes this project did ZERO 1840 census work - 9 claims touched 1850, 6 touched 186… |
 | C059 | A | fact | 9 | Jonas Caton; Joshua Caton | 1840 census, RIVES COUNTY, MISSOURI, p.367, division of William Lane. Two adjacent Caton heads of household: J… |
 | C060 | B | method | 9 | Missouri Caton cluster | CLUSTER MAP, first time assembled. Missouri held MULTIPLE Caton households before Aaron arrived c.1843. 1840: … |
 | C061 | A | fact | 9 | Joseph Caton | 1850 census, BRUNSWICK CITY, CHARITON CO., MISSOURI, p.236. Household: JOSEPH CATON, age 28 (b. c.1822), male,… |
@@ -102,7 +102,7 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C066 | A | negative | 9 | Caton surname at Wheeling | NEGATIVE, AND INFORMATIVE. Full-text search of the major county histories for the Wheeling area returns ZERO o… |
 | C067 | A | fact | 9 | A. S. Caton | A SECOND CATON FAMILY IN AARON'S OHIO COUNTY. 'A. S. CATON, Secretary' of the Delaware Gaslight and Coal Oil C… |
 | C068 | C | hypothesis | 9 | Andrew Caton | UNSOURCED ASSERTION IN BRIEF s.6 - FLAGGED, NOT REFUTED. BRIEF states 'Andrew Caton / New York line. Emma J. C… |
-| C069 | A | method | 9 | METHOD | SECOND STRUCTURAL GAP, LARGER THAN THE 1840 ONE. An audit of claims.jsonl on 10 Sep 2026 found ZERO American p… |
+| C069 | A | method | 9 | American probate, guardianship, de | SECOND STRUCTURAL GAP, LARGER THAN THE 1840 ONE. An audit of claims.jsonl on 10 Sep 2026 found ZERO American p… |
 | C070 | C | method | 9 | WikiTree Caton profiles | ASSESSED AND FOUND NOT USABLE AS EVIDENCE. Profiles Caton-5 (Aaron), Caton-8 (William Bramwell), Caton-14 (Tho… |
 | C071 | B | fact | 9 | Thomas Caton | C010'S EXCLUSION SHOULD BE REOPENED. C010 rules Thomas Caton out as Aaron's father because his 1830 Ohio Co., … |
 | C072 | C | fact | 9 | Aaron Caton family | THREE TESTABLE LEADS EXTRACTED FROM THE WIKITREE GEDCOM (all C-level until tested). (1) SARAH ANN GARDNER died… |
@@ -118,8 +118,8 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C082 | B | fact | 9 | Caton households, Fauquier Co., VA | [PROVISIONAL 16 Sep 2026 - GRADE LOWERED A->B per C192 and C193. Derived from a FamilySearch index search with… |
 | C083 | B | hypothesis | 9 | Aaron Caton; Joseph Caton | REFRAMED QUESTION, replacing C081's failed prediction. ESTABLISHED: (a) Joseph Caton was born in Fauquier Co. … |
 | C084 | A | method | 9 | Caton surname in Virginia | COMPLETE STATEWIDE MAP - Library of Virginia Chancery Records Index swept for the surname CATON across all 107… |
-| C085 | A | method | 9 | TOOLING / ACCESS | 1840 DELAWARE CO., OHIO (T11) - ALL FREE TEXT ROUTES ARE CLOSED; DO NOT RE-DERIVE THIS. (1) Internet Archive p… |
-| C086 | A | fact | 9 | TOOLING / ACCESS | MOVED TO METHOD.md s.3 ON 16 SEP 2026 - THIS CLAIM IS NOW A POINTER. Headline retained for the index and for t… |
+| C085 | A | method | 9 | 1840 Delaware Co., OH census — eve | 1840 DELAWARE CO., OHIO (T11) - ALL FREE TEXT ROUTES ARE CLOSED; DO NOT RE-DERIVE THIS. (1) Internet Archive p… |
+| C086 | A | method | 9 | FamilySearch access on Spencer’s m | MOVED TO METHOD.md s.3 ON 16 SEP 2026 - THIS CLAIM IS NOW A POINTER. Headline retained for the index and for t… |
 | C087 | A | fact | 10 | Fauquier Caton cluster | DIRECT PRIMARY COURT RECORD. A 4 Dec 1830 Fauquier County road order assigns the male road hands of Daniel Law… |
 | C088 | C | hypothesis | 10 | Thomas Caton and Elizabeth Ann Law | MIGRATION LEAD ONLY, NOT A PARENT ASSIGNMENT. A 1999 published descendant account reports Thomas Caton and Eli… |
 | C089 | A | negative | 9 | John Boring; Eliza Ann Boring | NEGATIVE, LIMITED. The West Virginia Vital Research Records Project's Ohio County marriage index contains no r… |
@@ -150,10 +150,10 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C114 | B | fact | 10 | Sue (Caton) Dumm | ARCHIVAL TARGET - JOSEPH'S DAUGHTER LEFT FAMILY-HISTORY MATERIAL. Susan Caton (b. c.1859, C112) married a Dumm… |
 | C115 | A | method | 10 | Conflicts between the two threads | THREE DISCREPANCIES BETWEEN THE CHATGPT HANDOFF AND THE FILE, RECORDED NOT RESOLVED. (1) 1860 LIVINGSTON TOWNS… |
 | C116 | B | method | 10 | Collateral Missouri Catons | COLLATERAL FROM THE HANDOFF, QUARANTINED. (a) 1866 LAMINE TWP VOTER LIST, Cooper Co.: 'Aaron Caton' and 'Josep… |
-| C117 | A | method | 10 | METHOD - handoff staleness | THE CHATGPT HANDOFF WAS WRITTEN WITHOUT READING THE CURRENT FILE. It still carries 'reportedly Wheeling' as th… |
+| C117 | A | method | 10 | ChatGPT handoff of 11 Sep 2026 — r | THE CHATGPT HANDOFF WAS WRITTEN WITHOUT READING THE CURRENT FILE. It still carries 'reportedly Wheeling' as th… |
 | C118 | A | fact | 10 | Sue (Caton) Dumm papers — request | RECORDS REQUEST SENT 12 Sep 2026 by Spencer to the Carnegie Library for Local History, Boulder Public Library,… |
 | C119 | A | fact | 10 | Jesse Katon (Fairfield Co., OH) | 1850 census, Rush Creek Twp, FAIRFIELD CO., OHIO, 17 Sep 1850, p.428, dwelling 289 (image retained): JESSE KAT… |
-| C120 | A | fact | 11 | METHOD - 'The Alexandria Catons' i | OUTSIDE-WORKSPACE COMPILATION RECONCILED. A research file 'The Alexandria Catons' (PDF, compiled 12 Sep 2026, … |
+| C120 | A | fact | 11 | “The Alexandria Catons” import, 12 | OUTSIDE-WORKSPACE COMPILATION RECONCILED. A research file 'The Alexandria Catons' (PDF, compiled 12 Sep 2026, … |
 | C121 | B | fact | 11 | Nathan T. Caton; George W. Caton;  | PUBLISHED BIOGRAPHY, VERIFIED AGAINST THE OCR TEXT. 'Hon. Nathan T. Caton', An Illustrated History of the Big … |
 | C122 | A | fact | 11 | George W. Caton (Boonville tailor) | GEORGE W. CATON WAS THE TAILOR OF BOONVILLE IN THE 1830s, AND A CHARTER MASON THERE IN 1841 BESIDE A LAURIE. H… |
 | C123 | B | fact | 11 | George W. Caton household, 1850 | 1850 CENSUS, ST. CLAIR CO., MISSOURI, AS TRANSCRIBED IN THE IMPORT (C120) - IMAGE NOT YET SEEN HERE, so B pend… |
