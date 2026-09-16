@@ -85,9 +85,23 @@ retrieve, transcribe or verify anything. C195 is graded B purely for that reason
 - **Probe two or three target hosts and report reachability before starting a retrieval
   task.** A pass spent discovering it cannot read is a pass wasted.
 - **Re-test rather than assuming either way** — a later session may differ.
-- Known-closed routes, recorded so they are not re-derived: C085 (all free text routes to
-  the 1840 Delaware Co., Ohio census), C086 (Claude-in-Chrome is not a FamilySearch route
-  on this machine).
+**Claude-in-Chrome is not a route to FamilySearch on this machine.** Tested 11 Sep 2026:
+the extension connects and exposes Spencer's real Chrome tab group, but every navigation —
+familysearch.org *and* archive.org, in existing and fresh tabs, before and after Spencer
+added the sites to the extension's allowlist — is refused with "This site is blocked by
+your site permissions." Spencer concluded the block is **admin-enforced**, consistent with
+the Vanta-managed Claude policy on that machine. **Do not retry and do not attempt to work
+around it.** Consequence: FamilySearch is reachable only by Spencer running the search and
+passing back screenshots or PDFs — the relay mode used throughout 10 Sep. In that session
+the in-app browser (no login) still reached archive.org, loc.gov, sos.mo.gov and
+lva.virginia.gov directly; by 16 Sep a different session could reach none of them, which is
+the per-session point above.
+
+- Another known-closed route, recorded as a research negative rather than a rule, because it
+  is about specific sources for a specific target: **C085** — every free text route to the
+  1840 Delaware Co., Ohio census is closed, including the detail that IA reel
+  `populationsc18400391unit` is two-page spreads with names on alternating images. Read the
+  claim before re-attempting that census.
 
 ## 4. Structural rules that have already caught errors
 
@@ -116,8 +130,16 @@ retrieve, transcribe or verify anything. C195 is graded B purely for that reason
 
 ---
 
-*Started 16 Sep 2026, pass 13. The rules above with a `C###` reference are also recorded as
-method-class claims in `claims.jsonl` (C036, C058, C069, C085, C086, C117, C120) and are
-cited by id from other claims, so they stay there as well; this file is where to look for
-them. Rules added from pass 13 onward live here only — `claims.jsonl` is for evidence about
-the family.*
+*Started 16 Sep 2026, pass 13. `claims.jsonl` is for evidence about the family; operational
+rules live here. Two claims that were purely operational — **C036** (the `ugrep` trap) and
+**C086** (Claude-in-Chrome is not a FamilySearch route) — were reduced to pointers at this
+file on 16 Sep, keeping their ids and headlines because they are cited six and seven times
+respectively. Original wording is in git history.*
+
+*Five others carry the `METHOD` or `TOOLING` label but are **not** operational rules and
+stay in the ledger in full: **C058** and **C069** are research-gap findings that argue which
+record class states parentage (and are the origins of T11 and T12); **C085** is a recorded
+negative about specific sources for a specific census; **C117** and **C120** are
+reconciliations of outside compilations, carrying substantive factual corrections about
+Aaron F., Aaron's death date, Joseph's obituary and the Alexandria/D.C. jurisdiction point.
+Their labels are misleading — the problem with those five is the label, not the location.*

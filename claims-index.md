@@ -6,11 +6,11 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 
 | status | n | | grade | n |
 |---|---:|---|---|---:|
-| fact | 130 | | A | 111 |
+| fact | 132 | | A | 111 |
 | hypothesis | 12 | | B | 59 |
 | negative | 25 | | C | 27 |
 | do-not-merge | 3 | |  |  |
-| method | 19 | |  |  |
+| method | 17 | |  |  |
 | moot | 1 | |  |  |
 | VOID/REVERSED | 7 | |  |  |
 
@@ -69,7 +69,7 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C033 | C | hypothesis | 8 | Eliza Ann Boring | HYPOTHESIS, C-LEVEL, UNTESTED. Eliza Ann Boring (b. c.1819 Virginia) may be a CATON BY BIRTH and Harrison's si… |
 | C034 | A | fact | 8 | Harrison Caton | REVISION TO C011. C011 asserts at grade A that Harrison is 'the ONLY Caton in the whole of Ohio County in 1850… |
 | C035 | B | negative | 8 | Aaron Caton | DEAD END, RECORDED SO IT IS NOT RE-RUN. The two households immediately adjacent to Aaron's in 1850 both contai… |
-| C036 | A | method | 8 | TOOLING | CAUSED A FALSE NEGATIVE ON 10 SEP 2026. 'grep' in Spencer's shell is a function wrapping ugrep with -I. The US… |
+| C036 | A | fact | 8 | TOOLING | MOVED TO METHOD.md s.1 ON 16 SEP 2026 - THIS CLAIM IS NOW A POINTER. Headline retained for the index and for t… |
 | C037 | A | fact | 8 | Julia A. (Caton) Sawtell | DEATH CERTIFICATE, Missouri State Board of Health no. 36313, St. Louis City. Widow. DATE OF BIRTH 15 Dec 1843;… |
 | C038 | A | fact | 8 | Julia Caton | REVERSES C016. JULIA WAS BORN IN MISSOURI, NOT MASSACHUSETTS. Three independent sources converge: the 1850 cen… |
 | C039 | A | fact | 8 | Aaron Caton | REVISES C019. MIGRATION TIMELINE CORRECTED: m. Delaware Co. OH 8 Aug 1841; JULIA b. MISSOURI 15 Dec 1843; Mary… |
@@ -119,7 +119,7 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C083 | B | hypothesis | 9 | Aaron Caton; Joseph Caton | REFRAMED QUESTION, replacing C081's failed prediction. ESTABLISHED: (a) Joseph Caton was born in Fauquier Co. … |
 | C084 | A | method | 9 | Caton surname in Virginia | COMPLETE STATEWIDE MAP - Library of Virginia Chancery Records Index swept for the surname CATON across all 107… |
 | C085 | A | method | 9 | TOOLING / ACCESS | 1840 DELAWARE CO., OHIO (T11) - ALL FREE TEXT ROUTES ARE CLOSED; DO NOT RE-DERIVE THIS. (1) Internet Archive p… |
-| C086 | A | method | 9 | TOOLING / ACCESS | CLAUDE-IN-CHROME IS NOT A ROUTE TO FAMILYSEARCH ON THIS MACHINE. Tested 11 Sep 2026: the extension connects an… |
+| C086 | A | fact | 9 | TOOLING / ACCESS | MOVED TO METHOD.md s.3 ON 16 SEP 2026 - THIS CLAIM IS NOW A POINTER. Headline retained for the index and for t… |
 | C087 | A | fact | 10 | Fauquier Caton cluster | DIRECT PRIMARY COURT RECORD. A 4 Dec 1830 Fauquier County road order assigns the male road hands of Daniel Law… |
 | C088 | C | hypothesis | 10 | Thomas Caton and Elizabeth Ann Law | MIGRATION LEAD ONLY, NOT A PARENT ASSIGNMENT. A 1999 published descendant account reports Thomas Caton and Eli… |
 | C089 | A | negative | 9 | John Boring; Eliza Ann Boring | NEGATIVE, LIMITED. The West Virginia Vital Research Records Project's Ohio County marriage index contains no r… |
