@@ -1,4 +1,4 @@
-# Claims index — generated 2026-09-14 from `claims.jsonl` (188 claims)
+# Claims index — generated 2026-09-16 from `claims.jsonl` (197 claims)
 
 Regenerate with `python3 tools/make-claims-index.py`. **Do not edit by hand.**
 
@@ -6,9 +6,9 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 
 | status | n | | grade | n |
 |---|---:|---|---|---:|
-| fact | 122 | | A | 110 |
-| hypothesis | 11 | | B | 53 |
-| negative | 25 | | C | 25 |
+| fact | 130 | | A | 113 |
+| hypothesis | 12 | | B | 57 |
+| negative | 25 | | C | 27 |
 | do-not-merge | 3 | |  |  |
 | method | 19 | |  |  |
 | moot | 1 | |  |  |
@@ -222,6 +222,15 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C186 | B | fact | 11 | Sarah Ann (Gardner) Caton's family | SARAH ANN'S PARENTS AND SIBLINGS IDENTIFIED (grade B - no document names her father; four independent records … |
 | C187 | A | fact | 11 | Moses Caton at Centreville, July 1 | MOSES PLACED AT CENTREVILLE A MONTH BEFORE THE 1820 CENSUS, AMONG THE FAMILIES HIS CHILDREN MARRIED INTO. Alex… |
 | C188 | A | fact | 11 | Caton - 1820 census of Culpeper an | THE ELDER AARON HEADED NO HOUSEHOLD IN CULPEPER OR STAFFORD IN 1820. Read from the NARA M33 reels on archive.o… |
+| C189 | B | fact | pass12 | Daniel Laurie / Catherine Laurie | COCHRAN/JEFFRESS BOOK CONFIRMS LAURIE FAMILY'S OHIO STOP AND FAUQUIER ORIGIN. Catherine Laurie born 'probably … |
+| C190 | B | fact | pass12 | Thomas Caton (colonial) | COLONIAL THOMAS CATON OF FREDERICK COUNTY, VIRGINIA — NORTHERN NECK LANDHOLDER, GENTLEMAN, JUSTICE, AND MILITI… |
+| C191 | B | fact | pass12 | George W. Caton / Joseph Caton | 1883 HISTORY OF HOWARD AND COOPER COUNTIES NAMES GEORGE W. CATON 'THE TAILOR' AMONG EARLY BOONVILLE TRADESMEN … |
+| C192 | A | fact | 13 | Thomas Caton household, Fauquier C | C080 IS INTERNALLY INCONSISTENT WITH THE 1820 SCHEDULE AND MUST BE RE-READ FROM THE IMAGE. C080 records 'males… |
+| C193 | A | fact | 13 | Thomas Caton Jr. and Thomas Caton  | TWO GRADE-A CLAIMS CONTRADICT EACH OTHER AND CANNOT BOTH STAND. (1) C092, from the primary marriage papers: Th… |
+| C194 | C | hypothesis | 13 | Thomas Caton Jr. (William’s father | HYPOTHESIS, C-LEVEL, NOT ASSERTED. The project has weighed Thomas Sr. against Moses. A third man sits in a gra… |
+| C195 | B | fact | 13 | Aaron and Joseph Caton - Virginia  | THE UNTRIED RECORD CLASS, AND A COUNTY-BY-COUNTY SURVIVAL SURVEY. ARGUMENT: Aaron (10) and Joseph (7) are in N… |
+| C196 | A | fact | 13 | PARENTAGE-TESTS A1 - Fauquier pers | THE CURRENT TOP-RANKED TEST HAS A SELF-DEFEATING WINDOW. A1 and the NEXT-SESSION header rank first the Fauquie… |
+| C197 | C | fact | 13 | Nancy Roseman Caton - the T09 nami | T09 RESTS ON AN UNSOURCED MIDDLE NAME, AND THE SURNAME READING POINTS THE WRONG WAY. C017 corroborates a Nancy… |
 
 ## Open discrepancies (from C115)
 

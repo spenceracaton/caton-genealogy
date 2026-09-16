@@ -1,11 +1,54 @@
-# Spencer's next FamilySearch session — 15 Sep 2026
+# Spencer's next FamilySearch session — revised 16 Sep 2026
 
-**First, above everything below: Fauquier personal-property tax 1833–1840, Full-Text `Caton`,
-Fauquier, 1833–1840 — does Thomas Caton carry 2 or 3 tithables in 1836–39 (Aaron 16 in
-1836, Joseph in 1839)? See PARENTAGE-TESTS.md §A1. Then Daniel Laurie's 1840 Cooper
-household (a male 70–80 = Thomas Sr.).**
+**REVISED 16 SEP. The old first item (Fauquier tax 1833–40) is demoted — its window is
+self-defeating (C196). Three things now come first, and all three are cheap.**
 
-Ordered by expected value per minute. Each item names what to send. All from T15
+**1. Re-read TWO census pages from the reel and SAVE THE IMAGES: Fauquier 1830, p.471
+(all three Caton households) and the Fauquier 1820 alphabetical C page.** These are the
+only census claims in the whole chain with no retained image (C192), and they are the two
+the entire Fauquier story rests on. Read column by column against the printed header.
+- On **1830 p.471**, the one thing that matters: **which age bracket is the adult male of
+  "Thomas Caton Jun" in?** C082 says 20–30. If he is **40–50** he is Thomas Jr., William's
+  father (C092, grade A), a widower who had just remarried Elizabeth Lawrey in Dec 1828 —
+  and a candidate father for Aaron this project has never evaluated (C194). A man 20–30 in
+  1830 cannot be the father of a man 20–30 in 1830, so something on that page is wrong.
+- On **1820**, two things: **is there a male 26–45?** (if yes, the two boys under ten are
+  the head's *grandsons*, which C080 itself raised and nobody chased) — and **what is the
+  true 16–26 count?** C080 reads `16–18 = 1; 16–26 = none`, which the 1820 form forbids:
+  16–18 is a *subset* of 16–26, as our own C165 states for Fairfax.
+
+**2. Open the Fauquier tax pages we already found and never opened (C156).** Seventeen
+Full-Text hits exist, including `Caton Thomas 2` in the 1809–19 volume and both `Thomas`
+and `Thomas Jr` in the 1820–32 volume. Zero new searching. They give (a) the year "Thomas
+Jr" becomes a separate tithable — which independently tests item 1 — and (b) Thomas's
+property columns, i.e. whether he was **poor**, which is the premise of item 3.
+
+**3. Fauquier Co. Overseers of the Poor Minutes, 1804–1845 — ONE volume, LVA reel 116,
+barcode 1125621. Read 1826–1838 for a Caton binding (C195).** Aaron (10) and Joseph (7) are
+in no Caton household anywhere in 1830 while their small sisters stay home, and both
+brothers became **tailors**. That is the signature of a bound apprenticeship, and Virginia
+bound out orphans *and* children whose parents could not support them — so the entry names
+the father, the child, the master, the date and the trade. Never searched on the Virginia
+side ("overseer" appears once in 197 claims, unrelated). Prince William is dead ground (OP
+minutes survive only 1788–1802; Lost Records Locality), so Fauquier is the only county
+where this record exists for the right years. Then Fauquier **Minute Books and Deed Books
+1823–40** for a privately recorded indenture, and **APA 739** (Auditor's OP reports,
+Fauquier 1829–51).
+**Do NOT use LVA's "Virginia Untold: Indentures of Apprenticeship" index** — it is the
+African American narrative project and covers free Black and mixed-race children only.
+
+**4. Full-Text `Caton`, Fauquier, 1823–1840, ALL record types, filters cleared** — never
+run. C156 was filtered to *tax records*; C153's addendum was the phrase `"Aaron Caton"`.
+The cheapest way to reach an apprenticeship order if the volume is digitised.
+
+**5. Then** Daniel Laurie's 1840 Cooper household (a male 70–80 = Thomas Sr.), and the list
+below in its existing order. The old top item — Fauquier personal-property tax 1833–1840 —
+is now worth doing only to **date the departure**, not to find Aaron: he turned 16 in May
+1836 and Thomas was gone from the county after Apr 1835 (C092, C098, C189).
+
+---
+
+Ordered by expected value per minute.  Each item names what to send. All from T15
 unless marked. Full-Text = Search → Full Text; Records = Search → Records; Catalog =
 Search → Catalog.
 
@@ -101,3 +144,12 @@ Annapolis father (C158); Howard Co. Jackson Caton (C160).
 - **BLM GLO patents** (glorecords.blm.gov): surname Caton, state Ohio — Moses's or George
   W.'s Muskingum patent dates their arrival; and state Missouri for any Caton 1830–60.
 - **Colorado Historic Newspapers**: `Caton Dumm` — Sue Dumm's Boulder obituary.
+- **Nancy Roseman Caton, d. 5 Dec 1865, Ohio, aged 16** — new compiled lead (C197). Her
+  middle name is the whole basis of T09 and it is unsourced: the 1850 census gives only
+  "Nancy" (C017). Fix it from a stone or a record before chasing a Roseman family — and note
+  Roseman is a German/Ashkenazi surname of Pennsylvania and North Carolina, absent from the
+  Virginia Piedmont, so if it *is* a surname it points at story B. It may simply be
+  **Rosamond/Rosanna**, a grandmother's forename. Her dying in Ohio in Dec 1865, with Sarah
+  Ann reported dying in Ohio in 1886 (C072), suggests the family **split** — which would
+  explain the wifeless 1870 Boonville household. Delaware Co. OH cemeteries and probate
+  1865–66.

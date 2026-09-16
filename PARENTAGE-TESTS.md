@@ -1,22 +1,83 @@
-# How Aaron's parentage can still be validated — ranked tests (14 Sep 2026, rev. evening)
+# How Aaron's parentage can still be validated — ranked tests (16 Sep 2026)
 
 State: Aaron Caton, b. 16 May 1820 Virginia, is a son of the Broad Run (Prince William
-Co.) Caton family — almost certainly of one of two brothers, **Thomas Sr.** (Fauquier;
-b. 1760–65; two boys under ten in 1820) or **Moses** (Fairfax; b. 1767; one boy under ten
-in 1820 — **but Moses's boy is his known son Moses B. Jr., b. Jan 1811 (C181)**, so only
-Thomas Sr.'s two boys under ten are unexplained). Neither had the boys at home in 1830.
-Thomas leads on Joseph's Fauquier birth (1823), the 1898 "uncle Joseph" article, the
-Cooper Co. cluster Aaron died among, and now the 1820 arithmetic.
-Every test below either names a parent outright or moves the balance between the brothers.
+Co.) Caton family. **Revised 16 Sep: there are now THREE candidate fathers, not two, and
+the two census pages the whole structure rests on cannot be re-checked.** See
+`evidence/C192-C197_1820-1830_Fauquier_recheck_and_apprenticeship_2026-09-16.md`.
+
+- **Thomas Sr.** (Fauquier; b. 1760–65; two boys under ten in 1820) — the former leader.
+- **Moses** (Fairfax; b. 1767) — effectively excluded: his 1820 boy under ten is his known
+  son Moses B. Jr., b. Jan 1811 (C181), and every male in his house is a known son (C187).
+- **Thomas Jr.**, William's father (C092, grade A) — **new, never evaluated (C194).** A
+  widower who remarried Elizabeth Lawrey Dec 1828 (C173) and who heads no census household
+  this project has correctly identified. Makes Aaron William's *brother*, not his uncle,
+  which fits Aaron dying among William's family on the Laurie lot (C108, C149) and William
+  naming a son Aaron in 1842 (C149) better than the uncle model does.
+
+**Three grade-A claims cannot all be true (C192, C193).** C080 reads the 1820 household
+`16–18 = 1; 16–26 = none`, which the 1820 schedule forbids — 16–18 is a *subset* of 16–26,
+as the project's own C165 states. C092 makes Thomas Jr. William's father while C082 reads
+both men 20–30 in 1830. C159 makes the 1820 boys 10–16/16–18 stepsons while C082 makes them
+Thomas's own sons. **And C080 and C082 are the only census claims in the chain with an empty
+`evidence` field** — every negative (C155, C167, C188) and every Fairfax positive (C165,
+C166) has its image retained; the two Fauquier pages do not.
+
+Every test below either names a parent outright or moves the balance between the three.
 Ordered by (chance it exists) × (what it proves) ÷ (effort).
+
+## 0. THE RE-READ THAT COMES BEFORE EVERYTHING (C192, C193)
+
+**Fauquier 1830, p.471 and the Fauquier 1820 alphabetical C page — from the reel, column by
+column against the printed header, images retained.** Cheapest test in the project; it sits
+under all the others.
+
+1. **1830 p.471, "Thomas Caton Jun" — which bracket is the adult male in?** If **40–50**,
+   he is Thomas Jr., William's father, newly remarried, and the leading candidate father
+   (C194). If **20–30**, C082 stands and William's father appears on no census at all.
+2. **1820 C page — is there a male 26–45, and what is the true 16–26 count?** A man 26–45
+   in that house makes the two boys under ten **grandsons**, not sons — C080's own
+   unpursued alternative.
+3. Confirm Thomas Sen's 1830 two females under 5 with a wife 40–50, while both sons are
+   gone: the anomaly the whole model has to explain.
+
+Offset error is not hypothetical here — C159 had to reconstruct the **1810** Fauquier page
+through an explicit one-line-down argument. Same county, same clerical era.
 
 ## A. Records that would NAME a parent
 
-1. **Fauquier personal-property tax, 1833–1840 — Thomas Caton's tithables.** A white
-   male over 16 was a tithable. Aaron turned 16 in May 1836, Joseph in 1839. If the list
-   shows "Caton, Thomas — 2" (or 3) tithables in 1836–39, the sons were in his house
-   before the family left for Ohio. Moses's Fairfax list 1836–38 is the control. *Full-Text
-   `Caton`, Fauquier, 1833–1840; open each year.* One evening; decisive if positive.
+1. **Virginia apprenticeship / Overseers of the Poor — the untried class (C195).**
+   Aaron (10) and Joseph (7) are in **no** Caton household in Fauquier, Fairfax or Prince
+   William in 1830 (C082, C166, C167) while small daughters stay at home (C082); both
+   brothers ended in the **same trade**, tailor (C076, C191, 1850). Two brothers gone from
+   home at 7 and 10 and both trained to one trade is the signature of a bound
+   apprenticeship. Virginia bound out orphans *and* children whose parents could not
+   support them, so **a living father is normally named**, along with the child, the
+   master, the date and the trade.
+   - **Fauquier Co. (Va.) Board of Overseers of the Poor Minutes, 1804–1845** — ONE volume,
+     LVA Local Government Records Collection, barcode **1125621**, **Fauquier Reel 116**.
+     Covers 1828–36 exactly. Read 1826–1838.
+   - Then **Fauquier Minute Books and Deed Books 1823–40** (a father could bind a son
+     privately), and **APA 739**, the Auditor's Overseer of the Poor annual reports,
+     Fauquier 1829–51.
+   - **Prince William is dead ground**: its OP minutes survive only 1788–1802 (Dettingen
+     Parish, pub. Historic Dumfries 1976) and it is an LVA Lost Records Locality. Fauquier
+     is the only candidate county where the record survives for the right years — which
+     makes this cheap and bounded.
+   - **Do NOT use LVA's "Virginia Untold: Indentures of Apprenticeship, 1777–1893."** It is
+     free and indexed and it is the wrong index: Virginia Untold covers free Black and
+     mixed-race children. White apprenticeships are in the OP minutes and order books,
+     unindexed. No published abstract covers these years (the Sparacio/Heritage Books
+     Fauquier Minute Book Abstracts stop in the 1780s) — reel 116 must be read directly.
+   - **Premise to test first, from pages already located:** OP binding presupposes a poor
+     or dead father. C156's 17 Full-Text hits — `Caton Thomas 2` in the 1809–19 volume,
+     `Thomas` and `Thomas Jr` in the 1820–32 volume — were **never opened**. Their property
+     columns say whether Thomas was poor, and the run dates when "Thomas Jr" becomes a
+     separate tithable, which independently tests C193.
+
+1a. **Full-Text `Caton`, Fauquier, 1823–1840, ALL record types, filters cleared** — never
+   run. C156 was filtered to *tax records*; C153's addendum was the phrase `"Aaron Caton"`.
+   The cheap way to reach an apprenticeship order if the volume is in the digitised corpus.
+
 2. **Thomas Sr.'s second-marriage bond, 1810–19** — not in Fauquier (C173), not Loudoun
    (C175), not Culpeper to 1815 (C182). Prince William register 1794–1850, then Fairfax,
    Stafford, Culpeper 1816–19. Names Aaron's probable
@@ -79,6 +140,27 @@ Ordered by (chance it exists) × (what it proves) ÷ (effort).
     A single Laurie or Thomas Caton deed or tax entry in Delaware County 1835–37 would be
     the strongest circumstantial link the project could have short of a named parent.
 
+15. **Fauquier personal-property tax, 1833–1840 — DEMOTED 16 Sep (C196).** Formerly the
+    top-ranked test, on the theory that Thomas's tithable count would show Aaron (16 in May
+    1836) and Joseph (16 in 1839) at home. **Its window is self-defeating:** Thomas Sr.
+    signed Ann's permission 7 Apr 1835 (C092) and the cluster left for Ohio c.1835 (C098,
+    C189), so the years Aaron is countable are the years Thomas is gone; in 1833–35 Aaron
+    is 13–15 and below the threshold by construction. C156's Full-Text run reached only the
+    1800–19 and 1820–32 volumes, so the 1833–40 lists may not be in the indexed corpus at
+    all. **Keep it as a departure-dating exercise** — the year Thomas vanishes dates the
+    move — not as a parentage test.
+
+16. **T09 (Roseman) — RE-POINTED 16 Sep (C197).** The clue rests on a compiled middle name;
+    the 1850 census gives only "Nancy" (C017). Roseman is an Americanised German/Ashkenazi
+    surname concentrated in Pennsylvania and North Carolina, absent from the Virginia
+    Piedmont — if genuine *and* a surname it points toward story B, not A. It may instead be
+    **Rosamond/Rosanna**, a forename, making the target a grandmother's given name (cf.
+    Rosana Caton, Perry Co. 1840, C174). **Step 1 is to fix the name from a primary record**,
+    not to find the family. New compiled lead (C): Nancy d. **5 Dec 1865, Ohio**, aged 16 —
+    which with Sarah Ann's reported 1886 Ohio death (C072) suggests the family **split**,
+    Aaron to Missouri and Sarah with the children left in Ohio, explaining the wifeless 1870
+    Boonville household. Test: Delaware Co. OH cemetery and probate 1865–66.
+
 ## C. Creative sources still untried (free; some need your browser)
 
 - **archive.org full-text API** (`be-api.us.archive.org/fts/v1/search`) — reads
@@ -100,6 +182,23 @@ Ordered by (chance it exists) × (what it proves) ÷ (effort).
   point to the Monmouth story's source. Needs a browser.
 - **Prince William Reliquary** (RELIC, Bull Run Regional Library) — indexed abstracts of
   the surviving Prince William books; `Caton` in its cumulative index.
+- **NOT a source for Aaron: LVA "Virginia Untold: Indentures of Apprenticeship, 1777–1893"**
+  (free, indexed, also on Ancestry). It is LVA's African American narrative project and
+  covers free Black and mixed-race children only (C195). White apprenticeships stay in the
+  Overseers of the Poor minutes and county order books, unindexed. Noted so nobody loses an
+  evening to the wrong index.
+- **Agent sandbox warning (16 Sep 2026):** that session's egress policy blocked *every*
+  record host — archive.org and the `be-api` full-text endpoint, familysearch.org, loc.gov,
+  hathitrust.org, findagrave.com, lva.virginia.gov, usgenwebsites.org, glorecords.blm.gov.
+  Web *search* worked; web *fetch* did not. Check reachability before dispatching an agent
+  on a retrieval task.
+
+## Provisional — do not treat as settled (C192)
+
+**C080 (1820 Fauquier) and C082 (1830 Fauquier) should be read as B, not A, until their
+images are in `evidence/`.** C080 is internally inconsistent with the 1820 form; C082
+contradicts grade-A C092. Neither can be re-checked. The merge rule in `tasks/README.md`
+already covers this: where a reading is uncertain, *go to the image*.
 
 ## Closed (do not repeat)
 Culpeper and Stafford 1820 censuses, whole C blocks (C188 — the elder Aaron headed no house

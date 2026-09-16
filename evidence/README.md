@@ -1,4 +1,4 @@
-# evidence/ — manifest, generated 2026-09-14 (107 files)
+# evidence/ — manifest, generated 2026-09-16 (112 files)
 
 Regenerate with `python3 tools/make-evidence-manifest.py`. Notes are maintained in that script.
 
@@ -85,6 +85,7 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `Boone_MO_1860_Header_Transition_120_260.jpg` | 2 MB | C022 | 1860 Boone Co. reel navigation aid (parallel pass). |
 | `Boone_MO_1860_Roche_Twp_Caton_n546_w1800.jpg` | 2 MB | C020 | Thos. H. Caton, b. Kentucky, Roche Twp — do not merge (C020). |
 | `Boone_MO_1860_Roche_Twp_Patton_n539_w1800.jpg` | 2 MB | C021 | Reads Patton, not Caton — resolved negative (C021). |
+| `C192-C197_1820-1830_Fauquier_recheck_and_apprenticeship_2026-09-16.md` | 16 KB | C192, C193, C194, C195, C196, C197 |  |
 | `Chariton1896_p232.jpg` | 723 KB | C065 | Historical, Pictorial and Biographical Record of Chariton Co. (1896) p.232: 'Joseph Caton … the pioneer tailor' of Brunswick (C065). |
 | `Cooper_1819-1845_County_Court_Index_A-F.pdf` | 47 MB | — | Missouri State Archives, Cooper Co. Court index (49 MB). No Caton entry — bounded negative (C095). ChatGPT pass. |
 | `Cooper_1845-1866_County_Court_Index_A-C.pdf` | 35 MB | — | Missouri State Archives, Cooper Co. Court index (37 MB). No Caton entry — bounded negative (C095). ChatGPT pass. |
@@ -97,6 +98,9 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `Fauquier_1861-012_LVA_case.md` | 2 KB | C094 | ChatGPT reading of LVA chancery 1861-012: John N. Caton m. Sarah Elizabeth Lawrie (C094). |
 | `Fauquier_1861-012_LVA_case.zip` | 7 MB | C094 | 40 scans of the case, from LVA. |
 | `FindAGrave_41210338_MosesBCatonJr_1811-1876_CatonCem_WebsterCoKY_stone.jpg` | 74 KB | C181 | Moses B. Caton Jr. (14 Jan 1811-23 Apr 1876), Caton Cemetery, Webster Co. KY - the boy under ten in Moses's 1820 house; stone illegible in the photo (C181). |
+| `IA_Cochran_Jeffress_Laurie_Ohio_stop.md` | 2 KB | C189 |  |
+| `IA_HowardCooperHistory_1883_Caton_tailors.md` | 2 KB | C191 |  |
+| `IA_NorthernNeck_ThomasCaton_colonial.md` | 4 KB | C190 |  |
 | `MDPatents_Liber18_f329_full.jpg` | 854 KB | C001 | Theophilus Kitton's 1675 transportation record (C001). |
 | `MDPatents_Liber18_f329_headright_detail.jpg` | 669 KB | — | Detail of the same. |
 | `MO_ServiceCard_AaronCaton.pdf` | 23 KB | — | NARA index card, same as the jpg. |
@@ -113,5 +117,6 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `T01_massachusetts-vitals-search.md` | 2 KB | C027, C028, C029 | Return for the VOID task T01. Its negatives are MOOT (C045) — Julia was born in Missouri. Do not act on it. |
 | `T03_sarah-ann-gardner-caton-death.md` | 2 KB | — | Task return, T03. |
 | `T06_boring-ohio-county-marriage-index.md` | 1 KB | C089 | ChatGPT return: no John Boring marriage in the WV index 1834–50 (C089). |
+| `pass12_session_summary.md` | 3 KB | — |  |
 
-**Files no claim cites (16):** `1820_DC_WashingtonCity_3rdWard_MichaelCaton_household.pdf`, `1840_CooperCo_MO_p143_GeorgeWCaton_household.md`, `1840_CooperCo_MO_p143_GeorgeWCaton_household.pdf`, `Aaron_Caton_1850_Delaware_OH_n172_w1800.jpg`, `Boone_MO_1860_Header_Samples.jpg`, `Cooper_1819-1845_County_Court_Index_A-F.pdf`, `Cooper_1845-1866_County_Court_Index_A-C.pdf`, `Denver1898_p659.jpg`, `MDPatents_Liber18_f329_headright_detail.jpg`, `MO_ServiceCard_AaronCaton.pdf`, `MO_ServiceCard_WilliamBCaton.pdf`, `Missouri_Abstract_US_Land_Sales_Vol3_p066_John_Caton.pdf`, `OhioCounty1830_p209_continuation.jpg`, `PA1790_WashingtonCo_p192_Kitten_counts.jpg`, `PA1790_WashingtonCo_p192_Kitten_names.jpg`, `T03_sarah-ann-gardner-caton-death.md`
+**Files no claim cites (17):** `1820_DC_WashingtonCity_3rdWard_MichaelCaton_household.pdf`, `1840_CooperCo_MO_p143_GeorgeWCaton_household.md`, `1840_CooperCo_MO_p143_GeorgeWCaton_household.pdf`, `Aaron_Caton_1850_Delaware_OH_n172_w1800.jpg`, `Boone_MO_1860_Header_Samples.jpg`, `Cooper_1819-1845_County_Court_Index_A-F.pdf`, `Cooper_1845-1866_County_Court_Index_A-C.pdf`, `Denver1898_p659.jpg`, `MDPatents_Liber18_f329_headright_detail.jpg`, `MO_ServiceCard_AaronCaton.pdf`, `MO_ServiceCard_WilliamBCaton.pdf`, `Missouri_Abstract_US_Land_Sales_Vol3_p066_John_Caton.pdf`, `OhioCounty1830_p209_continuation.jpg`, `PA1790_WashingtonCo_p192_Kitten_counts.jpg`, `PA1790_WashingtonCo_p192_Kitten_names.jpg`, `T03_sarah-ann-gardner-caton-death.md`, `pass12_session_summary.md`

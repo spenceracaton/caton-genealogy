@@ -1,6 +1,6 @@
 # Caton genealogy — working brief
 
-**State as of:** 15 September 2026, after twelve research passes (191 claims).
+**State as of:** 16 September 2026, after thirteen research passes (197 claims).
 **This file is the whole context an agent needs.** Corrections from every pass are
 already applied here. Do not read `archive/` unless you are asked to reconstruct how a
 conclusion was reached.
@@ -49,6 +49,16 @@ tracks that route; the 1898
 its Joseph is the tailor by his own biography, not William's son of the same name
 (C149). *Still cannot explain Delaware Co., Ohio.* Grade C for the parentage; the
 family is A/B.
+> **REVISED 16 SEP — THREE candidate fathers, and two unverifiable pages (C192–C194).**
+> C080 (1820 Fauquier) and C082 (1830 Fauquier) are the only census claims in this chain
+> with **no retained image** — and they are the two the story rests on. C080 reads
+> `16–18 = 1; 16–26 = none`, which the 1820 form forbids. C092 (grade A, primary) makes
+> **Thomas Caton Jr.** William's father while C082 reads both men 20–30 in 1830 —
+> impossible. So a **third candidate father** stands unevaluated: **Thomas Jr.**, a widower
+> who remarried Dec 1828 (C173), heading no household we have identified. That model makes
+> Aaron **William's brother**, not his uncle, which fits Aaron's death among William's
+> family (C108, C149) and William naming a son Aaron in 1842. Treat C080/C082 as **B**
+> until their images are in `evidence/`; one re-read of 1830 p.471 decides all three.
 **(B) Maryland–Pennsylvania / Wheeling.** Thomas Caton in Ohio Co., VA 1830–40 (C073,
 C090); Delaware Co.'s 1840 Catons are Maryland- and Pennsylvania-born (C105–C106); a
 Thomas Caton 1767–1838 at New Martinsville, Tyler Co., with no 1820 or 1830 household
@@ -147,19 +157,35 @@ Separate same-name men by age, spouse, occupation, children, county, and migrati
 
 Contracts are in `tasks/`, one file per lead. Current order:
 
-**On Aaron — what can still name a parent, in order:**
-1. **Thomas Caton's second marriage, c.1811–19** — the bond names our Aaron's probable
-   mother; a consent names her father. Not Fauquier (C173), not Culpeper to 1815 (C182):
-   Prince William register 1794–1850, then Fairfax, Stafford, Culpeper 1816–19.
-2. **The elder Aaron's estate** — not Prince William (no Caton estate there 1734–1922,
-   C177): Fauquier 1813–32 or Culpeper 1813–34 will/order books; heirs or kin named.
-3. **Sue (Caton) Dumm's 1932 papers**, Boulder (C114) — request out.
-4. **Joseph's 1910 Saline Co. probate** — parked at Spencer's instruction.
-5. **Ohio Co. (W)VA guardianship 1830–40** — the only test left for B.
+**On Aaron — what can still name a parent, in order (re-ranked 16 Sep):**
+0. **Re-read Fauquier 1830 p.471 and Fauquier 1820's C page from the reel, images
+   retained** (C192–C194). Cheapest test in the project and it sits under all the others:
+   the adult-male bracket of "Thomas Caton Jun" decides among three candidate fathers.
+1. **Virginia apprenticeship / Overseers of the Poor — the untried class** (C195).
+   Fauquier OP Minutes 1804–1845, **one volume, LVA reel 116**, read 1826–38; then Fauquier
+   Minute and Deed Books 1823–40. Both boys absent from every Caton house in 1830 while
+   their sisters stay home, and both became **tailors** — the signature of a bound
+   apprenticeship, and such an entry names the father. Prince William is dead ground.
+2. **Open the Fauquier tax pages already located and never opened** (C156) — dates "Thomas
+   Jr" as a separate tithable, and reads whether Thomas was poor (item 1's premise).
+3. **Thomas's second marriage, c.1811–19** — names Aaron's probable mother. Not Fauquier
+   (C173), not Culpeper to 1815 (C182): Prince William register 1794–1850, then Fairfax,
+   Stafford, Culpeper 1816–19. C193 may break the "widow with stepsons" framing; the bond
+   names the mother either way.
+4. **The elder Aaron's estate** — not Prince William (C177): Fauquier 1813–32 or Culpeper
+   1813–34 will/order books.
+5. **Sue (Caton) Dumm's 1932 papers**, Boulder (C114) — request out.
+6. Joseph's 1910 Saline Co. probate — parked at Spencer's instruction. Ohio Co. (W)VA
+   guardianship 1830–40 is the only test left for B.
+**Demoted 16 Sep:** Fauquier personal-property tax 1833–40, formerly first — Aaron turned
+16 in May 1836 and Thomas was gone from the county after Apr 1835, so the decisive years
+are the years he is absent (C196). Keep it to date the departure.
 Closed: Fauquier probate for Thomas Sr. (C138); Delaware Co. OH probate and Common
 Pleas (C141, C142); 1840 Cooper (C129–C130); George W. as father (C135).
 If none speaks, join 4 is **unproven from paper**, and that is an acceptable end.
 T01 void; T11 run; T02 done; T07 closed; T13/T14 folded into the list above.
+T09 re-pointed (C197): verify Nancy's middle name from a primary record first — "Roseman"
+is a German/PA–NC surname absent from the Virginia Piedmont, and may be Rosamond/Rosanna.
 
 **On England:** parked until join 4 is settled (Norfolk baptisms, Rowles will, Kitten
 1734 will) — all paid indexes or records requests.
