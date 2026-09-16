@@ -225,7 +225,7 @@ Status is inferred from the claim text: `fact` · `hypothesis` · `negative` · 
 | C189 | B | fact | pass12 | Daniel Laurie / Catherine Laurie | COCHRAN/JEFFRESS BOOK CONFIRMS LAURIE FAMILY'S OHIO STOP AND FAUQUIER ORIGIN. Catherine Laurie born 'probably … |
 | C190 | B | fact | pass12 | Thomas Caton (colonial) | COLONIAL THOMAS CATON OF FREDERICK COUNTY, VIRGINIA — NORTHERN NECK LANDHOLDER, GENTLEMAN, JUSTICE, AND MILITI… |
 | C191 | B | fact | pass12 | George W. Caton / Joseph Caton | 1883 HISTORY OF HOWARD AND COOPER COUNTIES NAMES GEORGE W. CATON 'THE TAILOR' AMONG EARLY BOONVILLE TRADESMEN … |
-| C192 | A | fact | 13 | Thomas Caton household, Fauquier C | C080 IS INTERNALLY INCONSISTENT WITH THE 1820 SCHEDULE AND MUST BE RE-READ FROM THE IMAGE. C080 records 'males… |
+| C192 | A | fact | 13 | Thomas Caton household, Fauquier C | C080 IS ANOMALOUS ON THE 1820 FORM AND MUST BE RE-READ FROM THE IMAGE. [CORRECTED 16 Sep, same day: this claim… |
 | C193 | A | fact | 13 | Thomas Caton Jr. and Thomas Caton  | TWO GRADE-A CLAIMS CONTRADICT EACH OTHER AND CANNOT BOTH STAND. (1) C092, from the primary marriage papers: Th… |
 | C194 | C | hypothesis | 13 | Thomas Caton Jr. (William’s father | HYPOTHESIS, C-LEVEL, NOT ASSERTED. The project has weighed Thomas Sr. against Moses. A third man sits in a gra… |
 | C195 | B | fact | 13 | Aaron and Joseph Caton - Virginia  | THE UNTRIED RECORD CLASS, AND A COUNTY-BY-COUNTY SURVIVAL SURVEY. ARGUMENT: Aaron (10) and Joseph (7) are in N… |

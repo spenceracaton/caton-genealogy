@@ -36,7 +36,8 @@ under all the others.
    (C194). If **20–30**, C082 stands and William's father appears on no census at all.
 2. **1820 C page — is there a male 26–45, and what is the true 16–26 count?** A man 26–45
    in that house makes the two boys under ten **grandsons**, not sons — C080's own
-   unpursued alternative.
+   unpursued alternative. (The `16–18 = 1; 16–26 = none` anomaly may be nothing more than a
+   non-compliant enumerator; the reason to re-read is the adult-male column, not the quirk.)
 3. Confirm Thomas Sen's 1830 two females under 5 with a wife 40–50, while both sons are
    gone: the anomaly the whole model has to explain.
 

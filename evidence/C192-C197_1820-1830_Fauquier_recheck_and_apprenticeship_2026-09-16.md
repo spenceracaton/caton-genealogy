@@ -17,7 +17,13 @@ record-availability survey from search snippets, graded accordingly.
 
 This is the important one. It is checkable without leaving the repo.
 
-### 1a. C080 violates the 1820 schedule's own column structure
+### 1a. C080 is anomalous on the 1820 schedule
+
+> **CORRECTED 16 Sep, same day.** This section first said C080 was *impossible* on the
+> 1820 form. Too strong — see the third resolution below. And §1d first said C080 and C082
+> were the only imageless census claims in the file; that is false, and the corrected,
+> narrower statement is in §1d.
+
 
 C080 records the 1820 Fauquier household of Thos. Caton as:
 
@@ -59,6 +65,14 @@ grandson."
 
 A man aged 20–30 in 1830 cannot be the father of a man aged 20–30 in 1830.
 
+**And this is not a two-claim clash.** Verified 16 Sep: the identification of 1830's
+"Thomas Caton Jun" with the 1828 consent's "Thomas Caton Jr." is load-bearing in at least
+five claims — C101 ("his 1820 household held four boys, two of whom are Thomas Jr. and
+William"), C128, C180 ("Thomas Sr. (60–70) and Thomas Jr. (20–30) were both enumerated in
+Fauquier in 1830"), C183, and C124, which makes Thomas Jr. a *son* of Thomas Sr. and so
+carries the same defect. It is a structural error running through the whole Fauquier
+reconstruction.
+
 Note also that Thomas [Jr.] married **Elizabeth Lawrey on 6 Dec 1828** (C173) —
 the same month, the same family, as his son William's consent. A man marrying at
 the same time as his adult son is a **widower remarrying**.
@@ -83,10 +97,12 @@ Every negative Caton census claim in the Virginia belt has its image in
 `evidence/`: C155 (PW 1820), C167 (PW 1830), C188 (Culpeper and Stafford 1820).
 So do the Fairfax positives, C165 and C166. So does the 1810 Fauquier page (C159).
 
-**C080 and C082 — the 1820 and 1830 Fauquier households on which the entire
-story-A hypothesis rests — are the only census claims in the chain with an empty
-`evidence` field.** C080 was "supplied"; C082 came from a FamilySearch index
-search. Neither image is in the repository, so neither reading can be re-checked.
+**CORRECTED.** This first read "the only census claims in the chain with an empty
+`evidence` field." That is false: C057, C059, C074, C081, C090, C100, C101, C135, C143 and
+C169 are imageless too. The true and narrower statement: **within the Virginia-belt
+1820/1830 set, C080 (1820 Fauquier) and C082 (1830 Fauquier) are the only positives with no
+retained image** — and they are the two the story rests on. C080 was "supplied"; C082 came
+from a FamilySearch index search. Neither reading can be re-checked.
 
 ### 1e. What follows: a third candidate father, never evaluated
 

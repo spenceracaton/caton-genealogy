@@ -4,9 +4,9 @@
 self-defeating (C196). Three things now come first, and all three are cheap.**
 
 **1. Re-read TWO census pages from the reel and SAVE THE IMAGES: Fauquier 1830, p.471
-(all three Caton households) and the Fauquier 1820 alphabetical C page.** These are the
-only census claims in the whole chain with no retained image (C192), and they are the two
-the entire Fauquier story rests on. Read column by column against the printed header.
+(all three Caton households) and the Fauquier 1820 alphabetical C page.** Within the Virginia-belt
+1820/1830 set these are the only positives with no retained image (C192) — every negative
+and both Fairfax positives have theirs — and they are the two the Fauquier story rests on. Read column by column against the printed header.
 - On **1830 p.471**, the one thing that matters: **which age bracket is the adult male of
   "Thomas Caton Jun" in?** C082 says 20–30. If he is **40–50** he is Thomas Jr., William's
   father (C092, grade A), a widower who had just remarried Elizabeth Lawrey in Dec 1828 —
@@ -14,8 +14,9 @@ the entire Fauquier story rests on. Read column by column against the printed he
   1830 cannot be the father of a man 20–30 in 1830, so something on that page is wrong.
 - On **1820**, two things: **is there a male 26–45?** (if yes, the two boys under ten are
   the head's *grandsons*, which C080 itself raised and nobody chased) — and **what is the
-  true 16–26 count?** C080 reads `16–18 = 1; 16–26 = none`, which the 1820 form forbids:
-  16–18 is a *subset* of 16–26, as our own C165 states for Fairfax.
+  true 16–26 count?** C080 reads `16–18 = 1; 16–26 = none`; the 1820 form prescribes 16–18
+  as a *subset* of 16–26 (our own C165 reads Fairfax that way), but not every enumerator
+  complied, so that quirk alone proves nothing. **The adult-male column is the reason to go.**
 
 **2. Open the Fauquier tax pages we already found and never opened (C156).** Seventeen
 Full-Text hits exist, including `Caton Thomas 2` in the 1809–19 volume and both `Thomas`

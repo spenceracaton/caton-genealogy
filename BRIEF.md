@@ -50,11 +50,14 @@ its Joseph is the tailor by his own biography, not William's son of the same nam
 (C149). *Still cannot explain Delaware Co., Ohio.* Grade C for the parentage; the
 family is A/B.
 > **REVISED 16 SEP — THREE candidate fathers, and two unverifiable pages (C192–C194).**
-> C080 (1820 Fauquier) and C082 (1830 Fauquier) are the only census claims in this chain
-> with **no retained image** — and they are the two the story rests on. C080 reads
-> `16–18 = 1; 16–26 = none`, which the 1820 form forbids. C092 (grade A, primary) makes
-> **Thomas Caton Jr.** William's father while C082 reads both men 20–30 in 1830 —
-> impossible. So a **third candidate father** stands unevaluated: **Thomas Jr.**, a widower
+> Within the Virginia-belt 1820/1830 set, every negative has its image retained (C155,
+> C167, C188), as do both Fairfax positives (C165, C166) — but **C080 (1820 Fauquier) and
+> C082 (1830 Fauquier) do not**, and they are the two the story rests on. C080 reads
+> `16–18 = 1; 16–26 = none`; the 1820 form prescribes 16–18 as a *subset* of 16–26 (cf.
+> C165), though not every enumerator complied — so **anomalous, not impossible**. C092
+> (grade A, primary) makes **Thomas Caton Jr.** William's father while C082 reads both men
+> 20–30 in 1830 — arithmetically impossible, and that identification is load-bearing in
+> C101, C124, C128, C180 and C183. So a **third candidate father** stands unevaluated: **Thomas Jr.**, a widower
 > who remarried Dec 1828 (C173), heading no household we have identified. That model makes
 > Aaron **William's brother**, not his uncle, which fits Aaron's death among William's
 > family (C108, C149) and William naming a son Aaron in 1842. Treat C080/C082 as **B**
