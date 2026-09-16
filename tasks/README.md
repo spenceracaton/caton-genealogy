@@ -70,43 +70,15 @@ Evidence grades: **A** is primary or near-primary; **B** is strong, identified
 secondary work; **C** is a lead only. An ungraded item is C. Never promote a
 C-level relationship into the working tree without A/B corroboration.
 
-## Method traps that have already cost this project a pass
+## Method
 
-Each of these produced a **false report**, not a visible error. They are in
-`claims.jsonl` so they can be cited; they are here because that file is not read
-cover to cover.
-
-1. **An unverified string replacement is a silent failure (C198).** `str.replace`
-   returns the string unchanged on a miss and raises nothing, so a script that
-   prints its own success message will report an edit it never made. On 16 Sep 2026
-   three replacements against `PARENTAGE-TESTS.md` no-matched on a line-wrap
-   difference and a whole file kept two statements the session had just retracted —
-   after Spencer had been told they were fixed everywhere. **Assert the pattern is
-   present before replacing and assert the result is present after writing, and
-   check `git diff --stat` against what you expected to change.** A file missing
-   from the diff is the signature.
-2. **`grep` in Spencer's shell silently skips ISO-8859 files (C036).** It wraps
-   `ugrep -I`, which classifies the USGenWeb transcriptions in `evidence/` as
-   binary: empty output, exit 1, indistinguishable from a genuine no-match. **Use
-   `command grep -a`, and verify any such search with a control term known to be
-   present.**
-3. **State the narrowest true version (C199).** If a finding needs "only",
-   "never", "impossible" or "all" to land, test that word against the file with a
-   script before writing it. On 16 Sep the strong forms of two claims were both
-   wrong and neither was needed — the narrow versions were already decisive.
-4. **Grade reasoning and citation separately (C199).** C195's argument is sound
-   while its reel number and barcode came from search snippets. Conflating them
-   would have sent Spencer to Richmond on an unverified citation.
-5. **Pre-register the kill condition for a hypothesis you generated (C199).**
-   Write down what result would falsify it *before* the record is read. C194
-   carries "it dies if the 1830 bracket reads 20–30". Precedent that this works:
-   C081 was an explicit prediction, it failed, and it is marked `PREDICTION
-   FAILED` / VOID rather than quietly reinterpreted.
-6. **Probe reachability before dispatching a retrieval task (C200).** Egress
-   policy is per-session. On 16 Sep 2026 an agent could reach no record host at
-   all — archive.org, FamilySearch, LoC, HathiTrust, LVA, Find a Grave, all
-   refused — and spent the pass discovering it. Have the agent test two or three
-   target hosts and report, then re-test in a later session rather than assuming.
+**Operational rules live in `METHOD.md` at the repo root — read it before your first
+edit.** It is the single canonical home for them, so that they do not exist as three
+drifting copies. It covers: verifying that an edit landed rather than that a command ran
+(the silent `str.replace` and `ugrep` traps); saying the narrowest thing that is true, and
+pre-registering the kill condition for a hypothesis you generated; probing host
+reachability before promising retrieval; and the structural rules that have already caught
+errors here.
 
 ## Outside this workspace
 

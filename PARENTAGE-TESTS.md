@@ -195,11 +195,10 @@ through an explicit one-line-down argument. Same county, same clerical era.
   covers free Black and mixed-race children only (C195). White apprenticeships stay in the
   Overseers of the Poor minutes and county order books, unindexed. Noted so nobody loses an
   evening to the wrong index.
-- **Agent sandbox warning (16 Sep 2026):** that session's egress policy blocked *every*
-  record host — archive.org and the `be-api` full-text endpoint, familysearch.org, loc.gov,
-  hathitrust.org, findagrave.com, lva.virginia.gov, usgenwebsites.org, glorecords.blm.gov.
-  Web *search* worked; web *fetch* did not. Check reachability before dispatching an agent
-  on a retrieval task.
+- **Agent sandbox warning:** on 16 Sep 2026 a session could reach *none* of the hosts
+  above — search worked, fetch did not. Egress policy is per-session, so probe two or three
+  targets before dispatching a retrieval task, and re-test rather than assuming. Detail in
+  `METHOD.md` §3.
 
 ## Provisional — DOWNGRADED 16 Sep (C192, C193)
 
