@@ -1,5 +1,14 @@
 # John Caton of Cooper County, Missouri — collateral analysis
 
+> **Correction, 16 September 2026:** FamilySearch's p.141 index locator and
+> original schedule image are now retained, but the row marks could not be
+> independently aligned to John Caton. The 1840 age-band sentence below is a
+> prior claim, not an image-verified transcription. Use
+> `CATON_CENSUS_LEDGER.md` record `US-1840-MO-COOPER-JOHN-01`; do not use the
+> old tally or derived county-wide age conclusion as settled evidence until
+> manual row review. The 1850 Delaware-born John remains a separate record;
+> continuity is not proved.
+
 ## Question
 
 Could the John Caton who headed a Cooper County household in 1840 be Aaron

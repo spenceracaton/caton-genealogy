@@ -1,7 +1,23 @@
 # Caton Genealogy — Fauquier Update for the ChatGPT thread
 **From the Claude Code session · 11 Sep 2026 · claims C075–C117 in `claims.jsonl`**
 
-This corrects and extends the "Research Update / Handoff" received today. That handoff
+This corrects and extends the "Research Update / Handoff" received today. Census
+household composition is canonical in CATON_CENSUS_LEDGER.md; this dated handoff
+contains interpretation and provenance pointers, not a competing transcription.
+
+> **Correction, 16 September 2026:** Treat the handoff's 1840 Delaware County
+> James Cayton identification and the “exactly two Caton/Cayton heads” conclusion
+> as withdrawn pending a page-matched source. C101 is under review; the only
+> broader Ohio FamilySearch match located is a different James Cayton in Hancock
+> County, not Delaware County. C104's 1846 James Caton–Tabitha Bockover marriage
+> is a separate record; its link to the alleged 1840 household is
+> unproved. C106's 1850 Iowa James is not identified with C101. The Cooper
+> County p.141 John Caton age row is also unverified, so no all-households
+> 1840 Cooper negative is established. For current readings use
+> `CATON_CENSUS_LEDGER.md` and
+> `evidence/2026-09-16_census_blockage_review.md`.
+
+The original source handoff
 was written without the current `claims.jsonl` and is stale on three points: it still
 carries **"reportedly Wheeling"** as the working birthplace (unsourced — §1 below); it
 lists **Joseph Caton's obituary and birthplace** as priority 1 (found on 10 Sep — §2);
@@ -66,6 +82,11 @@ began — searched Caton/Caten/Catron 1910–11, three records statewide, none h
 
 ## 3. The Fauquier Caton family, 1820–1835 — grade A throughout
 
+Canonical row-level entries: US-1820-VA-FAUQUIER-THOMAS-ELDER-01 and
+US-1830-VA-FAUQUIER-THOMAS-SENIOR-01,
+US-1830-VA-FAUQUIER-THOMAS-JUNIOR-01, and
+US-1830-VA-FAUQUIER-WILLIAM-01.
+
 **1820 census, Fauquier Co.** (C080) — one Caton household in the county:
 **Thos. Caton** — males 2 under 10, 1 aged 10–16, 1 aged 16–18, **1 aged 45+**;
 females 1 under 10, 1 aged 26–45. *Aaron, b. 16 May 1820, was three months old on
@@ -98,6 +119,11 @@ Virginia holds 46 — **Fairfax 20, Arlington 17**, Fauquier 3, Prince William 2
 is not an isolated anomaly; it sits inside a dense Northern Virginia Caton population.
 
 ## 4. The Fauquier cluster moved intact to Cooper County, Missouri (C096–C098) — grade A
+
+Canonical row-level entries: US-1850-MO-COOPER-WILLIAM-FAUQUIER-01,
+US-1850-MO-COOPER-JAMES-PAYNE-352-01,
+US-1850-MO-COOPER-CATHARINE-LAURIE-353-01, and
+US-1850-MO-COOPER-DANIEL-LAURIE-354-01.
 
 **1850 census, Cooper Co., MO, transcription p.23, verified against the page image:**
 four consecutive Virginia-born households —
@@ -196,10 +222,12 @@ making the two streams one family.
 
 If none of 1–4 speaks, join 4 is **unproven from paper**, and that is an acceptable end.
 
-## 9. Discrepancies between the two threads — recorded, not resolved (C115)
+## 9. Discrepancies between the two threads — recorded, with canonical treatment (C115)
 
-- **1860 township:** file has **Jackson** Twp, Livingston Co. (page-image header + FS
-  index); handoff has **Richland**.
+- **1860 township:** CATON_CENSUS_LEDGER.md record
+  US-1860-MO-LIVINGSTON-AARON-01 uses **Jackson** Twp, Livingston Co. (page-image
+  header + FS index); this dated handoff retains the competing **Richland** wording
+  only as provenance.
 - **Aaron's 1870 age:** file has **55** (read from the image at full resolution); handoff
   "about 53." Occupation: handoff's **railroad labourer** accepted.
 - **Aaron F.'s 1886 death:** file has rail accident, buried Otterville, b. 1842; handoff
@@ -211,7 +239,8 @@ If none of 1–4 speaks, join 4 is **unproven from paper**, and that is an accep
 
 - "Caton of Lancashire." The surname is Kitton/Kitten; a Maryland-born man is still
   **Katon** in 1850 (C105).
-- Reading the 1850 Julia cell as "Mass." Three sources say Missouri (C038).
+- Reading the 1850 Julia cell as "Mass." Three sources say Missouri (C038); use
+  CATON_CENSUS_LEDGER.md record US-1850-OH-DELAWARE-AARON-01.
 - Using the 1866 Lamine voter list for the brother hypothesis — that Joseph is the
   Lamine Joseph T./F., wife Emeline (C116).
 - Treating Joseph's 1847 Boonville arrival as explaining Julia's 1843 Missouri birth.

@@ -1,4 +1,4 @@
-# evidence/ — manifest, generated 2026-09-14 (107 files)
+# evidence/ — manifest, generated 2026-09-16 (209 files)
 
 Regenerate with `python3 tools/make-evidence-manifest.py`. Notes are maintained in that script.
 
@@ -36,15 +36,21 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `1830_PrinceWilliamCo_VA_census_C-block_noCaton_contact_sheet.png` | 1 MB | C167 | 1830 Prince William C block (alphabetical) - no Caton (C167). |
 | `1838_WetzelCo_WV_WilliamsCem_ThomasCaton_1767-1838_gravestone.jpg` | 71 KB | C139 | Find a Grave photo: Thomas Caton, b. Oct 1767, d. 8 Jan 1838, Williams Cemetery, New Martinsville (C139). Story-B candidate. |
 | `1840_CensusOfPensioners_Caton_negative.txt` | 930 B | C125, C130 |  |
-| `1840_CooperCo_MO_p135_GeoWCaton_household.jpg` | 2 MB | C129, C130 | 1840 Cooper Co. MO p.135 image — Geo W Caton, 12 persons, oldest male 30-40 (C129). No male 70+: the Irish-grandfather prediction fails (C130). |
+| `1840_CooperCo_MO_p135_GeoWCaton_household.jpg` | 2 MB | C129 | 1840 Cooper Co. MO p.135 image — Geo W Caton, 12 persons, oldest male 30-40 (C129). No male 70+: the Irish-grandfather prediction fails (C130). |
+| `1840_CooperCo_MO_p141_JohnCaton_FS_group005154556_img989.jpg` | 2 MB | — | Original FamilySearch image for Cooper Co. p.141; John Caton index locator confirmed; row tallies not independently transcribed (C057). |
+| `1840_CooperCo_MO_p141_JohnCaton_candidate-row-band.jpg` | 663 KB | — | Candidate row-band crop from p.141 for manual review; alignment to John Caton remains unresolved (C057). |
 | `1840_CooperCo_MO_p143_GeorgeWCaton_household.md` | 3 KB | — |  |
 | `1840_CooperCo_MO_p143_GeorgeWCaton_household.pdf` | 2 MB | — |  |
-| `1840_CooperCo_MO_p145_WmCaton_ThsCaton_NLaurie.jpg` | 2 MB | C128, C130 | 1840 Cooper Co. MO p.145 image — Wm Caton and Ths Caton adjacent, N. Laurie six rows up; brackets in C128. No male 20-30 in either Caton household. |
+| `1840_CooperCo_MO_p145_WmCaton_ThsCaton_NLaurie.jpg` | 2 MB | C128 | 1840 Cooper Co. MO p.145 image — Wm Caton and Ths Caton adjacent, N. Laurie six rows up; brackets in C128. No male 20-30 in either Caton household. |
 | `1840_DelawareCo_OH_JesseCaton_household.jpg` | 836 KB | C131 | 1840 Delaware Co. OH image — Jesse Caton, household of one male 30-40 (C100/C131). |
+| `1840_HancockCo_OH_p26_JamesCayton_FS_group005154851_img57.jpg` | 2 MB | — | Comparison hit only: James Cayton, Liberty Township, Hancock Co., p.26. Not assigned to the alleged Delaware Co. C101 household (G019). |
 | `1840_MuskingumCo_OH_NewtonTwp_p324_GeorgeWCaton_page.jpg` | 575 KB | C183 | 1840 Muskingum, Newton Twp, stamped p.324 (reel 418 image 157): George W. Caton household page (C183). |
 | `1840_MuskingumCo_OH_NewtonTwp_p324_GeorgeWCaton_row.jpg` | 268 KB | C183 | 1840 Muskingum: George W. Caton - M <5 1, 5-10 1, 30-40 1; F <5 2, 20-30 1; no male 20-30 (C183). |
 | `1840_MuskingumCo_OH_SaltCreekTwp_p468_ThosCaton_page.jpg` | 577 KB | C183 | 1840 Muskingum, Salt Creek Twp, stamped p.468 (reel 418 image 447): 'Thos. Caton' (C or E) page (C183). |
 | `1840_MuskingumCo_OH_SaltCreekTwp_p468_ThosCaton_row.jpg` | 214 KB | C183 | 1840 Muskingum: Thos. C/Eaton - M 30-40 1; F <5 1, 20-30 1 - not Thomas Sr. (C183). |
+| `1840_OhioCo_VA_ThosCaton_FS_group005154918_img59.jpg` | 1 MB | C090 | Original 1840 Ohio Co. VA schedule image, FS group 005154918 image 59; index p.46, handwritten page 28; complete Thos Caton age-row transcription (C090). |
+| `1840_OhioCo_VA_ThosCaton_FS_group005154918_img59_header.jpg` | 463 KB | — | Column-header crop for the retained 1840 Ohio Co. VA schedule image (C090). |
+| `1840_OhioCo_VA_ThosCaton_FS_group005154918_img59_row.jpg` | 377 KB | — | Thos Caton target row with adjacent rows retained for alignment (C090). |
 | `1840_PerryCo_OH_ReadingTwp_RosanaCaton_household.jpg` | 1 MB | C174 | 1840 Perry Co. OH: Rosana Caton, M 20-30 x2, F 5-10, F 60-70 - Moses's widow? (C174). |
 | `1841_DelawareCo_OH_marriage_return_AaronCaton_SarahGardner_p291.jpg` | 2 MB | C005 |  |
 | `1844_DelawareCo_OH_deed_AaronSarahCaton_to_JonathanGardner_quitclaim.pdf` | 2 MB | C144 | Aaron and Sarah Caton quitclaim to Jonathan Gardner, 25 Jun 1844, Liberty Twp - an heir's release of Gardner land (C144). Aaron back in Ohio by mid-1844. |
@@ -58,7 +64,7 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `1848_DelawareCo_OH_chancery_Lavender_v_Johnson_bill.pdf` | 380 KB | C146 | Lavender's bill: Aaron Caton's 13 May 1846 order for 20,000 brick (C146). |
 | `1850_CooperCo_MO_p23_Caton-Laurie-Payne_households.png` | 906 KB | C098 | 1850 Cooper Co. transcription p.23 — the Fauquier cluster in four consecutive households (C098). |
 | `1850_DelawareCo_OH_FamilySearch_Caton_results.csv` | 7 KB | C102, C103 | FS index export: all Catons, Delaware Co. OH 1850 — only Aaron's household; Phineas d.1845. |
-| `1850_DelawareCo_OH_household_extract.md` | 4 KB | C006, C016, C017, C018 | Aaron's 1850 household, USGenWeb-based extract. Its 'Julia b. Massachusetts' conclusion is SUPERSEDED (C038) — see the correction header. |
+| `1850_DelawareCo_OH_household_extract.md` | 3 KB | C006, C016, C017, C018 | Legacy derived extract; its 'Julia b. Massachusetts' conclusion is SUPERSEDED (C038) — use CATON_CENSUS_LEDGER.md record US-1850-OH-DELAWARE-AARON-01. |
 | `1850_DelawareCo_OH_p179_transcription.txt` | 101 KB | C030, C031, C035 | USGenWeb proofread transcription, Delaware Twp file 3 of 5 (hh 1153–1266). ISO-8859: use `command grep -a`. |
 | `1850_FairfieldCo_OH_RushCreek_JesseKaton_household.pdf` | 528 KB | C119 |  |
 | `1850_James_Cayton_FamilySearch_unrestricted.csv` | 9 KB | C106 | FS index export: every James Cayton 1850 → b.1804 PA, Clayton Co. IA with Tabitha (C106). |
@@ -80,7 +86,95 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `1936_1956_SedaliaDemocrat_NancyJane_Johnson_Caton_Blevins_and_Jennie_Baslee_obits.txt` | 7 KB | C172 | Nancy Jane (Johnson) Caton Blevins obit 1936 and Jennie Baslee obits 1956 - the 1869 marriage and 1871 divorce are Aaron F.'s (C172). |
 | `1955_GentryCo_CharleyCaton_deathcert_15118.pdf` | 57 KB | C048 | Charley Caton d.1955 — father Harrison Caton, mother Mary E. Carpenter, b. Gentry Co. 1883 (C048). Identity with the Wheeling Harrison unconfirmed. |
 | `1959_James_OhioCompany_ThomasCaton_1749-1763_snippets.txt` | 2 KB | C179 | James 1959 (snippets): Thomas Caton of Frederick Co. sued by George Mason and the Ohio Company, Fairfax 1752-63 (C179). |
-| `Aaron_Caton_1850_Delaware_OH_n172_w1800.jpg` | 823 KB | — | 1850 census page image, Delaware Co. OH p.179a. The blotted Julia birthplace cell. |
+| `2026-09-15_1840_cooper_laurie_household_check.md` | 3 KB | — |  |
+| `2026-09-15_A1_access-crosscheck.md` | 1 KB | — |  |
+| `2026-09-15_A1_fauquier-1837_cayton-candidate.md` | 3 KB | — |  |
+| `2026-09-15_A1_fauquier_1836_image192_C-page.jpg` | 672 KB | G003 |  |
+| `2026-09-15_A1_fauquier_1836_image192_Cayton_crop.jpg` | 677 KB | G003 |  |
+| `2026-09-15_A1_fauquier_1837_image263.jpg` | 616 KB | G003 |  |
+| `2026-09-15_A1_fauquier_1837_image263_right_crop.jpg` | 401 KB | G003 |  |
+| `2026-09-15_A1_fauquier_1838_image311_C-pages.jpg` | 641 KB | G003 |  |
+| `2026-09-15_A1_fauquier_1838_image311_C_crop.jpg` | 602 KB | G003 |  |
+| `2026-09-15_A1_fauquier_1838_image312_C-pages.jpg` | 662 KB | G003 |  |
+| `2026-09-15_A1_fauquier_1838_image312_C_crop.jpg` | 581 KB | G003 |  |
+| `2026-09-15_A1_fauquier_1839_image356_C-page.jpg` | 825 KB | G003 |  |
+| `2026-09-15_A1_fauquier_1839_image356_C_bottom-crop.jpg` | 730 KB | G003 |  |
+| `2026-09-15_A1_fauquier_1839_image356_C_mid-crop.jpg` | 728 KB | G003 |  |
+| `2026-09-15_A1_fauquier_1839_image356_C_top-crop.jpg` | 562 KB | G003 |  |
+| `2026-09-15_A2_alexandria-cayton-marriage-return.md` | 3 KB | — |  |
+| `2026-09-15_A2_alexandria_image16_cayton.jpg` | 1 MB | — |  |
+| `2026-09-15_A2_alexandria_image16_cayton_crop.jpg` | 548 KB | — |  |
+| `2026-09-15_A2_culpeper-marriage-register_fulltext.md` | 3 KB | — |  |
+| `2026-09-15_A2_familysearch-google-authenticated-route.md` | 3 KB | — |  |
+| `2026-09-15_A2_fauquier-marriage-authenticated-fulltext.md` | 3 KB | — |  |
+| `2026-09-15_A2_fauquier-marriage-search_signin-blocked.md` | 3 KB | — |  |
+| `2026-09-15_A2_neighboring-virginia-marriage-route.md` | 2 KB | — |  |
+| `2026-09-15_A3_A6_public-heir-deed-route-audit.md` | 2 KB | — |  |
+| `2026-09-15_A3_fauquier-estate-holdings.md` | 2 KB | — |  |
+| `2026-09-15_A4_muskingum-probate_captcha-blocked.md` | 2 KB | — |  |
+| `2026-09-15_A7_fauquier-deed-index-public-route.md` | 2 KB | — |  |
+| `2026-09-15_AaronCaten_pension-index_card.jpg` | 254 KB | G013 |  |
+| `2026-09-15_AaronCaten_pension-index_fields-crop.jpg` | 241 KB | G013 |  |
+| `2026-09-15_AaronCaten_pension-index_name-crop.jpg` | 103 KB | G013 |  |
+| `2026-09-15_AaronCaten_pension-index_service-crop.jpg` | 359 KB | G013 |  |
+| `2026-09-15_Fauquier_DeedBook25_image55_WilliamCaton.jpg` | 3 MB | G002 |  |
+| `2026-09-15_Fauquier_DeedBook25_image55_WilliamCaton_crop.jpg` | 1002 KB | G002 |  |
+| `2026-09-15_Fauquier_MarriageBonds_v4_image149_WilliamCaton_AnnLawrey.jpg` | 2 MB | — |  |
+| `2026-09-15_Fauquier_MarriageBonds_v4_image149_WilliamCaton_AnnLawrey_crop.jpg` | 1 MB | — |  |
+| `2026-09-15_Fauquier_MarriageBonds_v5_image45_AnnCaton_DanielLaury.jpg` | 1 MB | — |  |
+| `2026-09-15_Fauquier_MarriageBonds_v5_image45_AnnCaton_DanielLaury_crop.jpg` | 1 MB | — |  |
+| `2026-09-15_Fauquier_WillBook10_image16_TurnerDixon_Caton.jpg` | 2 MB | G004 |  |
+| `2026-09-15_Fauquier_WillBook10_image16_TurnerDixon_Caton_crop.jpg` | 935 KB | G004 |  |
+| `2026-09-15_Muskingum_AdminIndex_image12_MosesCaton_case1718.jpg` | 831 KB | G006 |  |
+| `2026-09-15_Muskingum_AdminIndex_image12_MosesCaton_case1718_crop.jpg` | 281 KB | G006 |  |
+| `2026-09-15_Muskingum_ProbateCase1718_image115_MosesCaton_Sears.jpg` | 525 KB | G006 |  |
+| `2026-09-15_Muskingum_ProbateCase1718_image115_case_crop.jpg` | 208 KB | G006 |  |
+| `2026-09-15_Muskingum_ProbateCase1718_image115_heading_crop.jpg` | 257 KB | G006 |  |
+| `2026-09-15_Muskingum_ProbateCase1718_image116_inventory.jpg` | 632 KB | G006 |  |
+| `2026-09-15_Muskingum_ProbateCase1718_image116_inventory_date_crop.jpg` | 394 KB | G006 |  |
+| `2026-09-15_Muskingum_ProbateCase1718_image116_inventory_heading_crop.jpg` | 301 KB | G006 |  |
+| `2026-09-15_Muskingum_ProbateCase1718_image117_case_crop.jpg` | 206 KB | G006 |  |
+| `2026-09-15_Muskingum_ProbateCase1718_image117_cover.jpg` | 450 KB | G006 |  |
+| `2026-09-15_Muskingum_ProbateCase1718_image117_heading_crop.jpg` | 189 KB | G006 |  |
+| `2026-09-15_Muskingum_ProbateCase1718_image118_bottom_crop.jpg` | 595 KB | G006 |  |
+| `2026-09-15_Muskingum_ProbateCase1718_image118_middle_crop.jpg` | 668 KB | G006 |  |
+| `2026-09-15_Muskingum_ProbateCase1718_image118_sale-account.jpg` | 508 KB | G006 |  |
+| `2026-09-15_Muskingum_ProbateCase1718_image118_top_crop.jpg` | 218 KB | G006 |  |
+| `2026-09-15_Rappahannock_DeedBookA_image192_AaronCaton.jpg` | 1 MB | G001 |  |
+| `2026-09-15_Rappahannock_DeedBookA_image192_AaronCaton_crop.jpg` | 1 MB | G001 |  |
+| `2026-09-15_T15_prince-william-land-tax-cayton-1782-1805.md` | 3 KB | — |  |
+| `2026-09-15_T15_prince-william-marriage-1810-1819.md` | 3 KB | — |  |
+| `2026-09-15_T15_rappahannock-deedbookA_Aaron-Caton-trustee.md` | 4 KB | G001 |  |
+| `2026-09-15_T16_fauquier-deedbook25_William-Caton-creditor.md` | 2 KB | G002 |  |
+| `2026-09-15_T17_fauquier-marriage-bonds_Jr-Sr-reread.md` | 3 KB | — |  |
+| `2026-09-15_T18_fauquier-tax_Cayton-1836-1839.md` | 4 KB | G003 |  |
+| `2026-09-15_T19_fauquier-willbook10_Caton-account.md` | 2 KB | G004 |  |
+| `2026-09-15_T20_culpeper-probate_Caton-nonhit.md` | 2 KB | G005 |  |
+| `2026-09-15_T21_muskingum-probate_Moses-Caton-case1718.md` | 3 KB | G006 |  |
+| `2026-09-15_T22_statewide-census-culpeper-public-checks.md` | 5 KB | G007, G008, G009, G010 |  |
+| `2026-09-15_T23_culpeper-reel50_direct-index-register.md` | 3 KB | G011, G012 |  |
+| `2026-09-15_T23_culpeper_index_group32.png` | 124 KB | G011 |  |
+| `2026-09-15_T23_culpeper_register_group194_1816-1819.png` | 110 KB | G012 |  |
+| `2026-09-15_T23_culpeper_register_group208_mary-caton-crop.png` | 19 KB | G011 |  |
+| `2026-09-15_T23_culpeper_register_group208_target-row.png` | 33 KB | G011 |  |
+| `2026-09-15_T24_pension-card.md` | 3 KB | G013 |  |
+| `2026-09-15_T25_second-marriage-remaining-routes.md` | 5 KB | G014 |  |
+| `2026-09-15_T26_elder-estate-land.md` | 3 KB | G015 |  |
+| `2026-09-15_T27_sue-dumm-family-history.md` | 4 KB | G016 |  |
+| `2026-09-15_T28_delaware-ohio-migration.md` | 4 KB | G017 |  |
+| `2026-09-15_T29_family-bible-sidecar.md` | 3 KB | G018 |  |
+| `2026-09-15_family-bible-family-tree_crop.jpg` | 102 KB | G018 |  |
+| `2026-09-15_family-bible-family-tree_left-crop.jpg` | 191 KB | G018 |  |
+| `2026-09-15_family-bible-family-tree_photo.jpg` | 101 KB | — |  |
+| `2026-09-15_family-bible-family-tree_right-crop.jpg` | 47 KB | — |  |
+| `2026-09-15_family-bible-family-tree_surname-compilation.md` | 3 KB | G018 |  |
+| `2026-09-15_fauquier-chancery_caton_1835-1860.md` | 1 KB | — |  |
+| `2026-09-15_fauquier_chancery_1861-012_lawrie-heirs.md` | 3 KB | — |  |
+| `2026-09-15_parentage-tests_tax-blocked_cooper-laurie-candidate.md` | 3 KB | — |  |
+| `2026-09-15_rappahannock-chancery-caton_1833-1840.md` | 2 KB | — |  |
+| `2026-09-16_T15_newspaper-and-bond-access-check.md` | 4 KB | — |  |
+| `2026-09-16_census_blockage_review.md` | 5 KB | C057, C090, C101, C130, G019 | Source audit and correction for the 1840 Ohio, Cooper, and Delaware census ledger warnings; includes completed transcription and remaining source-dependent tests (C057, C090, C101, C130, G019). |
+| `Aaron_Caton_1850_Delaware_OH_n172_w1800.jpg` | 823 KB | C038 | 1850 census page image, Delaware Co. OH p.179a. The blotted Julia birthplace cell. |
 | `Boone_MO_1860_Header_Samples.jpg` | 2 MB | — | 1860 Boone Co. reel navigation aid (parallel pass). |
 | `Boone_MO_1860_Header_Transition_120_260.jpg` | 2 MB | C022 | 1860 Boone Co. reel navigation aid (parallel pass). |
 | `Boone_MO_1860_Roche_Twp_Caton_n546_w1800.jpg` | 2 MB | C020 | Thos. H. Caton, b. Kentucky, Roche Twp — do not merge (C020). |
@@ -88,7 +182,7 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `Chariton1896_p232.jpg` | 723 KB | C065 | Historical, Pictorial and Biographical Record of Chariton Co. (1896) p.232: 'Joseph Caton … the pioneer tailor' of Brunswick (C065). |
 | `Cooper_1819-1845_County_Court_Index_A-F.pdf` | 47 MB | — | Missouri State Archives, Cooper Co. Court index (49 MB). No Caton entry — bounded negative (C095). ChatGPT pass. |
 | `Cooper_1845-1866_County_Court_Index_A-C.pdf` | 35 MB | — | Missouri State Archives, Cooper Co. Court index (37 MB). No Caton entry — bounded negative (C095). ChatGPT pass. |
-| `Cooper_John_Caton_1840-1860.md` | 4 KB | C095 | ChatGPT analysis: John Caton of Cooper Co. was born in Delaware — not Fauquier (C095). |
+| `Cooper_John_Caton_1840-1860.md` | 5 KB | C095 | ChatGPT analysis: John Caton of Cooper Co. was born in Delaware — not Fauquier (C095). |
 | `Denver1898_p659.jpg` | 924 KB | — | Imported 10 Sep; purpose not recorded in claims. Unread. |
 | `Fairfax_1836-004_LVA_Cornwell_v_Moore_WmGCaton_deposition.zip` | 265 KB | C168 | LVA Fairfax chancery 1836-004: William G. Caton deposes at Centreville, 1 Sep 1835 (C168). |
 | `Fairfax_1851-009_LVA_Buckley_v_Buckley_Caton_selected.zip` | 352 KB | C164 | LVA Fairfax chancery 1851-009: cover, bill, summons, non-residence return, decree - George W. & Mildred (Buckley) Caton, non-residents 1851 = the Muskingum Catons (C164). |
@@ -97,6 +191,9 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `Fauquier_1861-012_LVA_case.md` | 2 KB | C094 | ChatGPT reading of LVA chancery 1861-012: John N. Caton m. Sarah Elizabeth Lawrie (C094). |
 | `Fauquier_1861-012_LVA_case.zip` | 7 MB | C094 | 40 scans of the case, from LVA. |
 | `FindAGrave_41210338_MosesBCatonJr_1811-1876_CatonCem_WebsterCoKY_stone.jpg` | 74 KB | C181 | Moses B. Caton Jr. (14 Jan 1811-23 Apr 1876), Caton Cemetery, Webster Co. KY - the boy under ten in Moses's 1820 house; stone illegible in the photo (C181). |
+| `IA_Cochran_Jeffress_Laurie_Ohio_stop.md` | 2 KB | C189 |  |
+| `IA_HowardCooperHistory_1883_Caton_tailors.md` | 2 KB | C191 |  |
+| `IA_NorthernNeck_ThomasCaton_colonial.md` | 4 KB | C190 |  |
 | `MDPatents_Liber18_f329_full.jpg` | 854 KB | C001 | Theophilus Kitton's 1675 transportation record (C001). |
 | `MDPatents_Liber18_f329_headright_detail.jpg` | 669 KB | — | Detail of the same. |
 | `MO_ServiceCard_AaronCaton.pdf` | 23 KB | — | NARA index card, same as the jpg. |
@@ -113,5 +210,10 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `T01_massachusetts-vitals-search.md` | 2 KB | C027, C028, C029 | Return for the VOID task T01. Its negatives are MOOT (C045) — Julia was born in Missouri. Do not act on it. |
 | `T03_sarah-ann-gardner-caton-death.md` | 2 KB | — | Task return, T03. |
 | `T06_boring-ohio-county-marriage-index.md` | 1 KB | C089 | ChatGPT return: no John Boring marriage in the WV index 1834–50 (C089). |
+| `T15_fauquier_post1835_record_test.md` | 5 KB | — |  |
+| `T15_prince-william-1782-1796-public-tax-route.md` | 3 KB | — |  |
+| `T15_prince-william-bond-books-2026-09-15.md` | 4 KB | — |  |
+| `T15_thomas-lineage-backstep.md` | 5 KB | — |  |
+| `pass12_session_summary.md` | 3 KB | — |  |
 
-**Files no claim cites (16):** `1820_DC_WashingtonCity_3rdWard_MichaelCaton_household.pdf`, `1840_CooperCo_MO_p143_GeorgeWCaton_household.md`, `1840_CooperCo_MO_p143_GeorgeWCaton_household.pdf`, `Aaron_Caton_1850_Delaware_OH_n172_w1800.jpg`, `Boone_MO_1860_Header_Samples.jpg`, `Cooper_1819-1845_County_Court_Index_A-F.pdf`, `Cooper_1845-1866_County_Court_Index_A-C.pdf`, `Denver1898_p659.jpg`, `MDPatents_Liber18_f329_headright_detail.jpg`, `MO_ServiceCard_AaronCaton.pdf`, `MO_ServiceCard_WilliamBCaton.pdf`, `Missouri_Abstract_US_Land_Sales_Vol3_p066_John_Caton.pdf`, `OhioCounty1830_p209_continuation.jpg`, `PA1790_WashingtonCo_p192_Kitten_counts.jpg`, `PA1790_WashingtonCo_p192_Kitten_names.jpg`, `T03_sarah-ann-gardner-caton-death.md`
+**Files no claim cites (54):** `1820_DC_WashingtonCity_3rdWard_MichaelCaton_household.pdf`, `1840_CooperCo_MO_p141_JohnCaton_FS_group005154556_img989.jpg`, `1840_CooperCo_MO_p141_JohnCaton_candidate-row-band.jpg`, `1840_CooperCo_MO_p143_GeorgeWCaton_household.md`, `1840_CooperCo_MO_p143_GeorgeWCaton_household.pdf`, `1840_HancockCo_OH_p26_JamesCayton_FS_group005154851_img57.jpg`, `1840_OhioCo_VA_ThosCaton_FS_group005154918_img59_header.jpg`, `1840_OhioCo_VA_ThosCaton_FS_group005154918_img59_row.jpg`, `2026-09-15_1840_cooper_laurie_household_check.md`, `2026-09-15_A1_access-crosscheck.md`, `2026-09-15_A1_fauquier-1837_cayton-candidate.md`, `2026-09-15_A2_alexandria-cayton-marriage-return.md`, `2026-09-15_A2_alexandria_image16_cayton.jpg`, `2026-09-15_A2_alexandria_image16_cayton_crop.jpg`, `2026-09-15_A2_culpeper-marriage-register_fulltext.md`, `2026-09-15_A2_familysearch-google-authenticated-route.md`, `2026-09-15_A2_fauquier-marriage-authenticated-fulltext.md`, `2026-09-15_A2_fauquier-marriage-search_signin-blocked.md`, `2026-09-15_A2_neighboring-virginia-marriage-route.md`, `2026-09-15_A3_A6_public-heir-deed-route-audit.md`, `2026-09-15_A3_fauquier-estate-holdings.md`, `2026-09-15_A4_muskingum-probate_captcha-blocked.md`, `2026-09-15_A7_fauquier-deed-index-public-route.md`, `2026-09-15_Fauquier_MarriageBonds_v4_image149_WilliamCaton_AnnLawrey.jpg`, `2026-09-15_Fauquier_MarriageBonds_v4_image149_WilliamCaton_AnnLawrey_crop.jpg`, `2026-09-15_Fauquier_MarriageBonds_v5_image45_AnnCaton_DanielLaury.jpg`, `2026-09-15_Fauquier_MarriageBonds_v5_image45_AnnCaton_DanielLaury_crop.jpg`, `2026-09-15_T15_prince-william-land-tax-cayton-1782-1805.md`, `2026-09-15_T15_prince-william-marriage-1810-1819.md`, `2026-09-15_T17_fauquier-marriage-bonds_Jr-Sr-reread.md`, `2026-09-15_family-bible-family-tree_photo.jpg`, `2026-09-15_family-bible-family-tree_right-crop.jpg`, `2026-09-15_fauquier-chancery_caton_1835-1860.md`, `2026-09-15_fauquier_chancery_1861-012_lawrie-heirs.md`, `2026-09-15_parentage-tests_tax-blocked_cooper-laurie-candidate.md`, `2026-09-15_rappahannock-chancery-caton_1833-1840.md`, `2026-09-16_T15_newspaper-and-bond-access-check.md`, `Boone_MO_1860_Header_Samples.jpg`, `Cooper_1819-1845_County_Court_Index_A-F.pdf`, `Cooper_1845-1866_County_Court_Index_A-C.pdf`, `Denver1898_p659.jpg`, `MDPatents_Liber18_f329_headright_detail.jpg`, `MO_ServiceCard_AaronCaton.pdf`, `MO_ServiceCard_WilliamBCaton.pdf`, `Missouri_Abstract_US_Land_Sales_Vol3_p066_John_Caton.pdf`, `OhioCounty1830_p209_continuation.jpg`, `PA1790_WashingtonCo_p192_Kitten_counts.jpg`, `PA1790_WashingtonCo_p192_Kitten_names.jpg`, `T03_sarah-ann-gardner-caton-death.md`, `T15_fauquier_post1835_record_test.md`, `T15_prince-william-1782-1796-public-tax-route.md`, `T15_prince-william-bond-books-2026-09-15.md`, `T15_thomas-lineage-backstep.md`, `pass12_session_summary.md`

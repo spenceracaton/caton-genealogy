@@ -1,0 +1,18 @@
+# T15 — Prince William bond books, reel 34
+
+Research date: 15 September 2026
+
+STATUS: partial
+RECORD: The official Library of Virginia Prince William County microfilm catalog lists both target volumes on reel 34: Bond Book, 1815–1826 (unpaged index, 168 folios) and Bond Book, 1815–1833 (unpaged index, 148 folios). The page marks the reel copy as available for interlibrary loan. No target bond-book image was exposed by the public catalog or county portal during this pass. FamilySearch was authenticated, but its catalog has no catalog entry for either target volume.
+URL: [Library of Virginia — Prince William County Microfilm](https://www.lva.virginia.gov/collections/ccmf/VA/VA227); [FamilySearch catalog search](https://www.familysearch.org/en/search/catalog); [FamilySearch exact Aaron Caton full-text result](https://www.familysearch.org/en/search/full-text/results?count=100&q.anyDate.from=1815&q.anyDate.to=1833&q.anyPlace=Prince%20William%2C%20Virginia%2C%20United%20States&q.text=%22Aaron%20Caton%22); [FamilySearch exact Thomas Caton full-text result](https://www.familysearch.org/en/search/full-text/results?count=100&q.anyDate.from=1815&q.anyDate.to=1833&q.anyPlace=Prince%20William%2C%20Virginia%2C%20United%20States&q.text=%22Thomas%20Caton%22); [Prince William County Historical Online Portal](https://us6.courthousecomputersystems.com/PrinceWilliamVA/)
+TRANSCRIPTION: “Bond Book, 1815 - 1826 Unpaged index, 168 fo.” / “Bond Book, 1815 - 1833 Unpaged index, 148 fo.” / “Full-Text Search Results (0)” / “No Results Found” / “Full-Text Search Results (2)” / “United States Claim” / “Chronicles of the Scotch-Irish settlement in Virginia : extracted from the original court records of Augusta County, 1754-1800: Virginia. Genealogies 1745-1800”
+GRADE: A
+NEW FACTS: Prince William County, Virginia | the official current microfilm catalog places both target bond books on reel 34 and describes each as unpaged with an index | 15 September 2026
+NEW FACTS: FamilySearch | the exact phrase query “Aaron Caton,” place Prince William, Virginia, years 1815–1833, returned zero full-text results | 15 September 2026
+NEW FACTS: FamilySearch | the exact phrase query “Thomas Caton,” same place and years, returned two results, neither a Prince William bond book | 15 September 2026
+CONFLICTS: None.
+NEGATIVE RESULTS: FamilySearch Catalog, place “Prince William, Virginia, United States” plus keyword “bond,” returned seven entries; the probate entries were executor-bond material for 1753–1786/1813–1847/1852–1873, two 1753–1782 abstract copies, and a broader county collection, not either reel-34 target volume.
+NEGATIVE RESULTS: FamilySearch Full-Text Search, exact “Aaron Caton,” Prince William, Virginia, 1815–1833, returned “Full-Text Search Results (0).” This is an access/index result only, not evidence that the name is absent from the unretrieved bond books.
+NEGATIVE RESULTS: FamilySearch Full-Text Search, exact “Thomas Caton,” same place and years, returned only “United States Claim” and the Augusta County genealogy title quoted above; no target bond-book collection appeared.
+NEGATIVE RESULTS: A surname “Caton” full-text search scoped to Prince William, Virginia, 1815–1833 returned 154 hits, including tax lists, plat, district-order, newspaper, church/cemetery, birth, and marriage-register collections, but no 1815–1826 or 1815–1833 bond-book collection.
+NEGATIVE RESULTS: The county’s public Historical Online Portal exposes Deed Index, List of Heirs, and Wills index types; its public index controls do not expose the target bond books. The unretrieved bond volumes remain incomplete, not negative proof.

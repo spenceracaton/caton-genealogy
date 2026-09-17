@@ -2,13 +2,24 @@
 id: T11
 priority: 9
 mode: agent
-status: done
+status: reopened
 repository: 1840 federal census / FamilySearch
 blocked_on: none
-note: RUN 11 Sep 2026 via Spencer's FamilySearch login. Delaware Co. OH 1840: exactly two Caton heads - JESSE (b.1807 MARYLAND, single; Fairfield Co. OH by 1850, C100/C105) and JAMES CAYTON (b.1804 PENNSYLVANIA; m. Tabitha Bockover 1846; Clayton Co. IA by 1850, C101/C104/C106). Neither is Fauquier; neither household holds a male 20-29. Ohio Co. VA 1840 Thos Caton read (C090): head 40-50, NO male 20-29, the 1830 boy gone. BOTH ORIGIN STORIES FAILED THEIR 1840 TEST - Aaron was a tally in some master's household. Remaining 1840 targets are collateral only. 12 Sep: Cooper Co. MO completed from images - Wm, Ths (p.145, C128) and Geo W (p.135, C129) beside John (p.141, C057); no male 20-30 in any Caton household but George W.'s (two, plus two 15-20 - a tailor's shop). Jesse Caton 1840 image retained (C131).
+note: REOPENED 16 Sep 2026 for two source-quality corrections. Ohio County Thos. Caton is now fully transcribed from retained FamilySearch image (C090/ledger). The alleged Delaware County James Cayton page was not reproduced; Hancock County is only a separate same-name hit (C101/G019/D-009). Cooper p.141 John Caton is indexed and the image is retained, but the row tallies remain unverified (C057/D-006). Do not reuse prior household-age or county-wide absence conclusions until the canonical ledger is updated after manual row review.
 ---
 
 # T11 — The 1840 census, every Caton household
+
+## Correction and remaining work — 16 September 2026
+
+The historical task notes below contain earlier conclusions and are not a
+substitute for the current row evidence. Use `CATON_CENSUS_LEDGER.md` first.
+The Ohio County transcription is complete. The Cooper County p.141 John Caton
+image locator is confirmed, but the household line still needs a readable,
+independent age-column transcription. C101's Delaware County James Cayton
+locator must be recovered before those counts or the claimed two-household
+county result can be used. See
+`evidence/2026-09-16_census_blockage_review.md`.
 
 **Priority 1. The gap that eight passes never saw.**
 
@@ -38,9 +49,10 @@ Aaron married in Delaware County, Ohio in **August 1841**, aged 21. In the **Jun
 
 ## Already found
 
-- **C057: John Caton, Cooper Co., Missouri, 1840** — male aged 40–49 (b. 1790–1800),
-  in the county the direct line settled in 1866–79. Best lead so far. **No male
-  15–29**, so Aaron is not in this household.
+- **C057: John Caton, Cooper Co., Missouri, 1840** — prior index-linked lead;
+  p.141 image is now retained, but the row marks remain unaligned. The age-band
+  profile and absence of a male 15–29 are not established; see the ledger and
+  correction note before using this household.
 - **C059: Jonas Caton and Joshua Caton**, 1840, **RIVES County, Missouri** (renamed
   **Henry County** in Feb 1841 - a search trap). Henry adjoins **Bates**, where the
   Maryland-born Wm. Caton appears in 1860. Age brackets NOT yet read reliably.

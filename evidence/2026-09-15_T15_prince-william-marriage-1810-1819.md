@@ -1,0 +1,14 @@
+# T15 — Prince William marriage-record search, 1810–1819
+
+Research date: 15 September 2026
+
+STATUS: partial
+RECORD: Authenticated FamilySearch Historical Record Search was run for marriage records in exact Prince William, Virginia, United States, years 1810–1819. Exact surname searches for Caton, Cayton, Catton, Cathon, and Catron each returned Historical Record Search Results (0). This tests FamilySearch's indexed record layer only; it does not establish that the unretrieved Prince William bond books are empty.
+URL: https://www.familysearch.org/en/search/record/results?count=100&f.recordType=1&q.marriageLikeDate.from=1810&q.marriageLikeDate.to=1819&q.marriageLikePlace=Prince%20William%2C%20Virginia%2C%20United%20States&q.marriageLikePlace.exact=on&q.surname=Caton&q.surname.exact=on ; https://www.familysearch.org/en/search/record/results?count=100&f.recordType=1&q.marriageLikeDate.from=1810&q.marriageLikeDate.to=1819&q.marriageLikePlace=Prince%20William%2C%20Virginia%2C%20United%20States&q.marriageLikePlace.exact=on&q.surname=Cayton&q.surname.exact=on ; https://www.familysearch.org/en/search/record/results?count=100&f.recordType=1&q.marriageLikeDate.from=1810&q.marriageLikeDate.to=1819&q.marriageLikePlace=Prince%20William%2C%20Virginia%2C%20United%20States&q.marriageLikePlace.exact=on&q.surname=Catton&q.surname.exact=on ; https://www.familysearch.org/en/search/record/results?count=100&f.recordType=1&q.marriageLikeDate.from=1810&q.marriageLikeDate.to=1819&q.marriageLikePlace=Prince%20William%2C%20Virginia%2C%20United%20States&q.marriageLikePlace.exact=on&q.surname=Cathon&q.surname.exact=on ; https://www.familysearch.org/en/search/record/results?count=100&f.recordType=1&q.marriageLikeDate.from=1810&q.marriageLikeDate.to=1819&q.marriageLikePlace=Prince%20William%2C%20Virginia%2C%20United%20States&q.marriageLikePlace.exact=on&q.surname=Catron&q.surname.exact=on ; https://www.lva.virginia.gov/collections/ccmf/VA/VA227
+TRANSCRIPTION: "Historical Record Search Results (0)" / "No Results Found" for each exact surname query; FamilySearch account Spencer5362; record type Marriage; marriage place Prince William, Virginia, United States with exact place checked; marriage year range 1810–1819.
+GRADE: B
+NEW FACTS: Prince William County, Virginia | FamilySearch's indexed marriage-record layer returned no exact Caton, Cayton, Catton, Cathon, or Catron result for exact Prince William marriage place, 1810–1819 | 1810–1819 | Prince William Co., Virginia
+CONFLICTS: None. This is consistent with the prior bounded marriage search and does not test the unretrieved reel-34 bond books directly.
+NEGATIVE RESULTS: Exact Caton query: 0 results.
+NEGATIVE RESULTS: Exact Cayton, Catton, Cathon, and Catron queries: 0 results each.
+BOUNDARY: FamilySearch's indexed result layer is not a substitute for image review of the official Prince William bond-book volumes catalogued on Library of Virginia reel 34.

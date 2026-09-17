@@ -5,54 +5,48 @@ mode: script
 status: partial
 repository: Internet Archive (M653 rolls 608, 630)
 blocked_on: none
-note: LIVINGSTON HALF DONE 10 Sep 2026 - household found via FamilySearch at Jackson Twp, p.40, dwelling 264/265 (C041 context, C043). C015 WAS WRONG: a free index exists, so the 405-image roll-630 sweep is unnecessary. Boone half: images n200-n300 downloaded, sweep incomplete (C022), and the same free index likely removes the need for it - CHECK THE INDEX BEFORE SWEEPING ANY IMAGES.
+note: Livingston household located by FamilySearch at Jackson Twp, p.40, dwelling/family 264/265 (C043/C044; ledger US-1860-MO-LIVINGSTON-AARON-01). The 405-image roll-630 sweep is unnecessary. Boone n200-n300 was downloaded, but the index should be checked before any visual sweep. Extract missing row-level details only after the locator is revalidated.
 ---
 
-# T02 — 1860 census, Missouri: Livingston and Boone Counties
+# T02 — 1860 census, Missouri
 
-**Priority: 2.** The 1860 household is the longest-standing missing record.
+The canonical 1860 records are in CATON_CENSUS_LEDGER.md. This task is for
+revalidating incomplete source locators and extracting missing row-level details,
+not for creating a second census transcription.
 
-Two counties, two reels. **Neither has a usable free index** — both are visual sweeps.
+## Livingston County — located, extraction incomplete
 
-## Boone County — partially done
-Aaron's son was on a farm at/near **Sturgeon, Boone County** in October 1862.
+The direct-line household is indexed at Jackson Township, Livingston County,
+page 40, dwelling/family 264/265, PO Springhill, enumerated 20 June 1860.
+The ledger records the currently used observation: James Caton, age 1, born
+Missouri. The full household row set is not yet retained locally.
 
-- Internet Archive `populationschedu608unit`, **NARA M653 roll 608** (Bollinger and Boone)
-- Boone begins ~image **n200**: n200 Rocky Fork Twp, n240–260 Cedar Twp, later
-  Missouri / Rocheport / Roche / Bourbon townships
-- **Images n200–n300 are already downloaded locally.** The sweep is incomplete
-  beyond that (claim C022).
+The competing Richland Township wording is an open discrepancy, not a second
+canonical location. Revalidate the page header and index together before using
+either locality in a new claim. Do not repeat the 405-image roll-630 sweep unless
+the indexed locator fails.
 
-## Livingston County — not started
-Aaron's residence of record at enlistment is **Chillicothe, Livingston County**.
+## Boone County — partial and separate
 
-- Internet Archive `populationschedu630unit`, **NARA M653 roll 630** (Linn and
-  Livingston), **405 images** (claim C015)
+Aaron's son William enlisted at Sturgeon, Boone County, in October 1862.
+Internet Archive populationschedu608unit is NARA M653 roll 608. Images n200-n300
+were downloaded during the earlier pass, but the sweep is incomplete. Check the
+FamilySearch index first. The known Kentucky-born Thos. H. Caton at image n546 is
+canonical record US-1860-MO-BOONE-THOS-H-01 and must remain separate.
 
-## Method
+## Search signature
 
-**This is mechanical. Script the fetch and OCR; do not read 800 images with a
-model.** Return page hits, then transcribe only those.
+Use only as an expected-family filter, not as a transcription:
 
-**Search by household signature, not surname alone.** In 1860 the household should be:
-
-| Person | Age in 1860 | Birthplace |
-| --- | ---: | --- |
+| person | expected age | known birthplace |
+|---|---:|---|
 | Aaron | 40 | Virginia |
 | Sarah | 36 | Ohio |
-| Julia | 17 | **Massachusetts** |
+| Julia | 17 | Missouri in the current project reading |
 | Mary E. | 15 | Ohio |
 | William B. | 12–13 | Ohio |
 | Nancy | 10 | Ohio |
 
-A **Massachusetts-born teenager in a Missouri household** is a rare and highly
-distinctive marker. Search on that as much as on the surname.
-
-**Variants:** Caton, Catton, Caten, Cation, Catten, Cato, Eaton, Cason, plus OCR corruption.
-
-## Do not merge
-
-- **Thos./Theo. H. Caton**, 35, b. Kentucky, Roche Twp., Boone Co. — a separate
-  Kentucky/Missouri line (claim C020).
-- **Thos. F. Patton**, image n539 — reads Patton, already resolved (claim C021).
-- Linn County Catons belong to the Jesse Caton cluster.
+Variants remain Caton, Catton, Caten, Cation, Catten, Cato, Eaton, and Cason,
+plus OCR corruption. Do not merge the Boone Thos. H. Caton or Thos. F. Patton
+hit with the direct line.

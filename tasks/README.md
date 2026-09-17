@@ -4,8 +4,36 @@
 
 Each `T*.md` is one open lead. Its YAML frontmatter is the task index:
 `id`, `priority`, `mode`, `status`, `repository`, `blocked_on`, and `note`.
-Read `BRIEF.md` plus one task file when executing a lead. Do not load `archive/`
+Read `BRIEF.md`, `DATA_MODEL.md`, and CATON_CENSUS_LEDGER.md plus one task file when executing a lead. Do not load `archive/`
 or another task file.
+
+Allowed `mode` values: `agent`, `human`, `script`, `relay`.
+Allowed `status` values: `open`, `active`, `partial`, `blocked`, `reopened`,
+`done`, `closed`, `void`. `partial` means useful work exists but the lead is not
+complete; `done` means the scoped work finished; `closed` means no further work is
+planned; `void` means the task was invalidated. Run `python3 tools/check-project.py`
+to validate task frontmatter and canonical record references.
+
+## Census data rule
+
+CATON_CENSUS_LEDGER.md is the canonical row-level census register. Narrative
+handoffs and task files may cite its stable census IDs and interpret them, but must
+not create a second household transcription. Keep source readings in
+raw_observation, schedule-normalized counts or person rows in
+normalized_observation, and hypotheses in interpretation. A missing image or
+incomplete transcription is marked as incomplete; it is never converted into a
+negative result.
+
+## Structured record rules
+
+Read `DATA_MODEL.md` before adding or merging canonical records. Preserve legacy
+claim fields and IDs, but fill explicit `claim_type`, lifecycle `status`, and
+`source_ids`/`person_ids`/`related_claim_ids`. Reuse or add registry IDs; do not
+infer missing source metadata or merge people to satisfy a schema. Search results
+must state jurisdiction, dates, query/variants, examined and unexamined coverage,
+access level, outcome, and limitations. Keep a non-hit scoped to the pages or index
+layer actually examined. Record competing values in `discrepancies.jsonl`; do not
+silently replace the earlier reading.
 
 ## Local dispatch
 
@@ -65,6 +93,9 @@ Only the coordinator edits `BRIEF.md`, `claims.jsonl`, or task frontmatter.
    roughly 1,500 words; detailed history belongs in claims or the archive.
 4. Append durable facts and worthwhile negatives to `claims.jsonl`, update each
    completed task's status, and place a concise pass note in `archive/`.
+5. Maintain the source/person/search/discrepancy registries and generated indexes
+   for every claim merge; run `python3 tools/make-claims-index.py` and
+   `python3 tools/check-project.py` before handoff.
 
 Evidence grades: **A** is primary or near-primary; **B** is strong, identified
 secondary work; **C** is a lead only. An ungraded item is C. Never promote a
