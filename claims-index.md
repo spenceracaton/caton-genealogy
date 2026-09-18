@@ -1,4 +1,4 @@
-# Claims index — generated 2026-09-18 from `claims.jsonl` (216 claims)
+# Claims index — generated 2026-09-18 from `claims.jsonl` (223 claims)
 
 Census household composition is canonical in `CATON_CENSUS_LEDGER.md`; use its stable IDs for row-level readings.
 
@@ -10,18 +10,18 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 
 | claim type | n | | lifecycle | n |
 |---|---:|---|---|---:|
-| fact | 155 | | active | 206 |
-| hypothesis | 12 | | superseded | 3 |
+| fact | 160 | | active | 213 |
+| hypothesis | 13 | | superseded | 3 |
 | negative | 26 | | reversed | 4 |
 | do-not-merge | 3 | | void | 0 |
-| method | 19 | | moot | 1 |
+| method | 20 | | moot | 1 |
 | other | 1 | | review | 2 |
 
 | evidence grade | n |
 |---|---:|
-| A | 113 |
-| B | 67 |
-| C | 36 |
+| A | 117 |
+| B | 69 |
+| C | 37 |
 
 ## The load-bearing ones
 
@@ -130,7 +130,7 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 | C085 | A | method | active | 9 | 1840 Delaware Co., OH census — eve | 1840 DELAWARE CO., OHIO (T11) - ALL FREE TEXT ROUTES ARE CLOSED; DO NOT RE-DERIVE THIS. (1) Internet Archive p… |
 | C086 | A | method | active | 9 | FamilySearch access on Spencer’s m | MOVED TO METHOD.md s.3 ON 16 SEP 2026 - THIS CLAIM IS NOW A POINTER. Headline retained for the index and for t… |
 | C087 | A | fact | active | 10 | Fauquier Caton cluster | DIRECT PRIMARY COURT RECORD. A 4 Dec 1830 Fauquier County road order assigns the male road hands of Daniel Law… |
-| C088 | C | hypothesis | active | 10 | Thomas Caton and Elizabeth Ann Law | MIGRATION LEAD ONLY, NOT A PARENT ASSIGNMENT. A 1999 published descendant account reports Thomas Caton and Eli… |
+| C088 | C | hypothesis | active | 10 | Thomas Caton and Elizabeth Ann Law | [NOTE 18 Sep 2026: the AFH article was read in full - it adds that Benjamin Franklin Caton was born 1 Mar 1842… |
 | C089 | A | negative | active | 9 | John Boring; Eliza Ann Boring | NEGATIVE, LIMITED. The West Virginia Vital Research Records Project's Ohio County marriage index contains no r… |
 | C090 | A | fact | active | 10 | Thos Caton | COMPLETE IMAGE TRANSCRIPTION: 1840 Ohio County, Virginia, Thos. Caton. FamilySearch index p.46; original sched… |
 | C091 | A | negative | active | 10 | Caton/Caten surname in the indexed | BOUNDED NEGATIVE. FamilySearch image group 007637475, Church Records, 1785-1954, Wheeling, West Virginia, cont… |
@@ -201,7 +201,7 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 | C156 | B | fact | active | 11 | Caton tithables, Fauquier Co., VA, | THE FAUQUIER TAX RUN, 1800-1832, FROM THE FAMILYSEARCH FULL-TEXT RESULT LIST (17 hits, 'Caton', Fauquier, tax … |
 | C157 | B | fact | active | 11 | Aaron Caton (the elder) - 1810 cen | 1810 CENSUS, PRINCE WILLIAM CO., VA, p.[52]6 (image retained; Spencer via FamilySearch 14 Sep 2026): 'AARON CA… |
 | C158 | B | method | active | 11 | William Caton of Annapolis, keeper | COLLATERAL, FOR T14 (George W. Caton's father), NOT FOR AARON. Chronicling America, Alexandria Daily Gazette: … |
-| C159 | B | fact | active | 11 | Thomas Caton Sr. - 1810 census, Fa | 1810 CENSUS, FAUQUIER CO., VA - THOMAS CATON'S HOUSEHOLD READ FROM THE IMAGE (evidence/1810_FauquierCo_VA_cens… |
+| C159 | B | fact | active | 11 | Thomas Caton Sr. - 1810 census, Fa | [NOTE 18 Sep 2026: reading (3) - the death and remarriage between 1810 and 1820 - is one of two readings; C207… |
 | C160 | B | method | active | 11 | Jackson Caton (d. c.1845) and Some | COLLATERAL - MORE CATONS ACROSS THE RIVER FROM BOONVILLE IN THE 1840s. Chronicling America, Boon's Lick Times … |
 | C161 | B | fact | active | 11 | 'Moses Caton Chapline' of Wheeling | RED HERRING RESOLVED. Chronicling America, Wheeling Times and Advertiser, 16/22/27 Mar 1848: Ohio Co. chancery… |
 | C162 | B | fact | active | 11 | Moses B. Caton (1767-1839), Rosevi | [RAISED C->B 14 Sep evening by C164: George Wesley Caton's wife Mildred Buckley was a Fairfax Co. heir and the… |
@@ -238,7 +238,7 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 | C193 | A | fact | active | 13 | Thomas Caton Jr. and Thomas Caton  | TWO GRADE-A CLAIMS CONTRADICT EACH OTHER AND CANNOT BOTH STAND. (1) C092, from the primary marriage papers: Th… |
 | C194 | C | hypothesis | active | 13 | Thomas Caton Jr. (William’s father | HYPOTHESIS, C-LEVEL, NOT ASSERTED. The project has weighed Thomas Sr. against Moses. A third man sits in a gra… |
 | C195 | B | fact | active | 13 | Aaron and Joseph Caton - Virginia  | THE UNTRIED RECORD CLASS, AND A COUNTY-BY-COUNTY SURVIVAL SURVEY. ARGUMENT: Aaron (10) and Joseph (7) are in N… |
-| C196 | A | fact | active | 13 | PARENTAGE-TESTS A1 - Fauquier pers | THE CURRENT TOP-RANKED TEST HAS A SELF-DEFEATING WINDOW. A1 and the NEXT-SESSION header rank first the Fauquie… |
+| C196 | A | fact | active | 13 | PARENTAGE-TESTS A1 - Fauquier pers | [CORRECTED 18 Sep 2026 - PREMISE FALSIFIED BY C201. The Fauquier tax originals show Cayton Thomas and William … |
 | C197 | C | fact | active | 13 | Nancy Roseman Caton - the T09 nami | T09 RESTS ON AN UNSOURCED MIDDLE NAME, AND THE SURNAME READING POINTS THE WRONG WAY. C017 corroborates a Nancy… |
 | G001 | A | fact | active | pass12 | Aaron Caton (elder; deceased by 18 | Rappahannock County Deed Book A, image 192 (printed page 305), contains an 8 April 1834 deed of release from J… |
 | G002 | B | fact | active | pass12 | William Caton (unidentified; descr | Fauquier County Deed Book 25, image 55 (handwritten page 87), is part of a trust deed dated 31 August 1820 fro… |
@@ -259,6 +259,13 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 | G017 | C | fact | active | pass16 | Delaware County, Ohio, 1835–1838 L | The targeted public Delaware County, Ohio, 1835–1838 search located no verified deed, tax duplicate, court rec… |
 | G018 | C | fact | active | pass16 | Family-Bible surname tree, isolate | The supplied family-Bible surname tree independently repeats Gardner and likely Blankenmeister, both already d… |
 | G019 | B | negative | active | 17 | James Cayton 1840 FamilySearch loc | On 16 Sep 2026, an exact FamilySearch Residence Place search for James Cayton in Delaware County, Ohio, in the… |
+| C201 | A | fact | active | 14 | Thomas Caton Sr., Thomas Caton Jr. | FAUQUIER TAX ORIGINALS READ YEAR BY YEAR (Codex packet of 17 Sep 2026, recovered 18 Sep; images SHA-verified).… |
+| C202 | A | method | active | 14 | T13 - Fauquier guardianship locato | WRONG-COUNTY LOCATOR REMOVED FROM T13. The task file cited FamilySearch catalog 642321 (film 1689208 / DGS 868… |
+| C203 | B | fact | active | 14 | Thomas Caton households, Fauquier  | USGENWEB TRANSCRIPTIONS REPRODUCE C159 AND C080 AND BOUND THE 1830 GAP. (1) 1810 (Jan Carter/Sandy Onbey, 2002… |
+| C204 | A | fact | active | 14 | Fauquier Co. record series - LVA R | TWO FAUQUIER SERIES CONFIRMED FROM THE LVA GUIDE, NEITHER YET OPENED. (1) Reel 44, '(Superior Court of Law) De… |
+| C205 | B | fact | active | 14 | Thomas Caton (77, tailor) and Jame | TWO VIRGINIA-BORN CATONS IN THE 1850 COOPER TRANSCRIPTION WHO ARE NOT IN THE PROJECT'S CURRENT MODEL, AND ONE … |
+| C206 | A | fact | active | 14 | Thos Caton Snr and Thos Caton Junr | TWO THOMAS CATONS IN COOPER COUNTY BY 1846, FROM THE IMAGES (Codex, 17 Sep 2026; recovered 18 Sep). (1) Cooper… |
+| C207 | C | hypothesis | active | 14 | Thomas Caton Sr.'s wife in 1810 an | HYPOTHESIS, C-LEVEL. C159 reads the 1810 Fauquier household (M 45+, F 16-26, F 45+) as Thomas, his wife (45+) … |
 
 ## Unresolved discrepancies and identity checks
 
@@ -270,3 +277,4 @@ Alternatives and claim/source links are canonical in `discrepancies.jsonl`. Iden
 | D-004 | provisional | discrepancy | Julia Sawtell's mother's birthplace | Seek an independent record naming Sarah Gardner's birthplace or family of origin. |
 | D-005 | unresolved | identity_check | William Caton in the 1850 Cooper and 1860 Bates censuses | Compare the full household members, migration path, and independent records before merging. |
 | D-009 | unresolved | discrepancy | 1840 Delaware County James Cayton source locator | Recover the exact index URL, source citation, or Delaware County page underlying C101; then verify head, locality, and age columns before restoring normalized counts or using the claim. |
+| D-010 | open | discrepancy | 1810 Fauquier Thomas Caton household - relationship of the two women | Search Fauquier and Prince William marriage bonds for Thomas Caton BEFORE 1810 (c.1795-1809) as well as 1811-19; any bond dated 1811-19 kills C207. |

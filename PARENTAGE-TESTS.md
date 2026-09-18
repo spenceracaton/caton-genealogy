@@ -85,10 +85,11 @@ the only independent test of which Thomas is which.
      unindexed. No published abstract covers these years (the Sparacio/Heritage Books
      Fauquier Minute Book Abstracts stop in the 1780s) — reel 116 must be read directly.
    - **Premise to test first, from pages already located:** OP binding presupposes a poor
-     or dead father. C156's 17 Full-Text hits — `Caton Thomas 2` in the 1809–19 volume,
-     `Thomas` and `Thomas Jr` in the 1820–32 volume — were **never opened**. Their property
-     columns say whether Thomas was poor, and the run dates when "Thomas Jr" becomes a
-     separate tithable, which independently tests C193.
+     or dead father. The 1820–32 and 1833–45 originals are now retained (C201): "Thomas Jr"
+     is a separate tithable from 1828. The property columns have not yet been read off the
+     retained images; the 1809–19 volume (`Caton Thomas 2`) is still unopened.
+   - **Locator confirmed (C204):** Reel 116 / barcode 1125621, apprentice bindings within
+     the finding aid's stated scope, 0 items online. The "citation unverified" caveat is closed.
 
 1a. **Full-Text `Caton`, Fauquier, 1823–1840, ALL record types, filters cleared** — never
    run. C156 was filtered to *tax records*; C153's addendum was the phrase `"Aaron Caton"`.
@@ -211,10 +212,12 @@ the only independent test of which Thomas is which.
     entry or a parentage result. The 1836, 1838, and 1839 AI transcript locator
     sweeps produced no `Caton`/`Cayton` string, but those sweeps are not negative proof.
     See `evidence/2026-09-15_A1_fauquier-1837_cayton-candidate.md`.
-    T18 also read image 192 (1836) as separate `Cayton Thomas` and `Cayton William` rows,
-    each with `1`. If those rows are Thomas Caton, C196's "gone after Apr 1835" is wrong and
-    the demotion should be revisited; if they are another Cayton, C196 stands. Decide from
-    the images, not from either note.
+    **Resolved 18 Sep (C201, D-011):** the recovered Codex packet
+    `evidence/tax-departure-2026-09-17/` reads the originals year by year — Thomas + William
+    1836; Thomas, William, "Thos (C B Smith)" 1837; none in Ashby's 1838 C section. C196's
+    premise is wrong; the window is 1837–38. Every 1836–37 Cayton entry is 1 white male, so
+    the teenage-tithable test is done for those years and negative. Left: property columns,
+    the 1809–19 volume, and the other district 1838–40.
 
 16. **T09 (Roseman) — RE-POINTED 16 Sep (C197).** The clue rests on a compiled middle name;
     the 1850 census gives only "Nancy" (C017). Roseman is an Americanised German/Ashkenazi

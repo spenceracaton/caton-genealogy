@@ -1,7 +1,7 @@
 # Caton genealogy — working brief
 
-**State:** research synthesis last reviewed 16 September 2026, after thirteen
-research passes; 216 claims are registered (C001–C197, G001–G019). Corrections from
+**State:** research synthesis last reviewed 18 September 2026, after fourteen
+research passes; 223 claims are registered (C001–C207 with gaps, G001–G019). Corrections from
 every pass are applied here; do not read `archive/` unless asked to reconstruct how a
 conclusion was reached. **Research question:** Who were the parents of Aaron Caton, born
 16 May 1820 in Virginia? They remain unknown. The parentage case is grade C; do
@@ -111,11 +111,13 @@ What can still name a parent, in order (re-ranked 16 Sep):
    Both boys absent from every Caton house in 1830 while their sisters stay home, and
    both became tailors — the signature of a bound apprenticeship, and such an entry
    names the father. Target: Fauquier OP Minutes 1804–1845, then Fauquier Minute and
-   Deed Books 1823–40. Citation unverified at the time of C195 (reel 116 / barcode
-   1125621 came from search snippets, not the finding aid); confirm before ordering film.
-2. **Open the Fauquier tax pages already located and never opened** (C156). Dates
-   "Thomas Jr" as a separate tithable and reads whether Thomas was poor (item 1's
-   premise).
+   Deed Books 1823–40. Reel 116 / barcode 1125621 and the apprentice-binding scope are
+   now confirmed from the finding aid itself (C204); film-only, 0 items online.
+2. **Fauquier tax originals — largely done (C201).** Thomas Jr is a separate tithable
+   from 1828; "Cayton Thomas & William" joint 1830–31; three Cayton entries 1832–35;
+   Thomas + William 1836; Thomas, William, "Thos (C B Smith)" 1837; none in Ashby's
+   1838 C section. Still unread: 1819–21, 1824–27, 1829, Ashby 1833, Turner 1838–40.
+   Property columns (was Thomas poor?) not yet extracted from the retained images.
 3. **Thomas Caton's possible second marriage, c.1811–19.** Names Aaron's probable
    mother. Not Fauquier (C173), not Culpeper to 1815 (C182). T25 identifies Prince
    William Bond Books 1815–1826 and 1815–1833, reel 34, as the best remaining local
@@ -134,12 +136,22 @@ What can still name a parent, in order (re-ranked 16 Sep):
 6. Joseph's 1910 Saline County probate is parked at Spencer's instruction. The
    Ohio County guardianship route is the remaining test for the weaker B hypothesis.
 
-**Demoted 16 Sep:** Fauquier personal-property tax 1833–40, formerly first. Aaron
-turned 16 in May 1836 and Thomas was gone from the county after Apr 1835, so the
-decisive years are the years he is absent (C196). Keep it to date the departure. Note
-the 15 Sep T18 image review found separate `Cayton Thomas` and `Cayton William` rows
-in the 1836 and 1837 Fauquier lists, unidentified with Thomas Caton; that reading and
-C196's departure date have not been reconciled.
+**C196 corrected 18 Sep (D-011):** Thomas was *not* gone after Apr 1835 — the tax
+originals show two Thomases in 1836 and three Cayton entries in 1837, none in 1838
+(C201). The departure/death window is 1837–38. Each 1836–37 Cayton entry is 1 white
+male, so Aaron (16 in May 1836) was not counted in any Caton household in the years he
+was countable; the "teenage tithable" test is done for 1836–37 and negative.
+
+**New Cooper-side records (C205, C206):** a 77-year-old Virginia-born tailor Thomas Caton
+in John P. Maddex's Boonville household in 1850 (fits only the 1820 Fauquier head's
+bracket); "Thos Caton Snr / Thos Caton Junr" on a 7 Mar 1846 note in a Cooper estate
+inventory; Thomas Cayton and wife Elizabeth on a 1850 Cooper deed. Two Thomases were
+in Cooper by 1846. Identity with the Fauquier men is unproved.
+
+**Alternative 1810 reading (C207, D-010):** if the woman 16–26 in Thomas Sr.'s 1810
+house was his wife, there was no remarriage and C173's negative needs no explanation;
+Aaron's mother would then be a pre-1810 bride. Open item 3 must search pre-1810 bonds
+as well as 1811–19.
 
 **T09 re-pointed (C197):** Nancy's middle name "Roseman" is unsourced; the 1850 census
 gives only "Nancy" (C017). Verify it from a primary record before chasing a Roseman

@@ -29,17 +29,20 @@ printed header; save the images to `evidence/`; record the rows in
   not every enumerator complied, so that quirk alone proves nothing. **The adult-male
   column is the reason to go.**
 
-## Priority 2 — Open the Fauquier tax pages already found and never opened (C156)
+## Priority 2 — Fauquier tax: finish what C201 started
 
-Seventeen Full-Text hits exist, including `Caton Thomas 2` in the 1809–19 volume and
-both `Thomas` and `Thomas Jr` in the 1820–32 volume. Zero new searching. They give
-(a) the year "Thomas Jr" becomes a separate tithable — which independently tests
-Priority 1 — and (b) Thomas's property columns, i.e. whether he was **poor**, which is
-the premise of Priority 3.
+The originals for 1822–23, 1828, 1830–32, 1834–38 are in
+`evidence/tax-departure-2026-09-17/` (C201): Thomas Jr separate from 1828; two Thomases
+still taxed 1836, three Cayton entries 1837, none in Ashby's 1838 C section. Remaining:
+(a) read the **property columns** on the retained images — was Thomas poor? (the premise
+of Priority 3); (b) the 1809–19 volume (DGS 7849109) for the year "Thomas 2" appears and
+the first "Jr"; (c) Ashby 1833, Turner 1838–40, both districts 1839–40, to make the
+1837–38 disappearance county-wide.
 
 ## Priority 3 — Fauquier Overseers of the Poor Minutes, 1804–1845 (C195)
 
-ONE volume, LVA reel 116, barcode 1125621. **Read 1826–1838 for a Caton binding.**
+ONE volume, LVA reel 116, barcode 1125621 — locator and apprentice-binding scope
+confirmed from the finding aid (C204); film-only. **Read 1826–1838 for a Caton binding.**
 Aaron (10) and Joseph (7) are in no Caton household anywhere in 1830 while their small
 sisters stay home, and both brothers became **tailors**. That is the signature of a
 bound apprenticeship, and Virginia bound out orphans *and* children whose parents could
@@ -66,7 +69,8 @@ verify the volumes' record type, index coverage, and access route: the catalog d
 not label them as marriage books. No target image has been retrieved. The search
 could identify a bride, surety, or consentor; an index hit alone would not prove
 that this is the Fauquier Thomas or name Aaron's mother. C193 may break the "widow
-with stepsons" framing; the bond names the mother either way.
+with stepsons" framing; the bond names the mother either way. **Search pre-1810 as
+well (C207, D-010):** if the 1810 woman 16–26 was the wife, the marriage is c.1795–1809.
 
 - Active lead: [T15 — Prince William origin](tasks/T15_prince-william-origin.md).
 - Route assessment: [T25 evidence note](evidence/2026-09-15_T25_second-marriage-remaining-routes.md).
@@ -84,7 +88,11 @@ catalog gaps or inaccessible images into a negative result.
   15 Sep list in its existing order. The old top item — Fauquier personal-property tax
   1833–1840 — is now worth doing only to **date the departure**, not to find Aaron: he
   turned 16 in May 1836 and Thomas was gone from the county after Apr 1835 (C092, C098,
-  C189). Reconcile that date with T18's 1836–37 `Cayton Thomas` rows first.
+  C189) — **corrected 18 Sep:** the tax originals put the departure at 1837–38 (C201,
+  D-011); 1836–37 entries are 1 white male each, so the test is done and negative.
+- **Boonville 1850, the 77-year-old tailor (C205) and the 1846 "Snr/Junr" note (C206):**
+  read the M432 manuscript for Boonville dwelling 66 and District 23 dwelling 335; then
+  Cooper probate for a Thomas Caton death 1850–65 (the ChatGPT S03 handoff covers this).
 - **Nancy Roseman Caton, d. 5 Dec 1865, Ohio, aged 16** — new compiled lead (C197). Her
   middle name is the whole basis of T09 and it is unsourced: the 1850 census gives only
   "Nancy" (C017). Fix it from a stone or a record before chasing a Roseman family — and

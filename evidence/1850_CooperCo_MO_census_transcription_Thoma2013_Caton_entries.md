@@ -50,7 +50,9 @@ cited as a "17 Sep project research note". No claim is made here; observations o
   (Howards b. Virginia). A Virginia-born Caton b. c.1831 not previously noted in the project.
 - **p.186, District 23, dwelling 357: William Caton, 38, farmer, b. Virginia; John W. Caton, 18, laborer, b.
   Virginia; Aaron F. 8, Sarah Ann 6, Elizabeth 4, Wingfield 2, all b. Missouri.** John W., b. c.1832 in
-  Virginia, could be a son of William and Ann F. (m. Jan 1829) born before the move, or a younger kinsman;
+  Virginia, could be a son of William and Ann F. (m. Jan 1829) born before the move, or a younger kinsman
+  (this household is already in `CATON_CENSUS_LEDGER.md` as US-1850-MO-COOPER-WILLIAM-FAUQUIER-01, image-verified from
+  the p.23 page image; John W. has not been assessed);
   the 1865 partition (C149) names William's heirs as Joseph, Aaron F., Sarah A. and Daniel R. only, so if he was
   a son he died or was omitted before 1865. No wife is transcribed on this page; the page break follows line
   42. The project's existing 1850 Cooper reading (the Laurie-neighbourhood page) uses a different page

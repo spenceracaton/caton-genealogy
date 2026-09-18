@@ -1,7 +1,7 @@
 # Caton census ledger
 
 Status: canonical row-level census register  
-Version: 1.1, 16 September 2026
+Version: 1.2, 18 September 2026
 Scope: census households and bounded census coverage checks currently used by the active Caton research files
 
 This is the canonical place to read census composition. BRIEF.md, dated handoffs, and task files may interpret these records, but they must not become competing transcriptions. This ledger does not replace source images, transcriptions, or claims.jsonl; it gives those layers one stable household ID and one consistent schema.
@@ -609,6 +609,38 @@ line, dwelling_number, family_number, surname_as_written, given_name_as_written,
 - identity_status: DANIEL-LAURIE-COOPER-1850; ANN-CATON-LAURIE
 - evidence_status: image-verified
 - last_verified: 2026-09-15
+
+### US-1850-MO-COOPER-MADDEX-THOMAS-77-01
+
+- claim_ids: C205
+- year: 1850; reference_date: 1850-06-01; enumerated 1850-08-14 per transcription
+- state: Missouri; county: Cooper; locality: City of Boonville, transcription p.148, household 66
+- head_as_written: John P. Maddex
+- source_citation: 1850 federal census, Cooper County, Jim Thoma 2013 MOGenWeb transcription (Wayback copy)
+- page_or_image: transcription p.148, dwelling/family 66, line 24; manuscript locator per ChatGPT register NARA M432 roll 397, unverified; source_image: not retained (transcription PDF retained as evidence/1850_CooperCo_MO_census_transcription_Thoma2013_mogenweb_archive.pdf)
+- image_inspected: no; source_layer: derivative_transcription; transcription_confidence: medium
+- raw_observation: Maddex John P. 47 M Constable $1,200 Virginia; Parthema G. 39 F Virginia; Jane 17 F Virginia; Tebisha D. 15 F Missouri; Michael G. 8 M Missouri; John A. 1 M Missouri; Caton Thomas 77 M "Taylor" Virginia (last row of the household)
+- normalized_observation: person rows; household_number 66; Caton row: line 24, age_as_written 77, sex M, occupation_as_written Taylor, birthplace_as_written Virginia, normalized_birthplace Virginia; household_total 7
+- interpretation: a Virginia-born tailor b. c.1772-73 living in a non-Caton household; placement states no kinship; age fits only the 1820 Fauquier head (45+) among the Fauquier Thomas brackets (C205)
+- identity_status: THOMAS-COOPER-BOONVILLE-1850-77; unresolved; do not merge with THOMAS-FAUQUIER-ELDER or THOMAS-FAUQUIER-YOUNGER
+- evidence_status: derivative transcription; image verification pending
+- last_verified: 2026-09-18
+
+### US-1850-MO-COOPER-HOWARD-JAMES-19-01
+
+- claim_ids: C205
+- year: 1850; reference_date: 1850-06-01; enumerated 1850-08-27 per transcription
+- state: Missouri; county: Cooper; locality: District 23, transcription pp.183-184, household 335
+- head_as_written: John C. Howard
+- source_citation: 1850 federal census, Cooper County, Jim Thoma 2013 MOGenWeb transcription (Wayback copy)
+- page_or_image: transcription p.184 line 2 (household begins p.183 line 37); source_image: not retained
+- image_inspected: no; source_layer: derivative_transcription; transcription_confidence: medium
+- raw_observation: Howard John C. 21 M Farmer Virginia; Ann M. 18 F Virginia; Mary R. 17 F Virginia; William H. H. 14 M Virginia; Alex G. 6 M Missouri; Goodrich A. 2 M Missouri; Caton James 19 M Carpenter Virginia; Warts Jonathan 35 M Laborer Pennsylvania; Thomas Thomas 22 M Laborer Missouri; Seruner [blank] 30 M Laborer Tennessee
+- normalized_observation: person rows; household_number 335; Caton row: line 2, age_as_written 19, sex M, occupation_as_written Carpenter, birthplace_as_written Virginia, normalized_birthplace Virginia
+- interpretation: a Virginia-born Caton b. c.1831 boarding with a Virginia-born family; not previously in the project; no link to any known Caton
+- identity_status: JAMES-COOPER-1850-19; unresolved
+- evidence_status: derivative transcription; image verification pending
+- last_verified: 2026-09-18
 
 ### US-1850-OH-FAIRFIELD-JESSE-KATON-01
 
