@@ -7,6 +7,8 @@ ev = root/"evidence"
 rows = [json.loads(l) for l in (root/"claims.jsonl").open() if l.strip()]
 
 NOTES = {
+ "1850_CooperCo_MO_census_transcription_Thoma2013_mogenweb_archive.pdf": "Jim Thoma (2013) MOGenWeb transcription of the 1850 Cooper Co. census, Wayback copy (ChatGPT register A12). Derivative, grade B.",
+ "1850_CooperCo_MO_census_transcription_Thoma2013_Caton_entries.md": "Every Caton row from the Thoma 1850 Cooper transcription: Thomas 77 'Taylor' b. VA in John P. Maddex's Boonville household (p.148 dw.66); James 19 carpenter b. VA (dw.335); William 38 with John W. 18 b. VA (dw.357); John 53 b. Delaware (dw.902); Thomas 40 b. KY (dw.1038).",
  "tax-departure-2026-09-17": "Codex tax/departure packet (recovered 18 Sep from an uncommitted worktree): Fauquier PP tax originals DGS 7849110/7849111, 1822-1838 - Thomas Jr separate from 1828; 'Cayton Thomas & William' joint 1830-31; Thomas, William, Thomas Jr each 1 WM 1832, 1834, 1835; Thomas + William 1836; Thomas, William, 'Thos (C B Smith)' 1837; no Caton in Ashby's 1838 C section. REPORT.md, SOURCES.tsv, SHA256SUMS.txt inside. Resolves the C196-vs-T18 conflict in favour of T18: two Thomases still taxed in 1836-37.",
  "Thomas_Caton_post1835_Cooper_research_2026-09-17.md": "Codex (recovered 18 Sep): Cooper Co. probate, Isaac Martin inventory pp.388-89 - 'Thos Caton Snr / Thos Caton Junr' note dated 7 Mar 1846; Cooper Deed Book Q p.260, Deckard to Thomas Cayton for wife Elizabeth, ack. 10 Oct 1850. Two Thomases in Cooper by 1846; identity with the Fauquier men unproved.",
  "1850_Cooper_IsaacMartin_inventory_p388-389_ThomasCaton.jpg": "Cooper probate 1847-54, DGS 007636420 image 237: Isaac Martin inventory listing a 7 Mar 1846 note of Thos Caton Snr and Thos Caton Junr.",

@@ -1,0 +1,163 @@
+diff --git a/evidence/T12-T13_chatgpt_2026-09-18_fauquier_rechecks.md b/evidence/T12-T13_chatgpt_2026-09-18_fauquier_rechecks.md
+new file mode 100644
+--- /dev/null
++++ b/evidence/T12-T13_chatgpt_2026-09-18_fauquier_rechecks.md
++# T12/T13 — ChatGPT evidence pass, 18 Sep 2026
++
++**Objective:** Identify Aaron Caton's parents, prioritizing records that can name a parent or resolve the Fauquier Thomas identities.
++
++**Status:** PARTIAL — no acquired record names Aaron's father or mother.
++
++**Repository baseline:** `main` at `8af46cc77d6a993a7330a2427db8c209bc6d9233` (BRIEF state through C197).
++
++This is an agent evidence return. It does **not** assign Aaron to a parent, alter `claims.jsonl`, or supersede `BRIEF.md`.
++
++## 1. William Caton's 1828 consent — “Jr” survives in the photographed typescript
++
++**STATUS:** found / partial  
++**RECORD:** Fauquier County Marriage Bonds and Returns, vol. 4, typed p.279; FamilySearch DGS 007578973, image 149/445. Bond 12 Jan 1829; consent 6 Dec 1828.  
++**URL:** https://www.familysearch.org/ark:/61903/3:1:3QS7-89XF-K9SG-S?view=fullText  
++**SOURCE INSPECTED:** user-supplied `Transcript (99).pdf`.
++
++Pertinent copied text identifies William as “my son William Caton,” followed by “Thomas Caton Jr (SEAL)”; another “Thomas Caton” appears in the witness line with James Payne (of Thos.) and Presley Johnson.
++
++**GRADE:** A/fact for what is visible on the photographed typescript; B/fact for the parent-child statement preserved by this derivative county copy; C/hypothesis for mapping either Thomas to a census Thomas.
++
++**CONFLICTS/LIMITS:** The suffix is not merely modern OCR, but the image is still a typescript rather than the original loose consent. It cannot support autograph comparison. It does not establish that the consenting father equals the 1830 man styled “Thomas Caton Jun.” C092 versus the identity assumptions behind C082/C193/C194 remains unresolved.
++
++## 2. T13 guardianship locator is wrong-county
++
++**STATUS:** found  
++T13 connects Gott's Fauquier guardian-bond work to FamilySearch catalog 642321, film 1689208 / DGS 8682856. That film is `Record of guardians, 1800–1868` for **Chatham County, North Carolina**, not Fauquier County, Virginia.
++
++**CORROBORATING URL:** https://www.werelate.org/wiki/Source:North_Carolina._County_Court._Record_of_Guardians%2C_1800-1868  
++**GRADE:** A/fact for the catalog mismatch.
++
++**RESEARCH CONSEQUENCE:** remove this film/DGS from Fauquier access instructions; a negative on it would be a wrong-county negative. John K. Gott, *Fauquier County, Virginia, Guardian Bonds, 1759–1871* (Heritage Books, 1990; ISBN 1556132735) remains a legitimate independent target, but its surname entries were not inspected.
++
++## 3. Fauquier Overseers/apprenticeship source is a real bounded target
++
++**STATUS:** found as holding; contents not inspected  
++**RECORD:** Fauquier County Board of Overseers of the Poor Minutes, 1804–1845.  
++**LOCATOR:** Library of Virginia, Fauquier Reel 116; finding-aid barcode 1125621.  
++**FINDING AID:** https://arvasarchive.org/catalog/vi_vi02514  
++**LVA GUIDE:** https://www.lva.virginia.gov/collections/ccmf/VA/VA083
++
++The finding-aid description includes binding children as apprentices. The catalog reports zero online items; that does not prove no scan exists elsewhere.
++
++**GRADE:** A/fact for the LVA holding/date span; B/fact for detailed finding-aid wording/access metadata.
++
++**LIMIT:** no Caton/Caten/Cayton/Catton/Katon entry was read. No apprenticeship, master, trade, parent, or guardian was identified.
++
++**RELATED ROUTE:** Gott Library's Fauquier Poorhouse Project lists “Overseers of the Poor 1804–1845” and “Indentures”: https://www.thegottlibrary.org/s-projects-basic . No usable Caton transcript was recovered.
++
++## 4. Additional Fauquier court group omitted from general indexes
++
++**STATUS:** found as catalog route; contents not inspected  
++**RECORD:** Fauquier Superior Court of Law, *Deeds, Wills, Etc., 1809–1829*.  
++**LVA:** Reel 44.  
++**FAMILYSEARCH:** catalog 368475; film 31609; image group 004087718.  
++**URL:** https://www.familysearch.org/en/search/catalog/368475
++
++LVA warns this group is not covered by the general will/deed indexes, so those index negatives do not close it.
++
++**GRADE:** A/fact for catalog metadata.
++
++**COVERAGE WARNING:** FamilySearch says no cases appear to have been recorded between 1818 and 1829. Verify the internal indexes/volume before treating the title as continuous coverage. This may be more useful for the elder Aaron/earlier Thomas generation than Aaron's childhood.
++
++## 5. 1810 Fauquier Thomas — counts corroborated, relationships are not
++
++**STATUS:** found  
++**RECORD:** published 1810 census transcription, Fauquier Co.  
++**LOCATOR:** NARA M252-68; p.263B line 11; handwritten p.398.  
++**TRANSCRIBER:** Jan Carter; proofreader Sandy Onbey.  
++**URL:** https://www.us-census.org/pub/usgenweb/census/va/fauquier/1810/pg0262a.txt
++
++**COUNTS:** male 45+ = 1; female 16–26 = 1; female 45+ = 1; no other members marked.
++
++**GRADE:** B/fact — independent published transcription of the same census, not a second primary record.
++
++**CONFLICT/CORRECTION:** C159 labels the older woman Thomas's wife and the younger woman his daughter, then infers a death/remarriage before 1820. The census states neither relationship.
++
++**GRADE C/hypothesis:** the younger woman could instead have been Thomas's wife and the older woman another relative. This is an alternative to test, not an identification of Aaron's mother.
++
++**RESEARCH CONSEQUENCE:** do not require Aaron's mother to come from an 1811–1819 marriage or require the bride to have been a widow. Retain pre-1810 and later-marriage possibilities until the women are identified independently.
++
++## 6. 1820 Fauquier Thomas — C080 counts independently reproduced
++
++**STATUS:** found  
++**RECORD:** published 1820 census transcription, Fauquier Co.  
++**LOCATOR:** NARA M33-136; Thomas Caton on p.46 after William Cockrill.  
++**TRANSCRIBER:** Tom Kendall, 2000; page says proofreading in progress.  
++**URL:** https://www.us-census.org/pub/usgenweb/census/va/fauquier/1820/pg0039.txt
++
++**COUNTS:** males <10=2; 10–16=1; 16–18=1; 16–26 blank; 26–45 blank; 45+=1. Females <10=1; 26–45=1. Agriculture=1; commerce/manufacturing blank.
++
++**GRADE:** B/fact.
++
++The independent transcription reproduces C080's unusual `16–18=1 / 16–26=blank` combination. This makes a project-only transcription slip less likely but does not resolve whether the manuscript itself was non-standard or misread.
++
++**LIMIT:** no unnamed boy is identified; Aaron is not placed in the household by this result.
++
++## 7. 1830 online transcription cannot adjudicate p.471
++
++**STATUS:** not-found in this transcription only  
++**SOURCE:** USGenWeb Fauquier 1830 transcription directory.  
++**URLS:**  
++- https://www.us-census.org/pub/usgenweb/census/va/fauquier/1830/  
++- https://www.us-census.org/pub/usgenweb/census/va/fauquier/1830/partial.txt  
++- https://www.us-census.org/pub/usgenweb/census/va/fauquier/1830/pg0463.txt  
++- https://www.us-census.org/pub/usgenweb/census/va/fauquier/1830/pg0475.txt
++
++Available blocks cover p.463–468 and resume at p.475; the site describes the transcription as incomplete.
++
++**GRADE:** B/negative, scoped only to this transcription.
++
++**NEGATIVE RESULT:** p.471 is unavailable here. No surname absence from this transcription can resolve C082.
++
++## 8. Older Aaron — “childless and dead before 1820” is not established
++
++**STATUS:** partial/corrective  
++**REPO EVIDENCE:** C153, C155, C157.
++
++The project has evidence for an older Aaron Caton in Prince William in the 1790s and as a juror in 1813. His 1810 household contains only an adult male and adult female. C153 also cites a later Rappahannock deed calling an Aaron Caton deceased by 1833–34.
++
++**GRADE:** C/hypothesis for any relationship to target Aaron.
++
++**CORRECTION:** no children resident in 1810 does not prove the couple never had children later; absence as an 1820 household head does not prove death. The precise date **28 Feb 1825** appears in later handoffs but no supporting record citation was found in those passages. Treat it as unverified.
++
++**RESEARCH CONSEQUENCE:** keep older Aaron as a control candidate, not a preferred or excluded father. Open the 1833–34 Rappahannock deed and trace its recited trust/estate venue.
++
++## 9. Older Boonville Thomas — useful lead, not an identity bridge
++
++**STATUS:** partial  
++**SOURCE:** Jim Thoma's 2013 transcription of the 1850 Cooper County census, as preserved in the 17 Sep project research note.  
++**ENTRY:** household 66, John P. Maddex household: Thomas Caton, 77, male, “Taylor,” born Virginia.
++
++A second Cooper entry in the same transcription is a different Thomas, about 40, farmer, born Kentucky, household 1038.
++
++**GRADE:** B/fact for the published census transcription; original manuscript still needed.
++
++**LIMIT:** age 77 implies b.c.1772–73, which does not neatly fit C159's current reconstruction of the 1810 Fauquier head as already 45+. Shared name, Virginia birthplace and tailoring warrant investigation, not merger.
++
++**RELATED DESCENDANT LEAD:** Jimmie Lois Caton Jones, “The Grandfather I Never Knew,” *Arkansas Family Historian* 37(3), Sep 1999, says Benjamin Franklin Caton (b.1842) was a son of Thomas Caton and Elizabeth Ann Lawrey, married in Fauquier 6 Dec 1828, with four children born in Virginia and later children in Missouri.  
++URL: https://argensoc.org/wp-content/uploads/afh/AFH373Sep1999.pdf
++
++Pleasant Hill Baptist Church Cemetery separately lists Elizabeth née Lowrey (1804–1883) as wife of Thomas William Caton.  
++URL: https://mogenweb.org/cooper/Cemeteries/PLEASANT%20HILL%20BAPTIST%20CHURCH%20CEMETERY.pdf
++
++These secondary sources provide a concrete Thomas–Elizabeth descendant tradition to test against primary records. They do **not** decide whether that Thomas is the 77-year-old tailor, the 1830 “Jun,” or another same-name man.
++
++## Next actions
++
++No finding here raises Aaron's parentage above hypothesis. Highest-value acquisitions:
++
++1. Original Fauquier 1830 p.471 — adult-male bracket for “Thomas Caton Jun,” all three Caton rows, headers/facing continuation retained.
++2. Original Fauquier 1820 p.46 — adult-male columns and 16–18/16–26 anomaly.
++3. Fauquier Overseers of the Poor Minutes, Reel 116 — 1826–1838, all Caton variants, master/trade/parent/guardian.
++4. C156's already-located Fauquier tax pages — when a second Thomas becomes separately tithable and household property level.
++5. Original 1850 Cooper manuscript for the 77-year-old Thomas — then death/probate/deed/church/newspaper trail if confirmed.
++6. Rappahannock 1833–34 deed naming older Aaron deceased — trace the earlier trust and estate venue.
++7. Correct Fauquier guardianship source — Gott index/surviving county records, not the Chatham County film.
++
++**Parentage after this pass:** Aaron Caton's parents remain unknown. The Fauquier family remains the strongest working family model, but neither Thomas nor older Aaron should be promoted to parent without an Aaron-direct or equivalent relationship record.

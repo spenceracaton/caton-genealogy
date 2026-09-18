@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-18",
+  "status": "proposed research plan; no repository changes",
+  "streams": [
+    {
+      "id": "S01",
+      "file": "S01_THOMAS_IDENTITIES.md",
+      "title": "Resolve the Fauquier Thomas identities before extending the pedigree",
+      "mode": "image_retrieval_and_identity_analysis"
+    },
+    {
+      "id": "S02",
+      "file": "S02_VIRGINIA_CHILDHOOD_RECORDS.md",
+      "title": "Find an apprenticeship, guardianship or other childhood record naming Aaron",
+      "mode": "archival_access_and_bounded_record_review"
+    },
+    {
+      "id": "S03",
+      "file": "S03_BOONVILLE_THOMAS.md",
+      "title": "Identify the elderly Boonville tailor and reconstruct his estate and household connections",
+      "mode": "missouri_identity_and_estate_research"
+    },
+    {
+      "id": "S04",
+      "file": "S04_OLDER_AARON_CONTROL.md",
+      "title": "Test the older Broad Run Aaron as an alternative rather than assuming an uncle",
+      "mode": "targeted_trust_and_estate_control"
+    },
+    {
+      "id": "S05",
+      "file": "S05_AARON_PERSONAL_RECORDS.md",
+      "title": "Recover Aaron\u2019s own statements and records retained by his immediate family",
+      "mode": "federal_record_identification_and_family_archive_acquisition"
+    },
+    {
+      "id": "S06",
+      "file": "S06_JOSEPH_AND_FAMILY_PAPERS.md",
+      "title": "Test the Aaron\u2013Joseph relationship and acquire the Dumm family testimony",
+      "mode": "kinship_validation_and_targeted_archive_followup"
+    },
+    {
+      "id": "S07",
+      "file": "S07_OHIO_BRIDGE.md",
+      "title": "Reconstruct how Aaron reached Delaware County and test the Laurie migration connection",
+      "mode": "ohio_local_records_and_associate_reconstruction"
+    },
+    {
+      "id": "S08",
+      "file": "S08_MOTHER_AND_LAWRIE_FAMILY.md",
+      "title": "Identify the women and prove the Caton\u2013Lawrey relationships without presupposing a remarriage",
+      "mode": "female_line_and_inlaw_kinship_reconstruction"
+    }
+  ],
+  "files": [
+    {
+      "file": "00_COORDINATION.md",
+      "bytes": 10735,
+      "sha256": "c48f7acc40debb5e47d540a841ad57da0401c28778032aa04c4b100a30170d22",
+      "words": 1484
+    },
+    {
+      "file": "09_SOURCE_REGISTER.md",
+      "bytes": 10023,
+      "sha256": "48a2ff1bfa872422b0c572fc4ac42279684e94565585e7abd6a485e4bb07e5de",
+      "words": 1161
+    },
+    {
+      "file": "CATON_INVESTIGATIVE_STREAMS_COMPLETE.md",
+      "bytes": 93186,
+      "sha256": "fc3db92ea1d8cd06ed72a84a091b0f231a36a9ce33c8c1a1d435094f4988004d",
+      "words": 12851
+    },
+    {
+      "file": "RECORD_RETURN_TEMPLATE.md",
+      "bytes": 3120,
+      "sha256": "abb8c22feebf61ff79f2f8f1ca3cb19f5262ec18be49057a93cf66dc51d86225",
+      "words": 433
+    },
+    {
+      "file": "S01_THOMAS_IDENTITIES.md",
+      "bytes": 10350,
+      "sha256": "783aa044109a857f3c30014623320eecb52999ab8027631e9a5ab62b4ebd3b85",
+      "words": 1384
+    },
+    {
+      "file": "S02_VIRGINIA_CHILDHOOD_RECORDS.md",
+      "bytes": 10032,
+      "sha256": "231177aadc7042abf88e82dc6de4e0fd56ca60b1517309df163318e9681d3ad8",
+      "words": 1364
+    },
+    {
+      "file": "S03_BOONVILLE_THOMAS.md",
+      "bytes": 10606,
+      "sha256": "d189f7db69d740c892eb0592f3d40a37b259a5fee7214aefd28a3a2e33b08ebb",
+      "words": 1436
+    },
+    {
+      "file": "S04_OLDER_AARON_CONTROL.md",
+      "bytes": 8852,
+      "sha256": "4ca9c162a6ba5da86951a6790f031cef7c9c6cdc93ad7baa2ccbf55b65d73cb6",
+      "words": 1247
+    },
+    {
+      "file": "S05_AARON_PERSONAL_RECORDS.md",
+      "bytes": 10084,
+      "sha256": "02f2d6577224c745d21256673202ec5ae2ae72a417a2afe43da69a9d45ebb1c8",
+      "words": 1389
+    },
+    {
+      "file": "S06_JOSEPH_AND_FAMILY_PAPERS.md",
+      "bytes": 9460,
+      "sha256": "afbd924e8989e840539aa27714e9c0074f3f98c793ac50ec61468da5b9e4e6f3",
+      "words": 1304
+    },
+    {
+      "file": "S07_OHIO_BRIDGE.md",
+      "bytes": 9068,
+      "sha256": "1a5f163d80c275ec1909bf8d016dfe5b6340584dbb7446d3bd31a58c322850a7",
+      "words": 1264
+    },
+    {
+      "file": "S08_MOTHER_AND_LAWRIE_FAMILY.md",
+      "bytes": 11604,
+      "sha256": "e49867ca555a7b25127f9ce11951989890ce5eb8f2b241a3a5f781dec7a80d60",
+      "words": 1594
+    }
+  ]
+}

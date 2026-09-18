@@ -73,6 +73,38 @@
 >   on any branch. Until the note or the transcription is added, the 77-year-old tailor is
 >   unsourced within this project.
 >
+> **Update, later on 18 Sep 2026 (after the merge and the recovery of orphaned agent files).**
+> - **§1 source — resolved by an existing file.** The typescript image is already in the repository:
+>   `2026-09-15_Fauquier_MarriageBonds_v4_image149_WilliamCaton_AnnLawrey.jpg` (+ crop), read in
+>   `2026-09-15_T17_fauquier-marriage-bonds_Jr-Sr-reread.md`. T17 records the same witness line
+>   ("James Payne of Thos, Presley Johnson, and Thomas Caton"). §1 therefore stands at **A for the
+>   typescript reading** on T17's retained image; ChatGPT's own `Transcript (99).pdf` is still not
+>   in evidence/ but is no longer needed for the grade.
+> - **Correction 3(b) amended.** T17 also shows the 1835 consent, signed `Thomas Caton Senior`, is
+>   witnessed by "Thomas Caton" and "William Caton" — there the witness can only be Thomas Jr. By the
+>   same pattern the "Thomas Caton" witnessing Thomas Jr's 1828 consent is most economically Thomas
+>   Sr., not a third man. What the two documents establish is that **both Thomases were alive and
+>   present in Dec 1828 and Apr 1835**; they do not add a third Thomas. C193's resolutions (a) and
+>   (b) both remain open on the 1830 bracket alone.
+> - **§8 "28 Feb 1825" — resolved: strike.** The ChatGPT package
+>   (`archive/imports/2026-09-18-investigative-streams/`, note [N5]) records that the date was
+>   unverified inside ChatGPT's own conversation. It has no source anywhere. Treat the sentence as
+>   void.
+> - **§9 "17 Sep research note" — resolved.** The source is the package's register item A12, the
+>   Jim Thoma (2013) MOGenWeb transcription of the 1850 Cooper census, archived at the Wayback
+>   Machine. Fetched and retained as
+>   `1850_CooperCo_MO_census_transcription_Thoma2013_mogenweb_archive.pdf`, with every Caton row
+>   extracted in `1850_CooperCo_MO_census_transcription_Thoma2013_Caton_entries.md`. Confirmed: p.148,
+>   Boonville, dwelling 66, line 24, Thomas Caton 77 M "Taylor" b. Virginia, last in John P. Maddex's
+>   household. That file also surfaces two Virginia-born Catons not previously in the project: James,
+>   19, carpenter (dwelling 335) and John W., 18, laborer, in William's household (dwelling 357).
+> - **§2 — applied.** `tasks/T13_fauquier-origin.md` now names the Chatham County error and points at
+>   the Gott index instead.
+> - **C196 vs T18 (item 15) — resolved by recovered evidence.** The Codex packet
+>   `tax-departure-2026-09-17/` (original tax images, SHA-verified) shows Cayton Thomas and William
+>   taxed in Ashby's district in 1836 and Thomas, William and "Thos (C B Smith)" in 1837, none in the
+>   1838 C section. C196's "gone after Apr 1835" is wrong as stated; the departure window is 1837–38.
+>
 > **Housekeeping.** `evidence/README.md` (manifest) not regenerated: the working tree is mid-merge
 > (`record-model` ← `origin/main`) with conflict markers in `claims.jsonl`, which
 > `tools/make-evidence-manifest.py` parses. A NOTES entry for this file has been added to the

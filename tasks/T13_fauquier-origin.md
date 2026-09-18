@@ -58,11 +58,16 @@ from the original marriage packet and early Cooper records, not as a parent assi
    distribution naming the two younger 1820 boys, especially Aaron or Joseph.
    The highest-yield source is John K. Gott, *Fauquier County, Virginia, Guardian
    Bonds, 1759-1871* (Heritage Books, 1990; ISBN 1556132735). It abstracts guardian,
-   ward, deceased-parent, estate-value, security, and witness names. FamilySearch
-   catalog [642321](https://www.familysearch.org/en/search/catalog/642321) identifies
-   the original *Record of guardians*, vol. B, 1800-1868, film 1689208 / DGS 8682856.
-   The catalogue currently supplies no online image access. Search the Gott index for
-   Caton, Caten, Catton, and Kitton before reading the original volume.
+   ward, deceased-parent, estate-value, security, and witness names. Search the Gott
+   index for Caton, Caten, Catton, and Kitton before reading any original volume.
+   **Corrected 18 Sep 2026:** the FamilySearch catalog entry formerly cited here
+   (642321, film 1689208 / DGS 8682856, *Record of guardians, 1800-1868*) is
+   **Chatham County, North Carolina**, not Fauquier — confirmed from the FamilySearch
+   wiki page for Chatham County, which links that catalog id. Do not use it; a negative
+   on that film would be a wrong-county negative. No Fauquier guardian-bond volume is
+   listed on LVA's Fauquier microfilm guide (VA083); the surviving county material is
+   what Gott abstracted. See
+   `evidence/T12-T13_chatgpt_2026-09-18_fauquier_rechecks.md` §2.
 2. **Fauquier-to-Cooper route, 1828-1842.** Verify the Thomas Caton-Elizabeth Ann
    Lawrey marriage directly, then identify their first Missouri record and the disposition
    of Thomas Senior, William, and Ann Lawrey. This may locate an estate, deed, or kin
