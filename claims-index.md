@@ -1,4 +1,4 @@
-# Claims index — generated 2026-09-18 from `claims.jsonl` (223 claims)
+# Claims index — generated 2026-09-18 from `claims.jsonl` (226 claims)
 
 Census household composition is canonical in `CATON_CENSUS_LEDGER.md`; use its stable IDs for row-level readings.
 
@@ -10,17 +10,17 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 
 | claim type | n | | lifecycle | n |
 |---|---:|---|---|---:|
-| fact | 160 | | active | 213 |
+| fact | 163 | | active | 215 |
 | hypothesis | 13 | | superseded | 3 |
-| negative | 26 | | reversed | 4 |
+| negative | 26 | | reversed | 5 |
 | do-not-merge | 3 | | void | 0 |
 | method | 20 | | moot | 1 |
 | other | 1 | | review | 2 |
 
 | evidence grade | n |
 |---|---:|
-| A | 117 |
-| B | 69 |
+| A | 122 |
+| B | 67 |
 | C | 37 |
 
 ## The load-bearing ones
@@ -122,9 +122,9 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 | C077 | B | hypothesis | active | 9 | Joseph Caton; Aaron Caton | CORROBORATED - UPGRADED C TO B. The obituary's 'FORKWARE county, Va.' (C076) is read as FAUQUIER COUNTY, VIRGI… |
 | C078 | A | negative | active | 9 | Joseph Caton | NEGATIVE. No Missouri death certificate exists for Joseph Caton despite his dying 21 May 1910, after statewide… |
 | C079 | B | negative | active | 9 | Caton in Fauquier Co., VA | WEAK NEGATIVE, SCOPED. 'Fauquier County, Virginia: Historical Notes' (1914) contains NO occurrence of Caton, C… |
-| C080 | B | fact | active | 9 | Thomas Caton (1820, county pending | [PROVISIONAL 16 Sep 2026 - GRADE LOWERED A->B per C192. No image was retained (this reading was 'supplied'), s… |
+| C080 | A | fact | active | 9 | Thomas Caton (1820, county pending | [RESTORED TO A, 18 Sep 2026 - the reel image is in evidence/ (1820_FauquierCo_VA_census_p46_ThosCaton_househol… |
 | ~~C081~~ | C | fact | superseded | 9 | Aaron Caton | PREDICTION FAILED - SEE C082/C083. This claim proposed that the 1830 Fauquier census would show Thos. Caton wi… |
-| C082 | B | fact | active | 9 | Caton households, Fauquier Co., VA | [PROVISIONAL 16 Sep 2026 - GRADE LOWERED A->B per C192 and C193. Derived from a FamilySearch index search with… |
+| C082 | A | fact | active | 9 | Caton households, Fauquier Co., VA | [RESTORED TO A, 18 Sep 2026 - the reel image is in evidence/ (1830_FauquierCo_VA_census_p471_Caton_households.… |
 | C083 | B | hypothesis | active | 9 | Aaron Caton; Joseph Caton | REFRAMED QUESTION, replacing C081's failed prediction. ESTABLISHED: (a) Joseph Caton was born in Fauquier Co. … |
 | C084 | A | method | active | 9 | Caton surname in Virginia | COMPLETE STATEWIDE MAP - Library of Virginia Chancery Records Index swept for the surname CATON across all 107… |
 | C085 | A | method | active | 9 | 1840 Delaware Co., OH census — eve | 1840 DELAWARE CO., OHIO (T11) - ALL FREE TEXT ROUTES ARE CLOSED; DO NOT RE-DERIVE THIS. (1) Internet Archive p… |
@@ -235,8 +235,8 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 | C190 | B | fact | active | pass12 | Thomas Caton (colonial) | COLONIAL THOMAS CATON OF FREDERICK COUNTY, VIRGINIA — NORTHERN NECK LANDHOLDER, GENTLEMAN, JUSTICE, AND MILITI… |
 | C191 | B | fact | active | pass12 | George W. Caton / Joseph Caton | 1883 HISTORY OF HOWARD AND COOPER COUNTIES NAMES GEORGE W. CATON 'THE TAILOR' AMONG EARLY BOONVILLE TRADESMEN … |
 | C192 | A | fact | active | 13 | Thomas Caton household, Fauquier C | C080 IS ANOMALOUS ON THE 1820 FORM AND MUST BE RE-READ FROM THE IMAGE. [CORRECTED 16 Sep, same day: this claim… |
-| C193 | A | fact | active | 13 | Thomas Caton Jr. and Thomas Caton  | TWO GRADE-A CLAIMS CONTRADICT EACH OTHER AND CANNOT BOTH STAND. (1) C092, from the primary marriage papers: Th… |
-| C194 | C | hypothesis | active | 13 | Thomas Caton Jr. (William’s father | HYPOTHESIS, C-LEVEL, NOT ASSERTED. The project has weighed Thomas Sr. against Moses. A third man sits in a gra… |
+| C193 | A | fact | active | 13 | Thomas Caton Jr. and Thomas Caton  | [UPDATE 18 Sep 2026: resolution (a) is DEAD - the 1830 image shows 'Jun' in the 20-30 column beyond doubt (C20… |
+| ~~C194~~ | C | hypothesis | reversed | 13 | Thomas Caton Jr. (William’s father | [DEAD AS FRAMED, 18 Sep 2026: the kill condition stated below - 'the 1830 bracket reads 20-30' - is met from t… |
 | C195 | B | fact | active | 13 | Aaron and Joseph Caton - Virginia  | THE UNTRIED RECORD CLASS, AND A COUNTY-BY-COUNTY SURVIVAL SURVEY. ARGUMENT: Aaron (10) and Joseph (7) are in N… |
 | C196 | A | fact | active | 13 | PARENTAGE-TESTS A1 - Fauquier pers | [CORRECTED 18 Sep 2026 - PREMISE FALSIFIED BY C201. The Fauquier tax originals show Cayton Thomas and William … |
 | C197 | C | fact | active | 13 | Nancy Roseman Caton - the T09 nami | T09 RESTS ON AN UNSOURCED MIDDLE NAME, AND THE SURNAME READING POINTS THE WRONG WAY. C017 corroborates a Nancy… |
@@ -266,6 +266,9 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 | C205 | B | fact | active | 14 | Thomas Caton (77, tailor) and Jame | TWO VIRGINIA-BORN CATONS IN THE 1850 COOPER TRANSCRIPTION WHO ARE NOT IN THE PROJECT'S CURRENT MODEL, AND ONE … |
 | C206 | A | fact | active | 14 | Thos Caton Snr and Thos Caton Junr | TWO THOMAS CATONS IN COOPER COUNTY BY 1846, FROM THE IMAGES (Codex, 17 Sep 2026; recovered 18 Sep). (1) Cooper… |
 | C207 | C | hypothesis | active | 14 | Thomas Caton Sr.'s wife in 1810 an | HYPOTHESIS, C-LEVEL. C159 reads the 1810 Fauquier household (M 45+, F 16-26, F 45+) as Thomas, his wife (45+) … |
+| C208 | A | fact | active | 14 | Thomas Caton Sen, Thomas Caton Jun | THE RE-READ PARENTAGE-TESTS 0 ASKED FOR - DONE FROM THE RETAINED IMAGE, AND C082 IS CONFIRMED IN EVERY CELL. S… |
+| C209 | A | fact | active | 14 | Thos. Caton - Fauquier 1820 p.46,  | THE SECOND RE-READ OF PARENTAGE-TESTS 0 - DONE FROM THE RETAINED IMAGE; C080 CONFIRMED CELL BY CELL, ANOMALY I… |
+| C210 | A | fact | active | 14 | Thomas Caton, Wm Caton, Thos Caton | TWO COURT-BOOK PAGES FROM SPENCER'S 17 SEP CAPTURES, READ 18 SEP. (1) Fauquier County Court, continued and hel… |
 
 ## Unresolved discrepancies and identity checks
 
@@ -278,3 +281,4 @@ Alternatives and claim/source links are canonical in `discrepancies.jsonl`. Iden
 | D-005 | unresolved | identity_check | William Caton in the 1850 Cooper and 1860 Bates censuses | Compare the full household members, migration path, and independent records before merging. |
 | D-009 | unresolved | discrepancy | 1840 Delaware County James Cayton source locator | Recover the exact index URL, source citation, or Delaware County page underlying C101; then verify head, locality, and age columns before restoring normalized counts or using the claim. |
 | D-010 | open | discrepancy | 1810 Fauquier Thomas Caton household - relationship of the two women | Search Fauquier and Prince William marriage bonds for Thomas Caton BEFORE 1810 (c.1795-1809) as well as 1811-19; any bond dated 1811-19 kills C207. |
+| D-012 | open | identity_check | Who is 'Thomas Caton Jr', William Caton's consenting father of 6 Dec 1828 (C092), given that the 1830 'Thomas Caton Jun' is a male 20-30 (C208)? | Find the loose original 1828 consent (Fauquier marriage bonds vol. 7 is the original-record volume per T17's catalog note) or any pre-1933 abstract; read the 1828 tax list (C201: Thomas, William, Thomas Jr all separate) for property columns; confirm the 1820 male 16-18 (C209) as the later Jun. |

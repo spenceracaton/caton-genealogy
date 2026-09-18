@@ -13,8 +13,8 @@ C-level.** See
 - **Thomas Sr.** (Fauquier; b. 1760–65; two boys under ten in 1820) — the former leader.
 - **Moses** (Fairfax; b. 1767) — effectively excluded: his 1820 boy under ten is his known
   son Moses B. Jr., b. Jan 1811 (C181), and every male in his house is a known son (C187).
-- **Thomas Jr.**, William's father (C092, grade A for the man; **C194, grade C for the
-  hypothesis**) — new, never evaluated, and **not promoted**: it lives in this file only.
+- **Thomas Jr.**, William's father (C092, grade A for the man; **C194 — dead as framed, 18 Sep:
+  the 1830 "Jun" is 20–30, C208**) — retained below as the record of the hypothesis.
   A widower who remarried Elizabeth Lawrey Dec 1828 (C173) and who heads no census
   household this project has correctly identified. Makes Aaron William's *brother*, not
   his uncle, which fits Aaron dying among William's family on the Laurie lot (C108, C149)
@@ -36,7 +36,20 @@ are now graded **B**.
 Every test below either names a parent outright or moves the balance between the three.
 Ordered by (chance it exists) × (what it proves) ÷ (effort).
 
-## 0. THE RE-READ THAT COMES BEFORE EVERYTHING (C192, C193)
+## 0. THE RE-READ THAT COMES BEFORE EVERYTHING (C192, C193) — **DONE 18 Sep 2026 (C208, C209)**
+
+**Result.** Both pages were in Spencer's 17 Sep downloads and are now in `evidence/`. Fauquier
+1830 p.471: William — M 20–30; **Thomas Caton Jun — M under 5 = 1, M 20–30 = 1**, F 20–30 = 1;
+Thomas Caton Sen — M 60–70 = 1, F under 5 = 2, 10–15 = 1, 15–20 = 1, 40–50 = 1. C082 confirmed
+in every cell; "Jun" is 20–30 beyond doubt. Fauquier 1820 p.46: `Caton Thos.` — M 2/1/1/–/–/1,
+F 1/–/–/1/–; C080 confirmed, the 16–18/16–26 anomaly is in the manuscript (the row above has
+both columns filled). **C080 and C082 are restored to A.** Item 1 below is answered *20–30*, so
+C193 resolution (a) is dead and C194 is dead as framed; item 2 is answered *no male 26–45*, so
+the grandsons alternative has nothing to hang on. What is left is D-012: either William's
+consenting father "Thomas Caton Jr" (C092, a 1933 typescript) heads no 1830 household, or the
+typed "Jr" is wrong and William and Thomas Jun are brothers, sons of Sen — the reading the 1830
+tax pair (C201) and the 4 Dec 1830 road order (C210: Thomas Caton, Wm Caton, Thos Caton sen, with
+Daniel and Newton Lawry) both fit. The original text of §0 follows as the record of the test.
 
 **Fauquier 1830, p.471 and the Fauquier 1820 alphabetical C page — from the reel, column by
 column against the printed header, images retained.** Cheapest test in the project; it sits

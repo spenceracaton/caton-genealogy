@@ -1,7 +1,7 @@
 # Caton census ledger
 
 Status: canonical row-level census register  
-Version: 1.2, 18 September 2026
+Version: 1.3, 18 September 2026
 Scope: census households and bounded census coverage checks currently used by the active Caton research files
 
 This is the canonical place to read census composition. BRIEF.md, dated handoffs, and task files may interpret these records, but they must not become competing transcriptions. This ledger does not replace source images, transcriptions, or claims.jsonl; it gives those layers one stable household ID and one consistent schema.
@@ -94,20 +94,20 @@ line, dwelling_number, family_number, surname_as_written, given_name_as_written,
 
 ### US-1820-VA-FAUQUIER-THOMAS-ELDER-01
 
-- claim_ids: C080
+- claim_ids: C080, C209
 - year: 1820; reference_date: 1820-08-07
-- state: Virginia; county: Fauquier; locality: alphabetical C page
-- head_as_written: Thos. Caton
-- source_citation: 1820 federal census, Fauquier County, Virginia
-- page_or_image: alphabetical C page; page number not recorded in C080; source_image: not retained
-- image_inspected: yes per C080; local path not retained; source_layer: primary_image_plus_index
-- transcription_confidence: high for categories; citation package incomplete
+- state: Virginia; county: Fauquier; locality: alphabetical C page, p.46, last entry before the totals
+- head_as_written: Caton Thos.
+- source_citation: 1820 federal census, Fauquier County, Virginia, NARA M33 roll 136, p.46
+- page_or_image: p.46; source_image: evidence/1820_FauquierCo_VA_census_p46_ThosCaton_household.jpg (crops: _header_crop, _ThosCaton_row_crop)
+- image_inspected: yes, 18 Sep 2026, read against the handwritten header (C209); source_layer: primary_image
+- transcription_confidence: high
 - raw_observation: males under 10 = 2, 10_16 = 1, 16_18 = 1, 16_26 = none, 26_45 = none, 45_plus = 1; females under 10 = 1, 26_45 = 1
 - normalized_observation: males {under_10: 2, 10_16: 1, 16_18: 1, 16_26: 0, 26_45: 0, 45_plus: 1}; females {under_10: 1, 10_16: 0, 16_26: 0, 26_45: 1, 45_plus: 0}; household_total 6
 - interpretation: one under-10 slot fits AARON-1820; the other may be a brother, stepson, or grandson. Presence and parentage remain unproved.
 - identity_status: THOMAS-FAUQUIER-ELDER; candidate household for AARON-1820
-- evidence_status: claim-level image reading; raw image path/page citation still needs attachment
-- last_verified: 2026-09-15
+- evidence_status: image-verified; the 16-18 = 1 / 16-26 = none combination is in the manuscript (the row above, Cockrill, has both columns filled)
+- last_verified: 2026-09-18
 
 ### US-1820-VA-FAIRFAX-MOSES-01
 
@@ -176,51 +176,51 @@ line, dwelling_number, family_number, surname_as_written, given_name_as_written,
 
 ### US-1830-VA-FAUQUIER-THOMAS-SENIOR-01
 
-- claim_ids: C082
+- claim_ids: C082, C208
 - year: 1830; reference_date: 1830-06-01
 - state: Virginia; county: Fauquier; locality: p.471
 - head_as_written: Thomas Caton Sen.
-- source_citation: 1830 federal census, Fauquier County, Virginia; FamilySearch surname search
-- page_or_image: p.471; source_image: not retained; image_inspected: yes per C082
-- source_layer: primary_image_plus_index; transcription_confidence: high
+- source_citation: 1830 federal census, Fauquier County, Virginia, p.471 (NARA M19); FamilySearch image
+- page_or_image: p.471; source_image: evidence/1830_FauquierCo_VA_census_p471_Caton_households.jpg (crops: _males_crop, _females_crop); image_inspected: yes, 18 Sep 2026, column by column against the printed header (C208)
+- source_layer: primary_image; transcription_confidence: high
 - raw_observation: male 60_70 = 1; females under 5 = 2, 10_15 = 1, 15_20 = 1, 40_50 = 1; no sons
 - normalized_observation: males {under_5: 0, 5_10: 0, 10_15: 0, 15_20: 0, 20_30: 0, 30_40: 0, 40_50: 0, 50_60: 0, 60_70: 1, 70_80: 0, 80_90: 0, 90_100: 0, 100_plus: 0}; females {under_5: 2, 5_10: 0, 10_15: 1, 15_20: 1, 20_30: 0, 30_40: 0, 40_50: 1, 50_60: 0, 60_70: 0, 70_80: 0, 80_90: 0, 90_100: 0, 100_plus: 0}; household_total 6
 - interpretation: age-consistent with THOMAS-FAUQUIER-ELDER; AARON-1820 and JOSEPH-FAUQUIER-1823 are not in this household in 1830
 - identity_status: THOMAS-FAUQUIER-ELDER
-- evidence_status: claim-level image reading plus indexed completeness
-- last_verified: 2026-09-15
+- evidence_status: image-verified
+- last_verified: 2026-09-18
 
 ### US-1830-VA-FAUQUIER-THOMAS-JUNIOR-01
 
-- claim_ids: C082
+- claim_ids: C082, C208
 - year: 1830; reference_date: 1830-06-01
 - state: Virginia; county: Fauquier; locality: p.471
 - head_as_written: Thomas Caton Jun.
-- source_citation: 1830 federal census, Fauquier County, Virginia; FamilySearch surname search
-- page_or_image: p.471; source_image: not retained; image_inspected: yes per C082
-- source_layer: primary_image_plus_index; transcription_confidence: high
+- source_citation: 1830 federal census, Fauquier County, Virginia, p.471 (NARA M19); FamilySearch image
+- page_or_image: p.471; source_image: evidence/1830_FauquierCo_VA_census_p471_Caton_households.jpg (crops: _males_crop, _females_crop); image_inspected: yes, 18 Sep 2026, column by column against the printed header (C208)
+- source_layer: primary_image; transcription_confidence: high
 - raw_observation: male under 5 = 1 and 20_30 = 1; female 20_30 = 1
 - normalized_observation: males {under_5: 1, 5_10: 0, 10_15: 0, 15_20: 0, 20_30: 1, 30_40: 0, 40_50: 0, 50_60: 0, 60_70: 0, 70_80: 0, 80_90: 0, 90_100: 0, 100_plus: 0}; females {under_5: 0, 5_10: 0, 10_15: 0, 15_20: 0, 20_30: 1, 30_40: 0, 40_50: 0, 50_60: 0, 60_70: 0, 70_80: 0, 80_90: 0, 90_100: 0, 100_plus: 0}; household_total 3
-- interpretation: candidate Thomas Jr. from marriage papers; not a household for AARON-1820
+- interpretation: a male 20-30 (b. 1800-10) - NOT the consenting father of William (b. 1800-10) of Dec 1828 unless the typescript 'Jr' is wrong (D-012); not a household for AARON-1820
 - identity_status: THOMAS-FAUQUIER-YOUNGER
-- evidence_status: claim-level image reading plus indexed completeness
-- last_verified: 2026-09-15
+- evidence_status: image-verified
+- last_verified: 2026-09-18
 
 ### US-1830-VA-FAUQUIER-WILLIAM-01
 
-- claim_ids: C082
+- claim_ids: C082, C208
 - year: 1830; reference_date: 1830-06-01
 - state: Virginia; county: Fauquier; locality: p.471
 - head_as_written: William Caton
-- source_citation: 1830 federal census, Fauquier County, Virginia; FamilySearch surname search
-- page_or_image: p.471; source_image: not retained; image_inspected: yes per C082
-- source_layer: primary_image_plus_index; transcription_confidence: high
+- source_citation: 1830 federal census, Fauquier County, Virginia, p.471 (NARA M19); FamilySearch image
+- page_or_image: p.471; source_image: evidence/1830_FauquierCo_VA_census_p471_Caton_households.jpg (crops: _males_crop, _females_crop); image_inspected: yes, 18 Sep 2026, column by column against the printed header (C208)
+- source_layer: primary_image; transcription_confidence: high
 - raw_observation: male 20_30 = 1; females under 5 = 1 and 20_30 = 1
 - normalized_observation: males {under_5: 0, 5_10: 0, 10_15: 0, 15_20: 0, 20_30: 1, 30_40: 0, 40_50: 0, 50_60: 0, 60_70: 0, 70_80: 0, 80_90: 0, 90_100: 0, 100_plus: 0}; females {under_5: 1, 5_10: 0, 10_15: 0, 15_20: 0, 20_30: 1, 30_40: 0, 40_50: 0, 50_60: 0, 60_70: 0, 70_80: 0, 80_90: 0, 90_100: 0, 100_plus: 0}; household_total 3
 - interpretation: candidate William from the 1829 marriage papers and later Cooper cluster
 - identity_status: WILLIAM-FAUQUIER
-- evidence_status: claim-level image reading plus indexed completeness
-- last_verified: 2026-09-15
+- evidence_status: image-verified
+- last_verified: 2026-09-18
 
 ### US-1830-VA-FAIRFAX-MOSES-01
 

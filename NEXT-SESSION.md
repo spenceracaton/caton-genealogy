@@ -7,7 +7,14 @@ this file is an action queue, not an evidence record.
 demoted — its window is self-defeating (C196). Three things now come first, and all
 three are cheap.
 
-## Priority 1 — Re-read two Fauquier census pages from the reel, images retained
+## Priority 1 — ~~Re-read two Fauquier census pages~~ DONE 18 Sep (C208, C209)
+
+Both pages were in your 17 Sep downloads (`image (24).jpg`, `image (25).jpg`) and are now in
+`evidence/`. "Thomas Caton Jun" is a male 20–30; the 1820 house has no male 26–45; C080 and
+C082 are back at A. Replacement item: **the loose original of the 6 Dec 1828 consent** —
+Fauquier marriage bonds vol. 7 is the original-record volume (T17's catalog note) — to see
+whether the 1933 typist's "Jr" is on the paper (D-012). The text below is kept as the record of
+the test.
 
 **Fauquier 1830, p.471 (all three Caton households) and the Fauquier 1820 alphabetical
 C page.** Within the Virginia-belt 1820/1830 set these are the only positives with no

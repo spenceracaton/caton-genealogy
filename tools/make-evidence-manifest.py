@@ -7,6 +7,15 @@ ev = root/"evidence"
 rows = [json.loads(l) for l in (root/"claims.jsonl").open() if l.strip()]
 
 NOTES = {
+ "1830_FauquierCo_VA_census_p471_Caton_households.jpg": "1830 Fauquier p.471, full page (Spencer, 17 Sep): William Caton M 20-30; Thomas Caton Jun M <5 1, 20-30 1, F 20-30 1; Thomas Caton Sen M 60-70 1, F <5 2, 10-15 1, 15-20 1, 40-50 1 (C208). Confirms C082.",
+ "1830_FauquierCo_VA_census_p471_Caton_households_males_crop.jpg": "Header + male columns, rows 1-10 (C208).",
+ "1830_FauquierCo_VA_census_p471_Caton_households_females_crop.jpg": "Header + female columns, rows 1-10 (C208).",
+ "1820_FauquierCo_VA_census_p46_ThosCaton_household.jpg": "1820 Fauquier p.46, full page (Spencer, 17 Sep): Caton Thos. M 2/1/1/-/-/1, F 1/-/-/1/- (C209). Confirms C080, anomaly included.",
+ "1820_FauquierCo_VA_census_p46_header_crop.jpg": "Handwritten column header of p.46 (C209).",
+ "1820_FauquierCo_VA_census_p46_ThosCaton_row_crop.jpg": "Carter, Cockrill, Caton rows and the totals line (C209).",
+ "1830-12-04_FauquierCo_VA_MinuteBook_road_order_Laury_Caton_Payne.jpg": "Fauquier court, 4 Dec 1830: road order naming Danl. and Newton Lawry, Thomas Caton, Wm Caton, Thos. Caton sen., the Paynes, Presley Johnson (C210).",
+ "1809-09-12_FauquierCo_VA_SuperiorCourt_minute_Armistead_MosesCaton_security.jpg": "Fauquier Superior Court, 12 Sep 1809: Morgan & Co. v. John B. Armistead - execution against him and Moses Caton (C210).",
+ "spencer-captures-2026-09-16-17": "Spencer's raw FamilySearch downloads of 16-17 Sep 2026 not otherwise in the repo (66 files): Prince William/Fauquier PP tax pages 1780s-1810s with Thomas, Moses, Aaron and Wm Caton entries; Fauquier minute-book indexes (DGS 008359359); PW General Index to Deeds pages; 1798 Hitch-Caton bond typescript; Kent Co. DE will of John Caton 1769-74. README.md inside identifies each file at a glance; nothing transcribed or graded.",
  "1850_CooperCo_MO_census_transcription_Thoma2013_mogenweb_archive.pdf": "Jim Thoma (2013) MOGenWeb transcription of the 1850 Cooper Co. census, Wayback copy (ChatGPT register A12). Derivative, grade B.",
  "1850_CooperCo_MO_census_transcription_Thoma2013_Caton_entries.md": "Every Caton row from the Thoma 1850 Cooper transcription: Thomas 77 'Taylor' b. VA in John P. Maddex's Boonville household (p.148 dw.66); James 19 carpenter b. VA (dw.335); William 38 with John W. 18 b. VA (dw.357); John 53 b. Delaware (dw.902); Thomas 40 b. KY (dw.1038).",
  "tax-departure-2026-09-17": "Codex tax/departure packet (recovered 18 Sep from an uncommitted worktree): Fauquier PP tax originals DGS 7849110/7849111, 1822-1838 - Thomas Jr separate from 1828; 'Cayton Thomas & William' joint 1830-31; Thomas, William, Thomas Jr each 1 WM 1832, 1834, 1835; Thomas + William 1836; Thomas, William, 'Thos (C B Smith)' 1837; no Caton in Ashby's 1838 C section. REPORT.md, SOURCES.tsv, SHA256SUMS.txt inside. Resolves the C196-vs-T18 conflict in favour of T18: two Thomases still taxed in 1836-37.",

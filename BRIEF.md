@@ -1,7 +1,7 @@
 # Caton genealogy — working brief
 
 **State:** research synthesis last reviewed 18 September 2026, after fourteen
-research passes; 223 claims are registered (C001–C207 with gaps, G001–G019). Corrections from
+research passes; 226 claims are registered (C001–C210 with gaps, G001–G019). Corrections from
 every pass are applied here; do not read `archive/` unless asked to reconstruct how a
 conclusion was reached. **Research question:** Who were the parents of Aaron Caton, born
 16 May 1820 in Virginia? They remain unknown. The parentage case is grade C; do
@@ -40,15 +40,19 @@ C105–C106). A Thomas Caton of Tyler County is a separate candidate with no loc
 Aaron was enumerated in 1840: he was not a household head and may be a tally in
 another household.
 
-**Structural error in the Fauquier reconstruction, 16 Sep (C192, C193).** C092
-(grade A, primary marriage papers) makes **Thomas Caton Jr.** William's father, yet C082
-reads both men 20–30 in 1830; a man 20–30 cannot father a man 20–30. That
-identification is load-bearing in C101, C124, C128, C180 and C183. **C080 and C082 are
-therefore graded B**: within the Virginia-belt 1820/1830 set they are the only positives
-with no retained image, and neither reading can be re-checked. Re-read Fauquier 1830
-p.471 and the 1820 C page from the reel before building further on either. A third
-candidate father, Thomas Jr., follows if the bracket moves; it is C-level (C194) and
-lives in `PARENTAGE-TESTS.md` §0, not here.
+**The Fauquier census pages are now read from the images (18 Sep; C208, C209).** Fauquier
+1830 p.471 and 1820 p.46 were in Spencer's 17 Sep downloads; both confirm C082 and C080
+cell for cell, and **both are restored to A**. "Thomas Caton Jun" in 1830 is a male 20–30
+with a wife 20–30 and a son under 5; Thomas Sen is 60–70 with a wife 40–50; William is
+20–30. The 1820 house has no male 26–45. So the structural problem C192/C193 raised is
+narrowed to one question (D-012): C092's 1933 typescript calls William's consenting
+father of Dec 1828 "Thomas Caton Jr", but the only young Thomas in 1830 is William's
+contemporary. Either a third Thomas heads no household, or the typed "Jr" is wrong and
+William and Thomas Jun are brothers, sons of Sen — which the 1830 tax pair ("Cayton
+Thomas Sen"; "Cayton Thomas & William", C201) and the 4 Dec 1830 road order (Thomas
+Caton, Wm Caton, Thos Caton sen, beside Daniel and Newton Lawry, C210) both fit. C194
+(Thomas Jr. as a third candidate father) is dead as framed. Aaron is still in no Caton
+household in 1830.
 
 **Do not make George W. Caton the father.** The Alexandria-born Boonville tailor's
 1840 household has age-compatible young men, but he headed no household in 1820
@@ -104,9 +108,10 @@ describe another family (C105, C127). Do not use surname similarity to bridge it
 
 What can still name a parent, in order (re-ranked 16 Sep):
 
-0. **Re-read Fauquier 1830 p.471 and Fauquier 1820's C page from the reel, images
-   retained** (C192, C193). Cheapest test in the project and it sits under all the
-   others; C080 and C082 stay B until it is done.
+0. ~~Re-read Fauquier 1830 p.471 and Fauquier 1820's C page~~ — **done (C208, C209)**.
+   Next on the same thread: the loose original of the 1828 consent (Fauquier marriage
+   bonds vol. 7 is the original-record volume) to settle whether "Jr" is the typist's
+   (D-012).
 1. **Virginia apprenticeship / Overseers of the Poor — the untried class** (C195).
    Both boys absent from every Caton house in 1830 while their sisters stay home, and
    both became tailors — the signature of a bound apprenticeship, and such an entry
