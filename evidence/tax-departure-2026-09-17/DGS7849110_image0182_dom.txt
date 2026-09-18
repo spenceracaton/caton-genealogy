@@ -1,0 +1,123 @@
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-39PP-S?view=fullText&keywords=Caton&searchForm=advanced&lang=en
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832" [level=1]':
+    - generic: "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number": "182"
+      - paragraph: of 807
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58203-48396-41 181":
+        - img "TH-909-58203-48396-41"
+        - generic: "181"
+      - option "TH-909-58203-48392-93, Image has previously been viewed" [selected]:
+        - img "TH-909-58203-48392-93"
+        - generic: "182"
+      - option "TH-909-58203-48551-96 183":
+        - img "TH-909-58203-48551-96"
+        - generic: "183"
+      - option "TH-909-58203-48424-2 184":
+        - img "TH-909-58203-48424-2"
+        - generic: "184"
+      - option "TH-909-58203-48535-96 185":
+        - img "TH-909-58203-48535-96"
+        - generic: "185"
+      - option "TH-909-58203-48433-1 186":
+        - img "TH-909-58203-48433-1"
+        - generic: "186"
+      - option "TH-909-58203-48508-1 187":
+        - img "TH-909-58203-48508-1"
+        - generic: "187"
+      - option "TH-909-58203-48348-31 188":
+        - img "TH-909-58203-48348-31"
+        - generic: "188"
+      - option "TH-909-58203-48345-0 189":
+        - img "TH-909-58203-48345-0"
+        - generic: "189"
+      - option "TH-909-58203-48333-12 190":
+        - img "TH-909-58203-48333-12"
+        - generic: "190"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 169"
+  - button "Go to image 170"
+  - button "Go to image 171"
+  - button "Go to image 172"
+  - button "Go to image 173"
+  - button "Go to image 174"
+  - button "Go to image 175"
+  - button "Go to image 176"
+  - button "Go to image 177"
+  - button "Go to image 178"
+  - button "Go to image 179"
+  - button "Go to image 180"
+  - button "Go to image 181"
+  - button "Go to image 182, viewed"
+  - button "Go to image 183"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - text: 1822 Febry 29 Male Ape Mich per Feby 11 Ball Enoch Brooks William Sew Brooks , Thomas Brooks William J. Brown James Boatler Joseph Beal Mr - Beal John G. Bower William Blackwell William Beall Richard Blackwell John Branum John Borough Samuel Bowen Rachael Ball Joseph Bolin Benjamin Bradford William Brent Thomas Bowie John Bowie Watson Bastable George Brown William 4 5 8 Conner 8 . Chancellor Co 25 Cawer Baley 29 Conway Peter To Cartney Cave Leonard who Cooksey Seven Conner Thomas Colling John Colling Joseph Conner William John Counce James McCashlin , Oliver Colling Robert Collins William Crawley Menah Creel William 9 . Cove Charles Chadwell Brant
+    - generic: Caton
+    - text: Thomas 15 Church Andrew 2 14 11 . 11 . 16 4 6 . 10 2 I 1 . 4 3 2 11 14 . 4 4 V. 3 of 2 5 5 6 . 6 of 11 . 6 2 of 2 11 . 11 . 1 . 2 2 5 2 2 3 . 161 4 00 - 161 of House of Steet & 2 Courke of 8 . 4 2 4 50 00 R 1 10 . 12 . 22 . 4 S 497 2 . S 39 11.99 27 3 . S 3 . & 12.49 125.95 4
+- button "Feedback":
+  - text: Feedback

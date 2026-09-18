@@ -1,0 +1,120 @@
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845" [level=1]':
+    - generic: "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number" [active]: "137"
+      - paragraph: of 717
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58196-64191-14 131":
+        - img "TH-909-58196-64191-14"
+        - generic: "131"
+      - option "TH-909-58196-64260-6 132":
+        - img "TH-909-58196-64260-6"
+        - generic: "132"
+      - option "TH-909-58196-64195-10 133":
+        - img "TH-909-58196-64195-10"
+        - generic: "133"
+      - option "TH-909-58196-64222-96 134":
+        - img "TH-909-58196-64222-96"
+        - generic: "134"
+      - option "TH-909-58196-64182-15 135":
+        - img "TH-909-58196-64182-15"
+        - generic: "135"
+      - option "TH-909-58196-64317-2, Image has previously been viewed":
+        - img "TH-909-58196-64317-2"
+        - generic: "136"
+      - option "TH-909-58196-64415-3, Image has previously been viewed" [selected]:
+        - img "TH-909-58196-64415-3"
+        - generic: "137"
+      - option "TH-909-58196-64213-95 138":
+        - img "TH-909-58196-64213-95"
+        - generic: "138"
+      - option "TH-909-58196-64242-0 139":
+        - img "TH-909-58196-64242-0"
+        - generic: "139"
+      - option "TH-909-58196-64402-98 140":
+        - img "TH-909-58196-64402-98"
+        - generic: "140"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 126"
+  - button "Go to image 127"
+  - button "Go to image 128"
+  - button "Go to image 129"
+  - button "Go to image 130"
+  - button "Go to image 131"
+  - button "Go to image 132"
+  - button "Go to image 133"
+  - button "Go to image 134"
+  - button "Go to image 135"
+  - button "Go to image 136, viewed"
+  - button "Go to image 137, viewed"
+  - button "Go to image 138"
+  - button "Go to image 139"
+  - button "Go to image 140"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - generic: A List of taxable property within the District of Thomson Ashly Commissioner of the Revenue for the year 1835 him to me al 1835 Febuary 20 25 March A Names of Owners Ash Francis T Ashby John J Ashby Nimrod T Adams Josiah Adams Benjamin Anderson Robert C Adams Alexander William C Grigsby Ashby Robert S Ashby Elizabeth F. Ash Thornton Adams Peter Ashby Marshall Ashby Alsenan Ashby Turner Ashby William C Allerson Richard Ashton Thomas Ashton Elizabeth Allen Lewis Clarkson Adams George B Warrenton Allerson William Allerson Martin Allen Thomas Selin Anderson Spencer Adams Frances Ashton Ann A Adams George T while ever one year 1 2 1 2 1 2 of 30 in 11 years old of 3 W 1 21 A 21 1 1 1 2 Horses S 3 10 April & 4 Gigge Valuation 150 126 155 boung me out of 8 laves Horsey and 150 Gift no Ⓧ is 11 12 71 & 43 of 2 10
+- button "Feedback":
+  - text: Feedback

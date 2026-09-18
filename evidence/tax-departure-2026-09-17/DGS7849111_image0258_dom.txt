@@ -1,0 +1,120 @@
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845" [level=1]':
+    - generic: "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number" [active]: "258"
+      - paragraph: of 717
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58196-63925-32 256":
+        - img "TH-909-58196-63925-32"
+        - generic: "256"
+      - option "TH-909-58196-64096-8 257":
+        - img "TH-909-58196-64096-8"
+        - generic: "257"
+      - option "TH-909-58196-64087-9, Image has previously been viewed" [selected]:
+        - img "TH-909-58196-64087-9"
+        - generic: "258"
+      - option "TH-909-58196-64019-95 259":
+        - img "TH-909-58196-64019-95"
+        - generic: "259"
+      - option "TH-909-58196-64013-41 260":
+        - img "TH-909-58196-64013-41"
+        - generic: "260"
+      - option "TH-909-58196-63980-27 261":
+        - img "TH-909-58196-63980-27"
+        - generic: "261"
+      - option "TH-909-58196-63968-59 262":
+        - img "TH-909-58196-63968-59"
+        - generic: "262"
+      - option "TH-909-58196-63985-52 263":
+        - img "TH-909-58196-63985-52"
+        - generic: "263"
+      - option "TH-909-58196-63940-19 264":
+        - img "TH-909-58196-63940-19"
+        - generic: "264"
+      - option "TH-909-58196-63954-27 265":
+        - img "TH-909-58196-63954-27"
+        - generic: "265"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 251"
+  - button "Go to image 252"
+  - button "Go to image 253"
+  - button "Go to image 254"
+  - button "Go to image 255"
+  - button "Go to image 256"
+  - button "Go to image 257"
+  - button "Go to image 258, viewed"
+  - button "Go to image 259"
+  - button "Go to image 260"
+  - button "Go to image 261"
+  - button "Go to image 262"
+  - button "Go to image 263"
+  - button "Go to image 264"
+  - button "Go to image 265"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - generic: FAUQUIER COUNTY . PERSONAL PROPERTY TAX BOOK 1837 -
+- button "Feedback":
+  - text: Feedback

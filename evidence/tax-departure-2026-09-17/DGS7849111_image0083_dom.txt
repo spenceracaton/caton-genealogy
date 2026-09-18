@@ -1,0 +1,122 @@
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845" [level=1]':
+    - generic: "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number": "83"
+      - paragraph: of 717
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58196-64264-10 81":
+        - img "TH-909-58196-64264-10"
+        - generic: "81"
+      - option "TH-909-58196-64297-39 82":
+        - img "TH-909-58196-64297-39"
+        - generic: "82"
+      - option "TH-909-58196-64492-32, Image has previously been viewed" [selected]:
+        - img "TH-909-58196-64492-32"
+        - generic: "83"
+      - option "TH-909-58196-64313-98 84":
+        - img "TH-909-58196-64313-98"
+        - generic: "84"
+      - option "TH-909-58196-64280-14 85":
+        - img "TH-909-58196-64280-14"
+        - generic: "85"
+      - option "TH-909-58196-64349-14 86":
+        - img "TH-909-58196-64349-14"
+        - generic: "86"
+      - option "TH-909-58196-64303-96 87":
+        - img "TH-909-58196-64303-96"
+        - generic: "87"
+      - option "TH-909-58196-64282-8 88":
+        - img "TH-909-58196-64282-8"
+        - generic: "88"
+      - option "TH-909-58196-64331-0 89":
+        - img "TH-909-58196-64331-0"
+        - generic: "89"
+      - option "TH-909-58196-64279-37 90":
+        - img "TH-909-58196-64279-37"
+        - generic: "90"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 70"
+  - button "Go to image 71"
+  - button "Go to image 72"
+  - button "Go to image 73"
+  - button "Go to image 74"
+  - button "Go to image 75"
+  - button "Go to image 76"
+  - button "Go to image 77"
+  - button "Go to image 78"
+  - button "Go to image 79"
+  - button "Go to image 80"
+  - button "Go to image 81"
+  - button "Go to image 82"
+  - button "Go to image 83, viewed"
+  - button "Go to image 84"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - text: 18 24 25 28 Mac
+    - generic: Cayton
+    - text: William 1 Chinn Hugh Salem 1 Chappellear , Armistead Do 11 2 Carter Edward " 2 Clarkson Henry M 115228 Caynor James 12 " 3 Crop Resley 11 " 12 Campbell Gustavis 13 1 " Cockrell Ruben 2 Creel , William 1 2 Creel . William of Wm - Creel Elijah 1 1 Carter Frances 2 1 2 Crump John Elkkan 1 Camp Beverly 1 1 Crump Nathaniel H 1 & 4 1 Coatney John of Lenard Coating Joseph Do 1 1 Coaling Albert To 1 4 of Cotney Alice 2 Coathey Sarah 3 Coatney Richard 1 4 to Chapman Sidney F. 1 4 Chapman Frederick A. 3 Crump Lucy 1 1 Crump William W 2 2 Clopton Nathaniel V. 1 2 28 26 38 9 4 Carryall $ 1.00 100 10 1 27 93 68 31 31 a 6 12 18 W 31 75 62 29 30 Feby 12 March 1 It 2 1 1 3 12 15 Carter Thomas J. B. Cook Henry Wheatley Cook Sarah Caynor . William Carter George Claxton Richard = Crop Silas F. Cockriel Hizekiah Davis Bayliss Downing Joseph G. Dawson Turner , 15 Downing Henry H Downing John of Henry Dawson John Davis John S. Duncan Eliza J. Philip Dearing Mary Dodson Samuel Darnall William Dearing William R. Deneal William S. Dodd Joseph & Martin Dulin William Doad John Dodd Joseph R Dodd Sanford Daniel John R. 1 2 2 1 1 1 2 1 1 1 1 1 1 31 20 & 4 1 1 1 4 1 3 to 6 3 1 1 of 1 I 5 " 62 14 10 5 1 " Olaves 7 is 1 of 81 the 7 3 1 1 1 1 99 25 80 31 25 6 6 25 42 6 6 6 2386
+- button "Feedback":
+  - text: Feedback

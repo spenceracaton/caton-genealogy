@@ -1,0 +1,125 @@
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-395D-7?view=fullText&keywords=Cayton&searchForm=advanced&lang=en
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832" [level=1]':
+    - generic: "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number" [active]: "711"
+      - paragraph: of 807
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58203-49064-6 706":
+        - img "TH-909-58203-49064-6"
+        - generic: "706"
+      - option "TH-909-58203-49049-1 707":
+        - img "TH-909-58203-49049-1"
+        - generic: "707"
+      - option "TH-909-58203-48993-66 708":
+        - img "TH-909-58203-48993-66"
+        - generic: "708"
+      - option "TH-909-58203-49031-29 709":
+        - img "TH-909-58203-49031-29"
+        - generic: "709"
+      - option "TH-909-58203-48944-45 710":
+        - img "TH-909-58203-48944-45"
+        - generic: "710"
+      - option "TH-909-58203-48965-58, Image has previously been viewed" [selected]:
+        - img "TH-909-58203-48965-58"
+        - generic: "711"
+      - option "TH-909-58203-48980-49 712":
+        - img "TH-909-58203-48980-49"
+        - generic: "712"
+      - option "TH-909-58203-49041-25 713":
+        - img "TH-909-58203-49041-25"
+        - generic: "713"
+      - option "TH-909-58203-49052-10 714":
+        - img "TH-909-58203-49052-10"
+        - generic: "714"
+      - option "TH-909-58203-49028-10 715":
+        - img "TH-909-58203-49028-10"
+        - generic: "715"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 705"
+  - button "Go to image 706"
+  - button "Go to image 707"
+  - button "Go to image 708"
+  - button "Go to image 709"
+  - button "Go to image 710"
+  - button "Go to image 711, viewed"
+  - button "Go to image 712"
+  - button "Go to image 713"
+  - button "Go to image 714"
+  - button "Go to image 715"
+  - button "Go to image 716, viewed"
+  - button "Go to image 717"
+  - button "Go to image 718"
+  - button "Go to image 719"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - generic: A List of Pascal in the County Dates of Receive and list from Individuals 1834 February March 15 28 10 15 . 17 1 24 31 April 1 14 16 poperty within the district of Thomson Ashby Commissioner of the Revenue of Fauquier for the year of Lord one thousand eight hundred and thirty one Persons Names Ash Francis T Ashby John Dec Ditto at Carters Run Ashby Elizabeth Ashby I John H Adams Adams Josiah Benjamin Adams Willis Adams Littleton Adams George Adams Francis Allerson Richardson Allen Thomas Salem Arrowsmith Thomas C Bussey Ash Thornton Ash James W Thornton Adams John Buck Mountain Adams William son of John Austin Thomas Allen John B Farrows Anderson Elijah Adams , Charles C Payne Adams Thomas Jr Armstrong Elijah Armstrong Lewis Arnold William C R Hickerson Adams Turner Adams Thomas Sen Allen Charles Anderson Spencer ( Warrenton Adams Robert to Anderson Spencer Sen . Do Allerson William Allerson Bailey Allerson Martin Ashton Ann A. Ashton Elizabeth Allen Landon Allen Sarah 16 years old in haves over 16 Between 12 & 16 2 2 2 of 2 2 14 9 11 3 4 to 4 1 --- 2 3 1 1 2 1 4 2 1 2 2 1 4 1 3 50 1 to 3 . 1 14 2 2 " 6 4 4 13 17 2 10 2 3 5 3 A. to 1 140 Stud Horses of Description of Carnages and valuation ( Tax of Carriages as 140 horses amount of Tax on slaves & horses 4 3 4 1 2 4 37 18 2 4 1 1 39 S 65 R 65
+- button "Feedback":
+  - text: Feedback
+- alert "Success Message":
+  - paragraph: Image Downloaded. Want to attach this image to the Tree?
+  - button "Dismiss":
+- button "Attach"

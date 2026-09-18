@@ -1,0 +1,121 @@
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-39PK-4?view=fullText&keywords=Caton&searchForm=advanced&lang=en
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832" [level=1]':
+    - generic: "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number" [active]: "212"
+      - paragraph: of 807
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58203-48274-98 211":
+        - img "TH-909-58203-48274-98"
+        - generic: "211"
+      - option "TH-909-58203-48277-35, Image has previously been viewed" [selected]:
+        - img "TH-909-58203-48277-35"
+        - generic: "212"
+      - option "TH-909-58203-48383-94, Image has previously been viewed":
+        - img "TH-909-58203-48383-94"
+        - generic: "213"
+      - option "TH-909-58203-48385-36 214":
+        - img "TH-909-58203-48385-36"
+        - generic: "214"
+      - option "TH-909-58203-48286-34 215":
+        - img "TH-909-58203-48286-34"
+        - generic: "215"
+      - option "TH-909-58203-48400-30 216":
+        - img "TH-909-58203-48400-30"
+        - generic: "216"
+      - option "TH-909-58203-48380-3, Image has previously been viewed":
+        - img "TH-909-58203-48380-3"
+        - generic: "217"
+      - option "TH-909-58203-48260-12 218":
+        - img "TH-909-58203-48260-12"
+        - generic: "218"
+      - option "TH-909-58203-48256-0 219":
+        - img "TH-909-58203-48256-0"
+        - generic: "219"
+      - option "TH-909-58203-48255-1 220":
+        - img "TH-909-58203-48255-1"
+        - generic: "220"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 204"
+  - button "Go to image 205"
+  - button "Go to image 206"
+  - button "Go to image 207"
+  - button "Go to image 208"
+  - button "Go to image 209"
+  - button "Go to image 210"
+  - button "Go to image 211"
+  - button "Go to image 212, viewed"
+  - button "Go to image 213, viewed"
+  - button "Go to image 214"
+  - button "Go to image 215"
+  - button "Go to image 216"
+  - button "Go to image 217, viewed"
+  - button "Go to image 218"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - generic: A List of Taxab Co unty of Fauquier for the year 1823 property within the district of Stephen Chittin Commissioner of the Revenue in the State of recing persons names charge able with Taxmy Staves over 12 I am now Steed Hans dollars Cents Two wheel Riding Carriages Parton stage waggons 1 Riding Carriages Amount of Tax
+- button "Feedback":
+  - text: Feedback

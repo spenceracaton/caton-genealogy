@@ -1,0 +1,124 @@
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845" [level=1]':
+    - generic: "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number": "82"
+      - paragraph: of 717
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58196-64264-10 81":
+        - img "TH-909-58196-64264-10"
+        - generic: "81"
+      - option "TH-909-58196-64297-39, Image has previously been viewed" [selected]:
+        - img "TH-909-58196-64297-39"
+        - generic: "82"
+      - option "TH-909-58196-64492-32 83":
+        - img "TH-909-58196-64492-32"
+        - generic: "83"
+      - option "TH-909-58196-64313-98 84":
+        - img "TH-909-58196-64313-98"
+        - generic: "84"
+      - option "TH-909-58196-64280-14 85":
+        - img "TH-909-58196-64280-14"
+        - generic: "85"
+      - option "TH-909-58196-64349-14 86":
+        - img "TH-909-58196-64349-14"
+        - generic: "86"
+      - option "TH-909-58196-64303-96 87":
+        - img "TH-909-58196-64303-96"
+        - generic: "87"
+      - option "TH-909-58196-64282-8 88":
+        - img "TH-909-58196-64282-8"
+        - generic: "88"
+      - option "TH-909-58196-64331-0 89":
+        - img "TH-909-58196-64331-0"
+        - generic: "89"
+      - option "TH-909-58196-64279-37 90":
+        - img "TH-909-58196-64279-37"
+        - generic: "90"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 70"
+  - button "Go to image 71"
+  - button "Go to image 72"
+  - button "Go to image 73"
+  - button "Go to image 74"
+  - button "Go to image 75"
+  - button "Go to image 76"
+  - button "Go to image 77"
+  - button "Go to image 78"
+  - button "Go to image 79"
+  - button "Go to image 80"
+  - button "Go to image 81"
+  - button "Go to image 82, viewed"
+  - button "Go to image 83"
+  - button "Go to image 84"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - text: 20 1 March 1 Cornhill Joseph Cornhill Silas Cornhill Elias Corder John Corder John Junr of John Corder . James Pillo Corder , Elias Ditto " Corder . Joseph Title Cupper Robert Curry Robert C Gibsons Conner , Eli Conner , William Clark Richard Catlett Robert 2 Conner . Elzy 1 Costile , William Cooksey George Clements Aaron Collins Robert 1 Collings Epsa Cockril Joseph 1 Cookey John Cooksey Warner & Alexander Hacker Cranson Samuel Finkin Compton John A. 1 Chancellor Andrew of Chancellor John 3 11 " 2 " " " " 1 11 2 " " " " " " 3 " " 11 by 3 10 11 11 5 5 2 22 of 4 1 4 2 4 6 2 & 1 4 3 2 2 4 3 Jane Boise a 4 . 9 6 35 50 49 6 86 12 6 49 18 12 12 2 26 Corder . John Chancellor , Cooper . Crawley Jane Chadwell Briant Chadwell William Chadwell John Campbell John Chilton Joseph Chilton Joseph Junr Carver Bailey Carter Presby & Hamilton Carver , William Carver George Christy Feilding Collett Asa Cason John Church Calvin A. Warrenton Crains Elijah G. Carter Nathaniel Call George Christy Henry Carter James Carter Carter Isaac Carter Henry of Isaac Ezekiel Do
+    - generic: Cayton
+    - text: Thomas
+    - generic: Cayton
+    - text: Thomas Junr 3 1 11 1 1 1 2 1 2 1 3 1 1 1 1 1 1 1 1 31 4 be 1 4 2 5 2 11 1 4 42 1 3 to 1 2 1 1 to 10 4 10 & " 6 5 to 4 3 & 1 " 1 of 53 5 5 12 6 12 55 2 - 2 Have 53 Seal and 5 $ 10 99 12 11 68 98 56 18 6 16 18
+- button "Feedback":
+  - text: Feedback

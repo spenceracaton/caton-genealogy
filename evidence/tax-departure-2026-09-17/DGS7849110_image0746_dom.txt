@@ -1,0 +1,121 @@
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-395C-H?view=fullText&keywords=Cayton&searchForm=advanced&lang=en
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832" [level=1]':
+    - generic: "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number" [active]: "746"
+      - paragraph: of 807
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58203-48984-53 741":
+        - img "TH-909-58203-48984-53"
+        - generic: "741"
+      - option "TH-909-58203-48917-46 742":
+        - img "TH-909-58203-48917-46"
+        - generic: "742"
+      - option "TH-909-58203-48925-42 743":
+        - img "TH-909-58203-48925-42"
+        - generic: "743"
+      - option "TH-909-58203-49034-8 744":
+        - img "TH-909-58203-49034-8"
+        - generic: "744"
+      - option "TH-909-58203-48887-69 745":
+        - img "TH-909-58203-48887-69"
+        - generic: "745"
+      - option "TH-909-58203-48878-68, Image has previously been viewed" [selected]:
+        - img "TH-909-58203-48878-68"
+        - generic: "746"
+      - option "TH-909-58203-48833-89, Image has previously been viewed":
+        - img "TH-909-58203-48833-89"
+        - generic: "747"
+      - option "TH-909-58203-48962-51 748":
+        - img "TH-909-58203-48962-51"
+        - generic: "748"
+      - option "TH-909-58203-48873-49 749":
+        - img "TH-909-58203-48873-49"
+        - generic: "749"
+      - option "TH-909-58203-48849-59 750":
+        - img "TH-909-58203-48849-59"
+        - generic: "750"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 738"
+  - button "Go to image 739"
+  - button "Go to image 740"
+  - button "Go to image 741"
+  - button "Go to image 742"
+  - button "Go to image 743"
+  - button "Go to image 744"
+  - button "Go to image 745"
+  - button "Go to image 746, viewed"
+  - button "Go to image 747, viewed"
+  - button "Go to image 748"
+  - button "Go to image 749"
+  - button "Go to image 750"
+  - button "Go to image 751, viewed"
+  - button "Go to image 752"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - generic: A List of Taxable 1832 Persons Names Febuary Adams Thomas 18 4 21 March 8 Horses Stud Horses of my Slaves Over 16 years stump M M 10 16 21 28 expend 5 6 1 ( Ridge Ash Francis Adams Josiah Adams Benjamin Anderson Robert ( a B Adams Ashby John S Ashby John H Ashby Marshall Adams Littleton Adams Adams George Fanny Adams Francis Adams Willis Ashton Ann A. Allenson Richard Allerson Stephen of Rich Arrowsmith Thomas D Bussey Ashby Elizabeth T. Ash Thornton Adams John Barbies rods Adams Charles Nelson & Roads Anderson Elijah Ashby Turner Adams Thomas Ambler Thomas M Anderson Spenser Adams Letitia Ashby Mary Allerson Bailey Allerson William Allen Thomas Salem Arrowsmith Charles Able Thornton Adams Mary Anderson Joseph Grove Anderson William Anderson Thomas Allen Landon Allen Charles Amiss Hiram Foxall 1 1 1 2 31 1 1 of 1 1 1 1 1 2 of 10 1 1 1 1 1 1 1 1 1 2 1 3 & 8 I 17 - 8 1 16 of 3 1 1 2 1 5 14 20 1 4 22 1 6 1 1 2 G 2 M . 4 45 137 24 193 1 $ 4 property within the district of Thomson Ashby Commissioner of the Revenue in the County of Fauquier for the Lord 1832 Description of Carriages --- Carriage $ 200 161 Slaves 193 Harry 1 Sted $ 8.00 1 Couch 2.00 Mary 2 Total Amount of Tax of 3 2 3 2 A of of 2 of ⎬ 12 25 S 58 18 . 71 60 37 43 18 23 99 18 FEDEVEN
+- button "Feedback":
+  - text: Feedback

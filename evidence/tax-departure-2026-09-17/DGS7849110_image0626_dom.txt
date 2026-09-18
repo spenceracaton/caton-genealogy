@@ -1,0 +1,125 @@
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-3952-S?view=fullText&keywords=Cayton&searchForm=advanced&lang=en
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832" [level=1]':
+    - generic: "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number": "626"
+      - paragraph: of 807
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58203-49202-26, Image has previously been viewed" [selected]:
+        - img "TH-909-58203-49202-26"
+        - generic: "626"
+      - option "TH-909-58203-49217-5 627":
+        - img "TH-909-58203-49217-5"
+        - generic: "627"
+      - option "TH-909-58203-49215-15 628":
+        - img "TH-909-58203-49215-15"
+        - generic: "628"
+      - option "TH-909-58203-49351-6 629":
+        - img "TH-909-58203-49351-6"
+        - generic: "629"
+      - option "TH-909-58203-49271-3 630":
+        - img "TH-909-58203-49271-3"
+        - generic: "630"
+      - option "TH-909-58203-49297-49 631":
+        - img "TH-909-58203-49297-49"
+        - generic: "631"
+      - option "TH-909-58203-49294-38 632":
+        - img "TH-909-58203-49294-38"
+        - generic: "632"
+      - option "TH-909-58203-49198-39 633":
+        - img "TH-909-58203-49198-39"
+        - generic: "633"
+      - option "TH-909-58203-49288-48 634":
+        - img "TH-909-58203-49288-48"
+        - generic: "634"
+      - option "TH-909-58203-49191-96 635":
+        - img "TH-909-58203-49191-96"
+        - generic: "635"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 614"
+  - button "Go to image 615"
+  - button "Go to image 616"
+  - button "Go to image 617"
+  - button "Go to image 618"
+  - button "Go to image 619"
+  - button "Go to image 620"
+  - button "Go to image 621"
+  - button "Go to image 622"
+  - button "Go to image 623"
+  - button "Go to image 624"
+  - button "Go to image 625"
+  - button "Go to image 626, viewed"
+  - button "Go to image 627"
+  - button "Go to image 628"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - text: 5 26 May 6 14 Febuary 10 13 18 22 23 24 Coatney Lenard Coatney Elijah Crop Presley Clayton Richard Coatney Lewis Conway Peter Childs Sibby Crop James Crump Lucy Chandler Elizabeth Coatney Charles Chapman Frederick A Carter Thos C B Caynor William Caynor James Chilton Stephen Chilton Thomas
+    - generic: Cayton
+    - text: Thomas
+    - generic: Cayton
+    - text: Thomas & William Carter Henry Chin Thomas Carter Nathaniel Chilton Joseph Creet William Senr Cree Elijah Clarkson Henry M Cockrell Reuben Clopton Nathaniel Carter Isaac Carter James Cornhill Silas Cooksey Philip Drile Isaac Dennis Isaac Dennis Daniel Dennis James Daws Mary Daws William Davis William Davis John S Dearing John Dawson John Dawson , Robert Dawson Turner Julia William Dulin George Darsage Jeremiah Dulin Spencer Dixon William Dulaney Addison 3 1 1 1 2 2 1 1 1 2 for " 6 of 7 I " == = 97 " & = " " 17 " 1 , 10 of 1 & 2 123 $ 5 107 123 ( 6 Ham Horsey 1 Stat $ 10.00 2 3 6 3 6 6 78 13 30 & 18 5 96 " 8 36 24 & 93 2 . 8 35 24
+- button "Feedback":
+  - text: Feedback

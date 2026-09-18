@@ -1,0 +1,125 @@
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-39R9-B?view=fullText&keywords=Caton&searchForm=advanced&lang=en
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832" [level=1]':
+    - generic: "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number" [active]: "506"
+      - paragraph: of 807
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58203-47854-40 501":
+        - img "TH-909-58203-47854-40"
+        - generic: "501"
+      - option "TH-909-58203-47771-90 502":
+        - img "TH-909-58203-47771-90"
+        - generic: "502"
+      - option "TH-909-58203-47783-46 503":
+        - img "TH-909-58203-47783-46"
+        - generic: "503"
+      - option "TH-909-58203-47778-45 504":
+        - img "TH-909-58203-47778-45"
+        - generic: "504"
+      - option "TH-909-58203-47785-44 505":
+        - img "TH-909-58203-47785-44"
+        - generic: "505"
+      - option "TH-909-58203-49558-51, Image has previously been viewed" [selected]:
+        - img "TH-909-58203-49558-51"
+        - generic: "506"
+      - option "TH-909-58203-49493-47 507":
+        - img "TH-909-58203-49493-47"
+        - generic: "507"
+      - option "TH-909-58203-49550-99 508":
+        - img "TH-909-58203-49550-99"
+        - generic: "508"
+      - option "TH-909-58203-49580-87 509":
+        - img "TH-909-58203-49580-87"
+        - generic: "509"
+      - option "TH-909-58203-49586-57, Image has previously been viewed":
+        - img "TH-909-58203-49586-57"
+        - generic: "510"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 498"
+  - button "Go to image 499"
+  - button "Go to image 500"
+  - button "Go to image 501"
+  - button "Go to image 502"
+  - button "Go to image 503"
+  - button "Go to image 504"
+  - button "Go to image 505"
+  - button "Go to image 506, viewed"
+  - button "Go to image 507"
+  - button "Go to image 508"
+  - button "Go to image 509"
+  - button "Go to image 510, viewed"
+  - button "Go to image 511"
+  - button "Go to image 512"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - generic: A list of the parable Property within the District of Stephen Chilton Commons of the in Fauquier County for the year 1828 Persons Name Charged with at House Discution of Counges Fox on Carages Total son of Fox John of Lots
+- button "Feedback":
+  - text: Feedback
+- alert "Success Message":
+  - paragraph: Image Downloaded. Want to attach this image to the Tree?
+  - button "Dismiss":
+- button "Attach"

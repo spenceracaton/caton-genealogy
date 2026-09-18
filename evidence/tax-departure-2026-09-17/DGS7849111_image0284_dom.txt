@@ -1,0 +1,125 @@
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQK-TS8M-D?view=fullText&keywords=Laurine%2CLaurie&searchForm=advanced&lang=en
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845" [level=1]':
+    - generic: "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number" [active]: "284"
+      - paragraph: of 717
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58196-63892-24 276":
+        - img "TH-909-58196-63892-24"
+        - generic: "276"
+      - option "TH-909-58196-63918-39 277":
+        - img "TH-909-58196-63918-39"
+        - generic: "277"
+      - option "TH-909-58196-63908-35 278":
+        - img "TH-909-58196-63908-35"
+        - generic: "278"
+      - option "TH-909-58196-63893-27 279":
+        - img "TH-909-58196-63893-27"
+        - generic: "279"
+      - option "TH-909-58196-63905-20 280":
+        - img "TH-909-58196-63905-20"
+        - generic: "280"
+      - option "TH-909-58196-63933-32 281":
+        - img "TH-909-58196-63933-32"
+        - generic: "281"
+      - option "TH-909-58196-64039-3 282":
+        - img "TH-909-58196-64039-3"
+        - generic: "282"
+      - option "TH-909-58196-63884-24 283":
+        - img "TH-909-58196-63884-24"
+        - generic: "283"
+      - option "TH-909-58196-63912-21, Image has previously been viewed" [selected]:
+        - img "TH-909-58196-63912-21"
+        - generic: "284"
+      - option "TH-909-58196-63914-19 285":
+        - img "TH-909-58196-63914-19"
+        - generic: "285"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 281"
+  - button "Go to image 282"
+  - button "Go to image 283"
+  - button "Go to image 284, viewed"
+  - button "Go to image 285"
+  - button "Go to image 286"
+  - button "Go to image 287"
+  - button "Go to image 288"
+  - button "Go to image 289"
+  - button "Go to image 290"
+  - button "Go to image 291"
+  - button "Go to image 292"
+  - button "Go to image 293"
+  - button "Go to image 294"
+  - button "Go to image 295"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - generic: "--- = - Ashby 30 A List of taxable property within the district of Thomson Feby 3 16 March 3 9 17 26 27 Names of Owners Commissioner of the Revenue for the year 1838 White Male Adams Benjamin 1 Adams Josiah 1 Anderson Robert C Rear 1 Ashby Thomas L Edmond of Alexander William Adam 1 Anderson Eli 1 Anderson Sydnor B. of Ambler Thomas M 1 Adams John 3 Adams Charles 1 Ashby John J 1 Ash Francis 1 Adams John W. Peter 1 . Ashby Alsinda Ashby Elizabeth I 1 Ashby Doratha Adams Ira S. Gibson 1 Adams Charles of John 1 Adams William Do 1 Ashton Ann A 1 Allen Charles 2 Able Thomas Warrinton 1 Anderson Spencer - Do 1 Allen Charles C. Do 1 Allerson William Allerson Martin Allerson Richard 1 1 1 28 2 Carriages an M Description of Amount between 12 & 16 Blacks over 16 2 supper 1 165 5 of 3 1 17 3 1 12 of 5 22 2 11 6 2 13 2 --- - 6 1 22 1 8 4 1 to 66 1 --- 2 16 2 5 1 3 8 2 6 1 Son of Homes 2 106 2 1 - 1 84 38 06 8 6 16 68 30"
+- button "Feedback":
+  - text: Feedback
+- alert "Success Message":
+  - paragraph: Image Downloaded. Want to attach this image to the Tree?
+  - button "Dismiss":
+- button "Attach"

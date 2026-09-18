@@ -7,6 +7,22 @@ ev = root/"evidence"
 rows = [json.loads(l) for l in (root/"claims.jsonl").open() if l.strip()]
 
 NOTES = {
+ "tax-departure-2026-09-17": "Codex tax/departure packet (recovered 18 Sep from an uncommitted worktree): Fauquier PP tax originals DGS 7849110/7849111, 1822-1838 - Thomas Jr separate from 1828; 'Cayton Thomas & William' joint 1830-31; Thomas, William, Thomas Jr each 1 WM 1832, 1834, 1835; Thomas + William 1836; Thomas, William, 'Thos (C B Smith)' 1837; no Caton in Ashby's 1838 C section. REPORT.md, SOURCES.tsv, SHA256SUMS.txt inside. Resolves the C196-vs-T18 conflict in favour of T18: two Thomases still taxed in 1836-37.",
+ "Thomas_Caton_post1835_Cooper_research_2026-09-17.md": "Codex (recovered 18 Sep): Cooper Co. probate, Isaac Martin inventory pp.388-89 - 'Thos Caton Snr / Thos Caton Junr' note dated 7 Mar 1846; Cooper Deed Book Q p.260, Deckard to Thomas Cayton for wife Elizabeth, ack. 10 Oct 1850. Two Thomases in Cooper by 1846; identity with the Fauquier men unproved.",
+ "1850_Cooper_IsaacMartin_inventory_p388-389_ThomasCaton.jpg": "Cooper probate 1847-54, DGS 007636420 image 237: Isaac Martin inventory listing a 7 Mar 1846 note of Thos Caton Snr and Thos Caton Junr.",
+ "1850_Cooper_IsaacMartin_inventory_p388_ThomasCaton_crop.jpg": "Crop of the Caton Snr/Junr line.",
+ "1850_Cooper_DeedQ_p260_ElizabethCaton.jpg": "Cooper Deed Book Q p.260 (image 443/653): Deckard to Thomas Cayton for the benefit of Elizabeth his wife, NE1/4 NE1/4 s.35 t.46 r.19, ack. 10 Oct 1850.",
+ "1850_Cooper_DeedQ_p260_ElizabethCaton_crop.jpg": "Crop of the Deckard-Cayton deed.",
+ "2026-09-17_Fauquier_Caton_estate_court_stream.md": "Codex (recovered 18 Sep): Fauquier estate/court series inventory from LVA VA083; 1820-011 chancery reread (Moses only); nothing image-level retrieved.",
+ "2026-09-17_Fauquier_overseers_and_marriage_public-access-check.md": "Codex (recovered 18 Sep): ARVAS/LVA confirm Reel 116 Overseers minutes 1804-1845 incl. apprentice bindings, 0 online; Fauquier Public Library marriage-returns index places Caton Thomas/William p.27, Ann p.36.",
+ "2026-09-17_Fauquier_Ohio_Cooper_migration_stream.md": "Codex (recovered 18 Sep): Laurie/Caton Fauquier -> Ohio -> Cooper route restated from existing sources; Ohio county still unidentified.",
+ "2026-09-17_newspaper-legal-pass_prince-william-transcripts.md": "Codex (recovered 18 Sep): Historic Prince William newspaper transcripts 1784-1860 - only the 1820 Moses Caton camp-meeting item; no Aaron/Thomas/William.",
+ "2026-09-17_Richard_Caton_Fauquier_tax_deed_boundaries.md": "Codex (recovered 18 Sep): Richard/Richd Caton in Fauquier tax/deed indexes - locators only, deed index image is Limited Access; no kinship found.",
+ "2000_CynthiaCoeNewton_Caton_compilation_provenance.md": "Codex (recovered 18 Sep): provenance chain for the 2000 Winfield Caton compilation (Potter; Cowley Co. Historical Society; Cynthia Newton photos); no source for Aaron's 16 May 1820 / Wheeling assertions located.",
+ "2026-09-17_OhioCounty_Wheeling_test.md": "Codex (recovered 18 Sep): Wheeling claim provenance traced to compiled trees only; Ohio Co. record-series coverage (Will Book 1, Guardian Bond 430, deeds 9-10) listed for a future pass.",
+ "2026-09-17_Fauquier_chancery_bounded-review.md": "Codex (recovered 18 Sep): LVA chancery index - Caton = 1820-011, 1861-012, 1906-076; Caten/Catton/Cayton/Laur* variants 0; 1820-011 scan 0038 reread (Moses, no kinship).",
+ "2026-09-16_chatgpt-line_fauquier_overseers_and_related_indexes.md": "ChatGPT line, 16 Sep (recovered 18 Sep; internal G ids never allocated): Reel 116 finding aid read directly - apprentice bindings in scope (corroborates C195); APA 739 Fauquier folder 1829-51; no online copy of the volume.",
+ "2026-09-16_chatgpt-line_familysearch_census_and_tax_recheck.md": "ChatGPT line, 16 Sep (recovered 18 Sep; internal G ids never allocated): FamilySearch locators for Fauquier 1830 p.471 (M9VT-P4V/10, img 137) and 1820 p.46 (M9XB-D7X/2, img 11); column read not achieved; C156's 17 tax hits opened as AI transcripts only.",
  "T12-T13_chatgpt_2026-09-18_fauquier_rechecks.md": "ChatGPT T12/T13 return, 18 Sep 2026, with Claude review header: T13 guardianship film 642321/DGS 8682856 is Chatham Co. NC, not Fauquier (confirmed); USGenWeb 1810/1820 transcriptions reproduce C159/C080 counts; 1830 USGenWeb lacks pp.469-474; LVA Reel 44 Superior Court Deeds/Wills 1809-29 not in general indexes; AFH 37(3) 1999 Thomas-Elizabeth Ann Lawrey descendant account cited. No claims added; three items open (Transcript (99).pdf, the 28 Feb 1825 date, the Thoma 1850 Cooper transcription).",
  "1820_CulpeperCo_VA_census_C-block_pp12-21_noCaton_sheet1.jpg": "1820 Culpeper (alphabetical) C block, pp.12-21 - no Caton (C188).",
  "1820_CulpeperCo_VA_census_C-block_pp10-23_noCaton_sheet2.jpg": "1820 Culpeper (alphabetical) pp.10-11, 14-15, 18-19, 22-23 - no Caton (C188).",
@@ -118,7 +134,11 @@ def cites(fn):
         if fn in (r.get("evidence") or "") or fn in r.get("fact",""):
             ids.append(r["id"])
     return ids
-files=sorted(p for p in ev.iterdir() if p.is_file() and p.name!="README.md")
+files=sorted(p for p in ev.iterdir() if (p.is_file() or p.is_dir()) and p.name!="README.md" and not p.name.startswith("."))
+def size_of(p):
+    return sum(f.stat().st_size for f in p.rglob("*") if f.is_file()) if p.is_dir() else p.stat().st_size
+def label(p):
+    return p.name + "/" if p.is_dir() else p.name
 out=[f"# evidence/ — manifest, generated {datetime.date.today().isoformat()} ({len(files)} files)\n",
      "Regenerate with `python3 tools/make-evidence-manifest.py`. Notes are maintained in that script.\n",
      "Rules: agents write findings here as new files and edit nothing else. Files are provenance — **never edit an original**; add a correction header if a conclusion in a derived file is superseded.\n",
@@ -130,8 +150,8 @@ def hs(n):
     return f"{n:.1f} GB"
 for p in files:
     c=cites(p.name)
-    out.append(f"| `{p.name}` | {hs(p.stat().st_size)} | {', '.join(c) or '—'} | {NOTES.get(p.name,'')} |")
-uncited=[p.name for p in files if not cites(p.name)]
+    out.append(f"| `{label(p)}` | {hs(size_of(p))} | {', '.join(c) or '—'} | {NOTES.get(p.name,'')} |")
+uncited=[label(p) for p in files if not cites(p.name)]
 out.append(f"\n**Files no claim cites ({len(uncited)}):** " + ", ".join(f"`{u}`" for u in uncited))
 (ev/"README.md").write_text("\n".join(out)+"\n")
 print(f"evidence/README.md: {len(files)} files, {len(uncited)} uncited")

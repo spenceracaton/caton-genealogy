@@ -1,0 +1,121 @@
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQK-TSZY-4?view=fullText&keywords=Laurine%2CLaurie&searchForm=advanced&lang=en
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845" [level=1]':
+    - generic: "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number" [active]: "308"
+      - paragraph: of 717
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58196-63865-29 301":
+        - img "TH-909-58196-63865-29"
+        - generic: "301"
+      - option "TH-909-58196-63903-10 302":
+        - img "TH-909-58196-63903-10"
+        - generic: "302"
+      - option "TH-909-58196-63849-29 303":
+        - img "TH-909-58196-63849-29"
+        - generic: "303"
+      - option "TH-909-58196-63846-38 304":
+        - img "TH-909-58196-63846-38"
+        - generic: "304"
+      - option "TH-909-58196-63975-54, Image has previously been viewed":
+        - img "TH-909-58196-63975-54"
+        - generic: "305"
+      - option "TH-909-58196-63973-24 306":
+        - img "TH-909-58196-63973-24"
+        - generic: "306"
+      - option "TH-909-58196-63822-10, Image has previously been viewed":
+        - img "TH-909-58196-63822-10"
+        - generic: "307"
+      - option "TH-909-58196-63817-15, Image has previously been viewed" [selected]:
+        - img "TH-909-58196-63817-15"
+        - generic: "308"
+      - option "TH-909-58196-63891-25 309":
+        - img "TH-909-58196-63891-25"
+        - generic: "309"
+      - option "TH-909-58196-63960-35 310":
+        - img "TH-909-58196-63960-35"
+        - generic: "310"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 302"
+  - button "Go to image 303"
+  - button "Go to image 304"
+  - button "Go to image 305, viewed"
+  - button "Go to image 306"
+  - button "Go to image 307, viewed"
+  - button "Go to image 308, viewed"
+  - button "Go to image 309"
+  - button "Go to image 310"
+  - button "Go to image 311"
+  - button "Go to image 312"
+  - button "Go to image 313"
+  - button "Go to image 314"
+  - button "Go to image 315, viewed"
+  - button "Go to image 316"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - generic: FAUQUIER COUNTY PERSONAL PROPERTY TAX BOOK . 1838 - B
+- button "Feedback":
+  - text: Feedback

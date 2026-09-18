@@ -1,0 +1,125 @@
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-39RS-T?view=fullText&keywords=Caton&searchForm=advanced&lang=en
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832" [level=1]':
+    - generic: "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number": "510"
+      - paragraph: of 807
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58203-49558-51 506":
+        - img "TH-909-58203-49558-51"
+        - generic: "506"
+      - option "TH-909-58203-49493-47 507":
+        - img "TH-909-58203-49493-47"
+        - generic: "507"
+      - option "TH-909-58203-49550-99 508":
+        - img "TH-909-58203-49550-99"
+        - generic: "508"
+      - option "TH-909-58203-49580-87 509":
+        - img "TH-909-58203-49580-87"
+        - generic: "509"
+      - option "TH-909-58203-49586-57, Image has previously been viewed" [selected]:
+        - img "TH-909-58203-49586-57"
+        - generic: "510"
+      - option "TH-909-58203-49577-46 511":
+        - img "TH-909-58203-49577-46"
+        - generic: "511"
+      - option "TH-909-58203-49546-41 512":
+        - img "TH-909-58203-49546-41"
+        - generic: "512"
+      - option "TH-909-58203-49543-92 513":
+        - img "TH-909-58203-49543-92"
+        - generic: "513"
+      - option "TH-909-58203-49521-6 514":
+        - img "TH-909-58203-49521-6"
+        - generic: "514"
+      - option "TH-909-58203-49569-58 515":
+        - img "TH-909-58203-49569-58"
+        - generic: "515"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 498"
+  - button "Go to image 499"
+  - button "Go to image 500"
+  - button "Go to image 501"
+  - button "Go to image 502"
+  - button "Go to image 503"
+  - button "Go to image 504"
+  - button "Go to image 505"
+  - button "Go to image 506"
+  - button "Go to image 507"
+  - button "Go to image 508"
+  - button "Go to image 509"
+  - button "Go to image 510, viewed"
+  - button "Go to image 511"
+  - button "Go to image 512"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - text: Feb 4 15 Chilton Stephen Christy Thornton Corder Martin Corder John Sey Cooksey Samuel Cave John Cornwell Benjamin Cornwell Mary & Sons Carter Edward Carter James Carter Carter Isaac Henry Cower William Curtis Elisha Carney Chilton John Joseph Creel Elijah Carter Francis Carter Rhodam 14 Campbell John Colbert Asa Cockel Beckett thirty John
+    - generic: Caton
+    - text: Thomas
+    - generic: Caton
+    - text: Williams mand 25 Colone Vincent al 15 Canor James Canor Williams George William 8 Crowley Presley Richard Collins William Collins Robert Corder John Cruly Hezekiah Crawley Jane Chanceller Andrew Chadwell Brant Cooksey Crop Coules Carter Coppage Cross R 26 26 Crague Carter Crop Conway Laster Philip Richard T James Alex S Thos B James T Peter Presley Crop Silas T. Crump Traverse 4 1 1 1 2 2 1 1 1 1 1 1 1 1 1 601 3 2 5 3 of 3 4 . 3 5 6 5 5 2 14 3 2 3 & 94 5 2 11 10 of 4 to 5 6 3 ⎬ 5 at I 134 94 and 105 Slaves 134 Horses 1 in Gig , 100 $ 1 , 00 ( 4 ) 1 00 to 2 1 3 4 2 3 2 2 3 3 of 1 1 4 66 No 72 36 36 48 13 12 43 89 SON N 25 43
+- button "Feedback":
+  - text: Feedback

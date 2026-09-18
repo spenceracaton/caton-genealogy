@@ -1,0 +1,121 @@
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQK-TSZT-K?view=fullText&keywords=Laurine%2CLaurie&searchForm=advanced&lang=en
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845" [level=1]':
+    - generic: "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number" [active]: "331"
+      - paragraph: of 717
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58196-63837-39 326":
+        - img "TH-909-58196-63837-39"
+        - generic: "326"
+      - option "TH-909-58196-63819-33, Image has previously been viewed":
+        - img "TH-909-58196-63819-33"
+        - generic: "327"
+      - option "TH-909-58196-63826-14 328":
+        - img "TH-909-58196-63826-14"
+        - generic: "328"
+      - option "TH-909-58196-63866-30 329":
+        - img "TH-909-58196-63866-30"
+        - generic: "329"
+      - option "TH-909-58196-63808-12, Image has previously been viewed":
+        - img "TH-909-58196-63808-12"
+        - generic: "330"
+      - option "TH-909-58196-63799-60, Image has previously been viewed" [selected]:
+        - img "TH-909-58196-63799-60"
+        - generic: "331"
+      - option "TH-909-58196-63792-27 332":
+        - img "TH-909-58196-63792-27"
+        - generic: "332"
+      - option "TH-909-58196-63782-39 333":
+        - img "TH-909-58196-63782-39"
+        - generic: "333"
+      - option "TH-909-58196-63760-21 334":
+        - img "TH-909-58196-63760-21"
+        - generic: "334"
+      - option "TH-909-58196-63897-63 335":
+        - img "TH-909-58196-63897-63"
+        - generic: "335"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 324"
+  - button "Go to image 325"
+  - button "Go to image 326"
+  - button "Go to image 327, viewed"
+  - button "Go to image 328"
+  - button "Go to image 329"
+  - button "Go to image 330, viewed"
+  - button "Go to image 331, viewed"
+  - button "Go to image 332"
+  - button "Go to image 333"
+  - button "Go to image 334"
+  - button "Go to image 335"
+  - button "Go to image 336"
+  - button "Go to image 337"
+  - button "Go to image 338"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - generic: List of of Far Individual from 1 taxable property within the district quire for the year 1839 March 13 May 1 of 20 30 2 3 4 . 16 17 24 30 March 13 19 25 April May * 26 Ⓧ 9 22 23 2 " 11 Persons Name Chargeable with to Armistead John C Adams Finton . T. Anderson Elijah Adams Charles Alexander John Alexander William Allison James Armistead Robert L Adams John Do . 1 Anderson Jeremiah ( Maidstone , Allison Bailey Allison , William Allen William Arnold David W Armistead Walker Ashby Thomson Ashley Robert S Adams James Adams Gustaves Brooks Benjamin Brewer Wm W. P. Ford Brane William Bish Aaron Brown John Blackwell James Blackwell John Bragg Charles Bailey Tomlin Bryan John S Burgess Moses Bivelly James B Braby Richard Bradley pressly Balthrope Jeremiah J Banks 66 and Bishop Thomas Bishop Samuel Hills Burgess Payton Byrne Ewell ( or Middley Ball Joseph Brewin Hiram Buckley John W Bowmount Edward Batson William Birch Thomas W Ball pugton Ball John Brown George Brown Alfred Bunnell Ludwell Burgess John Ball Lith Byrne John ( Warrenton Birk Newman ( Weaver Will ) Bosey Edmund White Male years old 1 2 59 Shaves over 16 years and of 5 10 S a of 1 127 of Andrew Turner Commissioner on the County up 11 to 18 W of 1 11 2 31 of 8190 Habella 1911 and John 215 Stud Horses to it Riding Carnages Carriage Carriage Carriage 200 . 300 " Cary all 100 Gigg 50 Carnage 158 200 " 150 . 200 . James 215 4 Harry Coucher and Mo of on its 3 20 2 20 38 2 14 18 Caryl - $ 100 . " 2 7 68 08 40 38 4 08 no 6 50 75 86 2 & 16 16 40 16 N 14 30 10
+- button "Feedback":
+  - text: Feedback

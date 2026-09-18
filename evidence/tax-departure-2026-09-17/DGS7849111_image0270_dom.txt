@@ -1,0 +1,125 @@
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQK-TS8M-1?view=fullText&keywords=Laurine%2CLaurie&searchForm=advanced&lang=en
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845" [level=1]':
+    - generic: "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number" [active]: "270"
+      - paragraph: of 717
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58196-63980-27 261":
+        - img "TH-909-58196-63980-27"
+        - generic: "261"
+      - option "TH-909-58196-63968-59 262":
+        - img "TH-909-58196-63968-59"
+        - generic: "262"
+      - option "TH-909-58196-63985-52 263":
+        - img "TH-909-58196-63985-52"
+        - generic: "263"
+      - option "TH-909-58196-63940-19 264":
+        - img "TH-909-58196-63940-19"
+        - generic: "264"
+      - option "TH-909-58196-63954-27 265":
+        - img "TH-909-58196-63954-27"
+        - generic: "265"
+      - option "TH-909-58196-63967-54 266":
+        - img "TH-909-58196-63967-54"
+        - generic: "266"
+      - option "TH-909-58196-63948-27 267":
+        - img "TH-909-58196-63948-27"
+        - generic: "267"
+      - option "TH-909-58196-63998-71 268":
+        - img "TH-909-58196-63998-71"
+        - generic: "268"
+      - option "TH-909-58196-63944-39 269":
+        - img "TH-909-58196-63944-39"
+        - generic: "269"
+      - option "TH-909-58196-63929-28, Image has previously been viewed" [selected]:
+        - img "TH-909-58196-63929-28"
+        - generic: "270"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 267"
+  - button "Go to image 268"
+  - button "Go to image 269"
+  - button "Go to image 270, viewed"
+  - button "Go to image 271"
+  - button "Go to image 272"
+  - button "Go to image 273"
+  - button "Go to image 274"
+  - button "Go to image 275"
+  - button "Go to image 276"
+  - button "Go to image 277"
+  - button "Go to image 278"
+  - button "Go to image 279"
+  - button "Go to image 280"
+  - button "Go to image 281"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - generic: part 3 April a 14 2 . 2 31 May Feby 3 Laws Shadrach Laws Newman Langford George & Dashly Gee Nelson A Witch Lake John Chester Left Walter French 's Lampkin James & Martin Year James A Torbath Lawler Joseph Lee George ( Doct . Lyles Thomas W Ward Lufborough Hamilton Sufborough Nathan Jr. Lunceford Seth Lemmon George Lee Robert E Lewis William Sullivan Lanry Catharine Lawrence William Leach John Marshall Latham Catharin Lawrence William 5 Lufborough James H Lawrence John O Lampkin Allen Lewis Lydia Latham Brayton Latham Henry of Bray Lampkin Benjamin all See John A Lovell Alice Lowence Newton Lee Hancock Morgan Randall Morris Uriah Morris James & 3 1 1 2 1 1 3 3 1 3 to 3 11 " 13 11 1 2 1 15 2 " 1 = 36 . 69 10 5 ⎬ = 2 to a Pict 107 7 Gigg Mary 50 107 Horses Stat 18 Court 7 1 4 " 5 Camage 200 40 6 42 18 6 250 64 6 25 56 25 37 6 39 by 31 37 18 12 1 99 1 6 17 26 March 4 27 Moffett John A Moore Bryant G. Hall Mason Adam Mason Peter of Adam Mason Alexander Do Marshall Thomas G McDaniel Thomas McDaniel John 14 Mills George 1 I Mills James McCarty Enoch McCarty William Marshall James M Marshall Henry Mills Richard Mahoney Austin Menefee Lewis Murphey Elias Marshall James of Jas " Morison David McCurn Bayliss Melholland Patrick Milholland Ewell Martin John 1 Martin Mary Martin George McCormick William McCoy William McBer Daniel McBee John 1 McBee William McBee Carter McCoy Walter B Martin Lemuel McCormack Charles N 1 McCormack Hugh 2 1 3 1 4 1 3 3 11 " " 2 3 2 6 1 1 " 35 4 1 of 2 of 14 14 , 18 2 14 to 8 3 6 4 of 57 13 129 11 4 4 --- 2 4 2 70 Slaves 129 Horses 1 Sted 18 3 36 6 12 34 43 25 59 41 1 34 31 = 1 1 23 55 S
+- button "Feedback":
+  - text: Feedback
+- alert "Success Message":
+  - paragraph: Image Downloaded. Want to attach this image to the Tree?
+  - button "Dismiss":
+- button "Attach"

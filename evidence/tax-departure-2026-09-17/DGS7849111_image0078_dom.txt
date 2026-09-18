@@ -1,0 +1,120 @@
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845" [level=1]':
+    - generic: "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number" [active]: "78"
+      - paragraph: of 717
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58196-64329-22 76":
+        - img "TH-909-58196-64329-22"
+        - generic: "76"
+      - option "TH-909-58196-64288-38 77":
+        - img "TH-909-58196-64288-38"
+        - generic: "77"
+      - option "TH-909-58196-64276-10, Image has previously been viewed" [selected]:
+        - img "TH-909-58196-64276-10"
+        - generic: "78"
+      - option "TH-909-58196-64278-12, Image has previously been viewed":
+        - img "TH-909-58196-64278-12"
+        - generic: "79"
+      - option "TH-909-58196-64327-12 80":
+        - img "TH-909-58196-64327-12"
+        - generic: "80"
+      - option "TH-909-58196-64264-10 81":
+        - img "TH-909-58196-64264-10"
+        - generic: "81"
+      - option "TH-909-58196-64297-39 82":
+        - img "TH-909-58196-64297-39"
+        - generic: "82"
+      - option "TH-909-58196-64492-32, Image has previously been viewed":
+        - img "TH-909-58196-64492-32"
+        - generic: "83"
+      - option "TH-909-58196-64313-98 84":
+        - img "TH-909-58196-64313-98"
+        - generic: "84"
+      - option "TH-909-58196-64280-14 85":
+        - img "TH-909-58196-64280-14"
+        - generic: "85"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 70"
+  - button "Go to image 71"
+  - button "Go to image 72"
+  - button "Go to image 73"
+  - button "Go to image 74"
+  - button "Go to image 75"
+  - button "Go to image 76"
+  - button "Go to image 77"
+  - button "Go to image 78, viewed"
+  - button "Go to image 79, viewed"
+  - button "Go to image 80"
+  - button "Go to image 81"
+  - button "Go to image 82"
+  - button "Go to image 83, viewed"
+  - button "Go to image 84"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - generic: by ss from individuals S --- A List of Taxable property within the district of Thomson Commissioner of the Rovince in the County of Fauquier for the year of our Lord 1834 Names of Owners 8 . Ash Francis T Ash Thornton Adams Willis Adams George Adams Littleton Dec. Adams Francis Adams Fanny Adams Josiah Anderson Robert C Adams Adams Benjamin Ashby Marshall 2 Ashby George W Ashby Elizabeth T. Ashby Nunrod T Ashby John H. Dr Ashby John J. Mary Ashby Turner . Adams John Horses of Carriages son 17 1 1 1 1 1 1 1 1 1 1 7 19 8 3 1 6 4 3 1 18 to 14 4 . 2 2 1 2 1 1 of or to 3 15 1 13 $ 4 & 4 8 2 2 25 49 29 37 48 43 31 61 43 40 C 107 Cave 553 Dog the 6 49 1829
+- button "Feedback":
+  - text: Feedback

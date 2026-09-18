@@ -1,0 +1,125 @@
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQK-TS89-2?view=fullText&keywords=Laurine%2CLaurie&searchForm=advanced&lang=en
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845" [level=1]':
+    - generic: "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number" [active]: "288"
+      - paragraph: of 717
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58196-63933-32 281":
+        - img "TH-909-58196-63933-32"
+        - generic: "281"
+      - option "TH-909-58196-64039-3 282":
+        - img "TH-909-58196-64039-3"
+        - generic: "282"
+      - option "TH-909-58196-63884-24 283":
+        - img "TH-909-58196-63884-24"
+        - generic: "283"
+      - option "TH-909-58196-63912-21, Image has previously been viewed":
+        - img "TH-909-58196-63912-21"
+        - generic: "284"
+      - option "TH-909-58196-63914-19 285":
+        - img "TH-909-58196-63914-19"
+        - generic: "285"
+      - option "TH-909-58196-63901-8 286":
+        - img "TH-909-58196-63901-8"
+        - generic: "286"
+      - option "TH-909-58196-63906-13, Image has previously been viewed":
+        - img "TH-909-58196-63906-13"
+        - generic: "287"
+      - option "TH-909-58196-63950-31, Image has previously been viewed" [selected]:
+        - img "TH-909-58196-63950-31"
+        - generic: "288"
+      - option "TH-909-58196-63878-58 289":
+        - img "TH-909-58196-63878-58"
+        - generic: "289"
+      - option "TH-909-58196-63935-38 290":
+        - img "TH-909-58196-63935-38"
+        - generic: "290"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 281"
+  - button "Go to image 282"
+  - button "Go to image 283"
+  - button "Go to image 284, viewed"
+  - button "Go to image 285"
+  - button "Go to image 286"
+  - button "Go to image 287, viewed"
+  - button "Go to image 288, viewed"
+  - button "Go to image 289"
+  - button "Go to image 290"
+  - button "Go to image 291"
+  - button "Go to image 292"
+  - button "Go to image 293"
+  - button "Go to image 294"
+  - button "Go to image 295"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - generic: 20 21 24 26 27 28 . May 2 30 March 3 17 26 Cockriel William of Reckin Curlett William S Campbell Archa C Strothers Campbell John J Reads Cason John Casy John C A Payne Cropp Silas F Crump George Claxton Richard Monka Chapman Frederick A Conting John C Frank in Calhoon John Do . Coppage Thomas Do Colbert in Morrisville Cranson Samuel C Springs Canot John C Waldens Cooksey Phillip Campbell Joseph W. Dural Chapman Sidney F Clopton Nathaniel V Carter Thomas O B Coatney Alice Coatney Sarah Coatney Charles J Royals Daws William Paris Dawson John A Downing Joseph G Downing John Farrowsville Daws James Pary Daniel William A Mr Richards Daniel Susannah Thome Run Duncan Christopher Do Drummond James Dodd Bennett 1 1 1 1 1 1 1 2 of 1 1 of 1 1 of 1 1 4 . in 2 6 3 of --- --- 2 7 2 19 21 --- --- --- 1 3 --- --- --- 1 1 12 1 6 4 1 4 1 6 6 11 8 21 3 - of 3 2 1 1 1 of 1 35 1 1 in 69 --- 5 1 1 3 74 X Gigg 150 3 2 1 = - Call 100 2 1 to 88 of 68 28 22 38 8 68 58 38 58 84 16 24 30 Naves of Horse 70 1 Can 50 of 250 29 1888 Apl 4 6 19 26 30 May Dodd Elizabeth Dodd Sanford Deggis Thomas E Digges Edward Digges Thomas G Digges Partia Digges Elizabeth Digges John W Day Baldwin Dye George C Wheatly Dawson Robert C Bradford Dulen George D Wallow Darnall Florence R Johnston Dodson Samuel Dawson John Dawson Joseph of In Dawson George Do Dawson John R Do Davis Thomas T. Ark Dulin Smith Divers William Devers Alexander of Wm Darnall Sydnor Duley Greyson Drennon Benjamin Drummon Martin of Ben Denness Thomas Davis William Dennis Isaac Dent George Deep Run mining and Dye John Duff George Dodd Joseph R 1 1 1 1 1 1 1 2 1 of of 2 1 1 1 2 1 1 1 1 1 --- 1 of 1 to O 4 5 2 2 1 2 in --- 1 2 55 4 --- 4 - in 2 80 in in 32 184 182 1 - 2 2 1 1 he 4 2 4 he 60 3 2 --- 60 60 38 2 5 2 - Ⓧ 44 40 Naves 44 30 - Hovis --- 1 1 52
+- button "Feedback":
+  - text: Feedback
+- alert "Success Message":
+  - paragraph: Image Downloaded. Want to attach this image to the Tree?
+  - button "Dismiss":
+- button "Attach"

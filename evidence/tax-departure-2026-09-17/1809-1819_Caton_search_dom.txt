@@ -1,0 +1,122 @@
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - button "Notifications":
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+      - generic: Spencer5362
+- main "Main Content":
+  - navigation "Secondary":
+    - list:
+      - link "Records":
+        - /url: /en/search/
+      - link "Full Text":
+        - /url: /en/search/full-text
+      - link "Images":
+        - /url: /en/records/images
+      - link "Family Tree":
+        - /url: /en/search/tree
+      - link "Genealogies":
+        - /url: /en/search/genealogies
+      - link "Catalog":
+        - /url: /en/search/catalog
+      - link "Books":
+        - /url: /en/library/books/
+      - link "Wiki":
+        - /url: /en/wiki/Main_Page
+  - separator
+  - search:
+    - complementary:
+      - button "Collapse search form":
+        - generic: Collapse search form
+      - status:
+        - button "Learn how"
+        - text: the updated search filters can improve your search.
+        - button "Close":
+      - heading "Search" [level=2]
+      - button "Edit Search" [active]:
+        - generic: Edit Search
+      - separator
+      - paragraph:
+        - strong: "Keywords:"
+        - text: Caton
+      - paragraph:
+        - strong: "Image Group Number (DGS):"
+        - text: "7849109"
+      - heading "Filters" [level=2]
+      - button "Clear Filters" [disabled]
+      - separator
+      - button "Expand Collection":
+        - generic: Collection
+      - button "Expand Year":
+        - generic: Year
+      - button "Expand Place":
+        - generic: Place
+      - button "Expand Record Type":
+        - generic: Record Type
+      - button "Apply" [disabled]
+  - heading "Full-Text Search Results (3)" [level=1]
+  - button "Search Tips": Search Tips
+  - switch "Fact View"
+  - generic: Fact View
+  - region "Search Results":
+    - 'heading "Personal Property Tax Records, 1809-1819, Fauquier County, Virginia: Fauquier, Virginia. Personal Property Tax Records 1809-1819" [level=2]':
+      - 'link "Personal Property Tax Records, 1809-1819, Fauquier County, Virginia: Fauquier, Virginia. Personal Property Tax Records 1809-1819"':
+        - /url: /ark:/61903/3:1:3Q9M-CSQ2-M2TN?view=fullText&keywords=Caton&searchForm=advanced&lang=en
+        - generic: "Personal Property Tax Records, 1809-1819, Fauquier County, Virginia: Fauquier, Virginia. Personal Property Tax Records 1809-1819"
+    - link "Image Thumbnail":
+      - /url: /ark:/61903/3:1:3Q9M-CSQ2-M2TN?view=fullText&keywords=Caton&searchForm=advanced&lang=en
+    - text: …Andrew G Chunn Martha
+    - mark: Caton
+    - text: Thomas 2 Crawler B …
+    - separator
+    - strong: "Years:"
+    - text: No years found
+    - paragraph: Matches (1)
+    - 'heading "Personal Property Tax Records, 1809-1819, Fauquier County, Virginia: Fauquier, Virginia. Personal Property Tax Records 1809-1819" [level=2]':
+      - 'link "Personal Property Tax Records, 1809-1819, Fauquier County, Virginia: Fauquier, Virginia. Personal Property Tax Records 1809-1819"':
+        - /url: /ark:/61903/3:1:3Q9M-CSQ2-MLC8?view=fullText&keywords=Caton&searchForm=advanced&lang=en
+        - generic: "Personal Property Tax Records, 1809-1819, Fauquier County, Virginia: Fauquier, Virginia. Personal Property Tax Records 1809-1819"
+    - link "Image Thumbnail":
+      - /url: /ark:/61903/3:1:3Q9M-CSQ2-MLC8?view=fullText&keywords=Caton&searchForm=advanced&lang=en
+    - text: …Henry Isaac Heaton
+    - mark: Caton
+    - text: Harris James Harris …
+    - separator
+    - strong: "Years:"
+    - text: No years found
+    - paragraph: Matches (1)
+    - 'heading "Personal Property Tax Records, 1809-1819, Fauquier County, Virginia: Fauquier, Virginia. Personal Property Tax Records 1809-1819" [level=2]':
+      - 'link "Personal Property Tax Records, 1809-1819, Fauquier County, Virginia: Fauquier, Virginia. Personal Property Tax Records 1809-1819"':
+        - /url: /ark:/61903/3:1:3Q9M-CSQ2-MLMZ?view=fullText&keywords=Caton&searchForm=advanced&lang=en
+        - generic: "Personal Property Tax Records, 1809-1819, Fauquier County, Virginia: Fauquier, Virginia. Personal Property Tax Records 1809-1819"
+    - link "Image Thumbnail":
+      - /url: /ark:/61903/3:1:3Q9M-CSQ2-MLMZ?view=fullText&keywords=Caton&searchForm=advanced&lang=en
+  - generic: "Results per page:"
+  - combobox "Results per page:":
+    - option "10"
+    - option "20"
+    - option "50"
+    - option "100" [selected]
+  - button "Go to previous Page. Currently on Page 1 of 1" [disabled]:
+  - paragraph: Page
+  - spinbutton "Enter Page number": "1"
+  - paragraph: of 1
+  - button "Go to next Page. Currently on Page 1 of 1" [disabled]:
+- button "Feedback":
+  - text: Feedback

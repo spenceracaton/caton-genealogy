@@ -1,0 +1,120 @@
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845" [level=1]':
+    - generic: "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number" [active]: "260"
+      - paragraph: of 717
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58196-63977-60 251":
+        - img "TH-909-58196-63977-60"
+        - generic: "251"
+      - option "TH-909-58196-64095-23 252":
+        - img "TH-909-58196-64095-23"
+        - generic: "252"
+      - option "TH-909-58196-64131-34 253":
+        - img "TH-909-58196-64131-34"
+        - generic: "253"
+      - option "TH-909-58196-64035-99 254":
+        - img "TH-909-58196-64035-99"
+        - generic: "254"
+      - option "TH-909-58196-64007-93 255":
+        - img "TH-909-58196-64007-93"
+        - generic: "255"
+      - option "TH-909-58196-63925-32 256":
+        - img "TH-909-58196-63925-32"
+        - generic: "256"
+      - option "TH-909-58196-64096-8 257":
+        - img "TH-909-58196-64096-8"
+        - generic: "257"
+      - option "TH-909-58196-64087-9 258":
+        - img "TH-909-58196-64087-9"
+        - generic: "258"
+      - option "TH-909-58196-64019-95 259":
+        - img "TH-909-58196-64019-95"
+        - generic: "259"
+      - option "TH-909-58196-64013-41, Image has previously been viewed" [selected]:
+        - img "TH-909-58196-64013-41"
+        - generic: "260"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 251"
+  - button "Go to image 252"
+  - button "Go to image 253"
+  - button "Go to image 254"
+  - button "Go to image 255"
+  - button "Go to image 256"
+  - button "Go to image 257"
+  - button "Go to image 258"
+  - button "Go to image 259"
+  - button "Go to image 260, viewed"
+  - button "Go to image 261"
+  - button "Go to image 262"
+  - button "Go to image 263, viewed"
+  - button "Go to image 264"
+  - button "Go to image 265"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - generic: to 1837 Feby 4 March 4 22 Apl 7 Names of Owners Ashby John J Alexander William Adams Benjamin Anderson Robert Adam Ashby Thomas A. S. Edmond Ashly Dolly Adams Heltha Adams Fanny Ash Francis Anderson Eli Anderson Sidner Ashby Elizabeth T Adams John Adams Charles Armstrong Lewis Armstrong Elijah Adams Willis Abbot Ezra A Ambler Ashton Ann A Ambler Thomas M Ashby & Cock Allerson William Allerson Martin Allerson Richard Anderson Spencer Allen Charles Able Thomas Warenton Allen Charles C Ashby Alcinda White make A List of taxable property within the district of Thomsen Ashby Commissioner of the Revenue for the year of our Lord 1837 --- Horses Camages and Horses Valuation Between 12 & 16 Discription To 1 --- 14 24 10 20 1 1 1 me 1 1 4 1 2 2 I by Leibirigillof J J HILLISH THIS IN S L - M of of 1 3 2 32 the 70 2 15 115 Carriage 115 5 Stanes Horsey I 2 Court 200 6 of 2 2 28 54 36 05 50 31 5 19 21 12 36 S 10 43 6 12 62 24 57
+- button "Feedback":
+  - text: Feedback

@@ -1,0 +1,121 @@
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQ2-39PP-Q?view=fullText&keywords=Caton&searchForm=advanced&lang=en
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832" [level=1]':
+    - generic: "Personal Property Tax Records, 1820-1832, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1820–1832"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number" [active]: "178"
+      - paragraph: of 807
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58203-48437-97 171":
+        - img "TH-909-58203-48437-97"
+        - generic: "171"
+      - option "TH-909-58203-48299-49 172":
+        - img "TH-909-58203-48299-49"
+        - generic: "172"
+      - option "TH-909-58203-48379-38 173":
+        - img "TH-909-58203-48379-38"
+        - generic: "173"
+      - option "TH-909-58203-48314-11 174":
+        - img "TH-909-58203-48314-11"
+        - generic: "174"
+      - option "TH-909-58203-48391-94 175":
+        - img "TH-909-58203-48391-94"
+        - generic: "175"
+      - option "TH-909-58203-48312-25 176":
+        - img "TH-909-58203-48312-25"
+        - generic: "176"
+      - option "TH-909-58203-48352-1 177":
+        - img "TH-909-58203-48352-1"
+        - generic: "177"
+      - option "TH-909-58203-48394-39, Image has previously been viewed" [selected]:
+        - img "TH-909-58203-48394-39"
+        - generic: "178"
+      - option "TH-909-58203-48381-96 179":
+        - img "TH-909-58203-48381-96"
+        - generic: "179"
+      - option "TH-909-58203-48419-99 180":
+        - img "TH-909-58203-48419-99"
+        - generic: "180"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 169"
+  - button "Go to image 170"
+  - button "Go to image 171"
+  - button "Go to image 172"
+  - button "Go to image 173"
+  - button "Go to image 174"
+  - button "Go to image 175"
+  - button "Go to image 176"
+  - button "Go to image 177"
+  - button "Go to image 178, viewed"
+  - button "Go to image 179"
+  - button "Go to image 180"
+  - button "Go to image 181"
+  - button "Go to image 182, viewed"
+  - button "Go to image 183"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - generic: Equier for the year 1822 Son or in the County of Fauquier for toto --- of of no ges and homes the District of Seph Son is within Hert son forty Son $ 100 to no as Son of for & H d ped my 11 no of ney for of John of by my own list of taxable property . ? - --- -
+- button "Feedback":
+  - text: Feedback

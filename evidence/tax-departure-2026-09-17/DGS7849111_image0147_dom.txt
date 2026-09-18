@@ -1,0 +1,127 @@
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSQK-TS8H-3?view=fullText&keywords=Laurence%2CLaury&searchForm=advanced&lang=en
+- link "Skip to Main Content":
+  - /url: "#main"
+- banner:
+  - link "FamilySearch Home":
+    - /url: /en/home/portal/
+    - img "FamilySearch"
+  - navigation "Main":
+    - button "Family Tree"
+    - button "Search"
+    - button "Memories"
+    - button "Get Involved"
+    - button "Activities"
+  - link "Locations":
+    - /url: /en/locations/about
+  - button "Select a Language":
+  - button "Help":
+  - button "Chat":
+  - link "Notifications":
+    - /url: /en/notifications/
+  - 'button "Account: Spencer5362"':
+    - 'generic "Account: Spencer5362"':
+      - generic: S
+- main "Main Content":
+  - 'heading "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845" [level=1]':
+    - generic: "Personal Property Tax Records, 1833-1845, Fauquier County, Virginia: Fauquier. Personal Property Tax Records 1833–1845"
+  - button "Names":
+  - button "Transcript":
+  - button "Information":
+  - button "Save Record":
+  - region "Image Viewer":
+    - generic "false":
+      - paragraph: Image
+      - spinbutton "Enter Image number": "147"
+      - paragraph: of 717
+    - button "Zoom In":
+    - button "Zoom Out":
+    - button "Adjust Image":
+    - button "Toggle fullscreen mode":
+    - button "Download":
+    - button "View Grid":
+    - listbox "Grid view of related images":
+      - option "TH-909-58196-64174-13 146":
+        - img "TH-909-58196-64174-13"
+        - generic: "146"
+      - option "TH-909-58196-64143-2, Image has previously been viewed" [selected]:
+        - img "TH-909-58196-64143-2"
+        - generic: "147"
+      - option "TH-909-58196-64124-97 148":
+        - img "TH-909-58196-64124-97"
+        - generic: "148"
+      - option "TH-909-58196-64146-3 149":
+        - img "TH-909-58196-64146-3"
+        - generic: "149"
+      - option "TH-909-58196-64165-12 150":
+        - img "TH-909-58196-64165-12"
+        - generic: "150"
+      - option "TH-909-58196-64156-15 151":
+        - img "TH-909-58196-64156-15"
+        - generic: "151"
+      - option "TH-909-58196-64255-13 152":
+        - img "TH-909-58196-64255-13"
+        - generic: "152"
+      - option "TH-909-58196-64168-9 153":
+        - img "TH-909-58196-64168-9"
+        - generic: "153"
+      - option "TH-909-58196-64153-0 154":
+        - img "TH-909-58196-64153-0"
+        - generic: "154"
+      - option "TH-909-58196-64166-11 155":
+        - img "TH-909-58196-64166-11"
+        - generic: "155"
+    - generic "Single Image Viewer":
+  - button "Hide image filmstrip" [expanded]:
+  - button "Scroll left":
+  - button "Scroll right":
+  - button "Go to image 135"
+  - button "Go to image 136"
+  - button "Go to image 137"
+  - button "Go to image 138"
+  - button "Go to image 139"
+  - button "Go to image 140"
+  - button "Go to image 141"
+  - button "Go to image 142"
+  - button "Go to image 143"
+  - button "Go to image 144"
+  - button "Go to image 145"
+  - button "Go to image 146"
+  - button "Go to image 147, viewed"
+  - button "Go to image 148"
+  - button "Go to image 149"
+- complementary "Transcript":
+  - heading "Transcript" [level=2]:
+    - generic: Transcript
+  - button "Close":
+  - separator
+  - paragraph: AI-generated transcript available.
+  - button "VIEW"
+  - separator
+  - status:
+    - text: You're using the updated look for viewing and editing names.
+    - button "Turn off the updated look"
+  - heading "No Names" [level=1]
+  - paragraph: Add a name to capture details that improve search and update the Family Tree.
+  - button "Add Name"
+  - generic "View Names":
+    - button "Back":
+    - heading "View Names" [level=2]:
+      - generic: View Names
+    - button "Close":
+    - separator
+    - button "Summarize the document":
+      - strong: Summarize the document
+    - separator
+    - heading "Transcript" [level=6]
+    - button "Transcript options menu":
+    - switch "Show Translation" [disabled]
+    - generic: Show Translation
+    - text: March April 28 Henard Harrison Jeffries Heath Isham Knox John S. 24 Kerns Jacob Kerns William of Job Kemper John C Wheatley Kemper John of In 25 Herrick John B. Warrenton Kemper Robt Hemper Alexander H of Geo Kerby John G Kemper John P. 1 Kemper Charles 28 Keith Thomas A Raith Alexander D. Herrick William N Henrich Hugh Herrick Mathew Knox Thomas P. 8 Kenny William Herrick Edward 15 Keith Smith Keith Samuel of Smith Keith John Do 16 Kemper Joseph Hemper Joshua Hemper Jameson " Hemper Sarah Helley Denah New Porcus Kelley John P. Kennedy John Kemper George Hemper Henry F. Belley William Kelley Henry W Keith James 1 1 3 2 1 1 2 3 2 40 8 11 2 8 5 6 2 4 3 3 4 5 4 9 83 2 4 2 4 1 1 1 3 14 2 11 4 1 12 6 13 1 1 3 3 19 111 by over horses 100 Canall $ 1 100 3 3 3 1 2 4 42 12 24 6 6 56 1 of 1 6 18 6 48 36 55 30 91 25 of 3 68 93 67 98 81 48 Feb 14 March 7 23 24 25 Spin 2 30 Kelley James W Lewis Lydia Laus Shedrach 3 Laus Newman 1 Laws Necton Lucy Thomas & Mary Dearing
+    - generic: Laurence
+    - text: William Leach Enoch Co Saffle Lee Nelson R C A Thompson
+    - generic: Laury
+    - text: Catherine Larry Daniel Lee Hancock Latham Catherine C Nelson Lawler Joseph Sufflorough Hamilton Lufflorough Nathan Jr. Lunceford Harrison Lunsford Seth Lemmon George Legg Walter A C Franchis See George E Dect Lead James 1 27 Legg John Pallen - Lawrence Lewis Lufflorough James H Lee Robert E Lake John 2 Lake John C Marshall
+    - generic: Laurence
+    - text: John O Lampkin Allen C. Bradford 24 Lee John A Lovell Alice Lumkins James C Martin Lomax Thomas Latham Braxton 2 Latham Marian Sapperent Joshua Wenna 1 21 1 2 37 13 2 1 2 16 10 1 10 4 2 81 1 21 2 21 6 3 14 9 1 I 2 1 Davey or houses and 10 Court 12 Geys 1 3 43 25 85 31 18 61 31 15 2 14 " 2 2 108 10 100 200 200 30 23
+- button "Feedback":
+  - text: Feedback
