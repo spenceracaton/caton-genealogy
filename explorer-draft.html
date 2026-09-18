@@ -77,6 +77,7 @@ canvas#graph.pointer{cursor:pointer}
 .sw-ink{background:#07080C}.sw-ink::after{background:#5DC9F5}
 .legend{display:grid;grid-template-columns:auto 1fr;gap:7px 10px;align-items:center;font-size:11.5px;color:var(--ink-2)}
 .legend i{display:inline-block;width:20px;height:0;border-top:1.5px solid var(--edge)}
+.legend i.family{border-top:1.5px solid var(--unresolved)}
 .legend i.hyp{border-top:1.5px dashed var(--candidate)}
 .legend i.rej{border-top:1.5px dotted var(--rejected)}
 .legend i.bnd{border-top:1.5px dotted var(--unresolved)}
@@ -103,10 +104,6 @@ canvas#graph.pointer{cursor:pointer}
 .ib:hover{color:var(--ink);border-color:var(--line-2);background:rgba(127,127,127,.14)}
 .ib:disabled{opacity:.3;cursor:default}
 .ib svg{width:14px;height:14px;stroke:currentColor;fill:none;stroke-width:2}
-.hops{display:flex;align-items:center;gap:6px;font:11.5px "IBM Plex Mono",monospace;color:var(--ink-3);border:1px solid var(--line);border-radius:7px;padding:2px 4px}
-.hops button{border:0;background:none;color:var(--ink-2);width:22px;height:22px;border-radius:5px;cursor:pointer;font:14px "IBM Plex Mono",monospace;line-height:1}
-.hops button:hover{background:rgba(127,127,127,.15);color:var(--ink)}
-.hops .v{color:var(--ink);min-width:10px;text-align:center}
 .spacer{flex:1}
 .identity{display:grid;grid-template-columns:64px 1fr;gap:14px;align-items:center}
 .portrait{width:64px;height:64px;border-radius:50%;background:var(--plate);border:2.5px solid var(--unresolved);display:grid;place-items:center;font:500 22px "Newsreader",Georgia,serif;color:var(--plate-ink);position:relative;overflow:hidden}
@@ -123,14 +120,6 @@ canvas#graph.pointer{cursor:pointer}
 .chip{display:inline-block;padding:3px 8px;border-radius:6px;font:500 11px "Inter",sans-serif;border:1px solid var(--line)}
 .chip.warn{background:color-mix(in srgb,var(--candidate) 14%,transparent);color:var(--candidate);border-color:color-mix(in srgb,var(--candidate) 40%,transparent)}
 .chip.mono{font-family:"IBM Plex Mono",monospace;color:var(--ink-3)}
-.chip.photo{color:var(--ink-3);cursor:pointer}
-.chip.photo:hover{color:var(--ink);border-color:var(--line-2)}
-.tabs{display:flex;gap:2px;margin:16px 0 0;border-bottom:1px solid var(--line)}
-.tabs button{border:0;background:none;color:var(--ink-3);padding:8px 10px;font:500 12px "Inter",sans-serif;cursor:pointer;position:relative;transition:color .2s}
-.tabs button:hover{color:var(--ink-2)}
-.tabs button[aria-selected="true"]{color:var(--ink)}
-.tabs button[aria-selected="true"]::after{content:"";position:absolute;left:8px;right:8px;bottom:-1px;height:2px;background:var(--identified)}
-.tabs button .n{font:10.5px "IBM Plex Mono",monospace;color:var(--ink-3);margin-left:5px}
 .panel-body{flex:1;overflow-y:auto;padding:16px 20px 28px;scrollbar-width:thin;scrollbar-color:rgba(127,127,127,.3) transparent}
 .section{opacity:0;transform:translateY(6px);animation:rise .35s var(--ease) forwards}
 @keyframes rise{to{opacity:1;transform:none}}
@@ -141,20 +130,34 @@ canvas#graph.pointer{cursor:pointer}
 .facts dd{margin:0;color:var(--ink)}
 .facts dd .c{font:10.5px "IBM Plex Mono",monospace;color:var(--identified);margin-left:6px}
 .facts dd .conflict{display:block;font-size:12px;color:var(--candidate);margin-top:2px}
+.source{display:block;margin-top:5px;font:10.5px "IBM Plex Mono",monospace;color:var(--ink-3)}
+.highlights{display:flex;flex-direction:column;gap:10px}
+.highlight{padding:10px 11px;border:1px solid var(--line);border-radius:9px;background:rgba(127,127,127,.05)}
+.highlight .t{font:500 12.5px "Inter",sans-serif;color:var(--ink)}
+.highlight .d{font-size:12px;line-height:1.5;color:var(--ink-2);margin-top:4px}
+.timeline{list-style:none;margin:0;padding:0 0 0 14px;border-left:1px solid var(--line-2);display:flex;flex-direction:column;gap:14px}
+.timeline li{position:relative;padding-left:12px}
+.timeline li::before{content:"";position:absolute;left:-19px;top:4px;width:7px;height:7px;border-radius:50%;background:var(--identified);box-shadow:0 0 0 3px var(--glass)}
+.timeline .when{font:500 10.5px "IBM Plex Mono",monospace;color:var(--identified)}
+.timeline .t{font:500 12.5px "Inter",sans-serif;color:var(--ink);margin-top:2px}
+.timeline .d{font-size:12px;line-height:1.5;color:var(--ink-2);margin-top:3px}
+.questions{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.questions li{padding:9px 10px;border-left:2px solid var(--candidate);background:color-mix(in srgb,var(--candidate) 7%,transparent);border-radius:0 7px 7px 0}
+.questions .t{font:500 12px "Inter",sans-serif;color:var(--ink)}
+.questions .d{font-size:12px;line-height:1.5;color:var(--ink-2);margin-top:3px}
 .note{font-size:12.5px;line-height:1.55;color:var(--ink-2);margin:0}
 .rel{list-style:none;margin:0 -8px;padding:0;display:flex;flex-direction:column}
-.rel li{display:grid;grid-template-columns:28px 1fr auto;gap:10px;align-items:center;padding:7px 8px;border-radius:7px;cursor:pointer;transition:background .15s}
+.rel li{display:grid;grid-template-columns:28px 1fr;gap:10px;align-items:center;padding:7px 8px;border-radius:7px;cursor:pointer;transition:background .15s}
 .rel li:hover{background:rgba(127,127,127,.12)}
 .rel li .pt{width:28px;height:28px;border-radius:50%;background:var(--plate);border:2px solid var(--unresolved);display:grid;place-items:center;font:500 11px "Newsreader",Georgia,serif;color:var(--plate-ink)}
 .rel li .pt.direct{border-color:var(--direct)}.rel li .pt.identified{border-color:var(--identified)}.rel li .pt.candidate{border-color:var(--candidate)}
 .rel li .who{font:500 12.5px "Inter",sans-serif;color:var(--ink)}
 .rel li .who small{display:block;font-weight:400;font-size:11.5px;color:var(--ink-3);line-height:1.4}
-.rel li .tag{font:10.5px "IBM Plex Mono",monospace;color:var(--ink-3);white-space:nowrap;padding:2px 6px;border:1px solid var(--line);border-radius:5px}
-.rel li .tag.hypothesis{color:var(--candidate);border-color:color-mix(in srgb,var(--candidate) 40%,transparent)}
-.rel li .tag.rejected{color:var(--rejected);border-color:color-mix(in srgb,var(--rejected) 40%,transparent)}
 .docs{display:flex;flex-direction:column;gap:8px}
 .doc{display:grid;grid-template-columns:40px 1fr;gap:12px;padding:10px;border:1px solid var(--line);border-radius:9px;background:rgba(127,127,127,.05);cursor:pointer;transition:border-color .2s,background .2s}
+.doc{width:100%;text-align:left;color:var(--ink);font:inherit}
 .doc:hover{border-color:var(--line-2);background:rgba(127,127,127,.1)}
+.doc:focus-visible,.rel li:focus-visible,.ib:focus-visible,.seg button:focus-visible,.swatches button:focus-visible{outline:2px solid var(--identified);outline-offset:2px}
 .doc .thumb{width:40px;height:52px;border-radius:3px;background:repeating-linear-gradient(0deg,rgba(127,127,127,.18) 0 2px,transparent 2px 7px);border:1px solid var(--line-2);position:relative}
 .doc .thumb::after{content:attr(data-kind);position:absolute;left:0;right:0;bottom:0;font:500 8.5px "IBM Plex Mono",monospace;text-align:center;background:rgba(127,127,127,.25);color:var(--ink-2);padding:2px 0;letter-spacing:.05em}
 .doc .t{font:500 12.5px "Inter",sans-serif;color:var(--ink)}
@@ -165,10 +168,25 @@ canvas#graph.pointer{cursor:pointer}
 .claims .id{font:11.5px "IBM Plex Mono",monospace;color:var(--identified)}
 .claims .g{font:10.5px "IBM Plex Mono",monospace;color:var(--ink-3)}
 .empty{color:var(--ink-3);font-size:12.5px}
-.focus-btn{margin-top:14px;width:100%;padding:9px;border:1px solid var(--line-2);background:rgba(127,127,127,.06);color:var(--ink);border-radius:8px;font:500 12.5px "Inter",sans-serif;cursor:pointer;transition:border-color .2s,background .2s}
-.focus-btn:hover{border-color:var(--identified);background:color-mix(in srgb,var(--identified) 14%,transparent)}
+/* ---------- document viewer ---------- */
+.viewer{position:fixed;inset:0;z-index:10;display:grid;place-items:center;padding:24px;opacity:0;pointer-events:none;transition:opacity .3s var(--ease)}
+.viewer[hidden]{display:none}
+.viewer.open{opacity:1;pointer-events:auto}
+.viewer::before{content:"";position:absolute;inset:0;background:rgba(5,7,12,.68);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}
+.viewer-backdrop{position:absolute;inset:0}
+.viewer-card{position:relative;z-index:1;width:min(680px,100%);max-height:min(760px,calc(100vh - 48px));overflow:auto;background:var(--glass);border:1px solid var(--line-2);border-radius:14px;box-shadow:0 24px 80px rgba(0,0,0,.45);padding:22px;transform:translateY(12px) scale(.98);transition:transform .35s var(--ease)}
+.viewer.open .viewer-card{transform:none}
+.viewer-head{display:flex;align-items:flex-start;gap:14px;margin-bottom:18px}
+.viewer-head h2{margin:3px 0 0;font:600 20px/1.2 "Inter",sans-serif}
+.viewer-kind{font:500 10px "IBM Plex Mono",monospace;letter-spacing:.09em;text-transform:uppercase;color:var(--identified)}
+.viewer-close{margin-left:auto;flex:none}
+.viewer-stage{min-height:280px;border:1px solid var(--line);border-radius:10px;background:repeating-linear-gradient(0deg,rgba(127,127,127,.08) 0 1px,transparent 1px 8px),var(--plate);display:grid;place-items:center;text-align:center;padding:34px;color:var(--ink-2)}
+.viewer-stage .sheet{width:min(230px,70%);height:190px;background:var(--plate);border:1px solid var(--line-2);border-radius:4px;box-shadow:var(--shadow);display:grid;place-items:center;color:var(--ink-3);font:500 11px "IBM Plex Mono",monospace;letter-spacing:.06em;text-transform:uppercase}
+.viewer-caption{margin:14px 0 0;font-size:12.5px;line-height:1.55;color:var(--ink-2)}
+.viewer-meta{display:grid;grid-template-columns:110px 1fr;gap:7px 14px;margin:18px 0 0;padding-top:16px;border-top:1px solid var(--line);font-size:12px}
+.viewer-meta dt{color:var(--ink-3)}.viewer-meta dd{margin:0;color:var(--ink)}
 
-@media (prefers-reduced-motion: reduce){.panel,.zoom{transition:none}.section{animation:none;opacity:1;transform:none}}
+@media (prefers-reduced-motion: reduce){.panel,.zoom,.viewer,.viewer-card{transition:none}.section{animation:none;opacity:1;transform:none}}
 @media (max-width:760px){
   :root{--rail:0px}
   .rail{bottom:auto;width:100%;border-right:0;border-bottom:1px solid var(--line);flex-direction:row;flex-wrap:wrap;gap:10px;padding:10px 16px;align-items:center}
@@ -179,14 +197,15 @@ canvas#graph.pointer{cursor:pointer}
   .panel{top:auto;height:58%;width:100%;border-left:0;border-top:1px solid var(--line);border-radius:14px 14px 0 0;transform:translateY(100%)}
   .panel.open{transform:translateY(0)}
   .zoom{display:none}
+  .viewer{padding:12px}.viewer-card{max-height:calc(100vh - 24px);padding:16px}.viewer-stage{min-height:220px}
 }
 </style>
 
 <div id="app">
-  <canvas id="graph"></canvas>
+  <canvas id="graph" tabindex="0" role="img" aria-label="Interactive family tree and relationship graph. Use search to select a person, or click a person node."></canvas>
 
   <nav class="rail" id="rail">
-    <div class="brand"><span class="dot"></span><div><h1>Caton research graph</h1><p>26 people · 210 claims · synthesis 15 Sep 2026</p></div></div>
+    <div class="brand"><span class="dot"></span><div><h1>Caton research graph</h1><p>Sample family view<br>45 people · 210 claims</p></div></div>
     <div class="search">
       <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
       <input id="q" type="search" placeholder="Find a person or alias…" autocomplete="off" aria-label="Find a person">
@@ -195,10 +214,10 @@ canvas#graph.pointer{cursor:pointer}
     <div class="group">
       <h4>View</h4>
       <div class="seg" role="group" aria-label="View">
-        <button id="viewFamily" aria-pressed="true">Family</button>
+        <button id="viewFamily" aria-pressed="true">Family tree</button>
         <button id="viewResearch" aria-pressed="false">Research</button>
       </div>
-      <label class="toggle"><span>Show hypotheses</span><input type="checkbox" id="hyp" checked></label>
+      <label class="toggle"><span>Show possible links</span><input type="checkbox" id="hyp"></label>
     </div>
     <div class="group theme-g">
       <h4>Palette</h4>
@@ -213,58 +232,86 @@ canvas#graph.pointer{cursor:pointer}
       <h4>Legend</h4>
       <div class="legend">
         <i></i><span>Established</span>
-        <i class="hyp"></i><span>Hypothesis</span>
-        <i class="rej"></i><span>Rejected</span>
-        <i class="bnd"></i><span>Identity boundary</span>
+        <i class="family"></i><span>Family knowledge</span>
+        <i class="hyp"></i><span>Possible link</span>
+        <i class="rej"></i><span>Ruled out</span>
+        <i class="bnd"></i><span>Keep separate</span>
         <b class="direct"></b><span>Direct line</span>
-        <b class="identified"></b><span>Identified</span>
-        <b class="candidate"></b><span>Candidate</span>
-        <b></b><span>Unresolved</span>
+        <b class="identified"></b><span>Identified person</span>
+        <b class="candidate"></b><span>Person to review</span>
+        <b></b><span>Needs review</span>
       </div>
     </div>
-    <div class="foot">click a person · drag to pan · scroll to zoom<br><kbd>esc</kbd> clear · <kbd>/</kbd> search · <kbd>f</kbd> fit · <kbd>+</kbd><kbd>−</kbd> hops</div>
+    <div class="foot">click a person · drag to pan · scroll to zoom<br><kbd>esc</kbd> clear · <kbd>/</kbd> search · <kbd>f</kbd> fit</div>
   </nav>
 
   <div class="zoom glass" id="zoom">
-    <button id="zin" title="Zoom in">+</button>
-    <button id="zout" title="Zoom out">−</button>
-    <button id="zfit" title="Fit"><svg viewBox="0 0 24 24"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+    <button id="zin" title="Zoom in" aria-label="Zoom in">+</button>
+    <button id="zout" title="Zoom out" aria-label="Zoom out">−</button>
+    <button id="zfit" title="Fit" aria-label="Fit graph"><svg viewBox="0 0 24 24"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
   </div>
 
-  <aside class="panel" id="panel" aria-live="polite">
+  <aside class="panel" id="panel" aria-label="Selection details" aria-live="polite">
     <div class="panel-head">
       <div class="panel-nav">
-        <button id="back" class="ib" title="Previous selection" disabled><svg viewBox="0 0 24 24"><path d="M15 6l-6 6 6 6"/></svg></button>
-        <div class="hops"><button id="hopMinus">−</button><span>hops <span class="v" id="hopV">1</span></span><button id="hopPlus">+</button></div>
+        <button id="back" class="ib" title="Previous selection" aria-label="Previous selection" disabled><svg viewBox="0 0 24 24"><path d="M15 6l-6 6 6 6"/></svg></button>
         <span class="spacer"></span>
-        <button id="close" class="ib" title="Close"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+        <button id="close" class="ib" title="Close" aria-label="Close selection details"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
       </div>
       <div id="head"></div>
-      <div class="tabs" id="tabs" role="tablist"></div>
     </div>
-    <div class="panel-body" id="body"></div>
+    <div class="panel-body" id="body" role="tabpanel" tabindex="0"></div>
   </aside>
+
+  <div class="viewer" id="viewer" hidden>
+    <div class="viewer-backdrop" data-close-viewer></div>
+    <section class="viewer-card" role="dialog" aria-modal="true" aria-labelledby="viewerTitle">
+      <div class="viewer-head"><div><div class="viewer-kind" id="viewerKind">Document preview</div><h2 id="viewerTitle">Record</h2></div><button class="ib viewer-close" id="viewerClose" title="Close document preview" aria-label="Close document preview"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+      <div class="viewer-stage"><div class="sheet" id="viewerSheet">Preview placeholder</div></div>
+      <p class="viewer-caption" id="viewerCaption"></p>
+      <dl class="viewer-meta" id="viewerMeta"></dl>
+    </section>
+  </div>
 </div>
 
 <script>
 /* =========================================================
    DATA — hand-cut slice of people.jsonl / claims.jsonl.
    gen: generation relative to Aaron (0). col: hand-laid column.
-   photo: optional data: URI; none exist in evidence/ today, so
-   every node renders a placeholder portrait with initials.
+   photo: optional data: URI defined in code; none exist in evidence/ today,
+   so every node renders a placeholder portrait with initials.
    ========================================================= */
 const PEOPLE = [
-  {id:'aaron',    name:'Aaron Caton', years:'1820 – 1878', qual:'direct-line subject · Virginia-born tailor', status:'direct', pid:'P-AARON-DIRECT-1820', claims:7, flag:'Parents unknown', gen:0, col:0.5},
+  {id:'aaron',    name:'Aaron Caton', years:'1820 – 1878', qual:'direct-line person · Virginia-born tailor', status:'direct', pid:'P-AARON-DIRECT-1820', claims:7, flag:'Parents unknown', gen:0, col:0.5},
   {id:'sarah',    name:'Sarah Ann Gardner', years:'m. 1841', qual:'wife · Delaware County, Ohio', status:'identified', pid:'P-SARAH-GARDNER (proposed)', claims:3, gen:0, col:1.5},
   {id:'julia',    name:'Julia Caton Sawtell', years:'1843 –', qual:'daughter · born Missouri', status:'identified', pid:'P-JULIA-SAWTELL (proposed)', claims:4, gen:1, col:-1},
   {id:'maryE',    name:'Mary E. Caton', years:'c. 1846 –', qual:'daughter', status:'identified', pid:'proposed', claims:1, gen:1, col:0},
   {id:'wb',       name:'William Bramwell Caton', years:'1847 – 1941', qual:'son · direct line · Missouri, later Kansas', status:'direct', pid:'P-WILLIAM-BRAMWELL (proposed)', claims:3, gen:1, col:1},
   {id:'nancy',    name:'Nancy Caton', years:'c. 1849 –', qual:'daughter', status:'identified', pid:'proposed', claims:1, gen:1, col:2},
   {id:'phineas',  name:'Phineas Caton', years:'– 1845', qual:'son · died in infancy', status:'identified', pid:'proposed', claims:1, gen:1, col:3},
-  {id:'louis',    name:'Louis Merrill Caton', years:'1886 – 1970', qual:'direct line', status:'direct', pid:'proposed', claims:1, gen:2, col:1},
-  {id:'chandler', name:'Chandler Maynard Caton', years:'1912 – 2002', qual:'direct line', status:'direct', pid:'proposed', claims:1, gen:3, col:1},
-  {id:'philip',   name:'Philip Brettun Caton', years:'b. 1950', qual:'direct line', status:'direct', pid:'proposed', claims:1, gen:4, col:1},
-  {id:'spencer',  name:'Spencer Caton', years:'', qual:'direct line · researcher', status:'direct', pid:'proposed', claims:0, gen:5, col:1},
+  {id:'juliaB',   name:'Julia Louise Blankenmeister', years:'1852 – 1951', qual:'wife · St. Louis → Winfield', status:'identified', pid:'FS-LH63-6Z7', claims:2, gen:1, col:2.2},
+  {id:'harry',    name:'Harry Aaron Caton', years:'1870 – 1949', qual:'son · Winfield, Kansas', status:'identified', pid:'FS-LCRP-PPF', claims:1, gen:2, col:-2},
+  {id:'flora',    name:'Flora Louise Caton', years:'1871 – 1873', qual:'daughter · died young', status:'identified', pid:'FS-LH9W-HTM', claims:1, gen:2, col:-1},
+  {id:'lottie',   name:'Lottie Lee Caton', years:'1873 – 1975', qual:'daughter', status:'identified', pid:'FS-LH9W-HTC', claims:1, gen:2, col:0},
+  {id:'bonnie',   name:'Bonnie Louise Caton', years:'1883 – 1923', qual:'daughter', status:'identified', pid:'FS-MMC6-PKP', claims:1, gen:2, col:1},
+  {id:'louis',    name:'Louis Merrill Caton', years:'1886 – 1970', qual:'direct line · Winfield, Kansas', status:'direct', pid:'FS-9HTG-8P7', claims:11, gen:2, col:2},
+  {id:'christine',name:'Christine Rosette Caton', years:'1897 – 1990', qual:'daughter', status:'identified', pid:'FS-LH9W-ZWZ', claims:1, gen:2, col:3},
+  {id:'caroline', name:'Caroline Louise Crapster', years:'1887 – 1982', qual:'wife · Winfield, Kansas', status:'identified', pid:'FS-9HTG-8P3', claims:2, gen:2, col:4},
+  {id:'merrill',  name:'Merrill Brettun Caton', years:'1908 – 1981', qual:'son · also called Bud', status:'identified', pid:'FS-9HTG-8P4', claims:3, gen:3, col:4},
+  {id:'maryR',    name:'Mary Francis Reeder', years:'1912 – 2007', qual:'wife · Kansas', status:'identified', pid:'FS-L5GG-WTQ', claims:1, gen:3, col:4.8},
+  {id:'barbara',  name:'Barbara Carolyn Caton', years:'1937 – 2015', qual:'daughter', status:'identified', pid:'FS-L5GG-H1X', claims:1, gen:4, col:4},
+  {id:'chandler', name:'Chandler Maynard Caton', years:'1912 – 2002', qual:'direct line · Kansas → Pennsylvania', status:'direct', pid:'FS-L5GJ-DJY', claims:6, gen:3, col:2.5},
+  {id:'philip',   name:'Philip Brettun Caton', years:'b. 1950', qual:'direct line', status:'direct', pid:'proposed', claims:1, gen:4, col:2.5},
+  {id:'spencer',  name:'Spencer Caton', years:'', qual:'direct line · researcher', status:'direct', pid:'proposed', claims:0, gen:5, col:1.5},
+  {id:'tyler',    name:'Tyler Caton', years:'', qual:'son · modern branch', status:'direct', pid:'proposed', claims:0, gen:5, col:2.5},
+  {id:'bryce',    name:'Bryce Caton', years:'', qual:'son · modern branch', status:'direct', pid:'proposed', claims:0, gen:5, col:3.5},
+  {id:'jenna',    name:'Jenna', years:'', qual:'spouse', status:'identified', pid:'proposed', claims:0, gen:5, col:1},
+  {id:'cheyenne', name:'Cheyenne', years:'', qual:'spouse', status:'identified', pid:'proposed', claims:0, gen:5, col:3},
+  {id:'lex',      name:'Lex', years:'', qual:'spouse · New Hope, PA', status:'identified', pid:'proposed', claims:0, gen:5, col:4},
+  {id:'murphy',   name:'Murphy', years:'c. 2022', qual:'child', status:'identified', pid:'private', claims:0, gen:6, col:0.8},
+  {id:'silas',    name:'Silas', years:'c. 2024', qual:'child', status:'identified', pid:'private', claims:0, gen:6, col:1.2},
+  {id:'youngest', name:'Youngest child', years:'2026', qual:'child', status:'identified', pid:'private', claims:0, gen:6, col:1.6},
+  {id:'tylerKid', name:'Tyler’s child', years:'2025', qual:'child', status:'identified', pid:'private', claims:0, gen:6, col:3},
   {id:'thomasE',  name:'Thomas Caton', years:'fl. 1790s – 1830', qual:'elder · Broad Run → Fauquier', status:'candidate', pid:'P-THOMAS-FAUQUIER-ELDER', claims:5, gen:-1, col:-3.5},
   {id:'aaronE',   name:'Aaron Caton', years:'d. by 1834', qual:'elder · Prince William · childless 1810', status:'candidate', pid:'P-AARON-ELDER-1810', claims:3, gen:-1, col:-2.5},
   {id:'moses',    name:'Moses Caton', years:'fl. 1790s – 1830', qual:'Fairfax census head', status:'candidate', pid:'P-MOSES-FAIRFAX', claims:3, gen:-1, col:-1.5},
@@ -283,59 +330,112 @@ const PEOPLE = [
 ];
 
 const FAMILIES = [
-  {parents:['aaron','sarah'], children:['julia','maryE','wb','nancy','phineas'], a:'established', claims:['C005','C006','C037','C185'], why:'1850 Delaware County household; marriage Aug 1841.'},
-  {parents:['wb'], children:['louis'], a:'established', claims:[]},
-  {parents:['louis'], children:['chandler'], a:'established', claims:[]},
-  {parents:['chandler'], children:['philip'], a:'established', claims:[]},
-  {parents:['philip'], children:['spencer'], a:'established', claims:[]},
-  {parents:['williamF','annL'], children:['aaronF'], a:'established', claims:['C052','C149'], why:'Aaron F. was a son of William and Ann F. Lawrey.'},
-  {parents:['thomasE'], children:['aaron'], a:'hypothesis', bo:.5, claims:['C099','C080','C159'], why:'1820 Fauquier household held two boys under ten; age-compatible, but no record names Aaron as Thomas’s son. Grade C.'},
-  {parents:['thomasE'], children:['thomasY'], a:'hypothesis', bo:.5, claims:['C080','C159']},
-  {parents:['moses'], children:['mosesJr'], a:'hypothesis', bo:.62, claims:['C181'], why:'1820 Fairfax boy-under-ten slot identified as Moses B. Jr.; identification is derivative.'},
-  {parents:['georgeW'], children:['aaron','joseph'], a:'rejected', bo:.74, claims:['C121','C129','C135'], why:'Headed no household in 1820; 1840 household’s young men are not identified as Aaron or Joseph.'},
+  {parents:['aaron','sarah'], children:['julia','maryE','wb','nancy','phineas'], a:'established', grade:'A', claims:['C005','C006','C037','C185'], why:'1850 Delaware County household; marriage Aug 1841.'},
+  {parents:['wb','juliaB'], children:['harry','flora','lottie','bonnie','louis','christine'], a:'established', grade:'B', claims:[], why:'FamilySearch family record lists six children.'},
+  {parents:['louis','caroline'], children:['merrill','chandler'], a:'established', grade:'B', claims:[], why:'FamilySearch family record lists two children.'},
+  {parents:['merrill','maryR'], children:['barbara'], a:'established', grade:'B', claims:[], why:'FamilySearch family record lists one child.'},
+  {parents:['chandler'], children:['philip'], a:'family', grade:'C', claims:[], why:'Shown from family knowledge; the current FamilySearch profile lists no children for Chandler.'},
+  {parents:['philip'], children:['spencer','tyler','bryce'], a:'family', grade:'C', claims:[], why:'Modern family branch shown from family knowledge; source links still need to be added.'},
+  {parents:['spencer','jenna'], children:['murphy','silas','youngest'], a:'family', grade:'C', claims:[], why:'Modern family branch shown from family knowledge; source links still need to be added.'},
+  {parents:['tyler','cheyenne'], children:['tylerKid'], a:'family', grade:'C', claims:[], why:'Modern family branch shown from family knowledge; source links still need to be added.'},
+  {parents:['williamF','annL'], children:['aaronF'], a:'established', grade:'A', claims:['C052','C149'], why:'Aaron F. was a son of William and Ann F. Lawrey.'},
+  {parents:['thomasE'], children:['aaron'], a:'hypothesis', grade:'C', bo:.5, claims:['C099','C080','C159'], why:'1820 Fauquier household held two boys under ten; the ages fit, but no record names Aaron as Thomas’s son.'},
+  {parents:['thomasE'], children:['thomasY'], a:'hypothesis', grade:'C', bo:.5, claims:['C080','C159']},
+  {parents:['moses'], children:['mosesJr'], a:'hypothesis', grade:'C', bo:.62, claims:['C181'], why:'1820 Fairfax boy-under-ten slot identified as Moses B. Jr.; identification is derivative.'},
+  {parents:['georgeW'], children:['aaron','joseph'], a:'rejected', grade:'B', bo:.74, claims:['C121','C129','C135'], why:'Headed no household in 1820; 1840 household’s young men are not identified as Aaron or Joseph.'},
 ];
 const LINKS = [
-  {s:'joseph',t:'aaron',type:'sibling',a:'hypothesis',claims:['C110'],why:'1898 notice calls Joseph “the guest of his niece, Mrs. Sawtell.” Supports, does not prove.'},
-  {s:'thomasE',t:'aaronE',type:'kin',a:'hypothesis',claims:['C153','C157'],why:'Taxed together on Broad Run, 1790s.'},
-  {s:'aaronE',t:'moses',type:'kin',a:'hypothesis',claims:['C154']},
-  {s:'williamF',t:'thomasE',type:'kin',a:'hypothesis',claims:['C076','C189'],why:'Regional Fauquier connection only.'},
+  {s:'joseph',t:'aaron',type:'sibling',a:'hypothesis',grade:'B',claims:['C110'],why:'1898 notice calls Joseph “the guest of his niece, Mrs. Sawtell.” Supports, does not prove.'},
+  {s:'thomasE',t:'aaronE',type:'kin',a:'hypothesis',grade:'C',claims:['C153','C157'],why:'Taxed together on Broad Run, 1790s.'},
+  {s:'aaronE',t:'moses',type:'kin',a:'hypothesis',grade:'C',claims:['C154']},
+  {s:'williamF',t:'thomasE',type:'kin',a:'hypothesis',grade:'C',claims:['C076','C189'],why:'Regional Fauquier connection only.'},
   {s:'aaron',t:'aaronE',type:'same?',a:'boundary',claims:[],why:'Separate earlier-generation man.'},
   {s:'aaron',t:'aaronF',type:'same?',a:'boundary',claims:['C052','C149'],why:'Collateral Cooper County person; do not merge.'},
   {s:'thomasE',t:'thomasOH',type:'same?',a:'boundary',claims:['C139']},
   {s:'georgeW',t:'georgeM',type:'same?',a:'boundary',claims:[]},
   {s:'moses',t:'mosesM',type:'same?',a:'boundary',claims:[]},
   {s:'williamF',t:'williamB',type:'same?',a:'boundary',claims:[]},
+  {s:'bryce',t:'lex',type:'spouse',a:'family',grade:'C',claims:[],why:'Modern family branch shown from family knowledge; source links still need to be added.'},
 ];
 const EDGES = [];
-FAMILIES.forEach(f=>{ if(f.parents.length===2) EDGES.push({s:f.parents[0],t:f.parents[1],type:'spouse',a:f.a,claims:f.claims,why:f.why}); f.parents.forEach(p=>f.children.forEach(c=>EDGES.push({s:p,t:c,type:'parent',a:f.a,claims:f.claims,why:f.why}))); });
+FAMILIES.forEach((f,fidx)=>{ if(f.parents.length===2) EDGES.push({s:f.parents[0],t:f.parents[1],type:'spouse',a:f.a,fidx,grade:f.grade,claims:f.claims,why:f.why}); f.parents.forEach(p=>f.children.forEach(c=>EDGES.push({s:p,t:c,type:'parent',a:f.a,fidx,grade:f.grade,claims:f.claims,why:f.why}))); });
 LINKS.forEach(l=>EDGES.push(l));
 
 const DETAIL = {
-  aaron:{facts:[['Born','16 May 1820, Virginia','C006'],['Occupation','Tailor','C006'],['Married','Sarah Ann Gardner, Aug 1841, Delaware Co., Ohio','C005'],['Residence','Ohio → Missouri (1843) → Ohio (1844) → Missouri','C046'],['Service','Co. E, 2nd Missouri Cavalry, 1861–65','C023'],['1870','In Julia Sawtell’s household, Cooper Co., age 55 (outlier)','C041'],['Died','17 Jan 1878, Boonville, Missouri','C108']],
-    note:'Not a household head in 1840; may be a tally in another household. The Wheeling origin is unsourced (C075) and is a lead, not an anchor.',
+  aaron:{facts:[['Birth','16 May 1820 · Virginia','C006'],['Work','Tailor; later a laborer','C006 / C041'],['Education','Not recorded in this profile',''],['Marriage','Sarah Ann Gardner · Aug 1841 · Delaware County, Ohio','C005'],['Places lived','Ohio → Missouri (1843) → Ohio (1844) → Missouri','C046'],['Military service','2nd Missouri Cavalry · 1861–65','C023'],['1870','Living with Julia Sawtell in Cooper County; no wife present','C041'],['Death','17 Jan 1878 · Boonville, Missouri','C108']],
+    highlights:[['A working life as a tailor','The 1850 census lists Aaron as a tailor. His later records place him in Missouri and describe him as a laborer.','C006 / C041'],['A short early trip to Missouri','Julia’s birth in Missouri places the family there by December 1843; they were back in Delaware County by June 1844.','C037 / C144'],['Military service','Aaron enlisted at Chillicothe, Missouri, in 1861 and served through 1865.','C023']],
+    timeline:[['1841','Married Sarah Ann Gardner','Delaware County, Ohio · marriage recorded 8 August','C005'],['1843–44','Family in Missouri, then back in Ohio','Julia was born in Missouri; the reason for the return is unknown.','C037 / C144'],['1850','Tailor in Delaware County','Household included Sarah and five children.','C006'],['1861–65','Served in the 2nd Missouri Cavalry','Enlisted at Chillicothe and reenlisted in 1864.','C023'],['1870','Living with daughter Julia','Boonville, Cooper County · recorded as a laborer · no wife present.','C041'],['1878','Died in Boonville','A newspaper places his residence on Sixth Street.','C108']],
+    questions:[['Parents','No record names Aaron’s parents. Thomas Caton remains a possible father, but the link is unproved.','C099'],['Sarah’s later life','Sarah’s whereabouts after the 1860s are still unresolved.','C047 / C186']],
+    note:'Aaron did not appear as a household head in 1840; he may have been counted in another household. “Wheeling” is an unverified lead.',
     docs:[{kind:'IMG',t:'1850 U.S. Census, Delaware Co., Ohio',m:'US-1850-OH-DELAWARE-AARON-01 · original',why:'Records Aaron as Virginia-born tailor with Sarah and five children.'},{kind:'PDF',t:'Compiled service record, 2nd Missouri Cavalry',m:'C023 · NARA · original',why:'Establishes 1861–65 service and Missouri residence.'},{kind:'TXT',t:'Boonville death notice, Jan 1878',m:'C108 · newspaper · transcript',why:'Date and place of death.'}],
-    claims:[['C006','1850 census reading','A'],['C023','Civil War service','A'],['C037','Julia’s parentage','B'],['C041','1870 household','B'],['C046','Migration route','B'],['C099','Fauquier parentage — do not upgrade','C'],['C108','Death, Boonville','A']]},
-  julia:{facts:[['Born','Dec 1843, Missouri','C037'],['Parents','Aaron Caton and Sarah Ann Gardner','C037'],['Married','— Sawtell, Cooper Co., Missouri',''],['1870','Household includes Aaron, age 55','C041']],
+    claims:[['C006','1850 census reading','A'],['C023','Civil War service','A'],['C037','Julia’s parentage','B'],['C041','1870 household','B'],['C046','Migration route','B'],['C099','Possible father link','C'],['C108','Death, Boonville','A']]},
+  julia:{facts:[['Birth','15 Dec 1843 · Missouri','C037'],['Parents','Aaron Caton and Sarah Ann Gardner','C037'],['Marriage','S. G. Sawtell · Cooper County, Missouri','C111'],['1870','Household includes Aaron, age 55','C041']],
+    highlights:[['A birthplace conflict worth keeping visible','The accepted reading is Missouri. A derivative source read Massachusetts, and the difference changes the family’s migration story.','C037 / C038'],['Her household became an anchor for Aaron','Aaron was living with Julia in Boonville in 1870.','C041']],
+    timeline:[['1843','Born in Missouri','Birthplace reported on her later death certificate.','C037'],['1869','Married S. G. Sawtell','Cooper County, Missouri.','C111'],['1870','Aaron in her household','Boonville, Cooper County.','C041'],['1916','Died in St. Louis','Death certificate names her parents based on a later family report.','C037']],
+    questions:[['Birthplace reading','Missouri is accepted; the older Massachusetts reading remains preserved as a conflict.','C038']],
     conflict:{label:'Born',accepted:'Missouri',alt:'Massachusetts (derivative reading, preserved as conflict)',claims:'C005–C006, C038'},
-    note:'Death certificate informant caveat applies to parent names. The family was back in Delaware County by June 1844 (C144); the reason for the 1843 Missouri visit is unknown.',
+    note:'Her parents’ names come from a later death certificate, not a birth record. The family was back in Delaware County by June 1844; we do not know why they returned.',
     docs:[{kind:'IMG',t:'Missouri death certificate',m:'C037 · original',why:'Names parents; informant reliability noted.'},{kind:'IMG',t:'1870 U.S. Census, Cooper Co., Missouri',m:'US-1870-MO-COOPER-JULIA-SAWTELL-01',why:'Aaron in Julia’s household, age 55.'}],
     claims:[['C037','Birth and parents','B'],['C038','Birthplace conflict','B'],['C041','1870 household','B'],['C144','Return to Ohio, 1844','B']]},
-  joseph:{facts:[['Born','c. 1823, Fauquier County, Virginia','C076'],['Occupation','Tailor','C077'],['1898','“The guest of his niece, Mrs. Sawtell”','C110']],
-    note:'Sibling hypothesis rests on the 1898 notice. The newspaper is a primary source; the relationship it implies is still inferred. Keep the two Josephs distinct.',
+  joseph:{facts:[['Birth','24 Jul 1823 · Fauquier County, Virginia','C076'],['Work','Tailor in Boonville and Marshall','C077'],['Family clue','Called the guest of his niece, Mrs. Sawtell, in 1898','C110']],
+    highlights:[['The strongest family clue','A 1898 newspaper called Joseph the guest of his niece, Mrs. Sawtell. That supports a link to Aaron, but does not name their parents.','C110']],
+    timeline:[['1823','Born in Fauquier County','Virginia.','C076'],['1847','First settled in Boonville','The newspaper account says he worked there as a young tailor.','C110'],['1910','Died in Marshall','His obituary describes his later tailoring work and family.','C076']],
+    questions:[['Relationship to Aaron','The niece reference supports a brother relationship, but the connection is still inferred.','C110']],
+    note:'The sibling idea rests on the 1898 newspaper notice. It supports the connection but does not prove it. Keep the two Josephs separate.',
     docs:[{kind:'TXT',t:'Boonville newspaper notice, 1898',m:'C110 · newspaper · transcript',why:'Only record linking Joseph to the Sawtell household.'}],
     claims:[['C076','Fauquier birth','B'],['C077','Tailor, Boonville','B'],['C098','Regional connection','C'],['C110','Niece notice','B']]},
-  thomasE:{facts:[['1790s','Taxed on Broad Run, Prince William, with Aaron and Moses','C153–C157'],['1810','Moved to Fauquier','C080'],['1820','Household: two boys under ten; wife 26–45 (possibly second wife)','C080, C159'],['1830','No boy under fifteen at home','C082']],
-    note:'Leading parentage hypothesis for the direct-line Aaron. Grade C. Age-compatible; nothing names Aaron as his son. Do not convert to a proved relationship (C099).',
+  thomasE:{facts:[['1790s','Taxed on Broad Run, Prince William, with Aaron and Moses','C153–C157'],['1810','Moved to Fauquier','C080'],['1820','Household: two boys under ten; wife 26–45','C080 / C159'],['1830','No boy under fifteen at home','C082']],
+    highlights:[['Why Thomas is still being considered','His 1820 household held two boys under ten, which fits Aaron’s age. No record names Aaron as his son.','C080 / C099']],
+    timeline:[['1790s','Taxed with Aaron and Moses','Broad Run, Prince William County, Virginia.','C153–C157'],['1810','Living in Fauquier County','The family had moved from Prince William.','C080'],['1820','Two boys under ten in the household','The boys are not named.','C080'],['1830','No boy under fifteen at home','The household reading remains important but has not been rechecked from the image.','C082']],
+    questions:[['Possible link to Aaron','This is the leading parentage idea, but it remains unproved.','C099']],
+    note:'This is the leading idea about Aaron’s father, but no record names Aaron as Thomas’s son. Keep it separate from the proven family line.',
     docs:[{kind:'IMG',t:'1820 U.S. Census, Fauquier Co., Virginia',m:'original',why:'Two boys under ten in the household.'},{kind:'PDF',t:'Prince William personal property tax lists, 1790s',m:'C153–C157 · original',why:'Thomas, Aaron, and Moses taxed together.'}],
-    claims:[['C080','1820 Fauquier household','B'],['C082','1830 household','B'],['C099','Parentage — grade C','C'],['C153','Broad Run tax, 1790s','A'],['C159','Wife’s age bracket','B']]},
-  georgeW:{facts:[['Born','Alexandria, Virginia',''],['Occupation','Tailor, Boonville','C121'],['1820','Headed no household','C129'],['1840','Household with age-compatible young men, unidentified','C135']],
+    claims:[['C080','1820 Fauquier household','B'],['C082','1830 household','B'],['C099','Possible father link','C'],['C153','Broad Run tax, 1790s','A'],['C159','Wife’s age bracket','B']]},
+  georgeW:{facts:[['Birth','Alexandria, Virginia',''],['Work','Tailor in Boonville','C121'],['1820','Did not head a household','C129'],['1840','Household with young men whose names are not recorded','C135']],
+    highlights:[['Why this link was ruled out','George’s 1840 household has age-compatible young men, but he did not head a household in 1820.','C129 / C135']],
+    timeline:[['1820','No household found under his name','This is the key problem with the father theory.','C129'],['1840','Household in Boonville','The young men are not identified.','C135'],['1865','Died in Missouri','Boonville records describe his work as a tailor.','C121']],
+    questions:[['Who were the young men?','The 1840 record does not identify them as Aaron or Joseph.','C135']],
     note:'Rejected as Aaron’s father. The 1840 census does not identify those young men as Aaron or Joseph.',
     docs:[{kind:'IMG',t:'1840 U.S. Census, Cooper Co., Missouri',m:'original',why:'Young men in household; not identified.'}],
     claims:[['C121','Boonville tailor','B'],['C129','No 1820 household','A'],['C135','1840 household','B']]},
-  sarah:{facts:[['Married','Aaron Caton, Aug 1841, Delaware Co., Ohio','C005'],['Family','Gardner family is an Ohio anchor','C186']],
-    note:'Person record proposed; not yet in people.jsonl.',
+  sarah:{facts:[['Marriage','Aaron Caton · Aug 1841 · Delaware County, Ohio','C005'],['Family','Gardner family is an Ohio anchor','C186']],
+    highlights:[['An Ohio family connection','Sarah’s Gardner family helps explain why Delaware County remains important in the story.','C186']],
+    timeline:[['1841','Married Aaron Caton','Delaware County, Ohio.','C005'],['1845','Son Phineas buried at Powell','The gravestone names Aaron and Sarah as his parents.','C185']],
+    questions:[['Later life','Her death and later whereabouts remain unresolved.','C047 / C186']],
+    note:'This profile is a draft; Sarah’s core identity record has not been added yet.',
     docs:[{kind:'IMG',t:'Delaware County marriage record, 1841',m:'C005 · original',why:'Marriage of Aaron and Sarah.'}],
     claims:[['C005','Marriage','A'],['C186','Gardner family','B']]},
+  louis:{facts:[['Birth','27 Feb 1886 · Winfield, Kansas','FS-9HTG-8P7'],['Marriage','Caroline Louise Crapster · 12 Jun 1906 · Winfield','FS-9HTG-8P7'],['Places lived','Cowley County and Winfield · 1895–1940','FS-9HTG-8P7'],['Work','Not recorded in this draft',''],['Education','Not recorded in this draft',''],['Death','28 Jul 1970 · Winfield, Kansas','FS-9HTG-8P7']],
+    highlights:[['A Winfield life','Louis was born, married, and died in Winfield, Kansas. His records keep Cowley County at the center of this branch.','FS-9HTG-8P7'],['Two family branches','The family record lists Merrill and Chandler as children, giving the tree a second branch beside the direct line.','FS-9HTG-8P7']],
+    timeline:[['1886','Born in Winfield','Cowley County, Kansas.','FS-9HTG-8P7'],['1906','Married Caroline Louise Crapster','Winfield, Kansas.','FS-9HTG-8P7'],['1895–1940','Lived around Cowley County','Winfield and Pleasant Valley appear in the record.','FS-9HTG-8P7'],['1970','Died in Winfield','Kansas.','FS-9HTG-8P7']],
+    questions:[['Work and education','Those details have not been added to this draft.','']],
+    note:'FamilySearch lists 11 sources for Louis. The branch below reflects the people currently shown in his family record.',
+    docs:[{kind:'FS',t:'FamilySearch profile · Louis Merrill Caton',m:'9HTG-8P7 · person page',why:'Overview of dates, places, spouse, children, and sources.'}],
+    claims:[['FS-9HTG-8P7','Person page and family record','B']]},
+  merrill:{facts:[['Birth','14 Aug 1908 · Winfield, Kansas','FS-9HTG-8P4'],['Also called','Bud','FS-9HTG-8P4'],['Marriage','Mary Francis Reeder · Kansas','FS-L5GG-WTQ'],['Places lived','Winfield, Pleasant Valley, and Blackwell','FS-9HTG-8P4'],['Death','27 May 1981 · Winfield, Kansas','FS-9HTG-8P4']],
+    highlights:[['A branch with a named child','Merrill and Mary Francis Reeder are shown with one daughter, Barbara Carolyn.','FS-L5GG-H1X']],
+    timeline:[['1908','Born in Winfield','Kansas.','FS-9HTG-8P4'],['1937','Barbara Carolyn born','Daughter of Merrill and Mary Francis Reeder.','FS-L5GG-H1X'],['1981','Died in Winfield','Kansas.','FS-9HTG-8P4']],
+    questions:[['Work and education','Those details have not been added to this draft.','']],
+    note:'This branch is included to make the shape of Louis’s descendants visible; it can be expanded as more records are reviewed.',
+    docs:[{kind:'FS',t:'FamilySearch profile · Merrill Brettun Caton',m:'9HTG-8P4 · person page',why:'Spouse and daughter are shown in the family record.'}],
+    claims:[['FS-9HTG-8P4','Person page','B'],['FS-L5GG-H1X','Daughter relationship','B']]},
+  chandler:{facts:[['Birth','18 Nov 1912 · Kansas','FS-L5GJ-DJY'],['Spouse','Doris Caton','FS-PWJ2-LV5'],['Places lived','Cowley County, Kansas → Philadelphia area','FS-L5GJ-DJY'],['Work','Purchasing agent','FS-L5GJ-DJY'],['Education','Not recorded in this draft',''],['Children','None listed on the current FamilySearch profile','FS-L5GJ-DJY']],
+    highlights:[['A move east','The profile follows Chandler from Kansas to the Philadelphia and Swarthmore area.','FS-L5GJ-DJY'],['An open family link','This draft keeps the line from Chandler to Philip because it is part of the family knowledge being explored. FamilySearch currently lists no children for Chandler.','FS-L5GJ-DJY']],
+    timeline:[['1912','Born in Kansas','The current profile gives Kansas as the birthplace.','FS-L5GJ-DJY'],['1930s–40s','Lived in Cowley County','Kansas.','FS-L5GJ-DJY'],['Later life','Lived in Pennsylvania','Philadelphia and Swarthmore appear in the profile.','FS-L5GJ-DJY']],
+    questions:[['Children and the line to Philip','The current FamilySearch profile lists no children. The link to Philip remains a family-knowledge lead in this draft.','FS-L5GJ-DJY']],
+    note:'This is the clearest place where the visual research tree and the current FamilySearch profile differ. Keep the discrepancy visible until the underlying records are reconciled.',
+    docs:[{kind:'FS',t:'FamilySearch profile · Chandler Maynard Caton',m:'L5GJ-DJY · person page',why:'Shows spouse, places lived, occupation, and current child count.'}],
+    claims:[['FS-L5GJ-DJY','Person page and family record','B'],['FS-PWJ2-LV5','Spouse relationship','B']]},
+  philip:{facts:[['Family','Father of Spencer, Tyler, and Bryce',''],['Line','Shown below Chandler in this draft','']],
+    highlights:[['A modern branch','The three children are shown as a simple family shape so the tree can be read at a glance.','']],
+    questions:[['Supporting records','Modern family details are carried from family knowledge in this draft and still need source links.','']],
+    note:'This is a layout placeholder for the current family line. Portraits and supporting documents are defined in code for now.',
+    claims:[]},
+  spencer:{facts:[['Family','Child of Philip Brettun Caton',''],['Work','Researcher',''],['Places lived','Not recorded in this draft','']],
+    highlights:[['The active research branch','Spencer is the current researcher, with a spouse and three children shown below him.','']],
+    questions:[['Supporting records','Modern family details are carried from family knowledge in this draft and still need source links.','']],
+    note:'The modern branch is included to show how the tree can continue into the present without adding portrait upload controls.',
+    claims:[]},
 };
 
 /* ---------- layout ---------- */
@@ -345,9 +445,16 @@ const initials = p => p.name.split(/\s+/).filter(w=>/^[A-Z]/.test(w)).map(w=>w[0
 PEOPLE.forEach(p=>{ p.tx=p.col*COLW; p.ty=p.gen*ROWH; p.x=p.tx*0.4; p.y=p.ty*0.4; p.r=(p.status==='direct'?17:14)+Math.min(3,Math.sqrt(p.claims)); p.alpha=1; p.ta=1; p.ini=initials(p); p.img=null;
   if(p.photo){ const im=new Image(); im.onload=()=>{p.img=im;}; im.src=p.photo; } });
 
-let view='family', showHyp=true;
+let view='family', showHyp=false;
 function vis(a){ if(a==='hypothesis') return showHyp; if(a==='rejected'||a==='boundary') return view==='research'; return true; }
 const activeEdges=()=>EDGES.filter(e=>vis(e.a));
+function currentScope(){
+  if(view==='research') return new Set(PEOPLE.map(p=>p.id));
+  const root=selected||'aaron', seen=new Set([root]); let frontier=[root];
+  while(frontier.length){ const next=[]; activeEdges().forEach(e=>{ if(!seen.has(e.s)&&seen.has(e.t)){seen.add(e.s);next.push(e.s);} if(!seen.has(e.t)&&seen.has(e.s)){seen.add(e.t);next.push(e.t);} }); frontier=next; }
+  return seen;
+}
+function inCurrentView(p,scope=currentScope()){ return scope.has(p.id)||p.id===selected; }
 function neighbors(id){ const s=new Set(); activeEdges().forEach(e=>{ if(e.s===id) s.add(e.t); if(e.t===id) s.add(e.s); }); return s; }
 function within(id,h){ const seen=new Set([id]); let fr=[id]; for(let i=0;i<h;i++){ const nx=[]; fr.forEach(f=>neighbors(f).forEach(n=>{ if(!seen.has(n)){seen.add(n);nx.push(n);} })); fr=nx; } return seen; }
 
@@ -363,17 +470,21 @@ function viewCenter(){ const l=railW(), r=panelOpen?panelW():0; if(isNarrow()){ 
 function toScreen(x,y){ const [cx,cy]=viewCenter(); return [(x-cam.x)*cam.k+cx,(y-cam.y)*cam.k+cy]; }
 function toWorld(sx,sy){ const [cx,cy]=viewCenter(); return [(sx-cx)/cam.k+cam.x,(sy-cy)/cam.k+cam.y]; }
 function flyTo(x,y,k){ cam.tx=x; cam.ty=y; if(k) cam.tk=k; }
-function fit(){ const xs=PEOPLE.map(p=>p.tx), ys=PEOPLE.map(p=>p.ty); const minx=Math.min(...xs)-90,maxx=Math.max(...xs)+90,miny=Math.min(...ys)-70,maxy=Math.max(...ys)+90; const aw=W-railW()-(panelOpen?panelW():0); const k=Math.min(aw/(maxx-minx),H/(maxy-miny),1.5); flyTo((minx+maxx)/2,(miny+maxy)/2,k); }
+function fit(){ const scope=currentScope(), shown=PEOPLE.filter(p=>inCurrentView(p,scope)); const ps=shown.length?shown:PEOPLE; const xs=ps.map(p=>p.tx), ys=ps.map(p=>p.ty); const minx=Math.min(...xs)-90,maxx=Math.max(...xs)+90,miny=Math.min(...ys)-70,maxy=Math.max(...ys)+90; const aw=W-railW()-(panelOpen?panelW():0); const k=Math.min(aw/(maxx-minx),H/(maxy-miny),1.5); flyTo((minx+maxx)/2,(miny+maxy)/2,k); }
 
 /* ---------- selection ---------- */
-let selected=null, hovered=null, hops=1, history=[], panelOpen=false;
+let selected=null, hovered=null, history=[], panelOpen=false;
+const focusDistance=1;
+function pushCurrent(){
+  if(selected) history.push(selected);
+}
 function setSelection(id,{push=true,fly=true}={}){
-  if(push && selected && selected!==id) history.push(selected);
+  if(push && selected && selected!==id) pushCurrent();
   selected=id; document.getElementById('back').disabled=history.length===0;
   if(id){ openPanel(id); const p=byId[id]; if(fly) flyTo(p.tx,p.ty,Math.max(cam.tk,1.1)); } else closePanel();
   updateAlphas();
 }
-function updateAlphas(){ if(!selected){ PEOPLE.forEach(p=>p.ta=1); return; } const keep=within(selected,hops); PEOPLE.forEach(p=>p.ta=keep.has(p.id)?1:.16); }
+function updateAlphas(){ const scope=currentScope(), keep=selected?within(selected,focusDistance):null; PEOPLE.forEach(p=>{ const visible=inCurrentView(p,scope); p.ta=visible ? (selected ? (keep.has(p.id)?1:.16) : 1) : 0; }); }
 
 /* ---------- theme ---------- */
 const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
@@ -385,7 +496,7 @@ let saved=null; try{ saved=localStorage.getItem('caton-palette'); }catch(e){}
 setPalette(['dusk','paper','sage','ink'].includes(saved)?saved:'dusk',{save:false});
 
 const col=p=>C[p.status];
-const edgeStyle=a=>a==='hypothesis'?{c:C.candidate,d:[6,5]}:a==='rejected'?{c:C.rejected,d:[2,4]}:a==='boundary'?{c:C.unresolved,d:[1,5]}:{c:C.edge,d:[]};
+const edgeStyle=a=>a==='family'?{c:C.unresolved,d:[]}:a==='hypothesis'?{c:C.candidate,d:[6,5]}:a==='rejected'?{c:C.rejected,d:[2,4]}:a==='boundary'?{c:C.unresolved,d:[1,5]}:{c:C.edge,d:[]};
 let t0=performance.now();
 
 /* ---------- drawing ---------- */
@@ -413,41 +524,82 @@ function portrait(p,x,y,r,sel,hov){
   ctx.beginPath(); ctx.arc(x,y,r,0,7); ctx.strokeStyle=c; ctx.lineWidth=Math.max(1.5,2.2*cam.k); ctx.stroke();
   if(sel){ ctx.beginPath(); ctx.arc(x,y,r+5,0,7); ctx.strokeStyle=c; ctx.lineWidth=1.2; ctx.globalAlpha=p.alpha*.8; ctx.stroke(); }
 }
+function edgeCurve(edge){
+  const a=byId[edge.s], b=byId[edge.t];
+  const [ax,ay]=toScreen(a.x,a.y), [bx,by]=toScreen(b.x,b.y);
+  const lift=edge.type==='spouse'?0:edge.a==='boundary'?24:edge.a==='rejected'?18:-24;
+  return {ax,ay,bx,by,cx:(ax+bx)/2,cy:(ay+by)/2+lift};
+}
+function curvePoint(c,t){ const mt=1-t; return {x:mt*mt*c.ax+2*mt*t*c.cx+t*t*c.bx,y:mt*mt*c.ay+2*mt*t*c.cy+t*t*c.by}; }
+function familyGeometry(f){
+  const parents=f.parents.map(id=>{ const p=byId[id], [x,y]=toScreen(p.x,p.y); return {p,x,y,r:p.r*cam.k}; });
+  const children=f.children.map(id=>{ const p=byId[id], [x,y]=toScreen(p.x,p.y); return {p,x,y,r:p.r*cam.k}; });
+  if(!parents.length||!children.length) return null;
+  const parentY=parents.reduce((sum,p)=>sum+p.y,0)/parents.length;
+  const hubX=parents.reduce((sum,p)=>sum+p.x,0)/parents.length;
+  const trunkTop=Math.max(...parents.map(p=>p.y+p.r))+24;
+  const childTop=Math.min(...children.map(p=>p.y-p.r));
+  const barY=Math.max(childTop-22,trunkTop+24);
+  return {parents,children,hubX,parentY,trunkTop,barY,minChildX:Math.min(...children.map(p=>p.x)),maxChildX:Math.max(...children.map(p=>p.x))};
+}
+function familySegments(f){
+  const g=familyGeometry(f); if(!g) return [];
+  const out=[];
+  if(g.parents.length===2){
+    const [a,b]=g.parents;
+    out.push({kind:'couple',x1:a.x+(a.x<b.x?a.r:-a.r),y1:g.parentY,x2:b.x+(b.x<a.x?b.r:-b.r),y2:g.parentY});
+  }
+  out.push({kind:'trunk',x1:g.hubX,y1:g.trunkTop,x2:g.hubX,y2:g.barY});
+  // Extend the bus to the parent hub. A single-child branch can otherwise
+  // leave the trunk floating beside the child (most visible at Chandler → Philip).
+  out.push({kind:'sibling',x1:Math.min(g.minChildX,g.hubX),y1:g.barY,x2:Math.max(g.maxChildX,g.hubX),y2:g.barY});
+  g.children.forEach(c=>out.push({kind:'drop',id:c.p.id,x1:c.x,y1:g.barY,x2:c.x,y2:c.y-c.r-3}));
+  return out;
+}
+function strokeSegment(s){ ctx.beginPath(); ctx.moveTo(s.x1,s.y1); ctx.lineTo(s.x2,s.y2); ctx.stroke(); }
+function nodeLabel(p,big){
+  if(big||p.name.split(/\s+/).length<3) return p.name;
+  const parts=p.name.split(/\s+/);
+  return `${parts[0]} ${parts[parts.length-1]}`;
+}
 function draw(now){
   ctx.setTransform(DPR,0,0,DPR,0,0); ctx.clearRect(0,0,W,H);
+  ctx.lineCap='round'; ctx.lineJoin='round';
   cam.x+=(cam.tx-cam.x)*.1; cam.y+=(cam.ty-cam.y)*.1; cam.k+=(cam.tk-cam.k)*.1;
   for(const p of PEOPLE){ p.x+=(p.tx-p.x)*.08; p.y+=(p.ty-p.y)*.08; p.alpha+=(p.ta-p.alpha)*.12; }
-  const S=(x,y)=>toScreen(x,y); const nb=selected?within(selected,hops):null;
-  // arcs
-  for(const l of LINKS){ if(!vis(l.a)) continue; const a=byId[l.s], b=byId[l.t];
-    const [ax,ay]=S(a.x,a.y), [bx,by]=S(b.x,b.y); const st=edgeStyle(l.a); const emph=selected&&(l.s===selected||l.t===selected);
-    ctx.globalAlpha=Math.min(a.alpha,b.alpha)*(emph?1:.7); ctx.strokeStyle=st.c; ctx.setLineDash(st.d); ctx.lineWidth=emph?1.8:1.1;
-    const lift=(l.a==='boundary'?-56:-48)*cam.k; const mx=(ax+bx)/2, my=Math.min(ay,by)+lift;
-    ctx.beginPath(); ctx.moveTo(ax,ay-a.r*cam.k); ctx.quadraticCurveTo(mx,my,bx,by-b.r*cam.k); ctx.stroke();
-  }
-  // tree connectors
-  for(const f of FAMILIES){ if(!vis(f.a)) continue; const st=edgeStyle(f.a); const ps=f.parents.map(i=>byId[i]), cs=f.children.map(i=>byId[i]);
-    const emph=selected&&[...f.parents,...f.children].includes(selected);
-    const al=Math.min(...ps.map(p=>p.alpha),...cs.map(c=>c.alpha)), alMax=Math.max(...ps.map(p=>p.alpha),...cs.map(c=>c.alpha));
-    ctx.strokeStyle=st.c; ctx.setLineDash(st.d); ctx.lineWidth=emph?1.9:1.2;
-    let ux,uy;
-    if(ps.length===2){ const [x1,y1]=S(ps[0].x,ps[0].y), [x2,y2]=S(ps[1].x,ps[1].y); const r1=ps[0].r*cam.k, r2=ps[1].r*cam.k; ctx.globalAlpha=Math.min(ps[0].alpha,ps[1].alpha)*(emph?1:.75); ctx.beginPath(); ctx.moveTo(x1+r1,y1); ctx.lineTo(x2-r2,y2); ctx.stroke(); ux=(x1+x2)/2; uy=(y1+y2)/2; }
-    else { [ux,uy]=S(ps[0].x,ps[0].y); uy+=ps[0].r*cam.k; }
-    if(!cs.length) continue;
-    const busY=S(0,ps[0].y)[1]+ROWH*(f.bo||.5)*cam.k;
-    const xs=cs.map(c=>S(c.x,c.y)[0]); const minx=Math.min(ux,...xs), maxx=Math.max(ux,...xs);
-    ctx.globalAlpha=(selected?Math.max(al,alMax*.5):1)*(emph?1:.75);
-    ctx.beginPath(); ctx.moveTo(ux,uy); ctx.lineTo(ux,busY); ctx.moveTo(minx,busY); ctx.lineTo(maxx,busY); ctx.stroke();
-    cs.forEach(c=>{ const [cx,cy]=S(c.x,c.y); ctx.globalAlpha=(selected?Math.min(c.alpha,Math.max(al,alMax*.5)):1)*(emph?1:.75); ctx.beginPath(); ctx.moveTo(cx,busY); ctx.lineTo(cx,cy-c.r*cam.k); ctx.stroke(); });
+  const S=(x,y)=>toScreen(x,y); const nb=selected?within(selected,focusDistance):null;
+  // Family relationships use a shared orthogonal bus so siblings read as a tree.
+  FAMILIES.forEach((f,fidx)=>{
+    if(!vis(f.a)) return;
+    const g=familyGeometry(f), segs=familySegments(f); if(!g||!segs.length) return;
+    const st=edgeStyle(f.a), focus=selected&&((f.parents.includes(selected))||(f.children.includes(selected)));
+    const alpha=Math.min(...[...g.parents,...g.children].map(x=>x.p.alpha));
+    ctx.globalAlpha=alpha*(focus?1:.62); ctx.strokeStyle=st.c; ctx.lineWidth=focus?1.9:1.15; ctx.setLineDash(st.d);
+    segs.forEach(strokeSegment);
+    ctx.setLineDash([]);
+  });
+  // Non-family relationships remain curved, since they are links rather than descent lines.
+  for(const l of activeEdges().filter(e=>e.fidx==null)){
+    const a=byId[l.s], b=byId[l.t], st=edgeStyle(l.a), c=edgeCurve(l);
+    const emph=selected&&(l.s===selected||l.t===selected);
+    ctx.globalAlpha=Math.min(a.alpha,b.alpha)*(emph?1:.7); ctx.strokeStyle=st.c; ctx.setLineDash(st.d); ctx.lineWidth=emph?2.2:1.1;
+    ctx.beginPath(); ctx.moveTo(c.ax,c.ay); ctx.quadraticCurveTo(c.cx,c.cy,c.bx,c.by); ctx.stroke();
   }
   ctx.setLineDash([]);
   // nodes
   for(const p of PEOPLE){ const [x,y]=S(p.x,p.y); portrait(p,x,y,p.r*cam.k,p.id===selected,p.id===hovered); }
-  // labels
-  for(const p of PEOPLE){ const inNb=nb&&nb.has(p.id); if(!(cam.k>.5||p.status==='direct'||inNb||p.id===hovered)) continue;
+  // Labels stay readable as the tree grows: long names shorten until selected,
+  // and ordinary labels yield when two siblings would collide.
+  const labelBoxes=[];
+  for(const p of PEOPLE){ const inNb=nb&&nb.has(p.id); if(p.alpha<.03||!(cam.k>.5||p.status==='direct'||inNb||p.id===hovered)) continue;
     const [x,y]=S(p.x,p.y); const r=p.r*cam.k; const big=p.id===selected||p.id===hovered;
     ctx.globalAlpha=p.alpha; ctx.textAlign='center'; ctx.textBaseline='top';
-    ctx.font=`${big?600:500} ${big?12.5:11.5}px Inter, system-ui, sans-serif`; ctx.fillStyle=big?C.ink:C.ink2; ctx.fillText(p.name,x,y+r+7);
+    ctx.font=`${big?600:500} ${big?12.5:11.5}px Inter, system-ui, sans-serif`;
+    const label=nodeLabel(p,big), width=ctx.measureText(label).width, left=x-width/2-7, right=x+width/2+7;
+    const blocked=!big&&p.status!=='direct'&&labelBoxes.some(b=>b.gen===p.gen&&left<b.right&&right>b.left);
+    if(blocked) continue;
+    labelBoxes.push({gen:p.gen,left,right});
+    ctx.fillStyle=big?C.ink:C.ink2; ctx.fillText(label,x,y+r+7);
     if(p.years&&(cam.k>.85||big)){ ctx.font='400 10px "IBM Plex Mono", monospace'; ctx.fillStyle=C.ink3; ctx.fillText(p.years,x,y+r+22); }
   }
   { const p=byId.aaron; if(p.alpha>.5){ const [x,y]=S(p.x,p.y); ctx.globalAlpha=p.alpha; ctx.font='500 10px "IBM Plex Mono", monospace'; ctx.fillStyle=C.candidate; ctx.textAlign='left'; ctx.textBaseline='bottom'; ctx.fillText('PARENTS UNKNOWN', x+p.r*cam.k+8, y-p.r*cam.k-2); } }
@@ -456,7 +608,7 @@ function draw(now){
 function loop(now){ draw(now); requestAnimationFrame(loop); }
 
 /* ---------- pointer ---------- */
-function hit(sx,sy){ let best=null,bd=1e9; for(const p of PEOPLE){ const [x,y]=toScreen(p.x,p.y); const d=Math.hypot(x-sx,y-sy); if(d<p.r*cam.k+6&&d<bd){bd=d;best=p;} } return best; }
+function hit(sx,sy){ let best=null,bd=1e9; for(const p of PEOPLE){ if(p.alpha<.25) continue; const [x,y]=toScreen(p.x,p.y); const d=Math.hypot(x-sx,y-sy); if(d<p.r*cam.k+6&&d<bd){bd=d;best=p;} } return best; }
 let down=null, moved=false;
 canvas.addEventListener('pointerdown',e=>{ canvas.setPointerCapture(e.pointerId); down={x:e.offsetX,y:e.offsetY,cx:cam.tx,cy:cam.ty}; moved=false; canvas.classList.add('grabbing'); });
 canvas.addEventListener('pointermove',e=>{ if(down){ const dx=e.offsetX-down.x, dy=e.offsetY-down.y; if(Math.hypot(dx,dy)>3) moved=true; cam.tx=down.cx-dx/cam.k; cam.ty=down.cy-dy/cam.k; cam.x=cam.tx; cam.y=cam.ty; return; } const p=hit(e.offsetX,e.offsetY); hovered=p?p.id:null; canvas.classList.toggle('pointer',!!p); });
@@ -468,67 +620,75 @@ document.getElementById('zin').onclick=()=>{ const [cx,cy]=viewCenter(); zoomAt(
 document.getElementById('zout').onclick=()=>{ const [cx,cy]=viewCenter(); zoomAt(cx,cy,1/1.35); };
 document.getElementById('zfit').onclick=fit;
 addEventListener('keydown',e=>{ if(e.target.tagName==='INPUT'){ if(e.key==='Escape'){e.target.blur();closeResults();} return; }
-  if(e.key==='Escape') setSelection(null,{push:false});
-  if(e.key==='+'||e.key==='=') setHops(hops+1); if(e.key==='-') setHops(hops-1);
+  if(e.key==='Escape'){ if(viewer.classList.contains('open')) closeViewer(); else if(history.length) goBack(); else setSelection(null,{push:false}); return; }
   if(e.key==='Backspace'&&history.length){ e.preventDefault(); goBack(); }
   if(e.key==='/'){ e.preventDefault(); document.getElementById('q').focus(); }
   if(e.key==='f') fit();
 });
 
 /* ---------- panel ---------- */
-const panel=document.getElementById('panel'), headEl=document.getElementById('head'), tabsEl=document.getElementById('tabs'), bodyEl=document.getElementById('body'), zoomEl=document.getElementById('zoom');
-let tab='overview';
+const panel=document.getElementById('panel'), headEl=document.getElementById('head'), bodyEl=document.getElementById('body'), zoomEl=document.getElementById('zoom');
+const viewer=document.getElementById('viewer'), viewerKind=document.getElementById('viewerKind'), viewerTitle=document.getElementById('viewerTitle'), viewerSheet=document.getElementById('viewerSheet'), viewerCaption=document.getElementById('viewerCaption'), viewerMeta=document.getElementById('viewerMeta');
 function openPanel(id){ panelOpen=true; panel.classList.add('open'); zoomEl.classList.add('shift'); renderPanel(id); }
 function closePanel(){ panelOpen=false; panel.classList.remove('open'); zoomEl.classList.remove('shift'); }
 document.getElementById('close').onclick=()=>setSelection(null,{push:false});
-function goBack(){ const prev=history.pop(); setSelection(prev,{push:false}); }
+function goBack(){ const prev=history.pop(); if(!prev) return; setSelection(prev,{push:false}); document.getElementById('back').disabled=history.length===0; }
 document.getElementById('back').onclick=goBack;
-function setHops(h){ hops=Math.min(4,Math.max(0,h)); document.getElementById('hopV').textContent=hops; updateAlphas(); if(selected&&tab==='overview') renderPanel(selected); }
-document.getElementById('hopPlus').onclick=()=>setHops(hops+1);
-document.getElementById('hopMinus').onclick=()=>setHops(hops-1);
+function openDoc(doc,person){
+  viewerKind.textContent=`${doc.kind||'DOC'} · record preview`;
+  viewerTitle.textContent=doc.t||'Record';
+  viewerSheet.textContent=doc.kind==='PDF'?'PDF preview':doc.kind==='TXT'?'Transcript preview':'Image preview';
+  viewerCaption.textContent=doc.why||'Supporting record attached to this person.';
+  viewerMeta.innerHTML=`<dt>Person</dt><dd>${esc(person.name)}</dd><dt>Reference</dt><dd>${esc(doc.m||'Source reference')}</dd><dt>Availability</dt><dd>Preview only · replace with the linked evidence file</dd>`;
+  viewer.hidden=false; requestAnimationFrame(()=>viewer.classList.add('open'));
+}
+function closeViewer(){ viewer.classList.remove('open'); setTimeout(()=>{ if(!viewer.classList.contains('open')) viewer.hidden=true; },280); }
+document.getElementById('viewerClose').onclick=closeViewer;
+viewer.querySelector('[data-close-viewer]').onclick=closeViewer;
 
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const relLabel={spouse:'spouse',parent:'parent of',child:'child of',sibling:'sibling',kin:'kin',"same?":'distinct from'};
-const order={established:0,hypothesis:1,rejected:2,boundary:3};
-function relationsOf(id){ return EDGES.filter(e=>e.s===id||e.t===id).map(e=>{ const other=e.s===id?e.t:e.s; let type=e.type; if(e.type==='parent') type=e.s===id?'parent':'child'; return {other,type,a:e.a,claims:e.claims||[],why:e.why,visible:vis(e.a)}; }).sort((a,b)=>order[a.a]-order[b.a]); }
-function renderPanel(id){
-  const p=byId[id], d=DETAIL[id]||{};
-  headEl.innerHTML=`<div class="identity"><div class="portrait ${p.status}">${p.photo?`<img src="${p.photo}" alt="" style="width:100%;height:100%;object-fit:cover">`:`<span>${esc(p.ini)}</span>`}</div><div><div class="status ${p.status}">${p.status==='direct'?'Direct line':p.status}</div><h2>${esc(p.name)}</h2>${p.years?`<div class="years">${esc(p.years)}</div>`:''}${p.qual?`<div class="qual">${esc(p.qual)}</div>`:''}</div></div><div class="chips">${p.flag?`<span class="chip warn">${esc(p.flag)}</span>`:''}<span class="chip mono">${esc(p.pid)}</span>${p.photo?'':'<span class="chip photo" title="No portrait in evidence/. Drop one in to fill the node.">+ portrait</span>'}</div>`;
-  const rels=relationsOf(id), docs=d.docs||[], claims=d.claims||[];
-  const tabs=[['overview','Overview'],['family','Family',rels.length],['documents','Documents',docs.length],['research','Research',claims.length]];
-  tabsEl.innerHTML=tabs.map(([k,l,n])=>`<button role="tab" data-tab="${k}" aria-selected="${tab===k}">${l}${n!=null?`<span class="n">${n}</span>`:''}</button>`).join('');
-  tabsEl.querySelectorAll('button').forEach(b=>b.onclick=()=>{tab=b.dataset.tab; renderPanel(id);});
-  let html='';
-  if(tab==='overview'){
-    html+=`<div class="section"><h3>Supported facts</h3>`;
-    if(d.facts) html+=`<dl class="facts">`+d.facts.map(([k,v,c])=>`<dt>${esc(k)}</dt><dd>${esc(v)}${c?`<span class="c">${esc(c)}</span>`:''}${d.conflict&&d.conflict.label===k?`<span class="conflict">Conflict: ${esc(d.conflict.alt)} · ${esc(d.conflict.claims)}</span>`:''}</dd>`).join('')+`</dl>`;
-    else html+=`<p class="empty">Registry entry only. ${p.claims} linked claim${p.claims===1?'':'s'}; profile not yet written.</p>`;
-    html+=`</div><div class="section"><h3>Identity note</h3><p class="note">${esc(d.note||identityNote(p))}</p></div>`;
-    const top=rels.filter(r=>r.visible).slice(0,4); if(top.length) html+=`<div class="section"><h3>Nearest relationships</h3>${relList(top)}</div>`;
-    html+=`<div class="section"><button class="focus-btn" id="focusHere">Focus here · ${hops} hop${hops===1?'':'s'}</button></div>`;
-  }
-  if(tab==='family'){
-    const grp=(a,label)=>{ const rs=rels.filter(r=>r.a===a); return rs.length?`<div class="section"><h3>${label}</h3>${relList(rs)}</div>`:''; };
-    html+=grp('established','Established')+grp('hypothesis','Hypotheses · unproved')+grp('rejected','Rejected')+grp('boundary','Identity boundaries · do not merge');
-    if(!rels.length) html+=`<p class="empty">No recorded relationships.</p>`;
-  }
-  if(tab==='documents') html+=`<div class="section">`+(docs.length?`<div class="docs">`+docs.map(x=>`<div class="doc"><div class="thumb" data-kind="${x.kind}"></div><div><div class="t">${esc(x.t)}</div><div class="m">${esc(x.m)}</div><div class="why">${esc(x.why)}</div></div></div>`).join('')+`</div>`:`<p class="empty">No local image retained. Citations exist in sources.jsonl; see Research.</p>`)+`</div>`;
-  if(tab==='research'){
-    html+=`<div class="section"><h3>Linked claims</h3>`+(claims.length?`<ul class="claims">`+claims.map(([c,t,g])=>`<li><span class="id">${c}</span><span>${esc(t)}</span><span class="g">grade ${g}</span></li>`).join('')+`</ul>`:`<p class="empty">${p.claims} claim${p.claims===1?'':'s'} linked in the registry; not expanded in this draft.</p>`)+`</div>`;
-    html+=`<div class="section"><h3>Search coverage</h3><p class="note">Coverage from searches.jsonl would list here: repository, jurisdiction, dates inspected, and limitations.</p></div>`;
-  }
-  bodyEl.innerHTML=html; bodyEl.scrollTop=0;
-  bodyEl.querySelectorAll('[data-go]').forEach(el=>el.onclick=()=>setSelection(el.dataset.go));
-  const fb=document.getElementById('focusHere'); if(fb) fb.onclick=()=>{ flyTo(p.tx,p.ty,1.6); updateAlphas(); };
+const relLabel={spouse:'spouse',parent:'parent of',child:'child of',sibling:'sibling',kin:'kin',"same?":'different person',boundary:'different person'};
+const order={established:0,family:1,hypothesis:2,rejected:3,boundary:4};
+const personStatus={direct:'Direct line',identified:'Identified person',candidate:'Person to review',unresolved:'Needs review'};
+const relationStatus={established:'Established',family:'Family knowledge',hypothesis:'Possible',rejected:'Ruled out',boundary:'Keep separate'};
+const confidenceLabel={A:'High confidence',B:'Medium confidence',C:'Low confidence'};
+const confidenceShort={A:'High',B:'Medium',C:'Low'};
+function sourceText(claims){ return claims?`<span class="source">source ${esc(claims)}</span>`:''; }
+function profileChip(p){
+  if(p.pid==='proposed') return '<span class="chip mono">Draft profile</span>';
+  if(p.pid==='private') return '<span class="chip mono">Private details</span>';
+  if(p.pid&&p.pid.startsWith('FS-')) return `<span class="chip mono">FamilySearch ID · ${esc(p.pid.slice(3))}</span>`;
+  return `<span class="chip mono">Record ID · ${esc(p.pid||'not set')}</span>`;
 }
-function relList(rs){ return `<ul class="rel">`+rs.map(r=>{ const o=byId[r.other]; return `<li data-go="${o.id}"><span class="pt ${o.status}">${esc(o.ini)}</span><span class="who">${esc(o.name)}<small>${esc(o.qual||'')}${r.why?' — '+esc(r.why):''}</small></span><span class="tag ${r.a}">${relLabel[r.type]||r.type}${r.claims.length?' · '+esc(r.claims[0])+(r.claims.length>1?'+':''):''}</span></li>`; }).join('')+`</ul>`; }
-function identityNote(p){ return ({candidate:'Research candidate. The identity label distinguishes a research subject; it does not prove kinship.',unresolved:'Unresolved identity. No located household ties this person to the direct line.',identified:'Identified person. Relationship to the direct line is as shown; nothing further is asserted.',direct:'Direct line, established by reviewed claims.'})[p.status]; }
+function relationsOf(id){ return EDGES.filter(e=>e.s===id||e.t===id).map(e=>{ const other=e.s===id?e.t:e.s; let type=e.type; if(e.type==='parent') type=e.s===id?'parent':'child'; return {other,type,a:e.a,grade:e.grade,claims:e.claims||[],why:e.why,visible:vis(e.a)}; }).sort((a,b)=>(order[a.a]??9)-(order[b.a]??9)); }
+function renderSimplePanel(id){
+  const p=byId[id], d=DETAIL[id]||{};
+  headEl.innerHTML=`<div class="identity"><div class="portrait ${p.status}">${p.photo?`<img src="${p.photo}" alt="" style="width:100%;height:100%;object-fit:cover">`:`<span>${esc(p.ini)}</span>`}</div><div><div class="status ${p.status}">${personStatus[p.status]||p.status}</div><h2>${esc(p.name)}</h2>${p.years?`<div class="years">${esc(p.years)}</div>`:''}${p.qual?`<div class="qual">${esc(p.qual.replace('direct-line subject','direct-line person'))}</div>`:''}</div></div><div class="chips">${p.flag?`<span class="chip warn">${esc(p.flag)}</span>`:''}${profileChip(p)}</div>`;
+  const rels=relationsOf(id), docs=d.docs||[], claims=d.claims||[], timeline=d.timeline||[];
+  let html=`<div class="section"><h3>At a glance</h3><p class="note">Dates, places, work, and family clues from the records in this profile.</p>`;
+  if(d.facts) html+=`<dl class="facts">`+d.facts.map(([k,v,c])=>`<dt>${esc(k)}</dt><dd>${esc(v)}${sourceText(c)}${d.conflict&&d.conflict.label===k?`<span class="conflict">Also recorded as: ${esc(d.conflict.alt)} · ${esc(d.conflict.claims)}</span>`:''}</dd>`).join('')+`</dl>`;
+  else html+=`<p class="empty">${p.claims} linked record${p.claims===1?'':'s'}; a fuller profile has not been written yet.</p>`;
+  html+=`</div>`;
+  if(d.highlights?.length) html+=`<div class="section"><h3>Life highlights</h3><div class="highlights">${d.highlights.map(([t,v,c])=>`<article class="highlight"><div class="t">${esc(t)}</div><div class="d">${esc(v)}</div>${sourceText(c)}</article>`).join('')}</div></div>`;
+  const top=rels.filter(r=>r.visible).slice(0,7); if(top.length) html+=`<div class="section"><h3>Relationships</h3>${relList(top)}</div>`;
+  if(timeline.length) html+=`<div class="section"><h3>Life timeline</h3><ol class="timeline">${timeline.map(([when,t,v,c])=>`<li><div class="when">${esc(when)}</div><div class="t">${esc(t)}</div><div class="d">${esc(v)}</div>${sourceText(c)}</li>`).join('')}</ol></div>`;
+  if(d.questions?.length) html+=`<div class="section"><h3>What still needs an answer</h3><ul class="questions">${d.questions.map(([t,v,c])=>`<li><div class="t">${esc(t)}</div><div class="d">${esc(v)}</div>${sourceText(c)}</li>`).join('')}</ul></div>`;
+  if(d.note) html+=`<div class="section"><h3>Context</h3><p class="note">${esc(d.note)}</p></div>`;
+  html+=`<div class="section"><h3>Documents and sources</h3>`+(docs.length?`<div class="docs">${docs.map((x,i)=>`<button class="doc" data-doc="${i}" type="button"><div class="thumb" data-kind="${esc(x.kind)}"></div><div><div class="t">${esc(x.t)}</div><div class="m">${esc(x.m)}</div><div class="why">${esc(x.why)}</div></div></button>`).join('')}</div>`:`<p class="empty">No document is attached in this draft.</p>`)+`</div>`;
+  if(claims.length) html+=`<div class="section"><h3>Source notes</h3><p class="note">Confidence reflects the quality of the supporting record.</p><ul class="claims">${claims.map(([c,t,g])=>`<li><span class="id">${esc(c)}</span><span>${esc(t)}</span><span class="g">${esc(confidenceLabel[g]||g||'Confidence not set')}</span></li>`).join('')}</ul></div>`;
+  bodyEl.innerHTML=html; bodyEl.scrollTop=0;
+  bodyEl.querySelectorAll('[data-go]').forEach(el=>{ el.onclick=()=>setSelection(el.dataset.go); el.onkeydown=e=>{ if(e.key==='Enter'||e.key===' '){e.preventDefault();setSelection(el.dataset.go);} }; });
+  bodyEl.querySelectorAll('[data-doc]').forEach(el=>el.onclick=()=>openDoc(docs[Number(el.dataset.doc)],p));
+  bodyEl.focus({preventScroll:true});
+}
+function renderPanel(id){ return renderSimplePanel(id); }
+function relList(rs){ return `<ul class="rel">`+rs.map(r=>{ const o=byId[r.other]; return `<li data-go="${o.id}" role="button" tabindex="0"><span class="pt ${o.status}">${esc(o.ini)}</span><span class="who">${esc(o.name)}<small>${esc(relLabel[r.type]||r.type)} · ${esc(relationStatus[r.a]||r.a)}${r.grade?` · ${esc(confidenceShort[r.grade]||r.grade)} confidence`:''}</small></span></li>`; }).join('')+`</ul>`; }
 
 /* ---------- search ---------- */
 const q=document.getElementById('q'), results=document.getElementById('results'); let ri=0, rlist=[];
 function closeResults(){ results.classList.remove('open'); }
 q.addEventListener('input',()=>{ const v=q.value.trim().toLowerCase(); if(!v){closeResults();return;}
-  rlist=PEOPLE.filter(p=>(p.name+' '+(p.qual||'')+' '+p.pid).toLowerCase().includes(v)).slice(0,7); ri=0;
+  rlist=PEOPLE.filter(p=>(p.name+' '+(p.qual||'')+' '+p.pid+' '+(p.aliases||[]).join(' ')).toLowerCase().includes(v)).slice(0,7); ri=0;
   results.innerHTML=rlist.map((p,i)=>`<button role="option" class="${i===ri?'active':''}" data-id="${p.id}"><b style="background:${col(p)}"></b>${esc(p.name)}<span class="q">${esc((p.qual||'').split(' · ')[0])}</span></button>`).join('');
   results.querySelectorAll('button').forEach(b=>b.onclick=()=>pick(b.dataset.id)); results.classList.toggle('open',rlist.length>0); });
 q.addEventListener('keydown',e=>{ if(e.key==='ArrowDown') ri=Math.min(rlist.length-1,ri+1); else if(e.key==='ArrowUp') ri=Math.max(0,ri-1); else if(e.key==='Enter'){ if(rlist[ri]) pick(rlist[ri].id); return; } else return; e.preventDefault(); results.querySelectorAll('button').forEach((b,i)=>b.classList.toggle('active',i===ri)); });
@@ -543,5 +703,7 @@ document.getElementById('hyp').onchange=e=>{ showHyp=e.target.checked; updateAlp
 
 /* ---------- boot ---------- */
 cam.x=cam.tx=byId.aaron.tx+40; cam.y=cam.ty=byId.aaron.ty+150; cam.k=cam.tk=.95;
+updateAlphas();
+fit();
 requestAnimationFrame(loop);
 </script>
