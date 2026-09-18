@@ -1,7 +1,9 @@
 # Caton genealogy — working brief
 
-**State:** research synthesis last reviewed 15 September 2026; 209 claims are
-registered. **Research question:** Who were the parents of Aaron Caton, born
+**State:** research synthesis last reviewed 16 September 2026, after thirteen
+research passes; 216 claims are registered (C001–C197, G001–G019). Corrections from
+every pass are applied here; do not read `archive/` unless asked to reconstruct how a
+conclusion was reached. **Research question:** Who were the parents of Aaron Caton, born
 16 May 1820 in Virginia? They remain unknown. The parentage case is grade C; do
 not convert the leading Fauquier hypothesis into a proved relationship (C099).
 
@@ -37,6 +39,16 @@ C105–C106). A Thomas Caton of Tyler County is a separate candidate with no loc
 1820/1830 household (C139–C143). Neither this route nor Fauquier explains where
 Aaron was enumerated in 1840: he was not a household head and may be a tally in
 another household.
+
+**Structural error in the Fauquier reconstruction, 16 Sep (C192, C193).** C092
+(grade A, primary marriage papers) makes **Thomas Caton Jr.** William's father, yet C082
+reads both men 20–30 in 1830; a man 20–30 cannot father a man 20–30. That
+identification is load-bearing in C101, C124, C128, C180 and C183. **C080 and C082 are
+therefore graded B**: within the Virginia-belt 1820/1830 set they are the only positives
+with no retained image, and neither reading can be re-checked. Re-read Fauquier 1830
+p.471 and the 1820 C page from the reel before building further on either. A third
+candidate father, Thomas Jr., follows if the bracket moves; it is C-level (C194) and
+lives in `PARENTAGE-TESTS.md` §0, not here.
 
 **Do not make George W. Caton the father.** The Alexandria-born Boonville tailor's
 1840 household has age-compatible young men, but he headed no household in 1820
@@ -90,24 +102,58 @@ describe another family (C105, C127). Do not use surname similarity to bridge it
 
 ## Open work
 
-1. **Thomas Caton's possible second marriage, c.1811–19.** T25 identifies Prince
+What can still name a parent, in order (re-ranked 16 Sep):
+
+0. **Re-read Fauquier 1830 p.471 and Fauquier 1820's C page from the reel, images
+   retained** (C192, C193). Cheapest test in the project and it sits under all the
+   others; C080 and C082 stay B until it is done.
+1. **Virginia apprenticeship / Overseers of the Poor — the untried class** (C195).
+   Both boys absent from every Caton house in 1830 while their sisters stay home, and
+   both became tailors — the signature of a bound apprenticeship, and such an entry
+   names the father. Target: Fauquier OP Minutes 1804–1845, then Fauquier Minute and
+   Deed Books 1823–40. Citation unverified at the time of C195 (reel 116 / barcode
+   1125621 came from search snippets, not the finding aid); confirm before ordering film.
+2. **Open the Fauquier tax pages already located and never opened** (C156). Dates
+   "Thomas Jr" as a separate tithable and reads whether Thomas was poor (item 1's
+   premise).
+3. **Thomas Caton's possible second marriage, c.1811–19.** Names Aaron's probable
+   mother. Not Fauquier (C173), not Culpeper to 1815 (C182). T25 identifies Prince
    William Bond Books 1815–1826 and 1815–1833, reel 34, as the best remaining local
-   route. Verify the volumes' record type and coverage before searching; no target
-   image has been retrieved. See [T15](tasks/T15_prince-william-origin.md) and the
+   route; verify the volumes' record type and coverage before searching; no target
+   image has been retrieved. Then Fairfax, Stafford, Culpeper 1816–19. C193 may break
+   the "widow with stepsons" framing; the bond names the mother either way. See
+   [T15](tasks/T15_prince-william-origin.md) and the
    [T25 route note](evidence/2026-09-15_T25_second-marriage-remaining-routes.md).
-2. **Elder-generation estate/land records.** T26 identifies Fauquier Will Books
-   14–18, Order Books 1836–1842, and Deed Books 36–40; images remain inaccessible.
-3. **Sue (Caton) Dumm's 1932 papers.** Catalog metadata and a diary inscription
+4. **Elder-generation estate/land records.** The elder Aaron's estate is not in Prince
+   William (C177): Fauquier 1813–32 or Culpeper 1813–34 will/order books. T26 identifies
+   Fauquier Will Books 14–18, Order Books 1836–1842, and Deed Books 36–40 for Thomas
+   Sr.; images remain inaccessible.
+5. **Sue (Caton) Dumm's 1932 papers.** Catalog metadata and a diary inscription
    naming Joseph as her father are preserved; the underlying pages remain
    inaccessible and a library request is pending (C114).
-4. Joseph's 1910 Saline County probate is parked at Spencer's instruction. The
+6. Joseph's 1910 Saline County probate is parked at Spencer's instruction. The
    Ohio County guardianship route is the remaining test for the weaker B hypothesis.
+
+**Demoted 16 Sep:** Fauquier personal-property tax 1833–40, formerly first. Aaron
+turned 16 in May 1836 and Thomas was gone from the county after Apr 1835, so the
+decisive years are the years he is absent (C196). Keep it to date the departure. Note
+the 15 Sep T18 image review found separate `Cayton Thomas` and `Cayton William` rows
+in the 1836 and 1837 Fauquier lists, unidentified with Thomas Caton; that reading and
+C196's departure date have not been reconciled.
+
+**T09 re-pointed (C197):** Nancy's middle name "Roseman" is unsourced; the 1850 census
+gives only "Nancy" (C017). Verify it from a primary record before chasing a Roseman
+family.
 
 If the surviving paper records do not name Aaron's parents, leave the link
 unproved. DNA testing is off the table.
 
 ## Record and evidence rules
 
+- **Read `METHOD.md` before your first edit.** Operational rules live there, not
+  here: verifying that an edit landed, saying the narrowest true thing, probing what
+  you can actually reach, and pre-registering what would kill your own hypothesis.
+  Each one already cost this project a pass.
 - `DATA_MODEL.md` defines schemas and authority. The census ledger owns household
   observations; `sources.jsonl` citation bundles; `people.jsonl` identity
   boundaries; `claims.jsonl` assertions; `searches.jsonl` search scope/outcomes;
@@ -125,5 +171,8 @@ unproved. DNA testing is off the table.
   and limitations. Do not edit another agent's evidence note; the coordinator
   merges canonical records, updates task state, regenerates the claims index, and
   runs `python3 tools/check-project.py`.
+- Every claim carries an explicit `kind` (`fact` · `hypothesis` · `negative` ·
+  `do-not-merge` · `method` · `moot` · `void`) alongside `claim_type`/`status`;
+  `tools/check-claims.py` enforces both and their agreement.
 - Claim IDs are unique: Claude Code allocates `C###`; ChatGPT allocates `G###`.
   Never reuse or renumber an existing ID. Keep parents unknown until proved.

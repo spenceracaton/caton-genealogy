@@ -47,7 +47,21 @@ person_by_id = {row.get("person_id"): row for row in people}
 
 claim_types = {"observation", "hypothesis", "negative_search", "identity_constraint", "method", "other"}
 claim_statuses = {"active", "superseded", "reversed", "void", "moot", "review"}
-required = {"id", "person", "fact", "date", "place", "grade", "source", "url", "evidence", "pass",
+# `kind` is the single-field classification the ChatGPT line introduced (METHOD.md s.4).
+# It is kept in step with claim_type + status so both validators and both agents agree.
+KINDS = {"fact", "hypothesis", "negative", "do-not-merge", "method", "moot", "void"}
+
+
+def expected_kind(claim_type, status):
+    if status in {"reversed", "superseded", "void"}:
+        return "void"
+    if status == "moot":
+        return "moot"
+    return {"observation": "fact", "negative_search": "negative", "method": "method", "hypothesis": "hypothesis",
+            "identity_constraint": "do-not-merge", "other": "fact"}.get(claim_type)
+
+
+required = {"id", "person", "fact", "date", "place", "grade", "kind", "source", "url", "evidence", "pass",
             "claim_type", "status", "classification_basis", "source_ids", "person_ids", "related_claim_ids"}
 
 for row in claims:
@@ -63,8 +77,15 @@ for row in claims:
         errors.append(f"{cid}: invalid claim_type {row.get('claim_type')!r}")
     if row.get("status") not in claim_statuses:
         errors.append(f"{cid}: invalid status {row.get('status')!r}")
-    if row.get("classification_basis") not in {"legacy_text_migration", "manual", "imported"}:
+    if row.get("classification_basis") not in {"legacy_text_migration", "manual", "imported", "kind_field_at_merge_2026-09-17"}:
         errors.append(f"{cid}: invalid classification_basis {row.get('classification_basis')!r}")
+    if "kind" not in row:
+        errors.append(f"{cid}: no 'kind' field - set one of {sorted(KINDS)} (see METHOD.md s.4)")
+    elif row["kind"] not in KINDS:
+        errors.append(f"{cid}: kind {row['kind']!r} not in {sorted(KINDS)}")
+    elif row["kind"] != expected_kind(row.get("claim_type"), row.get("status")):
+        errors.append(f"{cid}: kind {row['kind']!r} disagrees with claim_type/status "
+                      f"{row.get('claim_type')!r}/{row.get('status')!r} (expected {expected_kind(row.get('claim_type'), row.get('status'))!r})")
     for field, known_ids in (("source_ids", source_ids), ("person_ids", person_ids), ("related_claim_ids", claim_ids)):
         refs = row.get(field)
         if not isinstance(refs, list):

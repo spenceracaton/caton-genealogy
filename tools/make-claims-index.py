@@ -42,6 +42,7 @@ out = [
     "Census household composition is canonical in `CATON_CENSUS_LEDGER.md`; use its stable IDs for row-level readings.\n",
     "Regenerate with `python3 tools/make-claims-index.py`. **Do not edit by hand.**\n",
     "Type and lifecycle are read from explicit `claim_type` and `status` fields. Legacy classifications marked `legacy_text_migration` require source-level review; no status is inferred here.\n",
+    "Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `claim_type` + `status` by `tools/check-claims.py`; `fact`/`negative`/`do-not-merge` are the `kind` spellings of `observation`/`negative_search`/`identity_constraint`, and `void` covers `superseded`/`reversed`.\n",
     "| claim type | n | | lifecycle | n |\n|---|---:|---|---|---:|",
 ]
 for index in range(max(len(kind_order), len(status_order))):

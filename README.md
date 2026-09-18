@@ -1,7 +1,7 @@
 # Caton genealogy
 
 **Question:** Who were the parents of Aaron Caton, born 16 May 1820 in Virginia?
-They remain unknown. "Wheeling" is unsourced (C075). As of 15 Sep 2026 the answer
+They remain unknown. "Wheeling" is unsourced (C075). As of 16 Sep 2026 the answer
 is a **fork** between Fauquier Co., VA and the Maryland–Pennsylvania/Wheeling line,
 now unequal: the Fauquier Catons trace to three brothers on Broad Run, Prince William
 Co., in the 1790s, one of them an Aaron (C153–C157). Read BRIEF §1 first. DNA testing
@@ -19,10 +19,17 @@ canonical layers are `CATON_CENSUS_LEDGER.md` (census observations), `sources.js
 ## Active research set
 
 - `BRIEF.md` — corrected working state. Read first.
-- `NEXT-SESSION.md` — concise next-session action queue; full 15 Sep snapshot is archived.
+- `METHOD.md` — **how to work here. Read before your first edit.** What to verify,
+  what this project cannot reach, and how it has misled itself before. Operational
+  rules live here, not in `claims.jsonl`.
+- `NEXT-SESSION.md` — concise next-session action queue (Spencer's ordered FamilySearch
+  list); the full 15 Sep snapshot is archived.
 - `PARENTAGE-TESTS.md` — every remaining test that could name or exclude Aaron's father, ranked.
 - CATON_CENSUS_LEDGER.md — canonical row-level census households and bounded coverage checks.
 - `claims.jsonl` — established facts, sources, grades, and worthwhile negatives.
+  Every row carries an explicit `kind` (`fact` · `hypothesis` · `negative` ·
+  `do-not-merge` · `method` · `moot` · `void`), kept equal to the mapping of
+  `claim_type` + `status`; `check-claims.py` enforces both.
 - `sources.jsonl` — stable source/citation-bundle IDs linked to claims.
 - `people.jsonl` — stable identity IDs for disambiguation; not a kinship tree.
 - `searches.jsonl` — structured search coverage; legacy unparsed entries are explicit.
@@ -33,11 +40,15 @@ canonical layers are `CATON_CENSUS_LEDGER.md` (census observations), `sources.js
 - `evidence/` — record artifacts and task returns; `evidence/README.md` is a
   generated manifest (file → citing claims → note).
 - `claims-index.md` — generated one-line index of every claim with status and grade.
-- `tools/` — generators and validators; run `python3 tools/check-project.py` after a merge.
-- After changing claims or discrepancy records, regenerate the index with
-  `python3 tools/make-claims-index.py`, then run `python3 tools/check-project.py`.
+- `tools/` — `check-claims.py` (run before every commit; it fails on duplicate ids,
+  a bad grade or `kind`, a `kind` that disagrees with `claim_type`/`status`, and
+  missing evidence files), `check-project.py` (runs every validator), plus the
+  generators `make-claims-index.py` and `make-evidence-manifest.py`. After changing
+  claims or discrepancy records, regenerate both, then run
+  `python3 tools/check-project.py`.
 - `TREE.md`, `tree.html` — a 10 Sep draft, now **stale** (see banner); regenerate before use.
-- `FAUQUIER-HANDOFF-2026-09-11.md`, `CATON-VA-CHANCERY-LINKS.md` — dated working documents.
+- `CHATGPT-HANDOFF-2026-09-16.md`, `FAUQUIER-HANDOFF-2026-09-11.md`,
+  `CATON-VA-CHANCERY-LINKS.md` — dated working documents.
 
 ## Census source rule
 
@@ -55,6 +66,7 @@ records what was reconciled or deduplicated.
 
 ## Start a local pass
 
-Read `BRIEF.md`, `DATA_MODEL.md`, and `tasks/README.md`, then select work from task frontmatter.
+Read `METHOD.md`, `BRIEF.md`, `DATA_MODEL.md`, and `tasks/README.md`, then select
+work from task frontmatter.
 Never infer Aaron's parentage from a same-name record. Evidence, claims, and task
 status are merged only after returned records are checked.

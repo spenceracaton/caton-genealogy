@@ -86,6 +86,15 @@ for person in people:
         person_claims[claim_id].append(person["person_id"])
 
 for claim in claims:
+    if claim.get("source_ids"):
+        # Already linked: sources.jsonl is canonical for the bundle; do not
+        # re-derive one from the claim's citation text (that created duplicate
+        # bundles on 17 Sep 2026 when claim text and bundle text had diverged).
+        for source_id in claim["source_ids"]:
+            record = source_by_id[source_id]
+            if claim["id"] not in record.setdefault("claim_ids", []):
+                record["claim_ids"].append(claim["id"])
+        continue
     raw_evidence = claim.get("evidence") or ""
     evidence_paths = [part.strip() for part in raw_evidence.split(";") if part.strip()]
     key = (claim.get("source", ""), claim.get("url", ""), tuple(evidence_paths))
