@@ -7,6 +7,7 @@ ev = root/"evidence"
 rows = [json.loads(l) for l in (root/"claims.jsonl").open() if l.strip()]
 
 NOTES = {
+ "T12-T13_chatgpt_2026-09-18_fauquier_rechecks.md": "ChatGPT T12/T13 return, 18 Sep 2026, with Claude review header: T13 guardianship film 642321/DGS 8682856 is Chatham Co. NC, not Fauquier (confirmed); USGenWeb 1810/1820 transcriptions reproduce C159/C080 counts; 1830 USGenWeb lacks pp.469-474; LVA Reel 44 Superior Court Deeds/Wills 1809-29 not in general indexes; AFH 37(3) 1999 Thomas-Elizabeth Ann Lawrey descendant account cited. No claims added; three items open (Transcript (99).pdf, the 28 Feb 1825 date, the Thoma 1850 Cooper transcription).",
  "1820_CulpeperCo_VA_census_C-block_pp12-21_noCaton_sheet1.jpg": "1820 Culpeper (alphabetical) C block, pp.12-21 - no Caton (C188).",
  "1820_CulpeperCo_VA_census_C-block_pp10-23_noCaton_sheet2.jpg": "1820 Culpeper (alphabetical) pp.10-11, 14-15, 18-19, 22-23 - no Caton (C188).",
  "1820_StaffordCo_VA_census_C-block_noCaton_sheet.jpg": "1820 Stafford (alphabetical) C block, frames 178-180 - no Caton; 'Mildred Catlett' is Catlett (C188).",
