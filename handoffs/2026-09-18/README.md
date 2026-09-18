@@ -18,7 +18,21 @@ Its one defect is staleness: it was built against `origin/main`, which does not 
 | Delaware Co. 1835–38 bounded pass, no hit (`evidence/2026-09-15_T28_…`) | S07 step 3 |
 | 1840 Cooper p.145 N. Laurie household, no male 70–80 (`evidence/2026-09-15_1840_cooper_laurie_household_check.md`) | S03 |
 
-**Precondition before any agent is dispatched:** resolve the in-progress merge in the local repo (`BRIEF.md`, `NEXT-SESSION.md`, `PARENTAGE-TESTS.md`, `README.md`, `claims-index.md`, `claims.jsonl`, `evidence/README.md`, `tools/check-claims.py` are all `UU`), then push. Each handoff file tells the agent to verify `evidence/2026-09-15_T24_pension-card.md` exists on `main` and to stop if it does not.
+**Precondition before any agent is dispatched:** ~~resolve the in-progress merge, then push~~ — **met, 18 Sep 2026 (evening)**: `main` is at the merged, pushed state; the 15 Sep evidence set is on GitHub. Each handoff file tells the agent to verify `evidence/2026-09-15_T24_pension-card.md` exists on `main` and to stop if it does not.
+
+**Status update, 18 Sep evening — read before dispatching.** Several stream "first acquisitions" were completed the same day, from Spencer's own 17 Sep downloads and recovered Codex/ChatGPT worktree files:
+
+| Stream step | Now | Where |
+|---|---|---|
+| S01 — re-read 1830 p.471 and 1820 p.46 | **Done, from the images.** "Thomas Caton Jun" is M 20–30; the 1820 house has no male 26–45; C080/C082 restored to A | C208, C209, D-012 |
+| S01 — open C156's tax pages | **Largely done**: 1822–38 originals read; Thomas Jr separate from 1828; two Thomases still taxed 1836–37; none 1838 | C201, `evidence/tax-departure-2026-09-17/` |
+| S01 — Thomas identities | New primary record: 4 Dec 1830 road order — Thomas Caton, Wm Caton, Thos Caton sen, with Daniel and Newton Lawry | C210 |
+| S02 — Reel 116 locator | Confirmed from the finding aid; apprentice bindings in scope; film-only | C204 |
+| S03 — 77-year-old tailor | Source located (Thoma 2013 transcription, A12) and retained; Cooper 1846 "Thos Caton Snr/Junr" note and 1850 Thomas–Elizabeth deed image-verified | C205, C206 |
+| S04 — older Aaron | "28 Feb 1825" confirmed unsourced (package note N5); struck | T12-T13 review header |
+| T13 guardianship film | Chatham Co., NC — removed | C202 |
+
+S01's remaining first step is therefore **the loose original of the 6 Dec 1828 consent** (Fauquier marriage bonds vol. 7, the original-record volume) — is the typescript's "Jr" on the paper? — and the 1828 tax property columns. Update the S01 file's step list before sending it.
 
 ## Priority
 
