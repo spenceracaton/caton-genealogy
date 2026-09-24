@@ -1,106 +1,66 @@
 # Next research session
 
-**Queue last reviewed:** 16 September 2026. Recheck task status before starting;
+**Queue last reviewed:** 24 September 2026. Recheck task status before starting;
 this file is an action queue, not an evidence record.
 
-**Revised 16 Sep.** The old first item (Fauquier personal-property tax 1833–40) is
-demoted — its window is self-defeating (C196). Three things now come first, and all
-three are cheap.
+Aaron's own signed 5 January 1864 enlistment directly states birth in Fauquier
+County, Virginia (G027). County of birth is proved; his parents remain unknown.
+Prioritize records capable of naming a parent or explaining his childhood placement.
 
-## Priority 1 — ~~Re-read two Fauquier census pages~~ DONE 18 Sep (C208, C209)
+## Priority 1 — Read Fauquier Reel 116
 
-Both pages were in your 17 Sep downloads (`image (24).jpg`, `image (25).jpg`) and are now in
-`evidence/`. "Thomas Caton Jun" is a male 20–30; the 1820 house has no male 26–45; C080 and
-C082 are back at A. Replacement item: **the loose original of the 6 Dec 1828 consent** —
-Fauquier marriage bonds vol. 7 is the original-record volume (T17's catalog note) — to see
-whether the 1933 typist's "Jr" is on the paper (D-012). The text below is kept as the record of
-the test.
+Obtain the Library of Virginia's *Fauquier County Board of Overseers of the Poor
+Minutes, 1804–1845*, Reel 116, barcode 1125621. Use LVA interlibrary loan through a
+local library for a complete review. A free one-hour Virtual Reading Room appointment
+is the secondary route to identify year breaks and capture up to ten pages. Read
+1826–1838 first for Caton/Cayton/Caten/Kitton apprenticeship or placement entries and
+inspect the original wording for child, parent, master, trade, and date (G034).
 
-**Fauquier 1830, p.471 (all three Caton households) and the Fauquier 1820 alphabetical
-C page.** Within the Virginia-belt 1820/1830 set these are the only positives with no
-retained image (C192) — every negative and both Fairfax positives have theirs — and
-they are the two pages the Fauquier story rests on. Read column by column against the
-printed header; save the images to `evidence/`; record the rows in
-`CATON_CENSUS_LEDGER.md`.
+## Priority 2 — Obtain invalid pension application 233783
 
-- On **1830 p.471**, the one thing that matters: **which age bracket is the adult male
-  of "Thomas Caton Jun" in?** C082 says 20–30. If he is **40–50** he is Thomas Jr.,
-  William's father (C092, grade A), a widower who had just remarried Elizabeth Lawrey
-  in Dec 1828 — and a candidate father for Aaron this project has never evaluated
-  (C194). A man 20–30 in 1830 cannot be the father of a man 20–30 in 1830, so
-  something on that page is wrong.
-- On **1820**, two things: **is there a male 26–45?** (if yes, the two boys under ten
-  are the head's *grandsons*, which C080 itself raised and nobody chased) — and **what
-  is the true 16–26 count?** C080 reads `16–18 = 1; 16–26 = none`; the 1820 form
-  prescribes 16–18 as a *subset* of 16–26 (our own C165 reads Fairfax that way), but
-  not every enumerator complied, so that quirk alone proves nothing. **The adult-male
-  column is the reason to go.**
+The complete 37-image CMSR has been read and yielded the direct Fauquier birthplace
+(G027–G028). Fold3 and Ancestry yielded T288, T289, and A1158 index images but no
+application packet (G029–G030, G035). If the NARA fee is authorized, order the complete
+RG 15 invalid application with NATF 85. Seek declarations, medical examinations,
+witnesses, residence, rejection rationale, and family statements. The application must
+also resolve the T288 date of 10 April 1876 against T289's 10 April 1877 (D-017).
 
-## Priority 2 — Fauquier tax: finish what C201 started
+## Priority 3 — Identify Aaron's mother through Thomas Caton's marriage
 
-The originals for 1822–23, 1828, 1830–32, 1834–38 are in
-`evidence/tax-departure-2026-09-17/` (C201): Thomas Jr separate from 1828; two Thomases
-still taxed 1836, three Cayton entries 1837, none in Ashby's 1838 C section. Remaining:
-(a) read the **property columns** on the retained images — was Thomas poor? (the premise
-of Priority 3); (b) the 1809–19 volume (DGS 7849109) for the year "Thomas 2" appears and
-the first "Jr"; (c) Ashby 1833, Turner 1838–40, both districts 1839–40, to make the
-1837–38 disappearance county-wide.
-
-## Priority 3 — Fauquier Overseers of the Poor Minutes, 1804–1845 (C195)
-
-ONE volume, LVA reel 116, barcode 1125621 — locator and apprentice-binding scope
-confirmed from the finding aid (C204); film-only. **Read 1826–1838 for a Caton binding.**
-The reviewed 1830 Fauquier census does not identify Aaron in a Caton household; Joseph’s reported 1823 birth means he cannot be one of the two unnamed 1820 boys. Shared trade does not identify either child. A Fauquier binding may still name a child, parent, master, date, or trade, but its wording must be read directly. Virginia-side manuscript search remains outstanding.
-
-**Do NOT use LVA's "Virginia Untold: Indentures of Apprenticeship" index** — it is the
-African American narrative project and covers free Black and mixed-race children only.
-
-## Priority 4 — Full-Text `Caton`, Fauquier, 1823–1840, ALL record types, filters cleared
-
-Never run. C156 was filtered to *tax records*; C153's addendum was the phrase
-`"Aaron Caton"`. The cheapest way to reach an apprenticeship order if the volume is
-digitised.
-
-## Priority 5 — Thomas Caton's possible second marriage
-
-Review Prince William County Bond Books, 1815–1826 and 1815–1833, reel 34. First
-verify the volumes' record type, index coverage, and access route: the catalog does
-not label them as marriage books. No target image has been retrieved. The search
-could identify a bride, surety, or consentor; an index hit alone would not prove
-that this is the Fauquier Thomas or name Aaron's mother. C193 may break the "widow
-with stepsons" framing; the bond names the mother either way. **Search pre-1810 as
-well (C207, D-010):** if the 1810 woman 16–26 was the wife, the marriage is c.1795–1809.
+Search Prince William County Bond Books 1815–1826 and 1815–1833, reel 34, after
+confirming record type and index coverage. Search pre-1810 as well: if the woman age
+16–26 in Thomas's 1810 household was his wife, the marriage window is about 1795–1809
+(C207, D-010). A bond can name bride, surety, or consentor; it cannot by itself prove
+that Thomas was Aaron's father.
 
 - Active lead: [T15 — Prince William origin](tasks/T15_prince-william-origin.md).
 - Route assessment: [T25 evidence note](evidence/2026-09-15_T25_second-marriage-remaining-routes.md).
-- After retrieval, preserve the exact volume/page/image and limitations in a new
-  evidence note; add a structured `searches.jsonl` record for any bounded search.
-  Update claims and task state only after checking the record.
 
-If the reel is inaccessible, record the access boundary and proceed to the
-Prince William RELIC catalog/staff route described in the T25 note. Do not convert
-catalog gaps or inaccessible images into a negative result.
+## Priority 4 — Retrieve the Dumm family papers
 
-## Then
+Sue Caton Dumm's and Clint Dumm's two-page 1932 family-history items remain
+inaccessible. Do not duplicate the pending Carnegie Library request. Collateral records
+now make Julia A. (Caton) Sawtell the strongly leading identity for Joseph's unnamed
+1898 hostess, but the notices do not state the kinship path and do not prove Joseph and
+Aaron were brothers (G032–G033, D-014).
 
-- Daniel Laurie's 1840 Cooper household (a male 70–80 = Thomas Sr.), and the archived
-  15 Sep list in its existing order. The old top item — Fauquier personal-property tax
-  1833–1840 — is now worth doing only to **date the departure**, not to find Aaron: he
-  turned 16 in May 1836 and Thomas was gone from the county after Apr 1835 (C092, C098,
-  C189) — **corrected 18 Sep:** the tax originals put the departure at 1837–38 (C201,
-  D-011); 1836–37 entries are 1 white male each, so the test is done and negative.
-- **Boonville 1850, the 77-year-old tailor (C205) and the 1846 "Snr/Junr" note (C206):**
-  read the M432 manuscript for Boonville dwelling 66 and District 23 dwelling 335; then
-  Cooper probate for a Thomas Caton death 1850–65 (the ChatGPT S03 handoff covers this).
-- **Nancy Roseman Caton, d. 5 Dec 1865, Ohio, aged 16** — new compiled lead (C197). Her
-  middle name is the whole basis of T09 and it is unsourced: the 1850 census gives only
-  "Nancy" (C017). Fix it from a stone or a record before chasing a Roseman family — and
-  note Roseman is a German/Ashkenazi surname of Pennsylvania and North Carolina, absent
-  from the Virginia Piedmont, so if it *is* a surname it points at story B. It may simply
-  be **Rosamond/Rosanna**, a grandmother's forename. Her dying in Ohio in Dec 1865, with
-  Sarah Ann reported dying in Ohio in 1886 (C072), suggests the family **split** — which
-  would explain the wifeless 1870 Boonville household. Delaware Co. OH cemeteries and
-  probate 1865–66.
+## Priority 5 — Resolve the older Boonville Thomas through deeds
+
+The 1850 manuscript distinguishes the 77-year-old Virginia-born tailor from the
+40-year-old Kentucky-born farmer (G022–G023). Complete C/K probate-index and bounded
+newspaper checks found no identifying estate or death item (G031). Read Cooper County
+grantor and grantee deed indexes for 1850–1860 under Caton/Cayton/Caten/Kitton and
+Maddex, then retrieve every Thomas instrument and adjacent chain.
+
+## Lower-priority work
+
+- Read the property columns on retained Fauquier tax images and finish the 1809–1819,
+  1833, and 1838–1840 gaps only where they can test household economics or departure.
+- Retrieve the loose original of the 6 December 1828 consent to settle whether “Jr”
+  appears on the paper (D-012).
+- Joseph's 1910 Saline County probate remains parked at Spencer's instruction.
+- Test Nancy Caton's unsourced “Roseman” middle name from a grave or original record
+  before using it as a family clue.
 
 ## Start-of-session checks
 

@@ -5,12 +5,16 @@ mode: agent
 status: active
 repository: Fauquier Co., VA records / 1820 & 1830 census
 blocked_on: none
-note: CORRECTION 24 Sep 2026 (G024-G026; D-014-D-015): the recovered 1898 original names only an unnamed Mrs. Sawtell; the 18 Mar item independently names Mary Sawtell, so Julia is not identified and Joseph–Aaron siblinghood remains unproved. Joseph's 1910 obituaries conflict on Fairfax vs. printed 'Forkware'; parents remain unnamed. Earlier Joseph-as-brother grade B statement is unsupported by the recovered page. REQUEST SENT 12 Sep 2026 (C118) for Sue (Caton) Dumm's 1932 'Historical data records: Dumm family' + diaries at the Carnegie Library for Local History, Boulder (C114) - Joseph's daughter may name his parents outright. Then Fauquier probate for the elder Thomas (T12). Established: the Fauquier cluster in Cooper Co. 1850 (C098); William's son is Aaron F. (C097). NOT established: Aaron in Fauquier. UPDATE 14 Sep 2026 (C153-C157): the Fauquier Catons originate on Broad Run, PRINCE WILLIAM CO. - brothers Thomas (b. <1765), Aaron (b. 1765-74), Moses (b. <=1781), taxed together 1797-99; Moses to Fauquier by 1800, Thomas by 1810; Aaron childless 1810, gone by 1820, dec'd by 1834. Our Aaron (b. 1820) carries the uncle's name. Fauquier probate for Thomas Sr. NEGATIVE (C138). Thomas Sr.'s 1810 wife was 45+, his 1820 wife 26-45: a SECOND MARRIAGE c.1811-15 is now the target - the bond names our Aaron's probable mother. See T15.
+note: BREAKTHROUGH 24 Sep 2026 (G027): Aaron's signed 5 Jan 1864 veteran enlistment directly states that he was born in Fauquier County, Virginia. Fauquier origin is proved at grade A; parentage remains unknown. G032 now makes Julia A. (Caton) Sawtell the strongly leading identity for Joseph's unnamed 1898 hostess, but the notices do not state the kinship path and do not prove Joseph and Aaron were brothers. Joseph's 1910 obituaries still conflict on Fairfax versus printed 'Forkware' and name no parent. Highest-yield next test is the unread Fauquier Overseers of the Poor Minutes, LVA Reel 116 (G034), followed by the complete pension application 233783 and Thomas Caton's marriage records.
 ---
 
 # T13 — Was the family from Fauquier County, Virginia?
 
-**Priority 1. The first named Virginia county of origin the project has ever had.**
+**Priority 1. Aaron's county of birth is now directly documented; his parents are not.**
+
+Aaron's signed 5 January 1864 veteran enlistment states that he was born in
+**Fauquier County, Virginia**, was age 44, and was a tailor (G027). This proves the
+county-level origin at grade A but does not connect him to any Fauquier Caton household.
 
 Joseph Caton's obituary (C076, *Marshall Republican*, 27 May 1910, verified against
 the page image) states he was born **"in Forkware county, Va., on July 24, 1823."**
@@ -19,9 +23,11 @@ the page image) states he was born **"in Forkware county, Va., on July 24, 1823.
 compositor misreading handwritten **Fauquier**: *Fau*→*For*, *q*→*k*, *u*→*w*,
 *ier*→*are*. Fauquier is northern Piedmont, ~200 miles east of Wheeling.
 
-**If Joseph shared a parent with Aaron, Joseph’s origin could inform Aaron’s origin; the recovered 1898 notice does not establish that sibling relationship (D-014).**
+**Joseph's records may still identify Aaron's kin network, but the sibling link remains
+unproved.** Julia A. (Caton) Sawtell is the strongly leading identity for Joseph's
+unnamed 1898 hostess, yet the notices never state the kinship path (G032, D-014).
 
-That would fit two independent findings: **C075** (Wheeling is unsourced, and the 1820
+The documented Fauquier origin also fits two independent findings: **C075** (Wheeling is unsourced, and the 1820
 Ohio Co. census holds no Caton household) and **C066** (no Caton appears in any
 published Wheeling county history).
 
@@ -54,7 +60,10 @@ from the original marriage packet and early Cooper records, not as a parent assi
 
 ## Remaining tests, in order
 
-1. **Fauquier probate and guardianship, 1820-1850.** Seek an estate, guardianship, or
+1. **Fauquier apprenticeship and placement records, 1826-1838.** Read the original
+   Board of Overseers of the Poor Minutes on LVA Reel 116. It remains undigitized and
+   unread; G034 gives the exact interlibrary-loan and Virtual Reading Room routes.
+2. **Fauquier probate and guardianship, 1820-1850.** Seek an estate, guardianship, or
    distribution naming the two younger 1820 boys, especially Aaron or Joseph.
    The highest-yield source is John K. Gott, *Fauquier County, Virginia, Guardian
    Bonds, 1759-1871* (Heritage Books, 1990; ISBN 1556132735). It abstracts guardian,
@@ -68,12 +77,12 @@ from the original marriage packet and early Cooper records, not as a parent assi
    listed on LVA's Fauquier microfilm guide (VA083); the surviving county material is
    what Gott abstracted. See
    `evidence/T12-T13_chatgpt_2026-09-18_fauquier_rechecks.md` §2.
-2. **Fauquier-to-Cooper route, 1828-1842.** Verify the Thomas Caton-Elizabeth Ann
+3. **Fauquier-to-Cooper route, 1828-1842.** Verify the Thomas Caton-Elizabeth Ann
    Lawrey marriage directly, then identify their first Missouri record and the disposition
    of Thomas Senior, William, and Ann Lawrey. This may locate an estate, deed, or kin
    network that names the two earlier boys, but the Thomas-Elizabeth household is not
    itself a candidate parent household for Aaron or Joseph.
-3. **Ohio County linkage.** Test whether the 1830 Ohio County Thomas is a documented son
+4. **Ohio County linkage.** Test whether the 1830 Ohio County Thomas is a documented son
    of the Fauquier family. The household lacks room for both Aaron and Joseph, so a
    surname-and-age match alone cannot establish the connection.
 
@@ -109,10 +118,6 @@ images, scanned, Caton among 15 surnames, bill dismissed 12/1820), **061-1861-01
 
 ## Do not over-read
 
-"Forkware→Fauquier" is an inference from a typographical error, graded **C**.
-Alternatives are not excluded — Fairfax, or a garble of another county entirely.
-**C079** records a weak negative: no Caton in the 1914 *Fauquier County Historical
-Notes*, but that is a short sketch, not a genealogical compendium.
-
-And the whole line depends on **C062**, the unproven sibling reading. If Joseph is not
-Aaron's brother, his birthplace says nothing about Aaron's.
+"Forkware→Fauquier" remains only an inference about **Joseph's** obituary, graded C.
+Aaron's Fauquier birthplace no longer depends on that reading or on Joseph being his
+brother. It still does not identify Aaron's parents or place him in a specific household.

@@ -1,21 +1,23 @@
 # Caton genealogy — working brief
 
-**State:** research synthesis last reviewed 18 September 2026, after fourteen
-research passes; 226 claims are registered (C001–C210 with gaps, G001–G019). Corrections from
-every pass are applied here; do not read `archive/` unless asked to reconstruct how a
-conclusion was reached. **Research question:** Who were the parents of Aaron Caton, born
-16 May 1820 in Virginia? They remain unknown. The parentage case is grade C; do
-not convert the leading Fauquier hypothesis into a proved relationship (C099).
+**State:** research synthesis last reviewed 24 September 2026; 242 claims are
+registered (C001–C210 with gaps, G001–G035). Corrections from every pass are applied
+here; do not read `archive/` unless asked to reconstruct how a conclusion was reached.
+**Research question:** Who were the parents of Aaron Caton, born 16 May 1820? They
+remain unknown. Aaron's signed 5 January 1864 veteran enlistment now states that he was
+born in **Fauquier County, Virginia** (G027). The parentage case remains grade C; do not
+convert the county-level origin into a proved relationship (C099).
 
-“Wheeling” is unsourced (C075). Records for Aaron say Virginia; no Caton heads a
-household in Ohio County in 1820. Keep Wheeling as an unverified lead, not a search
-anchor.
+“Wheeling” is unsourced and materially weakened (C075). No Caton headed an Ohio County
+household in 1820, while Aaron's own signed paper names Fauquier County. Keep Wheeling
+only as a superseded competing lead, not a search anchor.
 
 ## Competing origin explanations
 
-**Fauquier / Prince William is the stronger working hypothesis, not proof.** Three
-Caton men—Thomas, Aaron, and Moses—were taxed together on Broad Run, Prince William
-County, in the 1790s (C153–C157). The elder Aaron was an adult there, childless in
+**Fauquier / Prince William is now Aaron's documented county of birth and the
+stronger parentage model, not proof of a parent.** Aaron's original signed 1864 paper
+states Fauquier County; three older Caton men—Thomas, Aaron, and Moses—were taxed
+together on Broad Run, Prince William County, in the 1790s (G027, C153–C157). The elder Aaron was an adult there, childless in
 the 1810 census, absent as a household head in 1820, and called deceased in a 1834
 deed. Thomas moved to Fauquier by 1810. His 1820 Fauquier household held two boys
 under ten and a wife aged 26–45; the wife may be a second wife (C080, C159). This
@@ -25,7 +27,7 @@ record names Aaron as Thomas's son.
 Moses's 1820 Fairfax household also held a boy under ten, but C181 identifies that
 slot as Moses B. Caton Jr. (the identification remains derivative). In 1830 neither
 the elder Thomas nor Moses had a boy under fifteen at home (C082, C166); no Caton
-headed a Prince William household (C167). Joseph Caton, a tailor reported born 24 July 1823, is a regional lead; his 1910 obituaries conflict, one naming Fairfax County and one printing “Forkware” (G026). The 11 March 1898 notice calls an unnamed Mrs. Sawtell his niece, but it does not identify her; a second Boonville item names Mary Sawtell one week later (G024–G025). The notice therefore does not establish a Joseph–Aaron sibling link. The William–Ann Lawrey Caton group moving Fauquier → Ohio → Cooper County, Missouri, supports regional context (C098, C189, C191), while the Ohio chapter in Delaware County remains unexplained.
+headed a Prince William household (C167). Joseph Caton, a tailor reported born 24 July 1823, is a regional lead; his 1910 obituaries conflict, one naming Fairfax County and one printing “Forkware” (G026). The 11 March 1898 notice calls an unnamed Mrs. Sawtell his niece. Collateral records now make Julia A. (Caton) Sawtell the strongly leading identity: the next week's “Gip” was Julia's son Gibson/Solomon Gibson, and “Mary” is probably a newspaper error. The notices never explicitly cross-identify the hostess or state the kinship path, so they still do not prove Joseph and Aaron were brothers (G024–G025, G032). The William–Ann Lawrey Caton group moving Fauquier → Ohio → Cooper County, Missouri, supports regional context (C098, C189, C191), while the Ohio chapter in Delaware County remains unexplained.
 
 **Maryland–Pennsylvania / Ohio County remains a weaker competing route.** Catons
 appear in Ohio County, Virginia, and Delaware County, Ohio, but no record connects
@@ -69,11 +71,13 @@ Caton (16 May 1820; parents unknown).**
   County by June 1844 (C037, C144). The 1850 household also includes Sarah, Mary E.,
   William B., and Nancy. A son Phineas died in 1845 (C185). Sarah's Gardner family
   is an Ohio anchor (C186).
-- Aaron served in Company E, 2nd Missouri Cavalry, from 1861 to 1865 (C023). In
-  1870 he was in daughter Julia Sawtell's Cooper County household, recorded age 55
-  and Virginia-born; the age is an outlier against the 1850/1860 evidence. He died
-  in Boonville on 17 January 1878 (C041, C108). Census counts belong in the census
-  ledger, not narrative re-transcriptions.
+- Aaron served in Company E, 2nd Missouri Cavalry, from 1861 to 1865 (C023). His
+  complete 37-image federal CMSR includes a signed veteran enlistment stating birth
+  in Fauquier County, age 44, occupation tailor, and no parent or sibling (G027–G028).
+  The pension indexes agree on invalid application 233783 but conflict between 10
+  April 1876 and 10 April 1877 (G029–G030, D-017). In 1870 he was in daughter Julia
+  Sawtell's Cooper County household; he died in Boonville on 17 January 1878
+  (C041, C108). Census counts belong in the census ledger.
 - William Bramwell's Missouri residence and later Kansas move are documented
   through 1879. Aaron's route is Ohio → Missouri → Ohio → Missouri; the reason for
   the 1843 Missouri visit is unknown (C046).
@@ -101,40 +105,33 @@ describe another family (C105, C127). Do not use surname similarity to bridge it
 
 ## Open work
 
-What can still name a parent, in order (re-ranked 16 Sep):
+What can still name a parent, in order (re-ranked 24 Sep):
 
 0. ~~Re-read Fauquier 1830 p.471 and Fauquier 1820's C page~~ — **done (C208, C209)**.
-   Next on the same thread: the loose original of the 1828 consent (Fauquier marriage
-   bonds vol. 7 is the original-record volume) to settle whether "Jr" is the typist's
-   (D-012).
-1. **Virginia apprenticeship / Overseers of the Poor — the untried class** (C195).
-   Both boys absent from every Caton house in 1830 while their sisters stay home, and
-   both became tailors — the signature of a bound apprenticeship, and such an entry
-   names the father. Target: Fauquier OP Minutes 1804–1845, then Fauquier Minute and
-   Deed Books 1823–40. Reel 116 / barcode 1125621 and the apprentice-binding scope are
-   now confirmed from the finding aid itself (C204); film-only, 0 items online.
-2. **Fauquier tax originals — largely done (C201).** Thomas Jr is a separate tithable
-   from 1828; "Cayton Thomas & William" joint 1830–31; three Cayton entries 1832–35;
-   Thomas + William 1836; Thomas, William, "Thos (C B Smith)" 1837; none in Ashby's
-   1838 C section. Still unread: 1819–21, 1824–27, 1829, Ashby 1833, Turner 1838–40.
-   Property columns (was Thomas poor?) not yet extracted from the retained images.
-3. **Thomas Caton's possible second marriage, c.1811–19.** Names Aaron's probable
-   mother. Not Fauquier (C173), not Culpeper to 1815 (C182). T25 identifies Prince
-   William Bond Books 1815–1826 and 1815–1833, reel 34, as the best remaining local
-   route; verify the volumes' record type and coverage before searching; no target
-   image has been retrieved. Then Fairfax, Stafford, Culpeper 1816–19. C193 may break
-   the "widow with stepsons" framing; the bond names the mother either way. See
-   [T15](tasks/T15_prince-william-origin.md) and the
-   [T25 route note](evidence/2026-09-15_T25_second-marriage-remaining-routes.md).
-4. **Elder-generation estate/land records.** The elder Aaron's estate is not in Prince
-   William (C177): Fauquier 1813–32 or Culpeper 1813–34 will/order books. T26 identifies
-   Fauquier Will Books 14–18, Order Books 1836–1842, and Deed Books 36–40 for Thomas
-   Sr.; images remain inaccessible.
-5. **Sue (Caton) Dumm's 1932 papers.** Catalog metadata and a diary inscription
-   naming Joseph as her father are preserved; the underlying pages remain
-   inaccessible and a library request is pending (C114).
-6. Joseph's 1910 Saline County probate is parked at Spencer's instruction. The
-   Ohio County guardianship route is the remaining test for the weaker B hypothesis.
+   The loose original 1828 consent remains needed to settle D-012.
+1. **Fauquier Reel 116, Overseers of the Poor Minutes, 1804–1845.** The manuscript
+   remains unread. The exact route is LVA interlibrary loan through a local library;
+   a free one-hour Virtual Reading Room appointment can locate year breaks and up to
+   ten pages. Read 1826–1838 first. Public derivatives are selective and their surname
+   non-hits are not a search of the manuscript (G034).
+2. **Complete pension application 233783.** Authenticated Fold3 and Ancestry searches
+   recovered three indexes but not the application. Order the complete RG 15 invalid
+   application through NARA NATF 85 if the user authorizes the fee; seek declarations,
+   medical examinations, witnesses, residence, rejection rationale, and family language
+   (G029–G030, G035).
+3. **Thomas Caton's marriage before 1810 or possible second marriage c.1811–19.** A
+   bond could name Aaron's mother if Thomas was his father. Prince William Bond Books
+   remain the best local route; the census relationships remain unresolved (D-010).
+4. **Elder-generation estate and land records.** Continue Fauquier/Culpeper records for
+   Thomas Sr. and the elder Aaron; neither known estate names the direct-line Aaron.
+5. **Sue (Caton) Dumm's and Clint Dumm's 1932 family records.** Both two-page items
+   remain inaccessible; collateral newspapers strengthened the child network but named
+   no Joseph parent or sibling. Do not duplicate the pending library request (G032–G033).
+6. **Older Boonville Thomas deed identity test.** Complete C/K probate-index and bounded
+   newspaper checks found no identifying estate or death item. Read Cooper grantor and
+   grantee deed indexes for 1850–1860 and follow any Thomas or Maddex instrument (G031).
+7. Joseph's 1910 Saline County probate remains parked at Spencer's instruction. The
+   Ohio County guardianship route is the remaining test for the weaker competing model.
 
 **C196 corrected 18 Sep (D-011):** Thomas was *not* gone after Apr 1835 — the tax
 originals show two Thomases in 1836 and three Cayton entries in 1837, none in 1838
@@ -142,11 +139,12 @@ originals show two Thomases in 1836 and three Cayton entries in 1837, none in 18
 male, so Aaron (16 in May 1836) was not counted in any Caton household in the years he
 was countable; the "teenage tithable" test is done for 1836–37 and negative.
 
-**New Cooper-side records (C205, C206):** a 77-year-old Virginia-born tailor Thomas Caton
-in John P. Maddex's Boonville household in 1850 (fits only the 1820 Fauquier head's
-bracket); "Thos Caton Snr / Thos Caton Junr" on a 7 Mar 1846 note in a Cooper estate
-inventory; Thomas Cayton and wife Elizabeth on a 1850 Cooper deed. Two Thomases were
-in Cooper by 1846. Identity with the Fauquier men is unproved.
+**Cooper-side identity remains unresolved (C205, C206, G022–G023, G031):** the
+77-year-old Virginia-born tailor in John P. Maddex's 1850 household is separate from
+the 40-year-old Kentucky-born farmer. Complete C/K sections of the master probate index,
+related will/administration/bond/inventory indexes, and bounded newspapers supplied no
+identifying estate or death item. The 1846 Senior/Junior note and Elizabeth deed do not
+identify the older tailor. Cooper deeds are the next test.
 
 **Alternative 1810 reading (C207, D-010):** if the woman 16–26 in Thomas Sr.'s 1810
 house was his wife, there was no remarriage and C173's negative needs no explanation;
