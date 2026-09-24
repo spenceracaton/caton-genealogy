@@ -1,0 +1,119 @@
+## THREAD 5 — Aaron Caton federal military and pension records
+
+### Shared execution and evidence rules
+
+This revised prompt governs the assignment; older handoffs supply locators and prior findings, not authority to restore superseded conclusions or widen scope. Read `evidence/2026-09-24_parentage-strategy-review.md`, `DATA_MODEL.md`, `CATON_CENSUS_LEDGER.md`, and the files listed below. Check `claims.jsonl`, `sources.jsonl`, `searches.jsonl`, and `discrepancies.jsonl` for the specific target. Do not repeat completed searches without a new source, coverage gap, variant, or reason.
+
+The reported birth date is 16 May 1820; preserve the service-card age conflict (C023, approximately 1817) and search plausible age variation. Exact age agreement is not mandatory for identity; a same-name match alone is insufficient. No DNA.
+
+Separate source quality, information quality, identity, and relationship inference. A primary document can contain uncertain ages or hearsay. Record dates of execution, recording, and later transcription separately. Distinguish father/mother from guardian, master, surety, creditor, and administrator. The latter roles do not establish parentage or parental death.
+
+Use at most two sub-agents for independent, bounded sources when useful; do not recursively fan out. Faster agents may locate records and make preliminary transcriptions. The lead verifies every identity-critical name, suffix, age, and relationship against the image, using retained high-resolution crops. Give each worker exclusive output/source ownership; workers are not alone in the repository and must not revert others' edits. Avoid simultaneous control of one authenticated browser session. Finish the narrow task before widening it.
+
+Write one new dated evidence note per stream and retain permitted source images and crops. Propose claims as `G-PENDING` in that note; do not allocate IDs, edit canonical claims/brief/tasks, or alter another stream's evidence. Protect dirty shared checkouts with an isolated worktree if needed. Creating or publishing PRs is outside this research assignment unless separately requested.
+
+Do not send messages, submit forms, order records, or incur fees. Where acquisition is required, return the precise repository/item/page or scope and an UNSENT DRAFT if useful. A documented access barrier is a blocked result, not evidence of absence. Do not continue catalog hunting after the surviving source and acquisition route are established unless there is a specific untested route.
+
+For negatives record repository, collection, actual dates/pages examined, variants, index versus manuscript coverage, a control showing the search function worked where applicable, and all gaps. Do not infer absence from OCR alone. Conclude with the single record most likely to discriminate between surviving explanations, and state what result would weaken your favored identification.
+
+You are the lead research agent for Aaron Caton’s own federal records.
+
+### Objective
+
+Recover the strongest available records containing Aaron’s own statements or statements from people who knew him, especially anything identifying:
+
+- exact Virginia birthplace
+- pre-1841 residence
+- parents
+- siblings
+- guardian/master
+- occupation/training
+- close relatives
+
+Repo:
+https://github.com/spenceracaton/caton-genealogy
+
+Read:
+- BRIEF.md
+- METHOD.md
+- tasks/T04_aaron-pension-file.md
+- handoffs/2026-09-18/S05_aaron-personal-records.md
+
+### Known service
+
+Aaron Caton served in:
+Co. E, 2nd Missouri Cavalry, Merrill’s Horse.
+
+His son William Bramwell Caton served in the same company.
+
+A pension index card exists for:
+
+“Aaron Caten”
+Co. C, 3rd Missouri Cavalry
+Invalid application 233783
+filed 12 June 1876
+
+There is a live identity dispute because no convincing separate Aaron Caten has been found in the 3rd Missouri Cavalry.
+
+### Research order
+
+Run two independent work lanes. Aaron’s CMSR must not wait on resolution of the pension card. Older T04 ordering language does not create that dependency.
+
+A. Locate Aaron’s complete compiled service record for Co. E, 2nd Missouri Cavalry, especially descriptive, enlistment, and reenlistment papers. Verify the catalog record describes the full jacket rather than an index or state card.
+
+B. Investigate pension-card identity through the T289 Organization Index.
+   Check:
+   - 2nd Missouri Cavalry, Co. E
+   - 3rd Missouri Cavalry, Co. C
+   - Aaron Caton/Caten/Cayton/Katon
+   - widow Sarah / Sarah A.
+
+2. Search the full T288 index for surname variants and widow/dependent filings.
+
+3. Compare the pension identifiers with unit rosters and the actual soldier’s residence, age, family, and service. Agreement between T288 and T289 may repeat the same clerical error. A roster non-hit or a unit discrepancy alone does not settle identity. If only the underlying application can discriminate, report 233783 as an unresolved candidate file and explain why it requires examination; do not claim certainty first.
+
+4. Locate William Bramwell Caton’s complete CMSR only as a bounded collateral step after Aaron’s own papers, or if a specific record supplies a link worth checking.
+
+5. Check whether the candidate application file is digitized. If reachable, inspect it to resolve identity as well as content. If not, return exact acquisition identifiers, clearly distinguishing a confirmed Aaron file from a candidate file that must be examined to decide identity. Do not submit requests or incur fees. A missing certificate number does not establish that no application file survives.
+
+6. Search tightly bounded 1878 Boonville death notices only if useful.
+
+### What matters most
+
+Extract verbatim:
+- birthplace
+- residence
+- occupation
+- physical description
+- enlistment declarations
+- discharge information
+- affidavits
+- witnesses
+- statements of how long witnesses knew him
+- family relationships
+
+A witness who met Aaron after 1860 has no demonstrated firsthand childhood knowledge. Record whether the witness reports Aaron’s own statement, another named source, or an unexplained assertion; assess that information rather than treating it as either firsthand proof or automatically worthless.
+
+
+### Deliverable
+
+1. PENSION CARD IDENTITY — accepted/rejected/unresolved
+2. COMPLETE SERVICE RECORD FINDINGS
+3. EXACT BIRTHPLACE OR PREWAR RESIDENCE
+4. FAMILY STATEMENTS
+5. QUALITY OF EACH INFORMANT
+6. EFFECT ON FAUQUIER VS OTHER ORIGINS
+7. NEXT RECORD / exact NARA request needed
+
+
+## Launch instructions and sub-agent cost policy
+
+Begin this research task now. You are one of six separate user-owned research tasks; your stream is independent. Use sub-agents when a concrete source or question can be worked independently alongside useful lead work. Favor the least costly adequate agent, not maximum fan-out.
+
+For straightforward catalog discovery, bounded index checks, and legible preliminary transcription, select gpt-6-luna with low reasoning; use medium for multi-step retrieval. Supply a short self-contained assignment and fork_turns="none" so workers do not inherit the entire conversation. If that model is unavailable, use the available fast/affordable Luna model and report the substitution. Do not assert exact prices or savings.
+
+The lead handles difficult handwriting, identity merges, contradictory evidence, relationship language, and final synthesis. Escalate a worker to gpt-6-sol at medium reasoning only when a documented reasoning failure would benefit from it; access failures do not justify a stronger model. If the spawn tool does not support model selection, do the small task locally rather than silently launching expensive inherited-model workers. At most two workers concurrently per task, no recursive delegation, reuse workers for related follow-ups. Workers must not spawn additional user-owned tasks. Record each worker's assigned model, effort, scope, and result in the final report; distinguish requested settings from settings actually confirmed by the tool.
+
+This task runs in an isolated worktree. The source checkout /Users/spencercaton/Desktop/claude/personal/genealogy is read-only reference context for you. The September 24 strategy review and prompt packet are currently uncommitted there and may not appear in your worktree. Read the review at that absolute source-checkout path. If a cited file is absent in your worktree, read its current source-checkout copy; do not stop merely because a historical handoff assumes an older main-branch checkpoint. Write only your new evidence and permitted source images into YOUR worktree. Do not modify the shared source checkout or merge other tasks' results.
+
+No external messages, paid orders, canonical-file edits, commits, or PR publication are authorized by this launch. Finish with your findings, evidence-file absolute path, and any precise acquisition blocker. Do not wait for the other tasks to finish. Avoid shared browser interference; do not operate a tab another task owns.

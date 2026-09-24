@@ -1,0 +1,112 @@
+## THREAD 2 — Joseph Caton, the “niece” notice, and Sue Caton Dumm papers
+
+### Shared execution and evidence rules
+
+This revised prompt governs the assignment; older handoffs supply locators and prior findings, not authority to restore superseded conclusions or widen scope. Read `evidence/2026-09-24_parentage-strategy-review.md`, `DATA_MODEL.md`, `CATON_CENSUS_LEDGER.md`, and the files listed below. Check `claims.jsonl`, `sources.jsonl`, `searches.jsonl`, and `discrepancies.jsonl` for the specific target. Do not repeat completed searches without a new source, coverage gap, variant, or reason.
+
+The reported birth date is 16 May 1820; preserve the service-card age conflict (C023, approximately 1817) and search plausible age variation. Exact age agreement is not mandatory for identity; a same-name match alone is insufficient. No DNA.
+
+Separate source quality, information quality, identity, and relationship inference. A primary document can contain uncertain ages or hearsay. Record dates of execution, recording, and later transcription separately. Distinguish father/mother from guardian, master, surety, creditor, and administrator. The latter roles do not establish parentage or parental death.
+
+Use at most two sub-agents for independent, bounded sources when useful; do not recursively fan out. Faster agents may locate records and make preliminary transcriptions. The lead verifies every identity-critical name, suffix, age, and relationship against the image, using retained high-resolution crops. Give each worker exclusive output/source ownership; workers are not alone in the repository and must not revert others' edits. Avoid simultaneous control of one authenticated browser session. Finish the narrow task before widening it.
+
+Write one new dated evidence note per stream and retain permitted source images and crops. Propose claims as `G-PENDING` in that note; do not allocate IDs, edit canonical claims/brief/tasks, or alter another stream's evidence. Protect dirty shared checkouts with an isolated worktree if needed. Creating or publishing PRs is outside this research assignment unless separately requested.
+
+Do not send messages, submit forms, order records, or incur fees. Where acquisition is required, return the precise repository/item/page or scope and an UNSENT DRAFT if useful. A documented access barrier is a blocked result, not evidence of absence. Do not continue catalog hunting after the surviving source and acquisition route are established unless there is a specific untested route.
+
+For negatives record repository, collection, actual dates/pages examined, variants, index versus manuscript coverage, a control showing the search function worked where applicable, and all gaps. Do not infer absence from OCR alone. Conclude with the single record most likely to discriminate between surviving explanations, and state what result would weaken your favored identification.
+
+You are the lead research agent for the Joseph Caton collateral-proof stream.
+
+### Objective
+
+Answer two separate questions:
+
+1. What was Joseph Caton’s exact relationship to Aaron Caton?
+2. What did Joseph or his descendants record about Joseph’s parents and Virginia origin?
+
+Target Aaron:
+- Aaron Caton
+- b. 16 May 1820 Virginia
+- tailor
+- d. Boonville, Missouri, January 1878
+- parents unknown
+
+Target Joseph:
+- Joseph Caton
+- b. 24 Jul 1823 Virginia
+- tailor
+- lived Boonville / Brunswick / Marshall, Missouri
+- d. 1910
+
+Repo:
+https://github.com/spenceracaton/caton-genealogy
+
+Read BRIEF.md, METHOD.md, tasks/README.md, and handoffs/2026-09-18/S06_joseph-and-dumm.md first.
+
+### Critical existing evidence
+
+Joseph’s 1910 obituary says he was born in “Forkware county, Va.” The interpretation as Fauquier is plausible but not literal proof.
+
+An 1898 Boonville newspaper notice reportedly states:
+
+“Joseph Caton ... was in town as the guest of his niece, Mrs. Sawtell.”
+
+Mrs. Sawtell is believed to be Julia A. Caton Sawtell, proven daughter of Aaron Caton and Sarah Gardner.
+
+However, the exact 1898 title/date/page/image has not been securely retained.
+
+Sue Caton Dumm, Joseph’s daughter, prepared a 1932 “Historical data record: Dumm family” at the Carnegie Library for Local History in Boulder. Related family material and diaries survive. A prior request for copies was already sent; do NOT duplicate external requests unless explicitly authorized.
+
+### Main tasks
+
+1. Recover the original 1898 “niece, Mrs. Sawtell” notice.
+   Search Boonville titles and relevant newspaper databases.
+   Obtain exact title, date, page, column, image and context.
+
+2. Establish which Mrs. Sawtell it was.
+
+3. Test plausible relationship routes with one bounded check per route. Do not reconstruct the entire Gardner or Sawtell families without a specific connecting person. Preserve routes as unresolved when coverage is inadequate:
+   - brother/half-brother of Aaron
+   - sibling/half-sibling of Sarah Gardner
+   - relationship through Solomon Sawtell
+   - uncle by marriage
+   - loose social usage
+
+Do not assume the Aaron route merely because it fits our hypothesis.
+
+4. Check any already available reply or supplied scans from the September 12 request; the repository does not establish current inbox status. Do not assume the request remains unanswered. Prioritize Sue’s two-page 1932 record (791-10-4d, catalog object 56835), including reverse/attachments and provenance. Distinguish Clint O. Dumm’s separate record (object 1568). Review diaries only around dates or names supplied by those pages. Examine the material if available.
+   Extract every statement about:
+   - Joseph’s parents
+   - siblings
+   - birthplace
+   - childhood residence
+   - migration
+   - relatives in Virginia, Ohio, or Missouri
+   - Aaron Caton
+
+Assess who supplied each statement and when. Do not count a newspaper reprint, copied obituary, or repeated family narrative as an independent witness. Joseph’s 1910 Saline County probate remains parked under Spencer’s existing instruction.
+
+5. Search narrowly for independent corroboration only after a specific parent, sibling, or locality emerges.
+
+
+### Key evidentiary rule
+
+Proving Joseph was Aaron’s brother does NOT prove their parents.
+
+A Dumm statement naming Joseph’s parents does NOT automatically prove Aaron shared both parents unless brotherhood/full sibling status is independently established.
+
+Keep those proof obligations separate.
+
+### End report
+
+Return:
+
+1. IS JOSEPH RELATED TO AARON? — exact evidence
+2. IS “NIECE” VERIFIED?
+3. WHICH RELATIONSHIP ROUTES SURVIVE?
+4. WHAT DO JOSEPH’S DESCENDANTS SAY ABOUT HIS PARENTS?
+5. SOURCE QUALITY / INDEPENDENCE
+6. NEGATIVE SEARCHES
+7. EFFECT ON AARON PARENTAGE
+8. NEXT DISCRIMINATING RECORD

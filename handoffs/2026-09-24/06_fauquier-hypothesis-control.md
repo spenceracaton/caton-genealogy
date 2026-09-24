@@ -1,0 +1,63 @@
+## THREAD 6 — Bounded challenge to the Fauquier parentage hypothesis
+
+### Shared execution and evidence rules
+
+This revised prompt governs the assignment; older handoffs supply locators and prior findings, not authority to restore superseded conclusions or widen scope. Read `evidence/2026-09-24_parentage-strategy-review.md`, `DATA_MODEL.md`, `CATON_CENSUS_LEDGER.md`, and the files listed below. Check `claims.jsonl`, `sources.jsonl`, `searches.jsonl`, and `discrepancies.jsonl` for the specific target. Do not repeat completed searches without a new source, coverage gap, variant, or reason.
+
+The reported birth date is 16 May 1820; preserve the service-card age conflict (C023, approximately 1817) and search plausible age variation. Exact age agreement is not mandatory for identity; a same-name match alone is insufficient. No DNA.
+
+Separate source quality, information quality, identity, and relationship inference. A primary document can contain uncertain ages or hearsay. Record dates of execution, recording, and later transcription separately. Distinguish father/mother from guardian, master, surety, creditor, and administrator. The latter roles do not establish parentage or parental death.
+
+Use at most two sub-agents for independent, bounded sources when useful; do not recursively fan out. Faster agents may locate records and make preliminary transcriptions. The lead verifies every identity-critical name, suffix, age, and relationship against the image, using retained high-resolution crops. Give each worker exclusive output/source ownership; workers are not alone in the repository and must not revert others' edits. Avoid simultaneous control of one authenticated browser session. Finish the narrow task before widening it.
+
+Write one new dated evidence note per stream and retain permitted source images and crops. Propose claims as `G-PENDING` in that note; do not allocate IDs, edit canonical claims/brief/tasks, or alter another stream's evidence. Protect dirty shared checkouts with an isolated worktree if needed. Creating or publishing PRs is outside this research assignment unless separately requested.
+
+Do not send messages, submit forms, order records, or incur fees. Where acquisition is required, return the precise repository/item/page or scope and an UNSENT DRAFT if useful. A documented access barrier is a blocked result, not evidence of absence. Do not continue catalog hunting after the surviving source and acquisition route are established unless there is a specific untested route.
+
+For negatives record repository, collection, actual dates/pages examined, variants, index versus manuscript coverage, a control showing the search function worked where applicable, and all gaps. Do not infer absence from OCR alone. Conclude with the single record most likely to discriminate between surviving explanations, and state what result would weaken your favored identification.
+
+### Objective
+
+Identify the weakest necessary links in the Fauquier argument and define or retrieve evidence capable of overturning them. This is a limited audit and control search, not a parallel search of every western Virginia and Ohio jurisdiction.
+
+Target: Aaron Caton, reported born 16 May 1820 in Virginia; tailor; married Sarah Ann Gardner in Delaware County, Ohio, August 1841; parents unknown. Wheeling is unsourced and must not be used as an established origin.
+
+Read BRIEF.md, METHOD.md, the current September 24 strategy review, and relevant claims/search records. Other streams own federal records (5), Missouri Thomas (3), Fauquier childhood placement (1), Joseph/Dumm (2), and the consent (4). Use their findings rather than repeating their searches.
+
+### Phase 1 — audit necessary links
+
+Create a table: proposition | independent supporting sources | conflicting evidence | plausible alternative | one decisive test | owning stream.
+
+Focus on:
+
+- Does any evidence actually connect Aaron to the Fauquier household, rather than merely permit him to fit it?
+- Could the two boys under ten in 1820 be positively identified as other people? Identifying both would defeat the proposed census-slot argument, not necessarily every possible relationship to Thomas.
+- Is Joseph’s uncle relationship verified and specifically through Aaron? If not, what part of the Fauquier inference depends on it?
+- Does the Boonville tailor have a separate family or chronology? Do not solve the age conflict by selecting whichever census helps.
+- Which purportedly independent accounts repeat one compilation or unsourced notice?
+- Is an alternative parent candidate actually supported by a record naming Aaron? A surname cluster is not such a candidate.
+
+Return concrete tests to the owning stream. Do not infer that a falsified supporting argument automatically disproves the entire parentage hypothesis.
+
+### Phase 2 — one alternative-origin control
+
+Start with Aaron’s established Delaware County 1841 marriage. Inspect any unexamined license, bond, consent, return, witnesses, or associated papers. Check existing coverage first. Use a named associate or stated residence to select ONE unexamined legal-record series for a bounded pre-1841 search.
+
+C141 and C142 already report limited Delaware probate-folder and plaintiff-index checks. They do not justify repeating those checks or claiming the whole jurisdiction is negative. The unexamined appearance dockets or bonds are candidates only after confirming record type and relevance.
+
+Do not launch Ohio County, Belmont County, and a statewide exact-name sweep simultaneously. If no new locality emerges, assess the surviving Ohio County childhood-record series and return one specific recommended volume/window, or conduct one limited search if justified by existing evidence. Belmont requires an actual person/place connection first.
+
+If Stream 5 identifies a Virginia county, prioritize testing that record and locality. A birthplace does not by itself identify a father or rule out later migration to Fauquier; adjust the inference to what the record states.
+
+### Stop and report
+
+Stop after the audit and one bounded control, or after identifying the access requirement for that control. A negative weakens a hypothesis only to the extent that the searched record would reasonably be expected to contain Aaron; otherwise it adds coverage without changing the balance.
+
+Return:
+
+1. WEAKEST NECESSARY LINKS
+2. DIRECT CONTRARY EVIDENCE, IF ANY
+3. SOURCE DEPENDENCIES / OVERSTATEMENTS
+4. ONE CONTROL SEARCH — coverage, result, and limitations
+5. WHICH SPECIFIC PROPOSITION CHANGED
+6. NEXT DISCRIMINATING RECORD AND ITS OWNER
