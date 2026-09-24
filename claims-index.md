@@ -1,4 +1,4 @@
-# Claims index — generated 2026-09-24 from `claims.jsonl` (242 claims)
+# Claims index — generated 2026-09-24 from `claims.jsonl` (252 claims)
 
 Census household composition is canonical in `CATON_CENSUS_LEDGER.md`; use its stable IDs for row-level readings.
 
@@ -10,18 +10,18 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 
 | claim type | n | | lifecycle | n |
 |---|---:|---|---|---:|
-| fact | 173 | | active | 228 |
-| hypothesis | 15 | | superseded | 5 |
-| negative | 28 | | reversed | 5 |
+| fact | 173 | | active | 238 |
+| hypothesis | 16 | | superseded | 5 |
+| negative | 29 | | reversed | 5 |
 | do-not-merge | 4 | | void | 1 |
-| method | 21 | | moot | 1 |
+| method | 29 | | moot | 1 |
 | other | 1 | | review | 2 |
 
 | evidence grade | n |
 |---|---:|
-| A | 134 |
-| B | 71 |
-| C | 37 |
+| A | 139 |
+| B | 75 |
+| C | 38 |
 
 ## The load-bearing ones
 
@@ -285,6 +285,16 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 | G033 | B | fact | active | pass18 | Otis O. Caton; Joseph Caton; Harri | Otis O. Caton's 1939 obituary states that he was born 27 January 1857 in Brunswick, was one of six children of… |
 | G034 | A | method | active | pass18 | Fauquier County Reel 116 access | The Fauquier County Board of Overseers of the Poor Minutes, 1804-1845, Library of Virginia Reel 116, barcode 1… |
 | G035 | A | negative | active | pass18 | Aaron Caten / Aaron Caton pension  | BOUNDED ONLINE SEARCH. Authenticated Fold3 and Ancestry searches located T288, T289, and A1158 index images fo… |
+| G036 | B | hypothesis | active | pass19 | Aaron Caten / Aaron Caton pension  | ARCHIVAL-FILING INFERENCE. T288 and T289 carry invalid application 233783 and no certificate number. NARA stat… |
+| G037 | B | method | active | pass19 | Prince William County marriage-rec | The Library of Virginia inventory and Prince William County RELIC guide expose no surviving official Prince Wi… |
+| G038 | B | method | active | pass19 | Prince William County Bond Books o | The Prince William volumes labeled Bond Book 1815-1826 and Bond Book 1815-1833 on LVA reel 34 are estate admin… |
+| G039 | C | negative | active | pass19 | Thomas Caton marriage search | BOUNDED DERIVATIVE-INDEX NEGATIVE. No Caton/Cayton or tested spelling variant appears on the inspected C- and … |
+| G040 | A | method | active | pass19 | Fauquier County fiduciary records  | The official ARVAS finding aid identifies Fauquier County Fiduciary Records, 1833-1940, as an unindexed 14-box… |
+| G041 | A | method | active | pass19 | Prince William County 1834 sheriff | The official ARVAS finding aid identifies barcode 1050832 within Prince William County Records as a 1834/1897 … |
+| G042 | A | method | active | pass19 | Earlier Culpeper trust naming elde | The exact bounded route to the earlier trust recited in the 8 April 1834 release is the Culpeper deed indexes … |
+| G043 | B | method | active | pass19 | Sue Caton Dumm and Clint O. Dumm f | The FamilySearch Library public catalog identifies Historical data record (Boulder Co., Colorado), a 35 mm mic… |
+| G044 | A | method | active | pass19 | Older Boonville Thomas Caton deed  | The controlling county-wide deed index for the older Boonville Thomas identity test is Cooper County Index to … |
+| G045 | A | method | active | pass19 | Original 6 December 1828 Thomas Ca | The Fauquier County Circuit Court Clerk's Records Room states that it holds marriage records from 1759 to the … |
 
 ## Unresolved discrepancies and identity checks
 
@@ -296,9 +306,9 @@ Alternatives and claim/source links are canonical in `discrepancies.jsonl`. Iden
 | D-004 | provisional | discrepancy | Julia Sawtell's mother's birthplace | Seek an independent record naming Sarah Gardner's birthplace or family of origin. |
 | D-005 | unresolved | identity_check | William Caton in the 1850 Cooper and 1860 Bates censuses | Compare the full household members, migration path, and independent records before merging. |
 | D-009 | unresolved | discrepancy | 1840 Delaware County James Cayton source locator | Recover the exact index URL, source citation, or Delaware County page underlying C101; then verify head, locality, and age columns before restoring normalized counts or using the claim. |
-| D-010 | open | discrepancy | 1810 Fauquier Thomas Caton household - relationship of the two women | Search Fauquier and Prince William marriage bonds for Thomas Caton BEFORE 1810 (c.1795-1809) as well as 1811-19; any bond dated 1811-19 kills C207. |
-| D-012 | open | identity_check | Who is 'Thomas Caton Jr', William Caton's consenting father of 6 Dec 1828 (C092), given that the 1830 'Thomas Caton Jun' is a male 20-30 (C208)? | Find the loose original 1828 consent (Fauquier marriage bonds vol. 7 is the original-record volume per T17's catalog note) or any pre-1933 abstract; read the 1828 tax list (C201: Thomas, William, Thomas Jr all separate) for property columns; confirm the 1820 male 16-18 (C209) as the later Jun. |
+| D-010 | open | discrepancy | 1810 Fauquier Thomas Caton household - relationship of the two women | Search surviving marriage, church, consent, deed, estate, and family records in Fauquier and neighboring counties other than the closed Prince William official-register route; any explicit 1811-19 marriage kills C207. |
+| D-012 | open | identity_check | Who is 'Thomas Caton Jr', William Caton's consenting father of 6 Dec 1828 (C092), given that the 1830 'Thomas Caton Jun' is a male 20-30 (C208)? | Request the loose original 6 Dec 1828 consent or a direct image from the Fauquier County Circuit Court Clerk Records Room (G045); compare the suffix, signatures, witness lines, and handwriting with the typescript. |
 | D-014 | provisional | identity_check | Identity and kinship route of Joseph Caton’s unnamed niece, Mrs. Sawtell (1898) | Retrieve the Sue and Clint Dumm 1932 pages or another explicit descendant record naming Joseph’s siblings or niece. |
 | D-015 | open | identity_check | Joseph Caton’s reported Virginia birthplace, 1910 obituaries | Use the 1932 Sue Caton Dumm pages or a primary birth/migration record to identify Joseph’s parents and origin. |
-| D-016 | open | identity_check | Whether the 1850 Boonville Thomas Caton, age 77, is the proposed Fauquier elder | Read Cooper County grantor and grantee deed indexes for 1850-1860 and follow every Thomas Caton/Caten/Cayton/Kitton or John P. Maddex instrument. |
-| D-017 | open | discrepancy | Filing date of Aaron Caten invalid pension application 233783 | Read the underlying application 233783 and its file jacket or receipt stamps to establish the filing chronology. |
+| D-016 | open | identity_check | Whether the 1850 Boonville Thomas Caton, age 77, is the proposed Fauquier elder | Read Cooper County Index to Deeds and Mortgages volume 1, Missouri State Archives reel C1947, under C/K/M, then follow every Thomas or Maddex locator in Books P-Z, reels C1956-C1961 (G044). |
+| D-017 | open | discrepancy | Filing date of Aaron Caten invalid pension application 233783 | Retrieve expected Soldiers' Original SO 233783 from RG 15, NAID 563386, through on-site research or NARA's complete-file NATF 85D order; inspect jacket and receipt stamps (G036). |

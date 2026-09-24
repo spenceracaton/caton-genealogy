@@ -5,7 +5,7 @@ mode: agent
 status: active
 repository: Fauquier Co., VA records / 1820 & 1830 census
 blocked_on: none
-note: BREAKTHROUGH 24 Sep 2026 (G027): Aaron's signed 5 Jan 1864 veteran enlistment directly states that he was born in Fauquier County, Virginia. Fauquier origin is proved at grade A; parentage remains unknown. G032 now makes Julia A. (Caton) Sawtell the strongly leading identity for Joseph's unnamed 1898 hostess, but the notices do not state the kinship path and do not prove Joseph and Aaron were brothers. Joseph's 1910 obituaries still conflict on Fairfax versus printed 'Forkware' and name no parent. Highest-yield next test is the unread Fauquier Overseers of the Poor Minutes, LVA Reel 116 (G034), followed by the complete pension application 233783 and Thomas Caton's marriage records.
+note: BREAKTHROUGH 24 Sep 2026 (G027): Aaron's signed 5 Jan 1864 veteran enlistment directly states that he was born in Fauquier County, Virginia. Fauquier origin is proved at grade A; parentage remains unknown. G032 makes Julia A. (Caton) Sawtell the strongly leading identity for Joseph's unnamed 1898 hostess, but the kinship path remains unstated. Highest-yield next tests are the unread Overseers of the Poor Minutes on LVA Reel 116 (G034), complete pension file SO 233783 (G036), and Fauquier's unindexed loose fiduciary collection (G040). Prince William reel 34 is closed as a marriage route because its volumes are estate bonds and official pre-1854 marriages are lost (G037-G039).
 ---
 
 # T13 — Was the family from Fauquier County, Virginia?
@@ -63,7 +63,10 @@ from the original marriage packet and early Cooper records, not as a parent assi
 1. **Fauquier apprenticeship and placement records, 1826-1838.** Read the original
    Board of Overseers of the Poor Minutes on LVA Reel 116. It remains undigitized and
    unread; G034 gives the exact interlibrary-loan and Virtual Reading Room routes.
-2. **Fauquier probate and guardianship, 1820-1850.** Seek an estate, guardianship, or
+2. **Fauquier loose fiduciary records, 1833-1940.** Ask LVA Archives Reference Services
+   to identify Caton/Cayton material in collection vi_vi05624, accessions 37409/37410
+   (G040). Continue targeted estate and guardianship work only through surviving series.
+3. **Fauquier probate and guardianship, 1820-1850.** Seek an estate, guardianship, or
    distribution naming the two younger 1820 boys, especially Aaron or Joseph.
    The highest-yield source is John K. Gott, *Fauquier County, Virginia, Guardian
    Bonds, 1759-1871* (Heritage Books, 1990; ISBN 1556132735). It abstracts guardian,
@@ -77,12 +80,12 @@ from the original marriage packet and early Cooper records, not as a parent assi
    listed on LVA's Fauquier microfilm guide (VA083); the surviving county material is
    what Gott abstracted. See
    `evidence/T12-T13_chatgpt_2026-09-18_fauquier_rechecks.md` §2.
-3. **Fauquier-to-Cooper route, 1828-1842.** Verify the Thomas Caton-Elizabeth Ann
+4. **Fauquier-to-Cooper route, 1828-1842.** Verify the Thomas Caton-Elizabeth Ann
    Lawrey marriage directly, then identify their first Missouri record and the disposition
    of Thomas Senior, William, and Ann Lawrey. This may locate an estate, deed, or kin
    network that names the two earlier boys, but the Thomas-Elizabeth household is not
    itself a candidate parent household for Aaron or Joseph.
-4. **Ohio County linkage.** Test whether the 1830 Ohio County Thomas is a documented son
+5. **Ohio County linkage.** Test whether the 1830 Ohio County Thomas is a documented son
    of the Fauquier family. The household lacks room for both Aaron and Joseph, so a
    surname-and-age match alone cannot establish the connection.
 

@@ -3,30 +3,26 @@ id: T15
 priority: 1
 mode: relay
 status: active
-repository: Prince William Co. VA order/will books 1810-1835; Fauquier Co. VA marriage register 3-4 (1810-1820); FamilySearch Full-Text Search
-blocked_on: Spencer's FamilySearch login
-note: OPENED 14 Sep 2026 from C153-C157. Broad Run, Prince William Co.: Thomas (b. <1765), Aaron (b. 1765-74) and Moses (b. <=1781) Caton, one generation, taxed together 1797-99 beside the Whites and Hortons; 'Caton Branch' on the 1840s land tax. Moses in Fauquier from 1800, Thomas from 1810; Aaron stayed - married, childless, 26-45 in 1810; bare tithable 1813; no household 1820; 'dec'd' in an 1834 Rappahannock deed. Our Aaron b. May 1820 = Thomas Sr.'s son named for the dead uncle (inference, B).
+repository: Prince William loose estate/land records; Culpeper deed indexes; surviving neighboring-county marriage and family sources
+blocked_on: Prince William official marriage records before 1854 are lost; remaining work requires loose-record retrieval
+note: CORRECTION 24 Sep 2026 (G037-G042): Prince William reel 34 is not a marriage route; its 1815-1826 and 1815-1833 volumes are estate fiduciary bond books. Official Prince William marriage records before 1854 are lost, and derivative index no-hits cannot prove no marriage. New bounded routes are Prince William ARVAS barcode 1050832 for 1834 sheriff-administered estate material and Culpeper deed-index reels 29/29a/30 for elder Aaron's earlier trust. Broad Run still establishes Thomas, Aaron, and Moses as an older cluster, not Aaron's parents.
 ---
 
 # T15 — The Prince William origin: who was our Aaron's mother, and what did the elder Aaron leave?
 
 ## Targets, in order
 
-1. **Thomas Caton's second marriage, c.1811–19 — NOT in Fauquier (C173: Gott's bond
-   abstracts have no Thomas Caton bond 1810–20).** Search PRINCE WILLIAM (register
-   1794–1850 survives), FAIRFAX, and LOUDOUN marriage records for a Thomas Caton
-   groom 1810–19, probably to a widow. Original note:** His 1810 wife was 45+
-   (pending the index transcription of C156's 1810 page); his 1820 wife was 26–45
-   (C080). The bond names her; a consent or surety names her father. Fauquier Marriage
-   Register No. 3 (1810–20) index, C page; then the bond. Also Prince William marriage
-   bonds for the same years in case he married there.
-2. **The elder Aaron's estate, Prince William 1813–20.** Full-Text `Caton`, Prince
-   William, 1810–1835, no record-type filter — an administration, sale, or order
-   naming his widow, brothers, or nephews. His wife of 1810 (26–45) may have remarried;
-   her name is in any such record.
-3. **The 1834 Rappahannock deed** (John White, "Aaron Caton dec'd, trustee") — open
-   both images; the recited trust deed's date brackets Aaron's death and names the
-   debtor.
+1. **Thomas Caton's wife or wives.** Do not use Prince William reel 34 or assume a
+   surviving 1794–1850 official register: G037-G039 close those routes. Search surviving
+   church, consent, deed, estate, and family material in Fauquier, Fairfax, Loudoun,
+   Stafford, Culpeper, and other neighboring jurisdictions. The 1810/1820 census
+   relationship question remains open (D-010).
+2. **The elder Aaron's estate.** Ask LVA staff to identify the 1834 sheriff-administered
+   estate material in Prince William ARVAS barcode 1050832. The component does not name
+   its estates in the catalog; no Caton result is assumed (G041).
+3. **The earlier Culpeper trust.** The image-verified 8 April 1834 release calls Aaron
+   Caton deceased and recites an earlier trust. Read Culpeper deed-index reels 29, 29a,
+   and 30, then retrieve any cited instrument from deed-book reels 15–22 (G042).
 4. **Moses after 1806 — is he the Moses B. Caton (1767–1839) of Roseville, Muskingum
    Co., Ohio (C162)?** Full-Text `"Moses Caton"` with no filters: a Fauquier/Prince
    William deed or power of attorney by "Moses Caton of Muskingum County, Ohio," or his

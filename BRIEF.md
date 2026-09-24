@@ -1,7 +1,7 @@
 # Caton genealogy — working brief
 
-**State:** research synthesis last reviewed 24 September 2026; 242 claims are
-registered (C001–C210 with gaps, G001–G035). Corrections from every pass are applied
+**State:** research synthesis last reviewed 24 September 2026; 252 claims are
+registered (C001–C210 with gaps, G001–G045). Corrections from every pass are applied
 here; do not read `archive/` unless asked to reconstruct how a conclusion was reached.
 **Research question:** Who were the parents of Aaron Caton, born 16 May 1820? They
 remain unknown. Aaron's signed 5 January 1864 veteran enlistment now states that he was
@@ -114,23 +114,29 @@ What can still name a parent, in order (re-ranked 24 Sep):
    a free one-hour Virtual Reading Room appointment can locate year breaks and up to
    ten pages. Read 1826–1838 first. Public derivatives are selective and their surname
    non-hits are not a search of the manuscript (G034).
-2. **Complete pension application 233783.** Authenticated Fold3 and Ancestry searches
-   recovered three indexes but not the application. Order the complete RG 15 invalid
-   application through NARA NATF 85 if the user authorizes the fee; seek declarations,
-   medical examinations, witnesses, residence, rejection rationale, and family language
-   (G029–G030, G035).
-3. **Thomas Caton's marriage before 1810 or possible second marriage c.1811–19.** A
-   bond could name Aaron's mother if Thomas was his father. Prince William Bond Books
-   remain the best local route; the census relationships remain unresolved (D-010).
-4. **Elder-generation estate and land records.** Continue Fauquier/Culpeper records for
-   Thomas Sr. and the elder Aaron; neither known estate names the direct-line Aaron.
-5. **Sue (Caton) Dumm's and Clint Dumm's 1932 family records.** Both two-page items
-   remain inaccessible; collateral newspapers strengthened the child network but named
-   no Joseph parent or sibling. Do not duplicate the pending library request (G032–G033).
-6. **Older Boonville Thomas deed identity test.** Complete C/K probate-index and bounded
-   newspaper checks found no identifying estate or death item. Read Cooper grantor and
-   grantee deed indexes for 1850–1860 and follow any Thomas or Maddex instrument (G031).
-7. Joseph's 1910 Saline County probate remains parked at Spencer's instruction. The
+2. **Complete pension application SO 233783.** The likely paper filing is the RG 15
+   disapproved-veteran series, NAID 563386. Order NARA's complete NATF 85D file, currently
+   $80 through 100 pages, if the user authorizes the fee; do not order the smaller selected
+   document packet. Seek declarations, witnesses, residence, rejection rationale, and
+   family language (G029–G030, G035–G036).
+3. **Fauquier loose fiduciary records, 1833–1940.** The unindexed 14-box LVA collection
+   vi_vi05624, accessions 37409/37410, contains estate, guardianship, division, settlement,
+   and dower papers capable of naming heirs or wards. Ask Archives Reference Services to
+   identify Caton/Cayton material before ordering copies or visiting (G040).
+4. **Original 1828 William Caton consent.** Ask the Fauquier County Circuit Court Clerk's
+   Records Room for the loose paper or a direct image. The typescript says “Thomas Caton
+   Jr” and “my son William”; the original must settle whether the suffix is real (G045,
+   D-012).
+5. **Elder Aaron estate and trust routes.** Test Prince William barcode 1050832 for a
+   sheriff-administered estate and Culpeper deed-index reels 29, 29a, and 30 for the
+   earlier trust recited in the 1834 release (G041–G042).
+6. **Sue (Caton) Dumm's and Clint Dumm's 1932 family records.** Do not duplicate the
+   pending Carnegie request. FHL film 897328 item 1 is a bounded secondary route, but
+   Dumm's inclusion is unverified (G032–G033, G043).
+7. **Older Boonville Thomas deed identity test.** Read Cooper Index to Deeds and Mortgages
+   volume 1, MSA reel C1947, then follow every Thomas or Maddex locator in deed books P–Z,
+   reels C1956–C1961 (G031, G044).
+8. Joseph's 1910 Saline County probate remains parked at Spencer's instruction. The
    Ohio County guardianship route is the remaining test for the weaker competing model.
 
 **C196 corrected 18 Sep (D-011):** Thomas was *not* gone after Apr 1835 — the tax
@@ -148,8 +154,11 @@ identify the older tailor. Cooper deeds are the next test.
 
 **Alternative 1810 reading (C207, D-010):** if the woman 16–26 in Thomas Sr.'s 1810
 house was his wife, there was no remarriage and C173's negative needs no explanation;
-Aaron's mother would then be a pre-1810 bride. Open item 3 must search pre-1810 bonds
-as well as 1811–19.
+Aaron's mother would then be a pre-1810 bride. Any surviving marriage search must cover
+pre-1810 as well as 1811–19. Prince William is no longer a viable official-record route: its
+pre-1854 marriage records are lost, and reel 34 contains estate bonds rather than
+marriage bonds (G037–G039). Search surviving church, consent, deed, estate, and family
+records in Fauquier and other neighboring counties instead.
 
 **T09 re-pointed (C197):** Nancy's middle name "Roseman" is unsourced; the 1850 census
 gives only "Nancy" (C017). Verify it from a primary record before chasing a Roseman
