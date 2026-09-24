@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Regenerate evidence/README.md: every file, which claims cite it, and a note.
-   python3 tools/make-evidence-manifest.py"""
+   python3 tools/make-evidence-manifest.py
+Hand-written `## ` sections after the generated table are carried over unchanged."""
 import json, pathlib, datetime, re
 root = pathlib.Path(__file__).resolve().parent.parent
 ev = root/"evidence"
@@ -151,7 +152,7 @@ def size_of(p):
 def label(p):
     return p.name + "/" if p.is_dir() else p.name
 out=[f"# evidence/ — manifest, generated {datetime.date.today().isoformat()} ({len(files)} files)\n",
-     "Regenerate with `python3 tools/make-evidence-manifest.py`. Notes are maintained in that script.\n",
+     "Regenerate with `python3 tools/make-evidence-manifest.py`. Notes are maintained in that script; `## ` sections below the table are hand-written and preserved.\n",
      "Rules: agents write findings here as new files and edit nothing else. Files are provenance — **never edit an original**; add a correction header if a conclusion in a derived file is superseded.\n",
      "| file | size | cited by | note |","|---|---:|---|---|"]
 def hs(n):
@@ -164,5 +165,9 @@ for p in files:
     out.append(f"| `{label(p)}` | {hs(size_of(p))} | {', '.join(c) or '—'} | {NOTES.get(p.name,'')} |")
 uncited=[label(p) for p in files if not cites(p.name)]
 out.append(f"\n**Files no claim cites ({len(uncited)}):** " + ", ".join(f"`{u}`" for u in uncited))
-(ev/"README.md").write_text("\n".join(out)+"\n")
+readme=ev/"README.md"
+old=readme.read_text(encoding="utf-8") if readme.exists() else ""
+m=re.search(r"^## ", old, re.MULTILINE)
+tail="\n"+old[m.start():].rstrip("\n") if m else ""
+readme.write_text("\n".join(out)+"\n"+tail+("\n" if tail else ""))
 print(f"evidence/README.md: {len(files)} files, {len(uncited)} uncited")
