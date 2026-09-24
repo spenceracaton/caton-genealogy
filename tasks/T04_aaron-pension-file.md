@@ -4,8 +4,8 @@ priority: 4
 mode: agent
 status: reopened
 repository: NARA RG15 / RG94
-blocked_on: FamilySearch sign-in for the free T288 index search; user-authorized NARA order for the complete files
-note: REOPENED 14 Sep 2026 (C184) - the 'Aaron Caten, 1876, Co. C, 3rd Mo. Cav.' card is probably Aaron's own; the NPS soldiers index has no Caton/Caten in the 3rd Mo. Cav. and only one Aaron Caton in Missouri service. Next: read the T288 card image (unit line, application no., filing date), then order the file. Earlier note follows. ACCESS CORRECTED 10 Sep 2026. The General Index is available free in FamilySearch collection 1919699 (NARA T288). SEARCHED 10 Sep: the only Aaron-like result is Aaron Caten, pension 1876, Co. C, 3rd Missouri Cavalry - a different soldier from the direct-line Aaron, Co. E, 2nd Missouri Cavalry. No matching card is identified, but this is not a conclusive no-pension result: an untested spelling or index failure remains possible. Do not order a pension file without a correct application/certificate number. The CMSR jackets remain independently useful; order Aaron's and William's complete CMSRs separately using NATF 86 if authorized.
+blocked_on: user authorization for the paid complete pension-file request (NATF 85; application 233783)
+note: UPDATE 24 Sep 2026 (G020-G021, D-013): the retained T288 original reads `Caten, Aaron`, `E. 2 Mo. Cav.`, invalid application 233783, filed 12 Apr 1876; likely the direct-line Aaron's card. The earlier Co. C / 3rd Mo. Cav. and June date were transcription errors. No order was placed; paid NATF 85 requires user authorization. Earlier note follows. ACCESS CORRECTED 10 Sep 2026. The General Index is available free in FamilySearch collection 1919699 (NARA T288). SEARCHED 10 Sep: the only Aaron-like result is Aaron Caten, pension 1876, Co. C, 3rd Missouri Cavalry - a different soldier from the direct-line Aaron, Co. E, 2nd Missouri Cavalry. No matching card is identified, but this is not a conclusive no-pension result: an untested spelling or index failure remains possible. Do not order a pension file without a correct application/certificate number. The CMSR jackets remain independently useful; order Aaron's and William's complete CMSRs separately using NATF 86 if authorized.
 ---
 
 # T04 — Aaron Caton's pension file
@@ -20,23 +20,8 @@ repeated 11 Jan 1878 Boonville date that is unproven.
 **Target:** NARA General Index to Pension Files, then the file itself
 (NARA RG 15). Aaron Caton, Co. E, 2nd Missouri Volunteer Cavalry.
 
-**Step 1 — index, no purchase:** Search the free FamilySearch transcription and
-image collection, **United States, General Index to Pension Files, 1861–1934**
-(NARA T288), for `Aaron Caton`, with the unit used only as an identity check.
-Record both the veteran and any widow/dependent card, including application and
-certificate numbers. The index can include the claimant, unit, filing date,
-claim type, numbers, and sometimes death date/place. A FamilySearch sign-in is
-required in this workspace; do not bypass it.
+**Step 1 — index, complete:** The original FamilySearch T288 card has been inspected. It reads `Caten, Aaron`, `E. 2 Mo. Cav.`, invalid application 233783, filed 12 Apr 1876; certificate and filing state are blank (G020). Compared with the service abstract, it is likely the direct-line Aaron’s card (G021), but the underlying file could disconfirm identity.
 
-**Step 2 — full records, user-authorized order:** Do not order until Step 1
-confirms a card. Request the complete pension file with **NATF 85**, using the
-number from the card. Request the complete compiled service records with
-**NATF 86** for (a) Aaron and (b) William Bramwell Caton, Co. E, 2nd Missouri
-Volunteer Cavalry. The orders are external paid transactions and require
-explicit authorization at order time.
+**Step 2 — complete pension file, not yet authorized:** If the user elects the posted fee, request the complete pension file with **NATF 85**, application 233783. Examine identity details and testimony for pre-1841 geography, relatives, or witnesses who knew Aaron in Virginia. No order has been placed.
 
-**Related, still outstanding:** Aaron's *complete* compiled service file under
-NARA RG 94, M405 — only the service card has been retrieved so far (claim C007).
-The full file may carry enlistment papers with birthplace, age, occupation and
-next-of-kin. Next-of-kin is the one field in the whole record set that could name
-a parent.
+**Related, lower parentage value:** Aaron’s complete compiled service file under NARA RG 94, M405 is cataloged on Fold3 as a 38-image jacket, but the images were not accessible in this pass. CMSRs ordinarily contain service abstracts and seldom identify parents; inspect only if accessible without a paid order or if a personal paper is suspected. Do not assume next-of-kin is a standard field.

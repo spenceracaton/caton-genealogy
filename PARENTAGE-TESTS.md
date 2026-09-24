@@ -75,16 +75,10 @@ the only independent test of which Thomas is which.
 ## A. Records that would NAME a parent
 
 1. **Virginia apprenticeship / Overseers of the Poor — the untried class (C195).**
-   Aaron (10) and Joseph (7) are in **no** Caton household in Fauquier, Fairfax or Prince
-   William in 1830 (C082, C166, C167) while small daughters stay at home (C082); both
-   brothers ended in the **same trade**, tailor (C076, C191, 1850). Two brothers gone from
-   home at 7 and 10 and both trained to one trade is the signature of a bound
-   apprenticeship. Virginia bound out orphans *and* children whose parents could not
-   support them, so **a living father is normally named**, along with the child, the
-   master, the date and the trade.
+   The reviewed 1830 Fauquier page does not identify Aaron in a Caton household; Joseph’s reported 1823 birth excludes him from the two unnamed 1820 boys. Shared trade does not identify either child. A binding may name a child, parent, master, date, or trade; read the manuscript wording directly.
    - **Fauquier Co. (Va.) Board of Overseers of the Poor Minutes, 1804–1845** — ONE volume,
      LVA Local Government Records Collection, barcode **1125621**, **Fauquier Reel 116**.
-     Covers 1828–36 exactly. Read 1826–1838.
+     The 1804–1845 volume includes the target years. Read 1826–1838 first, then extend only as the evidence warrants.
    - Then **Fauquier Minute Books and Deed Books 1823–40** (a father could bind a son
      privately), and **APA 739**, the Auditor's Overseer of the Poor annual reports,
      Fauquier 1829–51.
@@ -97,10 +91,7 @@ the only independent test of which Thomas is which.
      mixed-race children. White apprenticeships are in the OP minutes and order books,
      unindexed. No published abstract covers these years (the Sparacio/Heritage Books
      Fauquier Minute Book Abstracts stop in the 1780s) — reel 116 must be read directly.
-   - **Premise to test first, from pages already located:** OP binding presupposes a poor
-     or dead father. The 1820–32 and 1833–45 originals are now retained (C201): "Thomas Jr"
-     is a separate tithable from 1828. The property columns have not yet been read off the
-     retained images; the 1809–19 volume (`Caton Thomas 2`) is still unopened.
+   - **Context, not a prerequisite:** Overseers bindings could involve poor or orphaned children, but a record cannot be presumed to name a living father. The 1820–32 and 1833–45 tax originals are retained (C201); property columns remain unread, and the 1809–19 volume (`Caton Thomas 2`) remains unopened.
    - **Locator confirmed (C204):** Reel 116 / barcode 1125621, apprentice bindings within
      the finding aid's stated scope, 0 items online. The "citation unverified" caveat is closed.
 
@@ -154,7 +145,7 @@ the only independent test of which Thomas is which.
 5. **Sue (Caton) Dumm's 1932 family history**, Boulder (request out, C118). T27 confirms
    public catalog metadata and a diary inscription naming Joseph as Sue's father, but
    the underlying family-history pages remain inaccessible and the catalog names no
-   Joseph parents. Joseph is Aaron's brother at B.
+   Joseph parents. The 1898 notice does not identify the niece; Mary Sawtell is a live competing candidate (G024–G025; D-014). Joseph–Aaron siblinghood remains unproved.
 6. **Fauquier chancery 1861-012 and any suit touching Thomas Sr.'s land** — a Caton
    partition or debt suit 1836–50 in Fauquier or Prince William would list his heirs.
    LVA index is negative for Caton parties in Prince William before 1909 (C084);
@@ -393,6 +384,12 @@ naming Joseph Caton as her father, but not Joseph's parents; the library request
 pending. T28 found no verified Delaware County, Ohio, 1835–1838 Laurie/Caton relationship
 record. T29 remains an evidence-sidecar reconciliation only. None changes Aaron's
 parentage ranking. See the T24–T29 evidence notes.
+
+## 24 Sep 2026 — new image-backed results
+
+- The original 1850 census confirms the Boonville Thomas Caton was 77, a Virginia-born tailor, but the age conflicts with the proposed Fauquier elder; a separate age-40 Kentucky-born Thomas is a different man. Cooper probate index C1997 is the next identity test (G022–G023; D-016).
+- The 11 Mar 1898 Joseph notice calls an unnamed Mrs. Sawtell his niece; a 18 Mar item names Mary Sawtell but does not connect her to Joseph. Julia is not identified and Joseph–Aaron siblinghood remains unproved (G024–G025; D-014). Joseph’s 1910 obituaries conflict on Fairfax vs. “Forkware”; neither names parents (G026; D-015).
+- The T288 card reads `E. 2 Mo. Cav.`, application 233783, filed 12 Apr 1876, and likely belongs to Aaron. The application is the most discriminating available federal record for identity and possible prewar geography; no order has been placed (G020–G021; D-013).
 
 ## Closed (do not repeat)
 Culpeper and Stafford 1820 censuses, whole C blocks (C188 — the elder Aaron headed no house

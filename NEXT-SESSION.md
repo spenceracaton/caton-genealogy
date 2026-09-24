@@ -50,15 +50,7 @@ the first "Jr"; (c) Ashby 1833, Turner 1838–40, both districts 1839–40, to m
 
 ONE volume, LVA reel 116, barcode 1125621 — locator and apprentice-binding scope
 confirmed from the finding aid (C204); film-only. **Read 1826–1838 for a Caton binding.**
-Aaron (10) and Joseph (7) are in no Caton household anywhere in 1830 while their small
-sisters stay home, and both brothers became **tailors**. That is the signature of a
-bound apprenticeship, and Virginia bound out orphans *and* children whose parents could
-not support them — so the entry names the father, the child, the master, the date and
-the trade. Never searched on the Virginia side. Prince William is dead ground (OP
-minutes survive only 1788–1802; Lost Records Locality), so Fauquier is the only county
-where this record exists for the right years. Then Fauquier **Minute Books and Deed
-Books 1823–40** for a privately recorded indenture, and **APA 739** (Auditor's OP
-reports, Fauquier 1829–51).
+The reviewed 1830 Fauquier census does not identify Aaron in a Caton household; Joseph’s reported 1823 birth means he cannot be one of the two unnamed 1820 boys. Shared trade does not identify either child. A Fauquier binding may still name a child, parent, master, date, or trade, but its wording must be read directly. Virginia-side manuscript search remains outstanding.
 
 **Do NOT use LVA's "Virginia Untold: Indentures of Apprenticeship" index** — it is the
 African American narrative project and covers free Black and mixed-race children only.
