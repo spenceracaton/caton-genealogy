@@ -1,0 +1,26 @@
+# Lottie Caton Abbott, *Mother's Memoirs* (1948): Caton family evidence
+
+## Source and scope
+
+- User supplied transcription: `/Users/spencercaton/Desktop/Mother's memoirs_transcribed.txt` (604 numbered text lines; SHA-256 `dd7f24df62cee3ef559d925f2497a479cfe2c9511ae2830228b467a0f1775fd3`). A transcription PDF is already retained in this repository as `evidence/1948_LottieCatonAbbott_Mothers_Memoirs_transcribed.pdf`. The line citations below refer to the text file; this note does not claim to inspect the original typescript or scan.
+- The foreword is signed “Lottie Caton Abbott / 1948” (lines 5–10). She wrote about her mother, Julia Charlotta Louisa Blankenmeister Caton, wife of William Bramwell Caton. Much of the early material is Lottie's retelling of Julia's repeated stories; Lottie witnessed later events herself. Treat recollected conversations as attributed family testimony, not verbatim contemporary records.
+- The transcription explicitly marks original typescript page 24 missing from the scan (lines 191–193). Spelling and apparent date slips remain uncorrected here.
+
+## Passages material to the active Caton research
+
+| Text line | Memoir's statement | Assessment |
+| --- | --- | --- |
+| 120–124 | William (“Billie”) Caton had just returned from service in the Second Missouri Cavalry when he courted Julia. Julia belonged to the Sunday school class of “Mrs. Aaron Caton,” whom Lottie immediately calls “our Grandmother Caton.” | Explicit family identification of William's mother as Mrs. Aaron Caton, and a lead that she lived in Boonville during the courtship, roughly 1865–69. The passage does not give her forename. Sarah Ann Gardner is Aaron's documented 1841 wife, but her identity as this later Mrs. Aaron Caton still needs independent confirmation. It cannot establish her death date or later residence. |
+| 126–180 | Julia and William eloped to Tipton in spring 1869 after her parents opposed the match; William's sister “Julia (Aunt Julia Sawtell)” and Billie Talleferro accompanied them. | Lottie's explicit statement that Julia Sawtell was William's sister supports the already documented Aaron–William–Julia sibling group. The marriage date is given as 1869 but no calendar day is stated. |
+| 209–213, 259 | “Willie's Brother Henry” joined the family's overland move to Kansas in 1879 because of illness; he returned to Boonville and died soon afterward. | Explicit statement that Henry was William's brother. It fits the 1880 obituary of Henry Caton, who died of consumption at his sister Mrs. Sawtell's home (C109). The memoir adds the illness and travel account, but supplies no birth record or full name. Do not confuse him with the different Henry in Aaron F. Caton's family (C150). |
+| 195–199, 289, 309, 347–357 | Lottie gives births of Harry Aaron (26 Jan 1870), Flora (7 Dec 1871, died aged 13 months), herself (25 Dec 1873), Bonnie Louise (8 Oct 1883), Louis (27 Feb 1886), and Christine Rossetti (16 Oct 1897). | Identified daughter reports on her immediate family. Exact dates are useful record-search leads; verify against contemporary birth, death, Bible, or other records before treating them as proved dates. Louis is on Spencer's direct line. |
+| 233, 247–263 | The family arrived at Winfield on “Sunday, October 25, 1879,” after an overland trip; William's grocery venture failed, then he resumed the marble trade in 1880. | 25 Oct 1879 was a **Saturday**; Sunday was 26 Oct. The exact day/date cannot both be right. Other derivative sources in the repository say 1878 or 1879. Keep the specific arrival date as unverified memoir testimony. |
+| 514–532 | After William's 22 Aug 1941 death, Lottie says the family submitted a photostatic family-Bible marriage page for Julia's widow's pension, and she found William's questionnaire identifying Julia Blankenmeister as “the only woman I ever married.” | Concrete leads to a Bible page, questionnaire, and widow's pension file. The memoir reports their contents, but those underlying records have not been inspected here. |
+
+## Effect on Aaron parentage
+
+The memoir identifies William's mother as “Mrs. Aaron Caton” and directly identifies his siblings Julia and Henry. Read with the existing records that identify Aaron as William's father, this strengthens the later family network. It does **not** name Aaron's parents, birthplace, childhood household, or Virginia county. It does not mention Joseph Caton. It therefore does not resolve the project's parentage question or the Fauquier hypothesis.
+
+## Source limits and next record tests
+
+The supplied item is a transcription of a later family memoir. Repeated tales, reconstructed dialogue, and Lottie's own childhood memory are mixed together. The original typescript and scan should be checked for uncertain readings, especially the missing page. The most useful underlying records named by the memoir are the family-Bible marriage page, William's questionnaire, and Julia's widow's pension file; those could supply contemporaneous information or a firmer source chain. The Sunday school account warrants a bounded Boonville church/newspaper search for Sarah Ann (Gardner) Caton in the late 1860s. None of these sources can be assumed to contain Aaron's parentage until inspected.
