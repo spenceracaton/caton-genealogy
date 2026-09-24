@@ -25,12 +25,7 @@ record names Aaron as Thomas's son.
 Moses's 1820 Fairfax household also held a boy under ten, but C181 identifies that
 slot as Moses B. Caton Jr. (the identification remains derivative). In 1830 neither
 the elder Thomas nor Moses had a boy under fifteen at home (C082, C166); no Caton
-headed a Prince William household (C167). Joseph Caton, a tailor born in Fauquier
-about 1823, and the William–Ann Lawrey Caton group moving Fauquier → Ohio → Cooper
-County, Missouri, support a regional connection (C076–C077, C098, C189, C191).
-The 1898 notice calling Joseph “the guest of his niece, Mrs. Sawtell” supports a
-Joseph–Aaron sibling hypothesis, but does not prove it (C110). The Ohio chapter in
-Delaware County remains unexplained.
+headed a Prince William household (C167). Joseph Caton, a tailor reported born 24 July 1823, is a regional lead; his 1910 obituaries conflict, one naming Fairfax County and one printing “Forkware” (G026). The 11 March 1898 notice calls an unnamed Mrs. Sawtell his niece, but it does not identify her; a second Boonville item names Mary Sawtell one week later (G024–G025). The notice therefore does not establish a Joseph–Aaron sibling link. The William–Ann Lawrey Caton group moving Fauquier → Ohio → Cooper County, Missouri, supports regional context (C098, C189, C191), while the Ohio chapter in Delaware County remains unexplained.
 
 **Maryland–Pennsylvania / Ohio County remains a weaker competing route.** Catons
 appear in Ohio County, Virginia, and Delaware County, Ohio, but no record connects
