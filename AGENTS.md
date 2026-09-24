@@ -1,10 +1,61 @@
-# Agents working in this repository
+# Caton genealogy: agent instructions
 
-Read `METHOD.md` before your first edit. It is the only home for operational rules. This file just points to the rules that are broken most often.
+This repository holds research on the parentage of Aaron Caton (b. c.1820, Virginia; d. Boonville, Missouri). It is not code. The repo is **public**: anything pushed is published.
 
-1. **Commit your output.** When you work in a worktree, commit your new files to a branch named `agent/<stream-or-task>-<yyyy-mm-dd>` before you report done. Uncommitted files are lost when the worktree is pruned (METHOD.md §5). Do not push, open PRs or edit canonical files unless the coordinator told you to.
-2. **Do not write in the main checkout** (`~/Desktop/claude/personal/genealogy`) unless you are the coordinator.
-3. **Claim ids:** Claude writes `C###`. ChatGPT and Codex write `G###`, or `G-PENDING` when dispatched as a task. See `tasks/README.md`.
-4. **Evidence files are provenance.** Add new dated files to `evidence/` and never edit an original.
-5. **Before committing:** run `python3 tools/check-project.py`.
-6. **Coordinator only:** run `python3 tools/reconcile.py` at the start and end of a session.
+This file is the one instruction file for every agent. Claude Code loads it through `CLAUDE.md`, and Codex reads it directly. ChatGPT on the web gets it through its launch prompt. The rules below are complete on their own. `METHOD.md` explains the reasons behind them.
+
+## Read first
+
+`BRIEF.md` (current state), `METHOD.md` (operational rules), and the one `tasks/T*.md` you were given. Read `DATA_MODEL.md` before touching any `*.jsonl` record. Never load `archive/` as research context.
+
+## Roles
+
+- **Worker:** any agent given a task.
+  - Work in your own worktree, never in the main checkout (`~/Desktop/claude/personal/genealogy`).
+  - Add new dated files under `evidence/` only.
+  - Propose claims as `G-PENDING` inside your evidence note.
+  - Do not edit `BRIEF.md`, `claims.jsonl`, the other `*.jsonl` registries, `CATON_CENSUS_LEDGER.md` or task frontmatter.
+  - Do not push or open PRs.
+- **Coordinator:** one at a time.
+  - The only session that writes in the main checkout or edits the canonical files listed above.
+  - Merges worker branches with `git merge --no-ff`. Never copies worker files over by hand.
+  - Pushes to `main`.
+  - Before importing or merging anything, runs `python3 tools/reconcile.py` to check that no other session is already doing it.
+- **ChatGPT web (no repo access):** return one evidence note, following the template in the launch prompt. The coordinator commits it.
+
+## Finishing a worker task (required)
+
+```bash
+git switch -c agent/<task>-<yyyy-mm-dd>
+git add evidence/<your new files>
+python3 tools/check-project.py
+git commit -m "<task>: <one-line result>"
+```
+
+Report the branch name and the paths of the files you added. Untracked files are lost when a worktree is pruned.
+
+Older launch prompts say "no commits" (for example `handoffs/` before 25 Sep 2026). There it means no commits to `main` and no pushing. Still commit to your own `agent/` branch.
+
+## Claim ids
+
+- Claude Code allocates `C###`.
+- ChatGPT and Codex allocate `G###`.
+- Dispatched workers write `G-PENDING`, and the coordinator assigns the id on merge.
+- Never reuse or renumber another writer's id.
+- Re-read `claims.jsonl` right before any in-place rewrite.
+
+## Evidence
+
+- Files in `evidence/` are provenance. Never edit an original. Record a correction in a new dated file.
+- Retain the image for any reading you grade A.
+- A blocked or unsearched source is recorded as incomplete, never as a negative.
+
+## Checks
+
+- Before every commit, `python3 tools/check-project.py` must end with `Project validation ok`.
+- The coordinator runs `python3 tools/reconcile.py --downloads` at session start and end. The session ends at exit 0, or with every remaining item named in the handoff.
+- Never delete a worktree or `refs/codex/*` ref that was touched in the last 15 minutes. Codex prunes its own.
+
+## Public repository
+
+Ask Spencer before committing records about living people or personal family documents. Once a commit is pushed, it is published.
