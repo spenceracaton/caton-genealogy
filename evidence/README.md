@@ -250,3 +250,7 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 ## 24 September 2026 completed-task checkpoint
 
 Read [the coordinator review](2026-09-24_completed-parentage-tasks-review.md) before reusing the three preserved task reports. It distinguishes completed runs from blocked manuscript searches and records corrections to chronology and catalog interpretation. No parentage claim was promoted.
+
+## 24 September 2026 remaining-task import
+
+The three task reports still running at the checkpoint above were imported verbatim after they finished: [S06 Joseph/Dumm](2026-09-24_S06_joseph-niece-dumm.md), [S03 older Boonville Thomas](2026-09-24_S03_older-boonville-thomas.md), and [Thread 5 federal records](2026-09-24_THREAD5_aaron-federal-records.md), with their images. The [manifest](2026-09-24_remaining-reports-manifest.json) records source worktrees and SHA-256 hashes. All three are STATUS partial and **have not had a coordinator review**. No claim, registry, brief, or ledger row was changed. G-PENDING statements are proposals only.
