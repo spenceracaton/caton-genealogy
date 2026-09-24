@@ -1,0 +1,83 @@
+[
+  {
+    "path": "evidence/2026-09-24_S02_fauquier-childhood-placement-access.md",
+    "sha256": "250d28833a5b163b3a2569e3b15ef8d5c5283583dae8487d2c073f5b8df0f63c",
+    "task_id": "01a0d431-a91a-7f70-81ae-fa70e95d6838",
+    "task_title": "Aaron Caton \u2014 Fauquier childhood records",
+    "source_worktree": "9502",
+    "preservation": "Original wording retained; Markdown hard breaks normalized to backslashes and trailing blank lines removed; see coordinator review",
+    "source_sha256": "4359fcefa53b9945bf93869f7ea87f5b46ede8163d46cbd35b4874b5fdd8dd3a"
+  },
+  {
+    "path": "evidence/2026-09-24_S04_1828-William-Caton-consent.md",
+    "sha256": "40d20120579afced0e26e049b0b010e321a52c132662f25b58bb5a3354e6fb1f",
+    "task_id": "01a0d431-cb4c-7791-9b6c-6e49c5c23576",
+    "task_title": "Thomas Caton \u2014 original 1828 consent",
+    "source_worktree": "1deb",
+    "preservation": "Original wording retained; Markdown hard breaks normalized to backslashes and trailing blank lines removed; see coordinator review",
+    "source_sha256": "40d20120579afced0e26e049b0b010e321a52c132662f25b58bb5a3354e6fb1f"
+  },
+  {
+    "path": "evidence/2026-09-24_S04_road1830_Caton_crop.jpg",
+    "sha256": "cc04c80b270f14d55f0c83360a98e2d7e31818a7069d8a95e4127ed2b3190efb",
+    "task_id": "01a0d431-cb4c-7791-9b6c-6e49c5c23576",
+    "task_title": "Thomas Caton \u2014 original 1828 consent",
+    "source_worktree": "1deb",
+    "preservation": "verbatim; see coordinator review before reuse",
+    "source_sha256": "cc04c80b270f14d55f0c83360a98e2d7e31818a7069d8a95e4127ed2b3190efb"
+  },
+  {
+    "path": "evidence/2026-09-24_S04_tax1828_ThomasJr_crop.jpg",
+    "sha256": "d113e42c24791df3715c143901d0c1c5bb0efd682c5e4daba98a5b43ee33788d",
+    "task_id": "01a0d431-cb4c-7791-9b6c-6e49c5c23576",
+    "task_title": "Thomas Caton \u2014 original 1828 consent",
+    "source_worktree": "1deb",
+    "preservation": "verbatim; see coordinator review before reuse",
+    "source_sha256": "d113e42c24791df3715c143901d0c1c5bb0efd682c5e4daba98a5b43ee33788d"
+  },
+  {
+    "path": "evidence/2026-09-24_S04_tax1828_Thomas_William_crop.jpg",
+    "sha256": "fef3e98a9e07da3091f23672e1be37ed2cbb6517f7dbe0fc9457ad6a77a386b4",
+    "task_id": "01a0d431-cb4c-7791-9b6c-6e49c5c23576",
+    "task_title": "Thomas Caton \u2014 original 1828 consent",
+    "source_worktree": "1deb",
+    "preservation": "verbatim; see coordinator review before reuse",
+    "source_sha256": "fef3e98a9e07da3091f23672e1be37ed2cbb6517f7dbe0fc9457ad6a77a386b4"
+  },
+  {
+    "path": "evidence/2026-09-24_S04_tax1830_Cayton_crop.jpg",
+    "sha256": "6b162e55afe5af327cee60b914cc4a7bb49269e43f3cf1d1b1ab5129dda89052",
+    "task_id": "01a0d431-cb4c-7791-9b6c-6e49c5c23576",
+    "task_title": "Thomas Caton \u2014 original 1828 consent",
+    "source_worktree": "1deb",
+    "preservation": "verbatim; see coordinator review before reuse",
+    "source_sha256": "6b162e55afe5af327cee60b914cc4a7bb49269e43f3cf1d1b1ab5129dda89052"
+  },
+  {
+    "path": "evidence/2026-09-24_S04_tax1831_Cayton_crop.jpg",
+    "sha256": "09da6582a40216033095d88f813cbbfb98fe78672f462a8bbcedc77a55fb5f01",
+    "task_id": "01a0d431-cb4c-7791-9b6c-6e49c5c23576",
+    "task_title": "Thomas Caton \u2014 original 1828 consent",
+    "source_worktree": "1deb",
+    "preservation": "verbatim; see coordinator review before reuse",
+    "source_sha256": "09da6582a40216033095d88f813cbbfb98fe78672f462a8bbcedc77a55fb5f01"
+  },
+  {
+    "path": "evidence/2026-09-24_stream6_1841-marriage-p291-crop.png",
+    "sha256": "1d460d0da91e2b49c5ac3580baf89ebd97330d3542797b21c41ff1214556a054",
+    "task_id": "01a0d431-d97a-70f2-ba74-eb3d4fee8d5d",
+    "task_title": "Aaron Caton \u2014 test the Fauquier hypothesis",
+    "source_worktree": "1f0c",
+    "preservation": "verbatim; see coordinator review before reuse",
+    "source_sha256": "1d460d0da91e2b49c5ac3580baf89ebd97330d3542797b21c41ff1214556a054"
+  },
+  {
+    "path": "evidence/2026-09-24_stream6_fauquier-parentage-control-audit.md",
+    "sha256": "ef853cf48dde991682b1adae751f083eb45e698a3c95b67b1dba85ce3bf6c904",
+    "task_id": "01a0d431-d97a-70f2-ba74-eb3d4fee8d5d",
+    "task_title": "Aaron Caton \u2014 test the Fauquier hypothesis",
+    "source_worktree": "1f0c",
+    "preservation": "Original wording retained; Markdown hard breaks normalized to backslashes and trailing blank lines removed; see coordinator review",
+    "source_sha256": "708249f2867c723b05a882dc4718805473a5b0b68852789d18c64a6ada10138e"
+  }
+]
