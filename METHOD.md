@@ -135,6 +135,14 @@ the per-session point above.
   transcriber normalises rather than reads: go to the image, and prefer an independent
   second record over either. Ignoring this cost the priority-1 task on 10 Sep 2026
   (C016 → C038).
+- **Use repository and FamilySearch transcriptions or indexes before OCR.** They are the
+  cheapest way to locate a target and recover its film/DGS, volume, page and image handle.
+  First determine whether the supplied text is a full transcription or only extracted
+  index fields. Verify every material claim against the original image because an index
+  can omit relationship language, marginal notes, witnesses, headings, exact spelling and
+  neighboring context. If the image cannot be opened, keep the derivative reading below
+  image-verified evidence and record the access boundary. OCR is a fallback for unindexed
+  sources or large-image filtering, and every OCR hit requires manual image verification.
 - **A claim whose image was never retained cannot be re-checked, and should not carry an
   A.** This is why C080 and C082 were downgraded on 16 Sep 2026.
 - **Audit for what the project has never done, not just for what it got wrong.** Two of

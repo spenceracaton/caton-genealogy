@@ -50,6 +50,15 @@ Older launch prompts say "no commits" (for example `handoffs/` before 25 Sep 202
 - Retain the image for any reading you grade A.
 - A blocked or unsearched source is recorded as incomplete, never as a negative.
 
+### Transcriptions before OCR
+
+- Check for a FamilySearch or repository-supplied transcription/index before running OCR. Use it to locate candidates and capture the exact collection, film/DGS, volume, page, and image identifiers.
+- Distinguish a full transcription from extracted index fields. An index may omit relationship language, marginal notes, witnesses, headings, surname spelling, and adjacent entries.
+- Verify every material claim against the original image. Inspect the heading and nearby entries whenever they affect column alignment, identity, or meaning.
+- If the image is unavailable, label the transcription/index as unverified derivative evidence and preserve the access boundary. Do not promote it to image-verified proof.
+- Use OCR only when no usable transcription/index exists, when the source is unindexed, or to filter a large image set. Manually verify every OCR candidate against the image.
+- Stop repeated OCR or enhancement attempts once the target is located or the image remains unreadable. Preserve the source handle and mark the reading unresolved.
+
 ## Checks
 
 - Before every commit, `python3 tools/check-project.py` must end with `Project validation ok`.
