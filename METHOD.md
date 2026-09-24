@@ -149,6 +149,44 @@ the per-session point above.
 
 ---
 
+## 5. Nothing counts until it is committed
+
+Between 16 and 24 Sep 2026, completed research sat outside `origin/main` in five
+places: untracked files in 20+ Codex worktrees, Codex snapshot refs, five unmerged
+`chatgpt/S0x` branches whose Claude scratchpad worktrees had been deleted, an
+uncommitted handoff packet in the main checkout, and Spencer's `~/Downloads`. It took
+two full reconciliation passes (18 Sep, 24 Sep) to recover. On 24 Sep a Codex session
+also re-imported 29 files that had been pushed an hour earlier. The launch prompts
+caused it: they said "no commits" and "write only into YOUR worktree", so every
+result was untracked and every worktree cleanup could destroy it.
+
+- **Agents commit; the coordinator merges.** An agent in a worktree commits its own
+  new files to a branch named `agent/<stream-or-task>-<yyyy-mm-dd>` before reporting
+  done. Committing is required and safe. Pushing, PRs and edits to canonical files stay
+  the coordinator's. A launch prompt that forbids commits is out of date: commit to your
+  branch, and touch nothing else.
+- **Only the coordinator writes in the main checkout** (`~/Desktop/claude/personal/genealogy`).
+  Every other session uses its own worktree. Another session's untracked file in the
+  main checkout is theirs, not yours: leave it.
+- **Run `python3 tools/reconcile.py` at the start and end of every coordinator
+  session** (`--downloads` after Spencer has downloaded from FamilySearch). It is
+  read-only. It lists every uncommitted file, unmerged branch, worktree file and
+  snapshot-only file whose bytes are not on `origin/main`. A session ends at exit 0, or
+  with every remaining item named in the handoff.
+- **Before starting imports, check whether another writer is already doing it.**
+  `reconcile.py` shows each worktree's newest-file age. A worktree touched in the last
+  15 minutes is live. Don't duplicate its work, and don't delete it or its refs.
+- **Codex manages its own worktrees and `refs/codex/*`.** It snapshots and prunes them
+  itself. Delete them by hand only when `reconcile.py` reports them clean and Codex is
+  idle.
+- **Deliberate exclusions go in `IGNORE` in `tools/reconcile.py`, with a reason**, e.g. a
+  wrong-county download. An exclusion without a reason is how evidence gets lost.
+- **Merge agent branches; don't copy their files over.** `git merge --no-ff` keeps the
+  agent's commit and lets `git branch -d` confirm it landed. Copying the files leaves the
+  branch looking unmerged forever.
+
+---
+
 *Started 16 Sep 2026, pass 13. `claims.jsonl` is for evidence about the family; operational
 rules live here. Two claims that were purely operational — **C036** (the `ugrep` trap) and
 **C086** (Claude-in-Chrome is not a FamilySearch route) — were reduced to pointers at this
