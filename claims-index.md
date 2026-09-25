@@ -1,4 +1,4 @@
-# Claims index — generated 2026-09-24 from `claims.jsonl` (252 claims)
+# Claims index — generated 2026-09-25 from `claims.jsonl` (258 claims)
 
 Census household composition is canonical in `CATON_CENSUS_LEDGER.md`; use its stable IDs for row-level readings.
 
@@ -10,17 +10,17 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 
 | claim type | n | | lifecycle | n |
 |---|---:|---|---|---:|
-| fact | 173 | | active | 238 |
-| hypothesis | 16 | | superseded | 5 |
-| negative | 29 | | reversed | 5 |
+| fact | 174 | | active | 243 |
+| hypothesis | 16 | | superseded | 6 |
+| negative | 32 | | reversed | 5 |
 | do-not-merge | 4 | | void | 1 |
-| method | 29 | | moot | 1 |
+| method | 31 | | moot | 1 |
 | other | 1 | | review | 2 |
 
 | evidence grade | n |
 |---|---:|
-| A | 139 |
-| B | 75 |
+| A | 141 |
+| B | 79 |
 | C | 38 |
 
 ## The load-bearing ones
@@ -68,7 +68,7 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 | C023 | A | fact | active | 8 | Aaron Caton | SERVICE CARD READ IN FULL. Pvt., Co. E, 2 Reg't Cav. Vols. (Merrill's Horse), Capt. Norville. Enlisted 15 Aug … |
 | C024 | A | fact | active | 8 | William Bramwell Caton | SERVICE CARD READ IN FULL. Age 17, Pvt., Co. E, 2 Reg't Cav. Vols., Capt. Norville - same company and captain … |
 | C025 | B | fact | active | 8 | Aaron Caton household | Direct line tied to BOONE COUNTY, MO by Oct 1862 - William enlisted at Sturgeon, which is in Boone Co. Bridges… |
-| C026 | A | fact | active | 8 | William Bramwell Caton | REVISION TO C008. C008 asserted at grade A that 'father Aaron gave written consent for underage enlistment', c… |
+| ~~C026~~ | A | fact | superseded | 8 | William Bramwell Caton | [SUPERSEDED 25 Sep 2026 by G046: the original signed consent was found in William's full CMSR and explicitly s… |
 | C027 | A | method | active | 8 | Massachusetts State Archives | ACCESS ROUTE, not a genealogical claim. Holds births, marriages and deaths for all Massachusetts cities and to… |
 | C028 | C | negative | active | 8 | Julia Caton | NEGATIVE, WEAK - DOES NOT CLOSE T01. Open-web search for a Massachusetts birth record c.1842-1844 under Caton/… |
 | C029 | C | negative | active | 8 | Aaron Caton | NEGATIVE, WEAK. No Caton/Catton/Caten/Cation/Eaton/Cason/Kitten tailor found in 1842-1844 city directories for… |
@@ -295,6 +295,12 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 | G043 | B | method | active | pass19 | Sue Caton Dumm and Clint O. Dumm f | The FamilySearch Library public catalog identifies Historical data record (Boulder Co., Colorado), a 35 mm mic… |
 | G044 | A | method | active | pass19 | Older Boonville Thomas Caton deed  | The controlling county-wide deed index for the older Boonville Thomas identity test is Cooper County Index to … |
 | G045 | A | method | active | pass19 | Original 6 December 1828 Thomas Ca | The Fauquier County Circuit Court Clerk's Records Room states that it holds marriage records from 1759 to the … |
+| G046 | A | fact | active | pass20 | Aaron Caton and William Bramwell C | ORIGINAL WRITTEN PARENTAL CONSENT FOUND. William B. Caton's M405 CMSR contains a 1 October 1862 consent statin… |
+| G047 | B | method | active | pass20 | William Bramwell Caton pension and | The original T288 card identifies William B. Caton, Company E, 2nd Missouri Cavalry, invalid application 10824… |
+| G048 | B | negative | active | pass20 | Thomas Caton War of 1812 pension-a | A bounded authenticated search of Ancestry's War of 1812 pension-application index found no Thomas under exact… |
+| G049 | A | negative | active | pass20 | Aaron Caton death-window newspaper | A bounded Newspapers.com search for an additional direct-line Aaron Caton death, funeral, estate, or associate… |
+| G050 | B | negative | active | pass20 | Aaron Caton and older Thomas Caton | The 230-page public Walnut Grove Cemetery compilation contains no Aaron Caton, direct-line Thomas Caton, or Sa… |
+| G051 | B | method | active | pass20 | 124-DeCoursey.ged source trail for | Public WikiTree discussions identify 124-DeCoursey.ged as a very large 2010 import from the files of William '… |
 
 ## Unresolved discrepancies and identity checks
 

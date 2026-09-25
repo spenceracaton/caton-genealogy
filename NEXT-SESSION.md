@@ -1,6 +1,6 @@
 # Next research session
 
-**Queue last reviewed:** 24 September 2026. Recheck task status before starting;
+**Queue last reviewed:** 25 September 2026. Recheck task status before starting;
 this file is an action queue, not an evidence record.
 
 Aaron's own signed 5 January 1864 enlistment directly states birth in Fauquier
@@ -77,6 +77,15 @@ P–Z, reels C1956–C1961 (G044).
 - Joseph's 1910 Saline County probate remains parked at Spencer's instruction.
 - Test Nancy Caton's unsourced “Roseman” middle name from a grave or original record
   before using it as a family clue.
+- Ask NARA St. Louis to locate William B. Caton's complete later pension/VA claim file,
+  using invalid application 1082494 and certificate 793344. The file reportedly received
+  a Bible marriage page after William's 1941 death (G047); do not assume its contents.
+- Ask the Boonville cemetery sexton to search city interment, lot-owner, purchaser,
+  removal, and same-lot records for Aaron Caton, died 17 January 1878. Walnut Grove's
+  public compilation had no target, while the Sunset Hills transcription was unavailable
+  (G050).
+- Leave the War of 1812 index route and `124-DeCoursey.ged` manager route parked unless
+  new identifiers appear (G048, G051).
 
 ## Start-of-session checks
 

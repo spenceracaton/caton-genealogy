@@ -1,7 +1,7 @@
 # Caton genealogy — working brief
 
-**State:** research synthesis last reviewed 24 September 2026; 252 claims are
-registered (C001–C210 with gaps, G001–G045). Corrections from every pass are applied
+**State:** research synthesis last reviewed 25 September 2026; 258 claims are
+registered (C001–C210 with gaps, G001–G051). Corrections from every pass are applied
 here; do not read `archive/` unless asked to reconstruct how a conclusion was reached.
 **Research question:** Who were the parents of Aaron Caton, born 16 May 1820? They
 remain unknown. Aaron's signed 5 January 1864 veteran enlistment now states that he was
@@ -62,6 +62,10 @@ Spencer Caton → Philip Brettun Caton (1950) → Chandler Maynard Caton (1912�
 → Louis Merrill Caton (1886–1970) → William Bramwell Caton (1847–1941) → **Aaron
 Caton (16 May 1820; parents unknown).**
 
+Aaron's original signed consent of 1 October 1862 explicitly says that he was William
+B. Caton's father (G046). This supplies direct evidence for the last proved link above;
+it says nothing about Aaron's own parents.
+
 - Aaron married Sarah Ann Gardner in Delaware County, Ohio, in August 1841. Their
   1850 Delaware household is canonical as `US-1850-OH-DELAWARE-AARON-01`. It records
   Aaron as a Virginia-born tailor; the image and later evidence support daughter
@@ -105,7 +109,7 @@ describe another family (C105, C127). Do not use surname similarity to bridge it
 
 ## Open work
 
-What can still name a parent, in order (re-ranked 24 Sep):
+What can still name a parent, in order (re-ranked 25 Sep):
 
 0. ~~Re-read Fauquier 1830 p.471 and Fauquier 1820's C page~~ — **done (C208, C209)**.
    The loose original 1828 consent remains needed to settle D-012.
@@ -138,6 +142,12 @@ What can still name a parent, in order (re-ranked 24 Sep):
    reels C1956–C1961 (G031, G044).
 8. Joseph's 1910 Saline County probate remains parked at Spencer's instruction. The
    Ohio County guardianship route is the remaining test for the weaker competing model.
+9. **Lower-yield digital follow-ups.** William B. Caton's pension index gives application
+   1082494 and certificate 793344; his later VA claim file reportedly received a Bible
+   marriage page and holds his questionnaire, so first ask NARA St. Louis to locate it
+   (G047). The War of 1812 pension index produced no Thomas under five variants (G048).
+   The `124-DeCoursey.ged` label is uploader Bill DeCoursey's surname, not evidence of a
+   Joseph-line source, so manager contact is now low priority (G051).
 
 **C196 corrected 18 Sep (D-011):** Thomas was *not* gone after Apr 1835 — the tax
 originals show two Thomases in 1836 and three Cayton entries in 1837, none in 1838

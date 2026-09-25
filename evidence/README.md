@@ -86,11 +86,15 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `1850_OhioCo_VA_p160b_transcription.txt` | 100 KB | C011, C032, C033, C034 | USGenWeb transcription, Ohio Co. (W)VA file 19 of 25 (hh 2166–2299). Harrison Caton in the Boring household. |
 | `1850_WashingtonDC_directory_Caton.txt` | 548 B | C136 |  |
 | `1862_CooperCo_MO_EMM_enrollment_Caton_JJ_and_DanielR.pdf` | 1 MB | C148 | 1862 Enrolled Missouri Militia, Cooper Co.: J. J. Caton 25 and Daniel R. Caton 18, farmers - collateral (C148). |
+| `1862-10-01_William_B_Caton_CMSR_page31_parental-consent.jpg` | 186 KB | G046 | William B. Caton's original consent: Aaron states and signs that he is William's father. |
+| `1862-10-01_William_B_Caton_CMSR_page32_enlistment.jpg` | 214 KB | G046 | William's original enlistment: Delaware County, Ohio birth; age 17; tailor; Sturgeon, Missouri, 1 Oct 1862. |
+| `1864_William_B_Caton_CMSR_page17_muster-card.jpg` | 112 KB | G046 | Routine William B. Caton company muster card retained from the 32-image CMSR. |
 | `1865_CooperCo_MO_CircuitCourt_partition_CatharineLaurie_heirs_WilliamCaton_children.pdf` | 2 MB | C149 | Partition decree, Sept 1865: William & Ann F. Caton dead, heirs Joseph, Aaron [F.], Sarah A. Plumley, Daniel R. Caton (C149). Closes C097; opens the two-Josephs problem for C110. |
 | `1865_CooperCo_MO_CircuitCourt_partition_Ross_v_Caton_caption.pdf` | 2 MB | C149 | Caption page of the 1865 partition: Ross v. Caton et al. (C149). |
 | `1871c_CooperCo_MO_CircuitCourt_NancyCaton_v_AaronCaton_divorce_decree.pdf` | 2 MB | C151 | Divorce decree: married 12 Oct 1869, deserted 8 Apr 1870 - probably the direct-line Aaron (C151); reverses C053. |
 | `1875-11_CooperCo_MO_CircuitCourt_Carroll_v_ONeal_dower_commissioners_report.pdf` | 2 MB | C150 | Nov 1875 commissioners' report, O'Neal partition (C150). |
 | `1875_CooperCo_MO_CircuitCourt_Carroll_v_ONeal_AaronF_Caton_children_Neal_heirs.pdf` | 1 MB | C150 | 1875 Neal heirs suit: Aaron F. Caton and minors Henry, Elizabeth, Virginia - collateral (C150). |
+| `1878-01-18_Boonville_Daily_News_Advertiser_p8_Aaron_Caton_death.jpg` | 2 MB | C108, G049 | Full original page containing Aaron's 18 Jan 1878 death notice; direct page now retained. |
 | `1883_HowardCooper_GeorgeWCaton_Boonville_extracts.txt` | 2 KB | C122 |  |
 | `1901_CowleyCo_KS_WBCaton_biography.txt` | 7 KB | C009 | OCR of the 1901 Winfield Courier sketches of W. B. Caton and Mrs. Caton. Does NOT mention Wheeling. |
 | `1904_BigBendCountry_NathanTCaton_biography.txt` | 3 KB | C121 |  |
@@ -248,6 +252,7 @@ Rules: agents write findings here as new files and edit nothing else. Files are 
 | `2026-09-24_remaining-reports-manifest.json` | 9 KB | — |  |
 | `2026-09-24_stream6_1841-marriage-p291-crop.png` | 1018 KB | — |  |
 | `2026-09-24_stream6_fauquier-parentage-control-audit.md` | 14 KB | — |  |
+| `2026-09-25_online-followups_CMSR-pension-newspapers-cemeteries.md` | 15 KB | G046, G047, G048, G049, G050, G051 | Online follow-up across Fold3, Ancestry, Newspapers.com, cemetery compilations, and WikiTree. Aaron's signed 1862 consent directly proves he was William B. Caton's father; the remaining searches produced locators or bounded negatives, not Aaron's parentage. |
 | `Aaron_Caton_1850_Delaware_OH_n172_w1800.jpg` | 823 KB | C038 | 1850 census page image, Delaware Co. OH p.179a. The blotted Julia birthplace cell. |
 | `Boone_MO_1860_Header_Samples.jpg` | 2 MB | — | 1860 Boone Co. reel navigation aid (parallel pass). |
 | `Boone_MO_1860_Header_Transition_120_260.jpg` | 2 MB | C022 | 1860 Boone Co. reel navigation aid (parallel pass). |
