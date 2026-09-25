@@ -1,7 +1,7 @@
 # Caton genealogy — working brief
 
-**State:** research synthesis last reviewed 25 September 2026; 261 claims are
-registered (C001–C210 with gaps, G001–G054). Corrections from every pass are applied
+**State:** research synthesis last reviewed 25 September 2026; 262 claims are
+registered (C001–C210 with gaps, G001–G055). Corrections from every pass are applied
 here; do not read `archive/` unless asked to reconstruct how a conclusion was reached.
 **Research question:** Who were the parents of Aaron Caton, born 16 May 1820? They
 remain unknown. Aaron's signed 5 January 1864 veteran enlistment now states that he was
@@ -147,9 +147,14 @@ What can still name a parent, in order (re-ranked 25 Sep):
    Joseph's parents or siblings and no relationship to Aaron. A separate printed
    biography says only that Joseph was born in Virginia and the Catons were an old
    Virginia family; it gives no county or earlier generation (G032–G033, G043, G052).
-7. **Older Boonville Thomas deed identity test.** Read Cooper Index to Deeds and Mortgages
-   volume 1, MSA reel C1947, then follow every Thomas or Maddex locator in deed books P–Z,
-   reels C1956–C1961 (G031, G044).
+7. **Older Boonville Thomas deed identity test — partially completed, now lower yield.**
+   The authenticated index resolves the 1855 locator to Deed Book S, pp. 59–60. That
+   original shows Thomas Caton selling a separate 40.07-acre Section 1 tract to William
+   H. Trigg and supplies Thomas's signature, but no wife, child, parent, occupation,
+   birthplace, prior residence, Maddex associate, or link to Aaron. The 1850 Elizabeth
+   parcel remains unassigned. Books T–Z and full C/K/M coverage were not exhausted;
+   continue only if a comparison signature or new identity-bearing locator appears
+   (G031, G044, G055).
 8. Joseph's 1910 Saline County probate remains parked at Spencer's instruction. The
    Ohio County guardianship route is the remaining test for the weaker competing model.
 9. **Lower-yield digital follow-ups.** William B. Caton's pension index gives application
@@ -165,12 +170,13 @@ originals show two Thomases in 1836 and three Cayton entries in 1837, none in 18
 male, so Aaron (16 in May 1836) was not counted in any Caton household in the years he
 was countable; the "teenage tithable" test is done for 1836–37 and negative.
 
-**Cooper-side identity remains unresolved (C205, C206, G022–G023, G031):** the
+**Cooper-side identity remains unresolved (C205, C206, G022–G023, G031, G055):** the
 77-year-old Virginia-born tailor in John P. Maddex's 1850 household is separate from
 the 40-year-old Kentucky-born farmer. Complete C/K sections of the master probate index,
 related will/administration/bond/inventory indexes, and bounded newspapers supplied no
 identifying estate or death item. The 1846 Senior/Junior note and Elizabeth deed do not
-identify the older tailor. Cooper deeds are the next test.
+identify the older tailor. The 1855 Caton-to-Trigg deed supplies a distinct parcel and
+signature but no identity bridge; the deed route is now a lower-yield continuation.
 
 **Alternative 1810 reading (C207, D-010):** if the woman 16–26 in Thomas Sr.'s 1810
 house was his wife, there was no remarriage and C173's negative needs no explanation;

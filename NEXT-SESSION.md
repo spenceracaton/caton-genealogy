@@ -60,14 +60,15 @@ says only that Joseph was born in Virginia and the Catons were an old Virginia f
 No supplied page mentions Aaron or states the Sawtell kinship path. Do not repeat this
 route absent a newly identified document (G032–G033, G043, G052, D-014).
 
-## Priority 7 — Resolve the older Boonville Thomas through deeds
+## Priority 7 — Older Boonville Thomas deed route partially closed
 
-The 1850 manuscript distinguishes the 77-year-old Virginia-born tailor from the
-40-year-old Kentucky-born farmer (G022–G023). Complete C/K probate-index and bounded
-newspaper checks found no identifying estate or death item (G031). Read Cooper County
-Index to Deeds and Mortgages volume 1, Missouri State Archives reel C1947, under C/K/M.
-Then retrieve every Thomas or Maddex locator and adjacent parcel chain from deed books
-P–Z, reels C1956–C1961 (G044).
+The authenticated index and original deed verify that a Thomas Caton conveyed a
+separate 40.07-acre Section 1 tract to William H. Trigg on 14 March 1855. The deed
+supplies Thomas's signature but no wife, child, parent, occupation, birthplace, prior
+residence, Maddex associate, or link to Aaron. The 1850 Elizabeth parcel remains
+unassigned. Full C/K/M leaf review and the Books T–Z continuation remain incomplete,
+but this route is now lower yield; resume only if a comparison signature or new
+identity-bearing locator appears (G031, G044, G055).
 
 ## Lower-priority work
 

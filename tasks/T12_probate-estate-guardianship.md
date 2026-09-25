@@ -5,7 +5,7 @@ mode: agent
 status: open
 repository: County probate/estate records — Delaware Co. OH, Ohio Co. (W)VA, Belmont Co. OH, Missouri counties
 blocked_on: none
-note: UPDATE 24 Sep 2026 (G027, G034, G040-G042): Aaron's signed 1864 enlistment directly establishes Fauquier County birth. Reel 116 remains undigitized and unread; use LVA interlibrary loan for the complete 1826-1838 review. A second high-value route is the unindexed 14-box Fauquier Fiduciary Records collection vi_vi05624, accessions 37409/37410. Also test Prince William barcode 1050832 for 1834 sheriff-administered estate material and Culpeper deed-index reels 29/29a/30 for elder Aaron's earlier trust. Joseph's Saline probate remains parked by Spencer.
+note: UPDATE 25 Sep 2026 (G027, G034, G040-G042, G055): Aaron's signed 1864 enlistment directly establishes Fauquier County birth. Reel 116 remains undigitized and unread; use LVA interlibrary loan for the complete 1826-1838 review. A second high-value route is the unindexed 14-box Fauquier Fiduciary Records collection vi_vi05624, accessions 37409/37410. The authenticated Cooper deed pass found a 1855 Thomas Caton signature and a separate tract but no identity or kinship bridge, so that continuation is lower yield. Also test Prince William barcode 1050832 and Culpeper deed-index reels 29/29a/30 for elder Aaron's estate/trust. Joseph's Saline probate remains parked by Spencer.
 ---
 
 # T12 — Probate, estate and guardianship records

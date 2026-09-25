@@ -1,4 +1,4 @@
-# Claims index — generated 2026-09-25 from `claims.jsonl` (261 claims)
+# Claims index — generated 2026-09-25 from `claims.jsonl` (262 claims)
 
 Census household composition is canonical in `CATON_CENSUS_LEDGER.md`; use its stable IDs for row-level readings.
 
@@ -10,8 +10,8 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 
 | claim type | n | | lifecycle | n |
 |---|---:|---|---|---:|
-| fact | 176 | | active | 246 |
-| hypothesis | 16 | | superseded | 6 |
+| fact | 177 | | active | 246 |
+| hypothesis | 16 | | superseded | 7 |
 | negative | 32 | | reversed | 5 |
 | do-not-merge | 5 | | void | 1 |
 | method | 31 | | moot | 1 |
@@ -19,7 +19,7 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 
 | evidence grade | n |
 |---|---:|
-| A | 142 |
+| A | 143 |
 | B | 81 |
 | C | 38 |
 
@@ -293,7 +293,7 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 | G041 | A | method | active | pass19 | Prince William County 1834 sheriff | The official ARVAS finding aid identifies barcode 1050832 within Prince William County Records as a 1834/1897 … |
 | G042 | A | method | active | pass19 | Earlier Culpeper trust naming elde | The exact bounded route to the earlier trust recited in the 8 April 1834 release is the Culpeper deed indexes … |
 | G043 | B | method | active | pass19 | Sue Caton Dumm and Clint O. Dumm f | The FamilySearch Library public catalog identifies Historical data record (Boulder Co., Colorado), a 35 mm mic… |
-| G044 | A | method | active | pass19 | Older Boonville Thomas Caton deed  | The controlling county-wide deed index for the older Boonville Thomas identity test is Cooper County Index to … |
+| ~~G044~~ | A | method | superseded | pass19 | Older Boonville Thomas Caton deed  | The controlling county-wide deed index for the older Boonville Thomas identity test is Cooper County Index to … |
 | G045 | A | method | active | pass19 | Original 6 December 1828 Thomas Ca | The Fauquier County Circuit Court Clerk's Records Room states that it holds marriage records from 1759 to the … |
 | G046 | A | fact | active | pass20 | Aaron Caton and William Bramwell C | ORIGINAL WRITTEN PARENTAL CONSENT FOUND. William B. Caton's M405 CMSR contains a 1 October 1862 consent statin… |
 | G047 | B | method | active | pass20 | William Bramwell Caton pension and | The original T288 card identifies William B. Caton, Company E, 2nd Missouri Cavalry, invalid application 10824… |
@@ -304,6 +304,7 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 | G052 | B | fact | active | pass21 | Joseph Caton; Sue Caton Dumm | An archive-supplied scan of the printed James Monroe Dumm biography identifies Sue as the daughter of Joseph a… |
 | G053 | A | fact | active | pass21 | Aaron Caton and Sarah Gardner | Authenticated sequential review of Delaware County, Ohio, Marriage Records volume 1 confirms that the 7-8 Augu… |
 | G054 | B | do-not-merge | active | pass21 | Aaron Caton and Sarah Gardner | The 1940 D.A.R. typescript The early marriage bonds of Delaware County, Ohio, 1832-1865 appears to render the … |
+| G055 | A | fact | active | pass21 | Thomas Caton (Cooper County deed g | DIRECT ORIGINAL DEED. On 14 March 1855 Thomas Caton conveyed to William H. Trigg, for $30, the east half of Lo… |
 
 ## Unresolved discrepancies and identity checks
 
