@@ -5,7 +5,7 @@ mode: agent
 status: active
 repository: Fauquier Co., VA records / 1820 & 1830 census
 blocked_on: none
-note: BREAKTHROUGH 24 Sep 2026 (G027): Aaron's signed 5 Jan 1864 veteran enlistment directly states that he was born in Fauquier County, Virginia. Fauquier origin is proved at grade A; parentage remains unknown. G032 makes Julia A. (Caton) Sawtell the strongly leading identity for Joseph's unnamed 1898 hostess, but the kinship path remains unstated. Highest-yield next tests are the unread Overseers of the Poor Minutes on LVA Reel 116 (G034), complete pension file SO 233783 (G036), and Fauquier's unindexed loose fiduciary collection (G040). Prince William reel 34 is closed as a marriage route because its volumes are estate bonds and official pre-1854 marriages are lost (G037-G039).
+note: UPDATE 25 Sep 2026: Aaron's signed 5 Jan 1864 veteran enlistment proves Fauquier County birth at grade A; parentage remains unknown. The Dumm archive route is complete and negative for Joseph's parents, siblings, exact Virginia county, or relationship to Aaron (G052). The original 1828 William consent remains unseen, but its precise Records Room email route and posted copy price are verified (G045). Highest-yield next tests are Reel 116 (G034), the pending Archives 1 reply on SO 233783 (G036), and Fauquier's loose fiduciary collection (G040).
 ---
 
 # T13 — Was the family from Fauquier County, Virginia?

@@ -1,7 +1,7 @@
 # Caton genealogy — working brief
 
-**State:** research synthesis last reviewed 25 September 2026; 258 claims are
-registered (C001–C210 with gaps, G001–G051). Corrections from every pass are applied
+**State:** research synthesis last reviewed 25 September 2026; 261 claims are
+registered (C001–C210 with gaps, G001–G054). Corrections from every pass are applied
 here; do not read `archive/` unless asked to reconstruct how a conclusion was reached.
 **Research question:** Who were the parents of Aaron Caton, born 16 May 1820? They
 remain unknown. Aaron's signed 5 January 1864 veteran enlistment now states that he was
@@ -66,7 +66,12 @@ Aaron's original signed consent of 1 October 1862 explicitly says that he was Wi
 B. Caton's father (G046). This supplies direct evidence for the last proved link above;
 it says nothing about Aaron's own parents.
 
-- Aaron married Sarah Ann Gardner in Delaware County, Ohio, in August 1841. Their
+- Aaron married Sarah Ann Gardner in Delaware County, Ohio, in August 1841. The
+  original bound marriage entry names only Aaron, Sarah, officiant Titus Case, and
+  clerk W. D. Heim; it supplies no parent, residence, consentor, surety, witness, or
+  signature. The filmed adjacent pages contain no interfiled loose paper, but survival
+  of a separate packet remains unknown. A 1940 DAR typescript's apparent “Aaron Eaton”
+  is a derivative error; the original plainly reads Caton (G053–G054, D-018). Their
   1850 Delaware household is canonical as `US-1850-OH-DELAWARE-AARON-01`. It records
   Aaron as a Virginia-born tailor; the image and later evidence support daughter
   Julia's Missouri birthplace. The derivative “Massachusetts” reading is preserved
@@ -119,24 +124,29 @@ What can still name a parent, in order (re-ranked 25 Sep):
    ten pages. Read 1826–1838 first. Public derivatives are selective and their surname
    non-hits are not a search of the manuscript (G034).
 2. **Complete pension application SO 233783.** The likely paper filing is the RG 15
-   disapproved-veteran series, NAID 563386. Order NARA's complete NATF 85D file, currently
-   $80 through 100 pages, if the user authorizes the fee; do not order the smaller selected
-   document packet. Seek declarations, witnesses, residence, rejection rationale, and
-   family language (G029–G030, G035–G036).
+   disapproved-veteran series, NAID 563386. A no-cost Archives 1 inquiry was sent on
+   25 September to confirm the file, identifier, custody, consolidation history, and
+   complete-file scope; allow 10–12 business days for a reply. If confirmed and later
+   authorized, order NARA's complete NATF 85D file, currently $80 through 100 pages;
+   do not order the smaller selected-document packet. Seek declarations, witnesses,
+   residence, rejection rationale, and family language (G029–G030, G035–G036).
 3. **Fauquier loose fiduciary records, 1833–1940.** The unindexed 14-box LVA collection
    vi_vi05624, accessions 37409/37410, contains estate, guardianship, division, settlement,
    and dower papers capable of naming heirs or wards. Ask Archives Reference Services to
    identify Caton/Cayton material before ordering copies or visiting (G040).
 4. **Original 1828 William Caton consent.** Ask the Fauquier County Circuit Court Clerk's
-   Records Room for the loose paper or a direct image. The typescript says “Thomas Caton
-   Jr” and “my son William”; the original must settle whether the suffix is real (G045,
-   D-012).
+   Records Room for the loose paper or a direct image. The current email route and
+   $0.50-per-page regular-copy price are verified; the request is prepared but unsent.
+   The typescript says “Thomas Caton Jr” and “my son William”; the original must settle
+   whether the suffix is real (G045, D-012).
 5. **Elder Aaron estate and trust routes.** Test Prince William barcode 1050832 for a
    sheriff-administered estate and Culpeper deed-index reels 29, 29a, and 30 for the
    earlier trust recited in the 1834 release (G041–G042).
-6. **Sue (Caton) Dumm's and Clint Dumm's 1932 family records.** Do not duplicate the
-   pending Carnegie request. FHL film 897328 item 1 is a bounded secondary route, but
-   Dumm's inclusion is unverified (G032–G033, G043).
+6. ~~**Sue (Caton) Dumm's and Clint Dumm's 1932 family records.**~~ **Closed.** The
+   Carnegie reply and all seven supplied pages were reviewed. They name none of
+   Joseph's parents or siblings and no relationship to Aaron. A separate printed
+   biography says only that Joseph was born in Virginia and the Catons were an old
+   Virginia family; it gives no county or earlier generation (G032–G033, G043, G052).
 7. **Older Boonville Thomas deed identity test.** Read Cooper Index to Deeds and Mortgages
    volume 1, MSA reel C1947, then follow every Thomas or Maddex locator in deed books P–Z,
    reels C1956–C1961 (G031, G044).

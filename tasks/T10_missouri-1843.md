@@ -4,8 +4,8 @@ priority: 1
 mode: agent
 status: partial
 repository: Delaware County Memory / Delaware County Records Center / Missouri State Archives / FamilySearch
-blocked_on: Delaware marriage image is temporarily unavailable through the public mirror; FamilySearch image access requires sign-in
-note: Replaces the voided T01. LEADING CANDIDATE COUNTY IDENTIFIED 10 Sep 2026: CHARITON (C064) - Joseph Caton, the strongest sibling candidate (C062), married there Sept 1847 (C063). Work Chariton tax lists/court records 1842-45 and M.E. CHURCH records at Brunswick for a baptism of Julia c.Dec 1843. Rests on the unproven sibling reading; if C062 fails this reverts to statewide.
+blocked_on: Delaware County Records Center response to an unsent request for any separate loose 1841 marriage packet
+note: UPDATE 25 Sep 2026 (G053-G054, D-018): The authenticated original bound register was inspected and names only Aaron, Sarah, officiant Titus Case, and clerk W. D. Heim; it gives no parent, residence, consentor, surety, witness, or signature. Adjacent filmed pages show no interfiled attachment. A 1940 DAR typescript's apparent Aaron Eaton is a derivative error; the original plainly reads Caton. Survival of a separate loose packet remains unknown. The Chariton hypothesis rests on an unproved Joseph sibling relationship.
 ---
 
 # T10 — Where in Missouri was the family in 1843–44?
@@ -35,9 +35,8 @@ marriage-bond series (1832–1865):
 - request the license, bond, return, consent (if any), clerk's entry, surety,
   witnesses, and officiant
 
-The Delaware County History Network identifies the volume in its public digital
-repository. If its image remains unavailable, request the specific packet from
-the Delaware County Records Center. Do not request a mere certified abstract;
+The bound-register image is now verified and supplied no additional associates.
+Request any separate loose packet from the Delaware County Records Center. Do not request a mere certified abstract;
 the value is in every name and signature on the original material.
 
 ## Phase 2 — Missouri, bounded by Phase 1

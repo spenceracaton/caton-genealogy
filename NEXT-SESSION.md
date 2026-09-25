@@ -21,8 +21,10 @@ inspect the original wording for child, parent, master, trade, and date (G034).
 The complete 37-image CMSR has been read and yielded the direct Fauquier birthplace
 (G027–G028). Fold3 and Ancestry yielded T288, T289, and A1158 index images but no
 application packet (G029–G030, G035). The expected paper filing is Soldiers' Original
-`SO 233783` in RG 15's disapproved-veteran series, NAID 563386 (G036). If the fee is
-authorized, order NARA's complete NATF 85D file, currently $80 through 100 pages. Do not
+`SO 233783` in RG 15's disapproved-veteran series, NAID 563386 (G036). A no-cost
+Archives 1 inquiry was sent on 25 September; wait 10–12 business days for its
+location-and-scope reply before considering the paid order. If the fee is authorized,
+order NARA's complete NATF 85D file, currently $80 through 100 pages. Do not
 order the $30 selected-document packet. Seek declarations, medical examinations,
 witnesses, residence, rejection rationale, and family statements. The application must
 also resolve the T288 date of 10 April 1876 against T289's 10 April 1877 (D-017).
@@ -37,7 +39,9 @@ division, settlement, and dower papers capable of naming heirs or wards (G040).
 ## Priority 4 — Retrieve the original 1828 consent
 
 Ask the Fauquier County Circuit Court Clerk's Records Room for the loose 6 December
-1828 consent or an image made directly from it. Compare the suffix, signer, witness
+1828 consent or an image made directly from it. The email route and posted
+$0.50-per-page regular-copy price are verified; the prepared request remains unsent.
+Compare the suffix, signer, witness
 lines, and handwriting with the typescript. The original is the direct test of whether
 “Thomas Caton Jr” is accurate and which Thomas was William's father (G045, D-012).
 
@@ -48,15 +52,13 @@ William ARVAS barcode 1050832 (G041). Separately read Culpeper deed-index reels 
 29a, and 30 for the earlier trust recited in the 1834 Aaron Caton release, then retrieve
 any cited deed from reels 15–22 (G042).
 
-## Priority 6 — Retrieve the Dumm family papers
+## Priority 6 — Dumm family papers closed
 
-Sue Caton Dumm's and Clint Dumm's two-page 1932 family-history items remain
-inaccessible. Do not duplicate the pending Carnegie Library request. Collateral records
-now make Julia A. (Caton) Sawtell the strongly leading identity for Joseph's unnamed
-1898 hostess, but the notices do not state the kinship path and do not prove Joseph and
-Aaron were brothers (G032–G033, D-014). FHL film 897328 item 1 is a secondary physical
-route, but first confirm that its Boulder Historical Data Record volume contains a Dumm
-frame (G043).
+The Carnegie Library reply and all seven supplied pages were reviewed. Sue's and
+Clint's forms do not name Joseph's parents or siblings, and a separate printed biography
+says only that Joseph was born in Virginia and the Catons were an old Virginia family.
+No supplied page mentions Aaron or states the Sawtell kinship path. Do not repeat this
+route absent a newly identified document (G032–G033, G043, G052, D-014).
 
 ## Priority 7 — Resolve the older Boonville Thomas through deeds
 
@@ -86,6 +88,10 @@ P–Z, reels C1956–C1961 (G044).
   (G050).
 - Leave the War of 1812 index route and `124-DeCoursey.ged` manager route parked unless
   new identifiers appear (G048, G051).
+- Ask the Delaware County Records Center to check for a separate loose 1841 marriage
+  packet. The authenticated bound register has been read and names no parent, residence,
+  surety, witness, or consentor; the adjacent filmed pages contain no attachment
+  (G053–G054, D-018).
 
 ## Start-of-session checks
 

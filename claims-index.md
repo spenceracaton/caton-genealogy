@@ -1,4 +1,4 @@
-# Claims index — generated 2026-09-25 from `claims.jsonl` (258 claims)
+# Claims index — generated 2026-09-25 from `claims.jsonl` (261 claims)
 
 Census household composition is canonical in `CATON_CENSUS_LEDGER.md`; use its stable IDs for row-level readings.
 
@@ -10,17 +10,17 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 
 | claim type | n | | lifecycle | n |
 |---|---:|---|---|---:|
-| fact | 174 | | active | 243 |
+| fact | 176 | | active | 246 |
 | hypothesis | 16 | | superseded | 6 |
 | negative | 32 | | reversed | 5 |
-| do-not-merge | 4 | | void | 1 |
+| do-not-merge | 5 | | void | 1 |
 | method | 31 | | moot | 1 |
 | other | 1 | | review | 2 |
 
 | evidence grade | n |
 |---|---:|
-| A | 141 |
-| B | 79 |
+| A | 142 |
+| B | 81 |
 | C | 38 |
 
 ## The load-bearing ones
@@ -301,6 +301,9 @@ Each row also carries `kind` (METHOD.md §4), kept equal to the mapping of `clai
 | G049 | A | negative | active | pass20 | Aaron Caton death-window newspaper | A bounded Newspapers.com search for an additional direct-line Aaron Caton death, funeral, estate, or associate… |
 | G050 | B | negative | active | pass20 | Aaron Caton and older Thomas Caton | The 230-page public Walnut Grove Cemetery compilation contains no Aaron Caton, direct-line Thomas Caton, or Sa… |
 | G051 | B | method | active | pass20 | 124-DeCoursey.ged source trail for | Public WikiTree discussions identify 124-DeCoursey.ged as a very large 2010 import from the files of William '… |
+| G052 | B | fact | active | pass21 | Joseph Caton; Sue Caton Dumm | An archive-supplied scan of the printed James Monroe Dumm biography identifies Sue as the daughter of Joseph a… |
+| G053 | A | fact | active | pass21 | Aaron Caton and Sarah Gardner | Authenticated sequential review of Delaware County, Ohio, Marriage Records volume 1 confirms that the 7-8 Augu… |
+| G054 | B | do-not-merge | active | pass21 | Aaron Caton and Sarah Gardner | The 1940 D.A.R. typescript The early marriage bonds of Delaware County, Ohio, 1832-1865 appears to render the … |
 
 ## Unresolved discrepancies and identity checks
 
@@ -314,7 +317,7 @@ Alternatives and claim/source links are canonical in `discrepancies.jsonl`. Iden
 | D-009 | unresolved | discrepancy | 1840 Delaware County James Cayton source locator | Recover the exact index URL, source citation, or Delaware County page underlying C101; then verify head, locality, and age columns before restoring normalized counts or using the claim. |
 | D-010 | open | discrepancy | 1810 Fauquier Thomas Caton household - relationship of the two women | Search surviving marriage, church, consent, deed, estate, and family records in Fauquier and neighboring counties other than the closed Prince William official-register route; any explicit 1811-19 marriage kills C207. |
 | D-012 | open | identity_check | Who is 'Thomas Caton Jr', William Caton's consenting father of 6 Dec 1828 (C092), given that the 1830 'Thomas Caton Jun' is a male 20-30 (C208)? | Request the loose original 6 Dec 1828 consent or a direct image from the Fauquier County Circuit Court Clerk Records Room (G045); compare the suffix, signatures, witness lines, and handwriting with the typescript. |
-| D-014 | provisional | identity_check | Identity and kinship route of Joseph Caton’s unnamed niece, Mrs. Sawtell (1898) | Retrieve the Sue and Clint Dumm 1932 pages or another explicit descendant record naming Joseph’s siblings or niece. |
-| D-015 | open | identity_check | Joseph Caton’s reported Virginia birthplace, 1910 obituaries | Use the 1932 Sue Caton Dumm pages or a primary birth/migration record to identify Joseph’s parents and origin. |
+| D-014 | provisional | identity_check | Identity and kinship route of Joseph Caton’s unnamed niece, Mrs. Sawtell (1898) | The Dumm forms and supplied biography were reviewed and did not state the kinship path. Require another explicit record naming Joseph's sibling or the Sawtell relationship; do not repeat the Dumm request. |
+| D-015 | open | identity_check | Joseph Caton’s reported Virginia birthplace, 1910 obituaries | The Dumm forms and supplied biography add only broad Virginia origin. Require a primary birth, migration, military, estate, or family record that names Joseph's county or parents. |
 | D-016 | open | identity_check | Whether the 1850 Boonville Thomas Caton, age 77, is the proposed Fauquier elder | Read Cooper County Index to Deeds and Mortgages volume 1, Missouri State Archives reel C1947, under C/K/M, then follow every Thomas or Maddex locator in Books P-Z, reels C1956-C1961 (G044). |
 | D-017 | open | discrepancy | Filing date of Aaron Caten invalid pension application 233783 | Retrieve expected Soldiers' Original SO 233783 from RG 15, NAID 563386, through on-site research or NARA's complete-file NATF 85D order; inspect jacket and receipt stamps (G036). |
