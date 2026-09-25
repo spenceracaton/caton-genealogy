@@ -10,6 +10,7 @@ as `source_sha256` (an import that normalized whitespace). Deliberate exclusions
 IGNORE with a reason. Exit status 1 means something is unpreserved; 0 means clean."""
 import hashlib
 import json
+import os
 import pathlib
 import subprocess
 import sys
@@ -46,9 +47,15 @@ def report(section, lines):
     problems.extend(lines)
 
 
-fetch = subprocess.run(["git", "fetch", "--quiet", "origin"], cwd=ROOT, capture_output=True, text=True)
-if fetch.returncode:
-    print(f"warning: git fetch failed, comparing against a stale {BASE}: {fetch.stderr.strip()}")
+# A stalled network fetch once hung an unattended run for 10+ minutes; never block on it.
+fetch_env = {**os.environ, "GIT_TERMINAL_PROMPT": "0", "GIT_HTTP_LOW_SPEED_LIMIT": "1000", "GIT_HTTP_LOW_SPEED_TIME": "30"}
+try:
+    fetch = subprocess.run(["git", "fetch", "--quiet", "origin"], cwd=ROOT, capture_output=True, text=True,
+                           env=fetch_env, timeout=90)
+    if fetch.returncode:
+        print(f"warning: git fetch failed, comparing against a stale {BASE}: {fetch.stderr.strip()}")
+except subprocess.TimeoutExpired:
+    print(f"warning: git fetch timed out after 90 s, comparing against a stale {BASE}")
 
 known = {line.split()[0] for line in git("rev-list", "--objects", BASE).splitlines()}
 
